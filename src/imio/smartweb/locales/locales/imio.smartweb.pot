@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-01 12:43+0000\n"
+"POT-Creation-Date: 2021-03-01 12:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,3 +16,220 @@ msgstr ""
 "Language-Name: English\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: imio.smartweb\n"
+
+#: imio/portletpage/portlets/collection/portlet.py:77
+msgid "Add Collection Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:184
+msgid "Add Link Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/selection/portlet.py:59
+msgid "Add Selection Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/text/portlet.py:47
+msgid "Add Text Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:48
+#: imio/portletpage/portlets/link/portlet.py:155
+#: imio/portletpage/portlets/selection/portlet.py:38
+msgid "CSS Classes"
+msgstr ""
+
+#: imio/portletpage/portlets/text/portlet.py:28
+msgid "CSS Classes to personalise portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:49
+#: imio/portletpage/portlets/link/portlet.py:156
+#: imio/portletpage/portlets/selection/portlet.py:39
+msgid "CSS Classes to personnalize the portlet style"
+msgstr ""
+
+#: imio/portletpage/portlets/templates/carousel.py:18
+msgid "Carousel"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/procedure.py:22
+msgid "E-Guichet procedure"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:85
+msgid "Edit Collection Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:192
+msgid "Edit Link Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/selection/portlet.py:67
+msgid "Edit Selection Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/text/portlet.py:55
+msgid "Edit Text Portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:101
+msgid "External URL"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:29
+msgid "Find the collection which provides the items to list"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Folder.xml
+msgid "Folder"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Folder.xml
+msgid "Folder content type to structure website"
+msgstr ""
+
+#: imio/portletpage/portlets/templates/grid.py:18
+msgid "Grid"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:106
+msgid "Icon"
+msgstr ""
+
+#: imio/smartweb/core/configure.zcml:39
+msgid "Installs imio.smartweb.core.testing profile."
+msgstr ""
+
+#: imio/smartweb/core/configure.zcml:31
+msgid "Installs the imio.smartweb.core add-on."
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:27
+msgid "Installs the imio.smartweb.policy add-on."
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:96
+msgid "Internal URL"
+msgstr ""
+
+#: imio/portletpage/portlets/selection/portlet.py:24
+msgid "Items"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:35
+msgid "Limit"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:164
+msgid "Link"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:161
+msgid "Links"
+msgstr ""
+
+#: imio/portletpage/portlets/templates/list.py:18
+msgid "List"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:162
+msgid "List of links"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/procedure.py:35
+msgid "Only one procedure field can be filled !"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
+msgid "Page"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
+msgid "Procedure"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/procedure.py:32
+msgid "Procedure field is required !"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/procedure.py:27
+msgid "Procedure url"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:22
+msgid "Secret key"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:23
+msgid "Secret key to use API"
+msgstr ""
+
+#: imio/portletpage/portlets/selection/portlet.py:25
+msgid "Select the items of you portlet"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:36
+msgid "Specify the maximum number of items to show in the portlet."
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
+msgid "Standard Page content type to print informations"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:28
+msgid "Target collection"
+msgstr ""
+
+#: imio/portletpage/portlets/collection/portlet.py:41
+#: imio/portletpage/portlets/link/portlet.py:148
+#: imio/portletpage/portlets/selection/portlet.py:31
+msgid "Template"
+msgstr ""
+
+#: imio/portletpage/portlets/text/portlet.py:23
+msgid "Text"
+msgstr ""
+
+#: imio/portletpage/portlets/text/portlet.py:23
+msgid "The text to render"
+msgstr ""
+
+#: imio/portletpage/contents/portletpage/content.py:19
+#: imio/portletpage/portlets/collection/portlet.py:20
+#: imio/portletpage/portlets/link/portlet.py:91
+msgid "Title"
+msgstr ""
+
+#: imio/smartweb/core/configure.zcml:48
+msgid "Uninstalls the imio.smartweb.core add-on."
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:36
+msgid "Uninstalls the imio.smartweb.policy add-on."
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:14
+msgid "Url to get forms from your e-guichet"
+msgstr ""
+
+#: imio/smartweb/core/configure.zcml:31
+msgid "imio.smartweb.core"
+msgstr ""
+
+#: imio/smartweb/core/configure.zcml:48
+msgid "imio.smartweb.core (uninstall)"
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:27
+msgid "imio.smartweb.policy"
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:36
+msgid "imio.smartweb.policy (uninstall)"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:15
+msgid "url to get forms from your e-guichet. 
+ (Seems like : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/)"
+msgstr ""
