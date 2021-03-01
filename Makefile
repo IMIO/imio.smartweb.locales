@@ -1,18 +1,18 @@
 #!/usr/bin/make
-.PHONY: buildout update_translations cleanall
+.PHONY: update_translations cleanall
 
 all: update_translations
-
-bin/buildout: bin/pip buildout.cfg
-	bin/pip install -I -r requirements.txt
-
-buildout: bin/buildout
-	bin/buildout
 
 bin/pip:
 	python3 -m venv .
 
-update_translations: bin/buildout
+bin/buildout: bin/pip buildout.cfg
+	bin/pip install -I -r requirements.txt
+
+bin/i18ndude: bin/buildout
+	bin/buildout
+
+update_translations: bin/i18ndude
 	bin/develop up -v
 	./update.sh
 
