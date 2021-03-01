@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-03-01 12:49+0000\n"
+"POT-Creation-Date: 2021-03-01 15:02+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,11 +16,15 @@ msgstr ""
 "Language: fr\n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#: imio/portletpage/profiles/default/types/PortletPage.xml
+msgid "A portlet content type for homepage."
+msgstr ""
+
 #: imio/portletpage/portlets/collection/portlet.py:77
 msgid "Add Collection Portlet"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:184
+#: imio/portletpage/portlets/link/portlet.py:167
 msgid "Add Link Portlet"
 msgstr ""
 
@@ -28,28 +32,36 @@ msgstr ""
 msgid "Add Selection Portlet"
 msgstr ""
 
-#: imio/portletpage/portlets/text/portlet.py:47
+#: imio/portletpage/portlets/text/portlet.py:45
 msgid "Add Text Portlet"
 msgstr ""
 
+#: imio/events/core/profiles/default/types/imio.events.Agenda.xml
+msgid "Agenda"
+msgstr ""
+
 #: imio/portletpage/portlets/collection/portlet.py:48
-#: imio/portletpage/portlets/link/portlet.py:155
+#: imio/portletpage/portlets/link/portlet.py:139
 #: imio/portletpage/portlets/selection/portlet.py:38
 msgid "CSS Classes"
 msgstr ""
 
-#: imio/portletpage/portlets/text/portlet.py:28
+#: imio/portletpage/portlets/text/portlet.py:26
 msgid "CSS Classes to personalise portlet"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:49
-#: imio/portletpage/portlets/link/portlet.py:156
+#: imio/portletpage/portlets/link/portlet.py:140
 #: imio/portletpage/portlets/selection/portlet.py:39
 msgid "CSS Classes to personnalize the portlet style"
 msgstr ""
 
 #: imio/portletpage/portlets/templates/carousel.py:18
 msgid "Carousel"
+msgstr ""
+
+#: imio/events/core/behaviors/topics.py:14
+msgid "Categorization"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/procedure.py:22
@@ -60,7 +72,7 @@ msgstr ""
 msgid "Edit Collection Portlet"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:192
+#: imio/portletpage/portlets/link/portlet.py:175
 msgid "Edit Link Portlet"
 msgstr ""
 
@@ -68,11 +80,19 @@ msgstr ""
 msgid "Edit Selection Portlet"
 msgstr ""
 
-#: imio/portletpage/portlets/text/portlet.py:55
+#: imio/portletpage/portlets/text/portlet.py:53
 msgid "Edit Text Portlet"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:101
+#: imio/events/core/profiles/default/types/imio.events.Agenda.xml
+msgid "Entity agenda folderish content type"
+msgstr ""
+
+#: imio/events/core/profiles/default/types/imio.events.Event.xml
+msgid "Event"
+msgstr ""
+
+#: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
 msgstr ""
 
@@ -80,19 +100,25 @@ msgstr ""
 msgid "Find the collection which provides the items to list"
 msgstr ""
 
+#: imio/events/core/profiles/default/types/imio.events.Folder.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Folder.xml
 msgid "Folder"
 msgstr ""
 
+#: imio/events/core/profiles/default/types/imio.events.Folder.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Folder.xml
 msgid "Folder content type to structure website"
+msgstr ""
+
+#: imio/events/core/profiles/default/types/imio.events.Event.xml
+msgid "Folderish event content type"
 msgstr ""
 
 #: imio/portletpage/portlets/templates/grid.py:18
 msgid "Grid"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:106
+#: imio/portletpage/portlets/link/portlet.py:95
 msgid "Icon"
 msgstr ""
 
@@ -100,15 +126,23 @@ msgstr ""
 msgid "Installs imio.smartweb.core.testing profile."
 msgstr ""
 
+#: imio/events/core/configure.zcml:32
+msgid "Installs the imio.events.core add-on."
+msgstr ""
+
+#: imio/portletpage/configure.zcml:29
+msgid "Installs the imio.portletpage add-on."
+msgstr ""
+
 #: imio/smartweb/core/configure.zcml:31
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:27
+#: imio/smartweb/policy/configure.zcml:24
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:96
+#: imio/portletpage/portlets/link/portlet.py:91
 msgid "Internal URL"
 msgstr ""
 
@@ -120,11 +154,11 @@ msgstr ""
 msgid "Limit"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:164
+#: imio/portletpage/portlets/link/portlet.py:148
 msgid "Link"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:161
+#: imio/portletpage/portlets/link/portlet.py:145
 msgid "Links"
 msgstr ""
 
@@ -132,7 +166,7 @@ msgstr ""
 msgid "List"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:162
+#: imio/portletpage/portlets/link/portlet.py:146
 msgid "List of links"
 msgstr ""
 
@@ -140,8 +174,13 @@ msgstr ""
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
+#: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
+msgstr ""
+
+#: imio/portletpage/profiles/default/types/PortletPage.xml
+msgid "PortletPage"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
@@ -168,10 +207,15 @@ msgstr ""
 msgid "Select the items of you portlet"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel.py:31
+msgid "Smartweb Settings"
+msgstr ""
+
 #: imio/portletpage/portlets/collection/portlet.py:36
 msgid "Specify the maximum number of items to show in the portlet."
 msgstr ""
 
+#: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Standard Page content type to print informations"
 msgstr ""
@@ -181,35 +225,64 @@ msgid "Target collection"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:41
-#: imio/portletpage/portlets/link/portlet.py:148
+#: imio/portletpage/portlets/link/portlet.py:132
 #: imio/portletpage/portlets/selection/portlet.py:31
 msgid "Template"
 msgstr ""
 
-#: imio/portletpage/portlets/text/portlet.py:23
+#: imio/portletpage/portlets/text/portlet.py:21
 msgid "Text"
 msgstr ""
 
-#: imio/portletpage/portlets/text/portlet.py:23
+#: imio/portletpage/portlets/text/portlet.py:21
 msgid "The text to render"
 msgstr ""
 
-#: imio/portletpage/contents/portletpage/content.py:19
+#: imio/portletpage/contents/portletpage/content.py:18
 #: imio/portletpage/portlets/collection/portlet.py:20
-#: imio/portletpage/portlets/link/portlet.py:91
+#: imio/portletpage/portlets/link/portlet.py:89
 msgid "Title"
+msgstr ""
+
+#: imio/events/core/behaviors/topics.py:16
+#: imio/events/core/setuphandlers.py:31
+msgid "Topics"
+msgstr ""
+
+#: imio/events/core/configure.zcml:41
+msgid "Uninstalls the imio.events.core add-on."
+msgstr ""
+
+#: imio/portletpage/configure.zcml:38
+msgid "Uninstalls the imio.portletpage add-on."
 msgstr ""
 
 #: imio/smartweb/core/configure.zcml:48
 msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:36
+#: imio/smartweb/policy/configure.zcml:33
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:14
 msgid "Url to get forms from your e-guichet"
+msgstr ""
+
+#: imio/events/core/configure.zcml:32
+msgid "imio.events.core"
+msgstr ""
+
+#: imio/events/core/configure.zcml:41
+msgid "imio.events.core (uninstall)"
+msgstr ""
+
+#: imio/portletpage/configure.zcml:29
+msgid "imio.portletpage"
+msgstr ""
+
+#: imio/portletpage/configure.zcml:38
+msgid "imio.portletpage (uninstall)"
 msgstr ""
 
 #: imio/smartweb/core/configure.zcml:31
@@ -220,10 +293,15 @@ msgstr ""
 msgid "imio.smartweb.core (uninstall)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:27
+#: imio/smartweb/policy/configure.zcml:24
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:36
+#: imio/smartweb/policy/configure.zcml:33
 msgid "imio.smartweb.policy (uninstall)"
+msgstr ""
+
+#. Default: "More…"
+#: imio/portletpage/portlets/templates/list.pt:25
+msgid "more_url"
 msgstr ""
