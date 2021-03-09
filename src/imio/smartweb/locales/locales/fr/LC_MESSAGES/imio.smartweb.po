@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-03-01 15:17+0000\n"
+"POT-Creation-Date: 2021-03-09 12:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,9 +36,33 @@ msgstr "Ajouter une portlet de sélection"
 msgid "Add Text Portlet"
 msgstr "Ajouter une portlet de texte"
 
+#: imio/smartweb/core/behaviors/configure.zcml:29
+msgid "Add a select box (ia.ts only) or an uri to set a link to an e-guichet."
+msgstr "Ajoute une boîte de sélection (pour les guichets imio uniquement) ou un champs de texte pour encoder un lien vers un autre e-guichet."
+
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:36
+msgid "Allow to choose if this element must be placed in quick access."
+msgstr "Choisir si cet élément doit être placé dans les accès rapide"
+
+#: imio/smartweb/core/behaviors/configure.zcml:13
+msgid "Allow to choose if this element must excluded from parent listing views."
+msgstr "Choisir si cet élément doit être exclu de la vue listing de son parent."
+
+#: imio/smartweb/core/behaviors/configure.zcml:21
+msgid "Allow to choose which sections will be shown."
+msgstr "Choisir les sections visibles."
+
+#: imio/smartweb/core/contents/folder/configure.zcml:43
+msgid "Block view"
+msgstr "Vue \"block\""
+
+#: imio/smartweb/core/vocabularies.py:17
+msgid "Body text"
+msgstr "Texte"
 
 #: imio/portletpage/portlets/collection/portlet.py:48
 #: imio/portletpage/portlets/link/portlet.py:139
@@ -64,7 +88,23 @@ msgstr "Carouselle"
 msgid "Categorization"
 msgstr "Catégorisation"
 
-#: imio/smartweb/core/behaviors/procedure.py:22
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Click to disable subsite on this context."
+msgstr "Désactiver le mode sous-site."
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Click to enable subsite on this context."
+msgstr "Activer le mode sous-site."
+
+#: imio/smartweb/core/vocabularies.py:16
+msgid "Description"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Disable subsite"
+msgstr "Désactiver le mode sous-site"
+
+#: imio/smartweb/core/behaviors/procedure.py:18
 msgid "E-Guichet procedure"
 msgstr "Démarche E-Guichet"
 
@@ -84,17 +124,29 @@ msgstr "Éditer la portlet de sélection"
 msgid "Edit Text Portlet"
 msgstr "Éditer la portlet de texte"
 
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Enable subsite"
+msgstr "Activer le mode sous-site"
+
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Entity agenda folderish content type"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Event.xml
 msgid "Event"
-msgstr "Évènement"
+msgstr "Événement"
+
+#: imio/smartweb/core/behaviors/listing.py:19
+msgid "Exclude from parent listing"
+msgstr "Exclure lors de l'affichage listing du parent"
 
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
 msgstr "URL externe"
+
+#: imio/smartweb/core/vocabularies.py:20
+msgid "Files"
+msgstr "Fichiers"
 
 #: imio/portletpage/portlets/collection/portlet.py:29
 msgid "Find the collection which provides the items to list"
@@ -122,9 +174,21 @@ msgstr "Grille"
 msgid "Icon"
 msgstr "Icône"
 
-#: imio/smartweb/core/configure.zcml:39
-msgid "Installs imio.smartweb.core.testing profile."
-msgstr ""
+#: imio/smartweb/core/behaviors/quickaccess.py:20
+msgid "If selected, this item will appear in quick access menu"
+msgstr "Si vous cochez cette option, cet élément apparaîtra dans le menu des accès rapides."
+
+#: imio/smartweb/core/behaviors/listing.py:20
+msgid "If selected, this item will not appear in parent listing views"
+msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans la vue listing de son parent."
+
+#: imio/smartweb/core/vocabularies.py:19
+msgid "Images thumbnails"
+msgstr "Vignettes images"
+
+#: imio/smartweb/core/behaviors/quickaccess.py:19
+msgid "Include in quick access menu"
+msgstr "Présent dans le menu des accès rapide"
 
 #: imio/events/core/configure.zcml:32
 msgid "Installs the imio.events.core add-on."
@@ -132,10 +196,6 @@ msgstr ""
 
 #: imio/portletpage/configure.zcml:29
 msgid "Installs the imio.portletpage add-on."
-msgstr ""
-
-#: imio/smartweb/core/configure.zcml:31
-msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:24
@@ -149,6 +209,10 @@ msgstr "URL interne"
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
 msgstr "Élements"
+
+#: imio/smartweb/core/vocabularies.py:18
+msgid "Lead Image"
+msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:35
 msgid "Limit"
@@ -170,13 +234,25 @@ msgstr "Liste"
 msgid "List of links"
 msgstr "Liste de liens"
 
-#: imio/smartweb/core/behaviors/procedure.py:35
+#: imio/smartweb/core/contents/folder/configure.zcml:31
+msgid "One page view"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/procedure.py:31
 msgid "Only one procedure field can be filled !"
 msgstr "un seul champs \"démarche\" peut être rempli !"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:21
+msgid "Page sections"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:13
+msgid "Parent listing"
 msgstr ""
 
 #: imio/portletpage/profiles/default/types/PortletPage.xml
@@ -187,13 +263,17 @@ msgstr ""
 msgid "Procedure"
 msgstr "Démarche"
 
-#: imio/smartweb/core/behaviors/procedure.py:32
+#: imio/smartweb/core/behaviors/procedure.py:28
 msgid "Procedure field is required !"
 msgstr "Le champs \"Démarche\" est obligatoire !"
 
-#: imio/smartweb/core/behaviors/procedure.py:27
+#: imio/smartweb/core/behaviors/procedure.py:23
 msgid "Procedure url"
 msgstr "Lien vers l'api de récupération des démarches"
+
+#: imio/smartweb/core/behaviors/configure.zcml:36
+msgid "Quick access"
+msgstr "Accès rapide"
 
 #: imio/smartweb/core/browser/controlpanel.py:22
 msgid "Secret key"
@@ -202,6 +282,10 @@ msgstr "Clé secrète"
 #: imio/smartweb/core/browser/controlpanel.py:23
 msgid "Secret key to use API"
 msgstr "Clé secrète pour utiliser l'api"
+
+#: imio/smartweb/core/behaviors/page.py:24
+msgid "Sections that will be displayed in page and listing view"
+msgstr "Sections qui apparaîtront dans la page et dans la vue \"liste\""
 
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
@@ -220,9 +304,29 @@ msgstr "Spécifier le nombre maximum d'éléments à voir dans la portlet"
 msgid "Standard Page content type to print informations"
 msgstr "Page standard pour afficher de l'information"
 
+#: imio/smartweb/core/contents/folder/configure.zcml:19
+msgid "Standard view"
+msgstr "Vue standard"
+
+#: imio/smartweb/core/browser/subsite/settings.py:28
+msgid "Subsite has been disabled"
+msgstr "Le mode sous-site a été désactivé."
+
+#: imio/smartweb/core/browser/subsite/settings.py:20
+msgid "Subsite has been successfully activated"
+msgstr "Le mode sous-site a été activé avec succès"
+
+#: imio/smartweb/core/contents/folder/configure.zcml:25
+msgid "Summary view"
+msgstr "Vue résumée"
+
 #: imio/portletpage/portlets/collection/portlet.py:28
 msgid "Target collection"
 msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:29
+msgid "Teleservices procedures"
+msgstr "Démarches en ligne"
 
 #: imio/portletpage/portlets/collection/portlet.py:41
 #: imio/portletpage/portlets/link/portlet.py:132
@@ -257,10 +361,6 @@ msgstr ""
 msgid "Uninstalls the imio.portletpage add-on."
 msgstr ""
 
-#: imio/smartweb/core/configure.zcml:48
-msgid "Uninstalls the imio.smartweb.core add-on."
-msgstr ""
-
 #: imio/smartweb/policy/configure.zcml:33
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
@@ -268,6 +368,10 @@ msgstr ""
 #: imio/smartweb/core/browser/controlpanel.py:14
 msgid "Url to get forms from your e-guichet"
 msgstr "Url de récupération des démarches de votre e-guichet"
+
+#: imio/smartweb/core/behaviors/page.py:23
+msgid "Visible sections"
+msgstr "Sections visibles"
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"
@@ -283,14 +387,6 @@ msgstr ""
 
 #: imio/portletpage/configure.zcml:38
 msgid "imio.portletpage (uninstall)"
-msgstr ""
-
-#: imio/smartweb/core/configure.zcml:31
-msgid "imio.smartweb.core"
-msgstr ""
-
-#: imio/smartweb/core/configure.zcml:48
-msgid "imio.smartweb.core (uninstall)"
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:24
