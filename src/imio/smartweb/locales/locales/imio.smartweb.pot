@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-09 12:52+0000\n"
+"POT-Creation-Date: 2021-03-25 09:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,15 +37,11 @@ msgstr ""
 msgid "Add Text Portlet"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:29
-msgid "Add a select box (ia.ts only) or an uri to set a link to an e-guichet."
-msgstr ""
-
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:36
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to choose if this element must be placed in quick access."
 msgstr ""
 
@@ -53,16 +49,12 @@ msgstr ""
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:21
-msgid "Allow to choose which sections will be shown."
-msgstr ""
-
-#: imio/smartweb/core/contents/folder/configure.zcml:43
+#: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:17
-msgid "Body text"
+#: imio/smartweb/core/contents/folder/configure.zcml:43
+msgid "Block view with images"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:48
@@ -81,6 +73,10 @@ msgstr ""
 msgid "CSS Classes to personnalize the portlet style"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/base.py:16
+msgid "CSS class"
+msgstr ""
+
 #: imio/portletpage/portlets/templates/carousel.py:18
 msgid "Carousel"
 msgstr ""
@@ -97,15 +93,11 @@ msgstr ""
 msgid "Click to enable subsite on this context."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:16
-msgid "Description"
-msgstr ""
-
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable subsite"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/procedure.py:18
+#: imio/smartweb/core/contents/pages/procedure/content.py:20
 msgid "E-Guichet procedure"
 msgstr ""
 
@@ -123,6 +115,12 @@ msgstr ""
 
 #: imio/portletpage/portlets/text/portlet.py:53
 msgid "Edit Text Portlet"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/files/view.pt:16
+#: imio/smartweb/core/contents/sections/gallery/view.pt:16
+#: imio/smartweb/core/contents/sections/text/view.pt:16
+msgid "Edit section"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
@@ -145,8 +143,12 @@ msgstr ""
 msgid "External URL"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:20
-msgid "Files"
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
+msgid "Files section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
+msgid "Files section for a page"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:29
@@ -167,8 +169,20 @@ msgstr ""
 msgid "Folderish event content type"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
+msgid "Gallery section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
+msgid "Gallery section for a page"
+msgstr ""
+
 #: imio/portletpage/portlets/templates/grid.py:18
 msgid "Grid"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/base.py:14
+msgid "Hide title"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:95
@@ -181,10 +195,6 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
-msgstr ""
-
-#: imio/smartweb/core/vocabularies.py:19
-msgid "Images thumbnails"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/quickaccess.py:19
@@ -211,10 +221,6 @@ msgstr ""
 msgid "Items"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:18
-msgid "Lead Image"
-msgstr ""
-
 #: imio/portletpage/portlets/collection/portlet.py:35
 msgid "Limit"
 msgstr ""
@@ -235,21 +241,19 @@ msgstr ""
 msgid "List of links"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:31
-msgid "One page view"
+#: imio/smartweb/core/contents/sections/files/view.pt:20
+#: imio/smartweb/core/contents/sections/gallery/view.pt:20
+#: imio/smartweb/core/contents/sections/text/view.pt:20
+msgid "Manage section contents"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/procedure.py:31
+#: imio/smartweb/core/contents/pages/procedure/content.py:33
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
-msgstr ""
-
-#: imio/smartweb/core/behaviors/configure.zcml:21
-msgid "Page sections"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
@@ -264,16 +268,20 @@ msgstr ""
 msgid "Procedure"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/procedure.py:28
+#: imio/smartweb/core/contents/pages/procedure/content.py:30
 msgid "Procedure field is required !"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/procedure.py:23
+#: imio/smartweb/core/contents/pages/procedure/content.py:25
 msgid "Procedure url"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:36
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Quick access"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
+msgid "Rich text section for a page"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:22
@@ -282,10 +290,6 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:23
 msgid "Secret key to use API"
-msgstr ""
-
-#: imio/smartweb/core/behaviors/page.py:24
-msgid "Sections that will be displayed in page and listing view"
 msgstr ""
 
 #: imio/portletpage/portlets/selection/portlet.py:25
@@ -317,16 +321,16 @@ msgstr ""
 msgid "Subsite has been successfully activated"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:25
+#: imio/smartweb/core/contents/folder/configure.zcml:54
 msgid "Summary view"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/configure.zcml:65
+msgid "Summary view with images"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:28
 msgid "Target collection"
-msgstr ""
-
-#: imio/smartweb/core/behaviors/configure.zcml:29
-msgid "Teleservices procedures"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:41
@@ -337,6 +341,10 @@ msgstr ""
 
 #: imio/portletpage/portlets/text/portlet.py:21
 msgid "Text"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
+msgid "Text section"
 msgstr ""
 
 #: imio/portletpage/portlets/text/portlet.py:21
@@ -370,8 +378,20 @@ msgstr ""
 msgid "Url to get forms from your e-guichet"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/page.py:23
-msgid "Visible sections"
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
+msgid "Video section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
+msgid "Video section for a page"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/video/content.py:14
+msgid "Video url"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/video/content.py:15
+msgid "Video url from youtube, vimeo"
 msgstr ""
 
 #: imio/events/core/configure.zcml:32
