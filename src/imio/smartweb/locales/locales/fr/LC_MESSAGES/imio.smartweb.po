@@ -46,11 +46,11 @@ msgstr "Choisir si cet élément doit être placé dans les accès rapide"
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose if this element must excluded from parent listing views."
-msgstr "Choisir si cet élément doit être exclu de la vue listing de son parent."
+msgstr "Choisir si cet élément doit être exclu de l'aff listing de son parent."
 
 #: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
-msgstr "Vue \"block\""
+msgstr "Affichage \"block\""
 
 #: imio/smartweb/core/contents/folder/configure.zcml:43
 msgid "Block view with images"
@@ -194,7 +194,7 @@ msgstr "Si vous cochez cette option, cet élément apparaîtra dans le menu des 
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
-msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans la vue listing de son parent."
+msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
 #: imio/smartweb/core/behaviors/quickaccess.py:19
 msgid "Include in quick access menu"
@@ -310,7 +310,7 @@ msgstr "Page standard pour afficher de l'information"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:19
 msgid "Standard view"
-msgstr "Vue standard"
+msgstr "Affichage standard"
 
 #: imio/smartweb/core/browser/subsite/settings.py:28
 msgid "Subsite has been disabled"
@@ -322,7 +322,7 @@ msgstr "Le mode sous-site a été activé avec succès"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:54
 msgid "Summary view"
-msgstr "Vue résumée"
+msgstr "Affichage résumé"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:65
 msgid "Summary view with images"
