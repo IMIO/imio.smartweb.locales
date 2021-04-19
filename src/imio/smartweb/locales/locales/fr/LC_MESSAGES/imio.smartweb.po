@@ -42,7 +42,7 @@ msgstr "Ajouter un pied de page"
 
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Add subsite properties/fields"
-msgstr "Behavior : Add some fields and properties on subsite"
+msgstr "Ajoute les champs de propriétés d'un sous-site"
 
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
@@ -50,11 +50,11 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to choose if this element must be placed in quick access."
-msgstr "Choisir si cet élément doit être placé dans les accès rapide"
+msgstr "Choisir si cet élément doit être placé dans les accès rapides."
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose if this element must excluded from parent listing views."
-msgstr "Choisir si cet élément doit être exclu de l'aff listing de son parent."
+msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son parent."
 
 #: imio/smartweb/core/contents/folder/views.py:116
 msgid "Apply"
@@ -66,7 +66,7 @@ msgstr "Bannière"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
-msgstr "Affichage \"block\""
+msgstr "Affichage blocs"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:43
 msgid "Block view with images"
@@ -74,7 +74,7 @@ msgstr "Affichage blocs avec images"
 
 #: imio/smartweb/core/contents/sections/base.py:28
 msgid "Bootstrap CSS class"
-msgstr "Class Bootstrap"
+msgstr "Classe Bootstrap"
 
 #: imio/portletpage/portlets/collection/portlet.py:48
 #: imio/portletpage/portlets/link/portlet.py:139
@@ -95,15 +95,15 @@ msgstr "Classes CSS pour personnaliser la portlet"
 #: imio/smartweb/core/contents/pages/footer/content.py:25
 #: imio/smartweb/core/contents/sections/base.py:33
 msgid "CSS class"
-msgstr "Class CSS"
+msgstr "Classe CSS"
 
 #: imio/portletpage/portlets/templates/carousel.py:18
 msgid "Carousel"
-msgstr "Carouselle"
+msgstr "Carrousel"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
 msgid "Carousel view"
-msgstr "Affichage carousel"
+msgstr "Affichage carrousel"
 
 #: imio/events/core/behaviors/topics.py:14
 msgid "Categorization"
@@ -208,7 +208,7 @@ msgstr "Événement"
 
 #: imio/smartweb/core/behaviors/listing.py:19
 msgid "Exclude from parent listing"
-msgstr "Exclure lors de l'affichage listing du parent"
+msgstr "Exclure dans l'affichage listing du parent"
 
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
@@ -307,7 +307,7 @@ msgstr "Échelle de l'image"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:19
 msgid "Include in quick access menu"
-msgstr "Présent dans le menu des accès rapide"
+msgstr "Présent dans le menu des accès rapides"
 
 #: imio/events/core/configure.zcml:32
 msgid "Installs the imio.events.core add-on."
@@ -400,7 +400,7 @@ msgstr "En un clic"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:38
 msgid "Only one procedure field can be filled !"
-msgstr "un seul champs \"démarche\" peut être rempli !"
+msgstr "Un seul champ \"démarche\" peut être rempli !"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -410,7 +410,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Parent listing"
-msgstr ""
+msgstr "Listing du parent"
 
 #: imio/portletpage/profiles/default/types/PortletPage.xml
 msgid "PortletPage"
@@ -439,7 +439,7 @@ msgstr "Clé secrète"
 
 #: imio/smartweb/core/browser/controlpanel.py:23
 msgid "Secret key to use API"
-msgstr "Clé secrète pour utiliser l'api"
+msgstr "Clé secrète pour utiliser l'API"
 
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
@@ -448,7 +448,7 @@ msgstr ""
 #: imio/smartweb/core/contents/sections/links/carousel.pt:25
 #: imio/smartweb/core/contents/sections/links/table.pt:26
 msgid "Select view"
-msgstr ""
+msgstr "Affichage"
 
 #: imio/smartweb/core/contents/folder/content.py:22
 msgid "Set Default page"
@@ -490,7 +490,7 @@ msgstr "Le mode sous-site a été activé avec succès"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:63
 msgid "Summary view"
-msgstr "Affichage résumé"
+msgstr "Affichage liste"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:74
 msgid "Summary view with images"
