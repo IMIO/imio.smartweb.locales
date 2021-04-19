@@ -570,6 +570,10 @@ msgstr ""
 msgid "Video url from youtube, vimeo"
 msgstr ""
 
+#: imio/smartweb/core/contents/folder/element_view.pt:6
+msgid "Your current folder default view is"
+msgstr ""
+
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"
 msgstr ""

@@ -5,6 +5,9 @@ Changelog
 1.0a2 (unreleased)
 ------------------
 
+- Add missing translation
+  [laulaz]
+
 - Fix translations
   [laulaz]
 
