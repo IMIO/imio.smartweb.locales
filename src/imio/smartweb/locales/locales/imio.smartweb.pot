@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-03-25 09:21+0000\n"
+"POT-Creation-Date: 2021-04-19 08:53+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,6 +37,14 @@ msgstr ""
 msgid "Add Text Portlet"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Add footer"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:28
+msgid "Add subsite properties/fields"
+msgstr ""
+
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr ""
@@ -49,12 +57,24 @@ msgstr ""
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr ""
 
+#: imio/smartweb/core/contents/folder/views.py:116
+msgid "Apply"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/subsite.py:24
+msgid "Banner"
+msgstr ""
+
 #: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
 msgstr ""
 
 #: imio/smartweb/core/contents/folder/configure.zcml:43
 msgid "Block view with images"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/base.py:28
+msgid "Bootstrap CSS class"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:48
@@ -73,7 +93,8 @@ msgstr ""
 msgid "CSS Classes to personnalize the portlet style"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/base.py:16
+#: imio/smartweb/core/contents/pages/footer/content.py:25
+#: imio/smartweb/core/contents/sections/base.py:33
 msgid "CSS class"
 msgstr ""
 
@@ -81,8 +102,29 @@ msgstr ""
 msgid "Carousel"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/links/configure.zcml:26
+msgid "Carousel view"
+msgstr ""
+
 #: imio/events/core/behaviors/topics.py:14
 msgid "Categorization"
+msgstr ""
+
+#: imio/smartweb/core/contents/pages/page/content.py:15
+#: imio/smartweb/core/contents/pages/procedure/content.py:27
+msgid "Category"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/content.py:23
+msgid "Choose an item as your default folder view"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/subsite.py:37
+msgid "Choose your display mode"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Click to add footer on this context."
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
@@ -93,8 +135,30 @@ msgstr ""
 msgid "Click to enable subsite on this context."
 msgstr ""
 
+#: imio/smartweb/core/behaviors/subsite.py:25
+msgid "Define a banner for subsite and children"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/subsite.py:31
+msgid "Define a logo for subsite and children"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/subsite.py:45
+msgid "Define number of levels in menu navigation subsite"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/files/view.pt:22
+#: imio/smartweb/core/contents/sections/gallery/view.pt:22
+#: imio/smartweb/core/contents/sections/links/carousel.pt:22
+msgid "Delete section"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable subsite"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "E-Guichet"
 msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:20
@@ -119,8 +183,16 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/files/view.pt:16
 #: imio/smartweb/core/contents/sections/gallery/view.pt:16
-#: imio/smartweb/core/contents/sections/text/view.pt:16
+#: imio/smartweb/core/contents/sections/links/carousel.pt:16
 msgid "Edit section"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/configure.zcml:52
+msgid "Element view"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/views.py:88
+msgid "Element view form"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
@@ -141,6 +213,10 @@ msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Facebook"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
@@ -169,6 +245,26 @@ msgstr ""
 msgid "Folderish event content type"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Footer.xml
+msgid "Footer"
+msgstr ""
+
+#: imio/smartweb/core/browser/footer/settings.py:19
+msgid "Footer cannot be added here"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.Footer.xml
+msgid "Footer content type"
+msgstr ""
+
+#: imio/smartweb/core/browser/footer/settings.py:43
+msgid "Footer has been successfully added"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:61
+msgid "Full width"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section"
 msgstr ""
@@ -181,8 +277,16 @@ msgstr ""
 msgid "Grid"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/base.py:14
+#: imio/smartweb/core/vocabularies.py:60
+msgid "Half of width"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/base.py:16
 msgid "Hide title"
+msgstr ""
+
+#: imio/smartweb/policy/utils.py:22
+msgid "I am"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:95
@@ -195,6 +299,11 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/gallery/content.py:16
+#: imio/smartweb/core/contents/sections/links/content.py:16
+msgid "Image scale"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/quickaccess.py:19
@@ -221,6 +330,12 @@ msgstr ""
 msgid "Items"
 msgstr ""
 
+#: imio/smartweb/core/behaviors/subsite.py:19
+#: imio/smartweb/core/contents/pages/footer/content.py:17
+#: imio/smartweb/core/contents/sections/base.py:20
+msgid "Layout"
+msgstr ""
+
 #: imio/portletpage/portlets/collection/portlet.py:35
 msgid "Limit"
 msgstr ""
@@ -229,8 +344,24 @@ msgstr ""
 msgid "Link"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Link to Facebook"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Link to your e-guichet"
+msgstr ""
+
 #: imio/portletpage/portlets/link/portlet.py:145
 msgid "Links"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
+msgid "Links section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
+msgid "Links section for a page"
 msgstr ""
 
 #: imio/portletpage/portlets/templates/list.py:18
@@ -241,18 +372,40 @@ msgstr ""
 msgid "List of links"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/files/view.pt:20
-#: imio/smartweb/core/contents/sections/gallery/view.pt:20
-#: imio/smartweb/core/contents/sections/text/view.pt:20
+#: imio/smartweb/core/behaviors/subsite.py:30
+#: imio/smartweb/core/vocabularies.py:74
+msgid "Logo"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:75
+msgid "Logo and title"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/subsite.py:36
+msgid "Logo display"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/files/view.pt:19
+#: imio/smartweb/core/contents/sections/gallery/view.pt:19
+#: imio/smartweb/core/contents/sections/links/carousel.pt:19
 msgid "Manage section contents"
 msgstr ""
 
-#: imio/smartweb/core/contents/pages/procedure/content.py:33
+#: imio/smartweb/core/behaviors/subsite.py:44
+msgid "Menu depth"
+msgstr ""
+
+#: imio/smartweb/policy/utils.py:27
+msgid "One click finding"
+msgstr ""
+
+#: imio/smartweb/core/contents/pages/procedure/content.py:38
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
+#: imio/smartweb/core/taxonomies/utils.py:53
 msgid "Page"
 msgstr ""
 
@@ -265,11 +418,8 @@ msgid "PortletPage"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
+#: imio/smartweb/core/taxonomies/utils.py:69
 msgid "Procedure"
-msgstr ""
-
-#: imio/smartweb/core/contents/pages/procedure/content.py:30
-msgid "Procedure field is required !"
 msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:25
@@ -296,6 +446,20 @@ msgstr ""
 msgid "Select the items of you portlet"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/links/carousel.pt:25
+#: imio/smartweb/core/contents/sections/links/table.pt:26
+msgid "Select view"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/content.py:22
+msgid "Set Default page"
+msgstr ""
+
+#: imio/smartweb/core/contents/pages/footer/content.py:20
+#: imio/smartweb/core/contents/sections/base.py:24
+msgid "Set a background image"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:31
 msgid "Smartweb Settings"
 msgstr ""
@@ -313,20 +477,28 @@ msgstr ""
 msgid "Standard view"
 msgstr ""
 
-#: imio/smartweb/core/browser/subsite/settings.py:28
+#: imio/smartweb/core/behaviors/configure.zcml:28
+msgid "Subsite"
+msgstr ""
+
+#: imio/smartweb/core/browser/subsite/settings.py:32
 msgid "Subsite has been disabled"
 msgstr ""
 
-#: imio/smartweb/core/browser/subsite/settings.py:20
+#: imio/smartweb/core/browser/subsite/settings.py:22
 msgid "Subsite has been successfully activated"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:54
+#: imio/smartweb/core/contents/folder/configure.zcml:63
 msgid "Summary view"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:65
+#: imio/smartweb/core/contents/folder/configure.zcml:74
 msgid "Summary view with images"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/links/configure.zcml:15
+msgid "Table view"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:28
@@ -349,6 +521,10 @@ msgstr ""
 
 #: imio/portletpage/portlets/text/portlet.py:21
 msgid "The text to render"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:59
+msgid "Third of width"
 msgstr ""
 
 #: imio/portletpage/contents/portletpage/content.py:18
