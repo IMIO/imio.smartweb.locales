@@ -29,11 +29,11 @@ Locales for iMio smartweb packages :
 Documentation
 -------------
 
-1. Make buildout::
+Make buildout::
 
   make buildout
 
-2. Update translations::
+Update translations::
 
   make update_translations
 
