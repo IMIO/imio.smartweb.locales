@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-04-21 11:34+0000\n"
+"POT-Creation-Date: 2021-04-21 14:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,6 +64,14 @@ msgstr "Appliquer"
 msgid "Banner"
 msgstr "Bannière"
 
+#: imio/smartweb/core/browser/banner/settings.py:21
+msgid "Banner is now again displayed from this item"
+msgstr ""
+
+#: imio/smartweb/core/browser/banner/settings.py:24
+msgid "Banner is now hidden from this item"
+msgstr ""
+
 #: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
 msgstr "Affichage blocs"
@@ -72,7 +80,7 @@ msgstr "Affichage blocs"
 msgid "Block view with images"
 msgstr "Affichage blocs avec images"
 
-#: imio/smartweb/core/contents/sections/base.py:31
+#: imio/smartweb/core/contents/sections/base.py:38
 msgid "Bootstrap CSS class"
 msgstr "Classe Bootstrap"
 
@@ -93,7 +101,7 @@ msgid "CSS Classes to personnalize the portlet style"
 msgstr "Classes CSS pour personnaliser la portlet"
 
 #: imio/smartweb/core/contents/pages/footer/content.py:27
-#: imio/smartweb/core/contents/sections/base.py:37
+#: imio/smartweb/core/contents/sections/base.py:44
 msgid "CSS class"
 msgstr "Classe CSS"
 
@@ -146,15 +154,19 @@ msgstr "Définir un logo pour ce sous-site (et ses pages enfants)"
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 
-#: imio/smartweb/core/contents/sections/files/view.pt:22
-#: imio/smartweb/core/contents/sections/gallery/view.pt:22
-#: imio/smartweb/core/contents/sections/links/carousel.pt:22
+#: imio/smartweb/core/contents/sections/files/view.pt:50
+#: imio/smartweb/core/contents/sections/gallery/view.pt:50
+#: imio/smartweb/core/contents/sections/links/carousel.pt:50
 msgid "Delete section"
 msgstr "Supprimer la section"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable subsite"
 msgstr "Désactiver le mode sous-site"
+
+#: imio/smartweb/core/viewlets/banner.pt:8
+msgid "Display banner from this item"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "E-Guichet"
@@ -180,9 +192,9 @@ msgstr "Éditer la portlet de sélection"
 msgid "Edit Text Portlet"
 msgstr "Éditer la portlet de texte"
 
-#: imio/smartweb/core/contents/sections/files/view.pt:16
-#: imio/smartweb/core/contents/sections/gallery/view.pt:16
-#: imio/smartweb/core/contents/sections/links/carousel.pt:16
+#: imio/smartweb/core/contents/sections/files/view.pt:44
+#: imio/smartweb/core/contents/sections/gallery/view.pt:44
+#: imio/smartweb/core/contents/sections/links/carousel.pt:44
 msgid "Edit section"
 msgstr "Modifier"
 
@@ -280,9 +292,19 @@ msgstr "Grille"
 msgid "Half of width"
 msgstr "Moitié de la page"
 
-#: imio/smartweb/core/contents/sections/base.py:16
+#: imio/smartweb/core/viewlets/banner.pt:11
+msgid "Hide banner from this item"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/base.py:17
+#: imio/smartweb/core/contents/sections/files/view.pt:29
+#: imio/smartweb/core/contents/sections/gallery/view.pt:29
 msgid "Hide title"
 msgstr "Cacher le titre"
+
+#: imio/smartweb/core/contents/sections/base.py:18
+msgid "Hide title for anonymous user. Title stays visible for the editor."
+msgstr ""
 
 #: imio/smartweb/policy/utils.py:30
 msgid "I am"
@@ -388,9 +410,9 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/files/view.pt:19
-#: imio/smartweb/core/contents/sections/gallery/view.pt:19
-#: imio/smartweb/core/contents/sections/links/carousel.pt:19
+#: imio/smartweb/core/contents/sections/files/view.pt:47
+#: imio/smartweb/core/contents/sections/gallery/view.pt:47
+#: imio/smartweb/core/contents/sections/links/carousel.pt:47
 msgid "Manage section contents"
 msgstr "Contenus"
 
@@ -445,12 +467,20 @@ msgstr "Clé secrète"
 msgid "Secret key to use API"
 msgstr "Clé secrète pour utiliser l'API"
 
+#: imio/smartweb/core/contents/sections/views.py:34
+msgid "Section title has been hidden"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/views.py:39
+msgid "Section title has been shown"
+msgstr ""
+
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/links/carousel.pt:25
-#: imio/smartweb/core/contents/sections/links/table.pt:26
+#: imio/smartweb/core/contents/sections/links/carousel.pt:53
+#: imio/smartweb/core/contents/sections/links/table.pt:53
 msgid "Select view"
 msgstr "Affichage"
 
@@ -459,9 +489,15 @@ msgid "Set Default page"
 msgstr "Définir la page par défaut"
 
 #: imio/smartweb/core/contents/pages/footer/content.py:22
-#: imio/smartweb/core/contents/sections/base.py:26
+#: imio/smartweb/core/contents/sections/base.py:33
 msgid "Set a background image"
 msgstr "Définir une image de fond"
+
+#: imio/smartweb/core/contents/sections/files/view.pt:37
+#: imio/smartweb/core/contents/sections/gallery/view.pt:37
+#: imio/smartweb/core/contents/sections/links/carousel.pt:37
+msgid "Show title"
+msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:31
 msgid "Smartweb Settings"
@@ -580,6 +616,13 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
 msgstr "L'élément vue par défaut du dossier est"
+
+#. Default: "last modified"
+#: imio/smartweb/core/contents/sections/files/view.pt:56
+#: imio/smartweb/core/contents/sections/gallery/view.pt:56
+#: imio/smartweb/core/contents/sections/links/carousel.pt:59
+msgid "box_last_modified"
+msgstr ""
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"
