@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-04-21 14:56+0000\n"
+"POT-Creation-Date: 2021-04-21 15:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -616,13 +616,6 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
 msgstr "L'élément vue par défaut du dossier est"
-
-#. Default: "last modified"
-#: imio/smartweb/core/contents/sections/files/view.pt:56
-#: imio/smartweb/core/contents/sections/gallery/view.pt:56
-#: imio/smartweb/core/contents/sections/links/carousel.pt:59
-msgid "box_last_modified"
-msgstr ""
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"
