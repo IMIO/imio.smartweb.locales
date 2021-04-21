@@ -8,7 +8,7 @@ Changelog
 - Add missing translations
   [laulaz]
 
-- Fix translations
+- Fix / update translations
   [laulaz]
 
 

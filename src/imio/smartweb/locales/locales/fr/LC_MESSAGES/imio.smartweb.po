@@ -162,7 +162,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:20
 msgid "E-Guichet procedure"
-msgstr "Démarche E-Guichet"
+msgstr "Lien vers la démarche dans l'e-guichet iMio"
 
 #: imio/portletpage/portlets/collection/portlet.py:85
 msgid "Edit Collection Portlet"
