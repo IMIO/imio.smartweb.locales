@@ -66,11 +66,11 @@ msgstr "Bannière"
 
 #: imio/smartweb/core/browser/banner/settings.py:21
 msgid "Banner is now again displayed from this item"
-msgstr ""
+msgstr "La bannière est à nouveau visible à partir de ce contenu"
 
 #: imio/smartweb/core/browser/banner/settings.py:24
 msgid "Banner is now hidden from this item"
-msgstr ""
+msgstr "La bannière est cachée à partir de ce contenu"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:32
 msgid "Block view"
@@ -166,7 +166,7 @@ msgstr "Désactiver le mode sous-site"
 
 #: imio/smartweb/core/viewlets/banner.pt:8
 msgid "Display banner from this item"
-msgstr ""
+msgstr "Afficher la bannière"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "E-Guichet"
@@ -294,7 +294,7 @@ msgstr "Moitié de la page"
 
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Hide banner from this item"
-msgstr ""
+msgstr "Cacher la bannière à partir de ce contenu"
 
 #: imio/smartweb/core/contents/sections/base.py:17
 #: imio/smartweb/core/contents/sections/files/view.pt:29
@@ -304,7 +304,7 @@ msgstr "Cacher le titre"
 
 #: imio/smartweb/core/contents/sections/base.py:18
 msgid "Hide title for anonymous user. Title stays visible for the editor."
-msgstr ""
+msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visible pour l'éditeur."
 
 #: imio/smartweb/policy/utils.py:30
 msgid "I am"
@@ -469,11 +469,11 @@ msgstr "Clé secrète pour utiliser l'API"
 
 #: imio/smartweb/core/contents/sections/views.py:34
 msgid "Section title has been hidden"
-msgstr ""
+msgstr "Le titre de la section a été caché (pour le visiteur)"
 
 #: imio/smartweb/core/contents/sections/views.py:39
 msgid "Section title has been shown"
-msgstr ""
+msgstr "Le titre de la section a été affiché"
 
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
