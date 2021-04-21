@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-04-19 08:53+0000\n"
+"POT-Creation-Date: 2021-04-21 11:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,7 +60,7 @@ msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son 
 msgid "Apply"
 msgstr "Appliquer"
 
-#: imio/smartweb/core/behaviors/subsite.py:24
+#: imio/smartweb/core/contents/folder/content.py:36
 msgid "Banner"
 msgstr "Bannière"
 
@@ -72,7 +72,7 @@ msgstr "Affichage blocs"
 msgid "Block view with images"
 msgstr "Affichage blocs avec images"
 
-#: imio/smartweb/core/contents/sections/base.py:28
+#: imio/smartweb/core/contents/sections/base.py:31
 msgid "Bootstrap CSS class"
 msgstr "Classe Bootstrap"
 
@@ -92,8 +92,8 @@ msgstr "Classes CSS pour personnaliser la portlet"
 msgid "CSS Classes to personnalize the portlet style"
 msgstr "Classes CSS pour personnaliser la portlet"
 
-#: imio/smartweb/core/contents/pages/footer/content.py:25
-#: imio/smartweb/core/contents/sections/base.py:33
+#: imio/smartweb/core/contents/pages/footer/content.py:27
+#: imio/smartweb/core/contents/sections/base.py:37
 msgid "CSS class"
 msgstr "Classe CSS"
 
@@ -109,16 +109,16 @@ msgstr "Affichage carrousel"
 msgid "Categorization"
 msgstr "Catégorisation"
 
-#: imio/smartweb/core/contents/pages/page/content.py:15
+#: imio/smartweb/core/contents/pages/page/content.py:14
 #: imio/smartweb/core/contents/pages/procedure/content.py:27
 msgid "Category"
 msgstr "Catégorie"
 
-#: imio/smartweb/core/contents/folder/content.py:23
+#: imio/smartweb/core/contents/folder/content.py:24
 msgid "Choose an item as your default folder view"
 msgstr "Choisissez un élément comme vue par défaut de votre dossier"
 
-#: imio/smartweb/core/behaviors/subsite.py:37
+#: imio/smartweb/core/behaviors/subsite.py:31
 msgid "Choose your display mode"
 msgstr "Choisissez votre mode d'affichage"
 
@@ -134,15 +134,15 @@ msgstr "Désactiver le mode sous-site."
 msgid "Click to enable subsite on this context."
 msgstr "Activer le mode sous-site."
 
-#: imio/smartweb/core/behaviors/subsite.py:25
-msgid "Define a banner for subsite and children"
-msgstr "Définir une bannière pour ce sous-site (et ses pages enfants)"
+#: imio/smartweb/core/contents/folder/content.py:37
+msgid "Define a banner for folder and children"
+msgstr ""
 
-#: imio/smartweb/core/behaviors/subsite.py:31
+#: imio/smartweb/core/behaviors/subsite.py:25
 msgid "Define a logo for subsite and children"
 msgstr "Définir un logo pour ce sous-site (et ses pages enfants)"
 
-#: imio/smartweb/core/behaviors/subsite.py:45
+#: imio/smartweb/core/behaviors/subsite.py:39
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 
@@ -188,7 +188,7 @@ msgstr "Modifier"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:52
 msgid "Element view"
-msgstr "Affichage d'un élément par défaut"
+msgstr "Choisir un élément"
 
 #: imio/smartweb/core/contents/folder/views.py:88
 msgid "Element view form"
@@ -260,7 +260,7 @@ msgstr "Pied de page"
 msgid "Footer has been successfully added"
 msgstr "Le pied de page a été ajouté avec succès"
 
-#: imio/smartweb/core/vocabularies.py:61
+#: imio/smartweb/core/vocabularies.py:62
 msgid "Full width"
 msgstr "Pleine page"
 
@@ -284,7 +284,7 @@ msgstr "Moitié de la page"
 msgid "Hide title"
 msgstr "Cacher le titre"
 
-#: imio/smartweb/policy/utils.py:22
+#: imio/smartweb/policy/utils.py:30
 msgid "I am"
 msgstr "Je suis"
 
@@ -317,8 +317,12 @@ msgstr ""
 msgid "Installs the imio.portletpage add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:24
+#: imio/smartweb/policy/configure.zcml:25
 msgid "Installs the imio.smartweb.policy add-on."
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:34
+msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:91
@@ -330,8 +334,8 @@ msgid "Items"
 msgstr "Élements"
 
 #: imio/smartweb/core/behaviors/subsite.py:19
+#: imio/smartweb/core/contents/folder/content.py:31
 #: imio/smartweb/core/contents/pages/footer/content.py:17
-#: imio/smartweb/core/contents/sections/base.py:20
 msgid "Layout"
 msgstr ""
 
@@ -371,16 +375,16 @@ msgstr "Liste"
 msgid "List of links"
 msgstr "Liste de liens"
 
-#: imio/smartweb/core/behaviors/subsite.py:30
-#: imio/smartweb/core/vocabularies.py:74
+#: imio/smartweb/core/behaviors/subsite.py:24
+#: imio/smartweb/core/vocabularies.py:75
 msgid "Logo"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:75
+#: imio/smartweb/core/vocabularies.py:76
 msgid "Logo and title"
 msgstr "Logo et titre"
 
-#: imio/smartweb/core/behaviors/subsite.py:36
+#: imio/smartweb/core/behaviors/subsite.py:30
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
@@ -390,11 +394,11 @@ msgstr "Type d'affichage du logo"
 msgid "Manage section contents"
 msgstr "Contenus"
 
-#: imio/smartweb/core/behaviors/subsite.py:44
+#: imio/smartweb/core/behaviors/subsite.py:38
 msgid "Menu depth"
 msgstr "Profondeur du menu"
 
-#: imio/smartweb/policy/utils.py:27
+#: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
 msgstr "En un clic"
 
@@ -450,12 +454,12 @@ msgstr ""
 msgid "Select view"
 msgstr "Affichage"
 
-#: imio/smartweb/core/contents/folder/content.py:22
+#: imio/smartweb/core/contents/folder/content.py:23
 msgid "Set Default page"
 msgstr "Définir la page par défaut"
 
-#: imio/smartweb/core/contents/pages/footer/content.py:20
-#: imio/smartweb/core/contents/sections/base.py:24
+#: imio/smartweb/core/contents/pages/footer/content.py:22
+#: imio/smartweb/core/contents/sections/base.py:26
 msgid "Set a background image"
 msgstr "Définir une image de fond"
 
@@ -537,6 +541,10 @@ msgstr "Titre"
 msgid "Topics"
 msgstr "Sujets"
 
+#: imio/smartweb/core/vocabularies.py:61
+msgid "Two third of width"
+msgstr ""
+
 #: imio/events/core/configure.zcml:41
 msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
@@ -545,7 +553,7 @@ msgstr ""
 msgid "Uninstalls the imio.portletpage add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:33
+#: imio/smartweb/policy/configure.zcml:43
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -589,11 +597,11 @@ msgstr ""
 msgid "imio.portletpage (uninstall)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:24
+#: imio/smartweb/policy/configure.zcml:25
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:33
+#: imio/smartweb/policy/configure.zcml:43
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
