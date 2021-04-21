@@ -136,7 +136,7 @@ msgstr "Activer le mode sous-site."
 
 #: imio/smartweb/core/contents/folder/content.py:37
 msgid "Define a banner for folder and children"
-msgstr ""
+msgstr "Choisir une image de bannière pour le dossier et ses (sous) contenus"
 
 #: imio/smartweb/core/behaviors/subsite.py:25
 msgid "Define a logo for subsite and children"
@@ -543,7 +543,7 @@ msgstr "Sujets"
 
 #: imio/smartweb/core/vocabularies.py:61
 msgid "Two third of width"
-msgstr ""
+msgstr "Deux tiers de la page"
 
 #: imio/events/core/configure.zcml:41
 msgid "Uninstalls the imio.events.core add-on."

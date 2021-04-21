@@ -5,7 +5,7 @@ Changelog
 1.0a2 (unreleased)
 ------------------
 
-- Add missing translation
+- Add missing translations
   [laulaz]
 
 - Fix translations
