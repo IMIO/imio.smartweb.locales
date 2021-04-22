@@ -497,7 +497,7 @@ msgstr "Définir une image de fond"
 #: imio/smartweb/core/contents/sections/gallery/view.pt:37
 #: imio/smartweb/core/contents/sections/links/carousel.pt:37
 msgid "Show title"
-msgstr ""
+msgstr "Afficher le titre"
 
 #: imio/smartweb/core/browser/controlpanel.py:31
 msgid "Smartweb Settings"
