@@ -204,7 +204,7 @@ msgstr "Choisir un élément"
 
 #: imio/smartweb/core/contents/folder/views.py:88
 msgid "Element view form"
-msgstr "Formulaire de choix de l'élement à mettre en vue par défaut"
+msgstr "Formulaire de choix de l'élément à afficher par défaut"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable subsite"
