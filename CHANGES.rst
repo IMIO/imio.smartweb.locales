@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a2 (unreleased)
+1.0a2 (2021-04-22)
 ------------------
 
 - Override some plone translations
