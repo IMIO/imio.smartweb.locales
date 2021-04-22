@@ -20,6 +20,10 @@ msgstr ""
 msgid "Folders"
 msgstr "Éléments avec du contenu"
 
+#: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
+msgid "This name will be displayed in the URL."
+msgstr "L'identifiant sera affiché dans l'adresse (URL) de l'élément. Il ne doit pas contenir d'espace ou de tiret bas, ni de majuscules."
+
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27
 msgid "alert_really_delete_folder"

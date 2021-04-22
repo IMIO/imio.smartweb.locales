@@ -30,3 +30,7 @@ msgstr ""
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/delete_confirmation_info.pt:58
 msgid "selected_folders_with_content"
 msgstr ""
+
+#: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
+msgid "This name will be displayed in the URL."
+msgstr ""
