@@ -144,7 +144,7 @@ msgstr "Activer le mode sous-site."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to preview content (without editor actions)."
-msgstr ""
+msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -441,7 +441,7 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Preview"
-msgstr ""
+msgstr "Prévisualiser"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
 #: imio/smartweb/core/taxonomies/utils.py:69
