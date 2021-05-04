@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1\n"
-"POT-Creation-Date: 2021-05-04 12:15+0000\n"
+"POT-Creation-Date: 2021-05-04 14:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,6 +145,14 @@ msgstr "Activer le mode sous-site."
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
+
+#: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
+msgid "Contact"
+msgstr ""
+
+#: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
+msgid "Contact content type"
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
