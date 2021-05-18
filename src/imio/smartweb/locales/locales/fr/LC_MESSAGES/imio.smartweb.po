@@ -135,7 +135,7 @@ msgstr "Choisissez votre mode d'affichage"
 
 #: imio/directory/core/contents/contact/content.py:93
 msgid "City"
-msgstr ""
+msgstr "Commune"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to add footer on this context."
@@ -159,7 +159,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
 #: imio/directory/core/contents/contact/content.py:91
 msgid "Complement"
-msgstr ""
+msgstr "Complément"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
@@ -175,7 +175,7 @@ msgstr "Coordonnées"
 
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -396,7 +396,7 @@ msgstr "URL interne"
 
 #: imio/directory/core/contents/contact/content.py:186
 msgid "Internal note"
-msgstr ""
+msgstr "Note interne"
 
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
@@ -611,7 +611,7 @@ msgstr "Affichage standard"
 
 #: imio/directory/core/contents/contact/content.py:89
 msgid "Street"
-msgstr ""
+msgstr "Rue"
 
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
@@ -716,7 +716,7 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 
 #: imio/directory/core/contents/contact/content.py:117
 msgid "VAT number"
-msgstr ""
+msgstr "Numéro d'entreprise / TVA"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
 msgid "Video section"
@@ -752,7 +752,7 @@ msgstr "L'élément vue par défaut du dossier est"
 
 #: imio/directory/core/contents/contact/content.py:92
 msgid "Zipcode"
-msgstr ""
+msgstr "Code postal"
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"
