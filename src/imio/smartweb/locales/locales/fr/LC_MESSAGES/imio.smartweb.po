@@ -133,6 +133,10 @@ msgstr "Choisissez un élément comme vue par défaut de votre dossier"
 msgid "Choose your display mode"
 msgstr "Choisissez votre mode d'affichage"
 
+#: imio/directory/core/contents/contact/content.py:93
+msgid "City"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to add footer on this context."
 msgstr "Activer un pied de page"
@@ -153,6 +157,10 @@ msgstr "Exporter le contact vers une vcard."
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
+#: imio/directory/core/contents/contact/content.py:91
+msgid "Complement"
+msgstr ""
+
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
 msgstr "Contact"
@@ -164,6 +172,10 @@ msgstr "Contact"
 #: imio/directory/core/contents/contact/content.py:114
 msgid "Contact informations"
 msgstr "Coordonnées"
+
+#: imio/directory/core/contents/contact/content.py:95
+msgid "Country"
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -382,6 +394,10 @@ msgstr ""
 msgid "Internal URL"
 msgstr "URL interne"
 
+#: imio/directory/core/contents/contact/content.py:186
+msgid "Internal note"
+msgstr ""
+
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
 msgstr "Élements"
@@ -593,6 +609,10 @@ msgstr "Page standard pour afficher de l'information"
 msgid "Standard view"
 msgstr "Affichage standard"
 
+#: imio/directory/core/contents/contact/content.py:89
+msgid "Street"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
 msgstr "Sous-site"
@@ -694,6 +714,10 @@ msgstr "URL"
 msgid "Url to get forms from your e-guichet"
 msgstr "Url de récupération des démarches de votre e-guichet"
 
+#: imio/directory/core/contents/contact/content.py:117
+msgid "VAT number"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
 msgid "Video section"
 msgstr "Section vidéo"
@@ -725,6 +749,10 @@ msgstr "Téléphone professionnel"
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
 msgstr "L'élément vue par défaut du dossier est"
+
+#: imio/directory/core/contents/contact/content.py:92
+msgid "Zipcode"
+msgstr ""
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"

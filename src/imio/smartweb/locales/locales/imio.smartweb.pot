@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-18 09:52+0000\n"
+"POT-Creation-Date: 2021-05-18 10:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -138,6 +138,10 @@ msgstr ""
 msgid "Choose your display mode"
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:93
+msgid "City"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to add footer on this context."
 msgstr ""
@@ -158,6 +162,10 @@ msgstr ""
 msgid "Click to preview content (without editor actions)."
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:91
+msgid "Complement"
+msgstr ""
+
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
 msgstr ""
@@ -168,6 +176,10 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:114
 msgid "Contact informations"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:95
+msgid "Country"
 msgstr ""
 
 #: imio/smartweb/core/contents/folder/content.py:39
@@ -387,6 +399,10 @@ msgstr ""
 msgid "Internal URL"
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:186
+msgid "Internal note"
+msgstr ""
+
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
 msgstr ""
@@ -598,6 +614,10 @@ msgstr ""
 msgid "Standard view"
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:89
+msgid "Street"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
 msgstr ""
@@ -699,6 +719,10 @@ msgstr ""
 msgid "Url to get forms from your e-guichet"
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:117
+msgid "VAT number"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
 msgid "Video section"
 msgstr ""
@@ -729,6 +753,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:92
+msgid "Zipcode"
 msgstr ""
 
 #: imio/events/core/configure.zcml:32
