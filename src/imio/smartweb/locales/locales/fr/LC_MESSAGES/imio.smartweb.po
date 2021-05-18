@@ -46,7 +46,7 @@ msgstr "Ajoute les champs de propriétés d'un sous-site"
 
 #: imio/directory/core/contents/contact/content.py:86
 msgid "Address"
-msgstr ""
+msgstr "Adresse"
 
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
@@ -66,7 +66,7 @@ msgstr "Appliquer"
 
 #: imio/directory/core/contents/contact/content.py:28
 msgid "Bad phone format"
-msgstr ""
+msgstr "Mauvais format de numéro de téléphone"
 
 #: imio/smartweb/core/contents/folder/content.py:38
 msgid "Banner"
@@ -147,7 +147,7 @@ msgstr "Activer le mode sous-site."
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Click to export contact to vcard."
-msgstr ""
+msgstr "Exporter le contact vers une vcard."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to preview content (without editor actions)."
@@ -155,15 +155,15 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact content type"
-msgstr ""
+msgstr "Contact"
 
 #: imio/directory/core/contents/contact/content.py:114
 msgid "Contact informations"
-msgstr ""
+msgstr "Coordonnées"
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -199,11 +199,11 @@ msgstr "Lien vers la démarche dans l'e-guichet iMio"
 
 #: imio/directory/core/contents/contact/content.py:67
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #: imio/directory/core/contents/contact/content.py:129
 msgid "E-mails"
-msgstr ""
+msgstr "E-mails"
 
 #: imio/portletpage/portlets/collection/portlet.py:85
 msgid "Edit Collection Portlet"
@@ -251,7 +251,7 @@ msgstr "Exclure dans l'affichage listing du parent"
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Export contact"
-msgstr ""
+msgstr "Exporter le contact"
 
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
@@ -260,7 +260,7 @@ msgstr "URL externe"
 #: imio/directory/core/vocabularies.py:82
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
 msgid "Files section"
@@ -388,11 +388,11 @@ msgstr "Élements"
 
 #: imio/directory/core/contents/contact/content.py:55
 msgid "Label (Secretariat, Manager office, Sales,...)"
-msgstr ""
+msgstr "Label (Secrétariat, Bureau de la direction, Ventes, ...)"
 
 #: imio/directory/core/contents/contact/content.py:35
 msgid "Label (direction, Main number,...)"
-msgstr ""
+msgstr "Label (direction, numéro principal, ...)"
 
 #: imio/smartweb/core/behaviors/subsite.py:19
 #: imio/smartweb/core/contents/folder/content.py:33
@@ -440,7 +440,7 @@ msgstr "Liste de liens"
 #: imio/smartweb/core/behaviors/subsite.py:24
 #: imio/smartweb/core/vocabularies.py:75
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: imio/smartweb/core/vocabularies.py:76
 msgid "Logo and title"
@@ -456,7 +456,7 @@ msgstr "Contenus"
 
 #: imio/directory/core/vocabularies.py:41
 msgid "Matter / Mission"
-msgstr ""
+msgstr "Matière / Mission"
 
 #: imio/smartweb/core/behaviors/subsite.py:38
 msgid "Menu depth"
@@ -464,11 +464,11 @@ msgstr "Profondeur du menu"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Mobile"
-msgstr ""
+msgstr "GSM"
 
 #: imio/directory/core/contents/contact/content.py:48
 msgid "Number"
-msgstr ""
+msgstr "Numéro"
 
 #: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
@@ -480,12 +480,12 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 
 #: imio/directory/core/vocabularies.py:38
 msgid "Organization"
-msgstr ""
+msgstr "Organisation"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
-msgstr ""
+msgstr "Page"
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Parent listing"
@@ -493,15 +493,15 @@ msgstr "Listing du parent"
 
 #: imio/directory/core/vocabularies.py:69
 msgid "Personal email"
-msgstr ""
+msgstr "E-mail personnel"
 
 #: imio/directory/core/vocabularies.py:55
 msgid "Personal phone"
-msgstr ""
+msgstr "Téléphone personnel"
 
 #: imio/directory/core/contents/contact/content.py:119
 msgid "Phones"
-msgstr ""
+msgstr "Téléphones"
 
 #: imio/portletpage/profiles/default/types/PortletPage.xml
 msgid "PortletPage"
@@ -509,7 +509,7 @@ msgstr ""
 
 #: imio/directory/core/vocabularies.py:40
 msgid "Position"
-msgstr ""
+msgstr "Fonction"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Preview"
@@ -517,7 +517,7 @@ msgstr "Prévisualiser"
 
 #: imio/directory/core/contents/contact/content.py:153
 msgid "Private contact informations"
-msgstr ""
+msgstr "Coordonnées privées"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
 msgid "Procedure"
@@ -561,7 +561,7 @@ msgstr "Affichage"
 
 #: imio/directory/core/vocabularies.py:39
 msgid "Service"
-msgstr ""
+msgstr "Service"
 
 #: imio/smartweb/core/contents/folder/content.py:25
 msgid "Set Default page"
@@ -607,7 +607,7 @@ msgstr "Le mode sous-site a été activé avec succès"
 
 #: imio/directory/core/contents/contact/content.py:214
 msgid "Subtitle"
-msgstr ""
+msgstr "Sous-titre"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:63
 msgid "Summary view"
@@ -660,7 +660,7 @@ msgstr "Sujets"
 
 #: imio/directory/core/vocabularies.py:83
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: imio/smartweb/core/vocabularies.py:61
 msgid "Two third of width"
@@ -668,11 +668,11 @@ msgstr "Deux tiers de la page"
 
 #: imio/directory/core/contents/contact/content.py:41
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #: imio/directory/core/contents/contact/content.py:139
 msgid "URLs"
-msgstr ""
+msgstr "URLs"
 
 #: imio/events/core/configure.zcml:41
 msgid "Uninstalls the imio.events.core add-on."
@@ -688,7 +688,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:79
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 #: imio/smartweb/core/browser/controlpanel.py:14
 msgid "Url to get forms from your e-guichet"
@@ -712,15 +712,15 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 
 #: imio/directory/core/vocabularies.py:84
 msgid "Website"
-msgstr ""
+msgstr "Site web"
 
 #: imio/directory/core/vocabularies.py:70
 msgid "Work email"
-msgstr ""
+msgstr "E-mail professionnel"
 
 #: imio/directory/core/vocabularies.py:56
 msgid "Work phone"
-msgstr ""
+msgstr "Téléphone professionnel"
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
