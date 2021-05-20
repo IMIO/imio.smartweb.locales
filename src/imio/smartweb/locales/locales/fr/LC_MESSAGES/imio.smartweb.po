@@ -404,6 +404,10 @@ msgstr "Échelle de l'image"
 msgid "Include in quick access menu"
 msgstr "Présent dans le menu des accès rapides"
 
+#: imio/directory/policy/configure.zcml:24
+msgid "Installs the imio.directory.policy add-on."
+msgstr ""
+
 #: imio/events/core/configure.zcml:32
 msgid "Installs the imio.events.core add-on."
 msgstr ""
@@ -736,6 +740,10 @@ msgstr "Type"
 msgid "URLs"
 msgstr "URLs"
 
+#: imio/directory/policy/configure.zcml:33
+msgid "Uninstalls the imio.directory.policy add-on."
+msgstr ""
+
 #: imio/events/core/configure.zcml:41
 msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
@@ -803,6 +811,14 @@ msgstr "Codes postaux et communes"
 #: imio/directory/core/contents/contact/content.py:92
 msgid "Zipcode"
 msgstr "Code postal"
+
+#: imio/directory/policy/configure.zcml:24
+msgid "imio.directory.policy"
+msgstr ""
+
+#: imio/directory/policy/configure.zcml:33
+msgid "imio.directory.policy (uninstall)"
+msgstr ""
 
 #: imio/events/core/configure.zcml:32
 msgid "imio.events.core"

@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-20 10:30+0000\n"
+"POT-Creation-Date: 2021-05-20 12:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -410,6 +410,10 @@ msgstr ""
 msgid "Include in quick access menu"
 msgstr ""
 
+#: imio/directory/policy/configure.zcml:24
+msgid "Installs the imio.directory.policy add-on."
+msgstr ""
+
 #: imio/events/core/configure.zcml:32
 msgid "Installs the imio.events.core add-on."
 msgstr ""
@@ -742,6 +746,10 @@ msgstr ""
 msgid "URLs"
 msgstr ""
 
+#: imio/directory/policy/configure.zcml:33
+msgid "Uninstalls the imio.directory.policy add-on."
+msgstr ""
+
 #: imio/events/core/configure.zcml:41
 msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
@@ -808,6 +816,14 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:92
 msgid "Zipcode"
+msgstr ""
+
+#: imio/directory/policy/configure.zcml:24
+msgid "imio.directory.policy"
+msgstr ""
+
+#: imio/directory/policy/configure.zcml:33
+msgid "imio.directory.policy (uninstall)"
 msgstr ""
 
 #: imio/events/core/configure.zcml:32
