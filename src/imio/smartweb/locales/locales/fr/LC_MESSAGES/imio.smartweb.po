@@ -91,7 +91,7 @@ msgstr "Affichage blocs avec images"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:17
 msgid "Blocks that will be displayed in contact"
-msgstr ""
+msgstr "Blocs qui vont être affichés dans le contact"
 
 #: imio/smartweb/core/contents/sections/base.py:38
 msgid "Bootstrap CSS class"
@@ -181,11 +181,11 @@ msgstr "Coordonnées"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
 msgid "Contact section"
-msgstr ""
+msgstr "Section contact"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
 msgid "Contact section for a page"
-msgstr ""
+msgstr "Section contact pour une page"
 
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Country"
@@ -336,7 +336,7 @@ msgstr "Pleine page"
 
 #: imio/smartweb/core/vocabularies.py:92
 msgid "Gallery"
-msgstr ""
+msgstr "Galerie"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section"
@@ -567,7 +567,7 @@ msgstr "Accès rapide"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:28
 msgid "Related contact"
-msgstr ""
+msgstr "Contact lié"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Rich text section for a page"
@@ -575,7 +575,7 @@ msgstr "Création d'une section de texte dans votre page."
 
 #: imio/smartweb/core/vocabularies.py:91
 msgid "Schedule"
-msgstr ""
+msgstr "Horaires"
 
 #: imio/smartweb/core/browser/controlpanel.py:22
 msgid "Secret key"
@@ -701,7 +701,7 @@ msgstr "Titre"
 
 #: imio/smartweb/core/vocabularies.py:88
 msgid "Title and Subtitle"
-msgstr ""
+msgstr "Titre et Sous-titre"
 
 #: imio/events/core/behaviors/topics.py:16
 #: imio/events/core/setuphandlers.py:31
@@ -766,7 +766,7 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:16
 msgid "Visible blocks"
-msgstr ""
+msgstr "Blocs visibles"
 
 #: imio/directory/core/vocabularies.py:84
 msgid "Website"
