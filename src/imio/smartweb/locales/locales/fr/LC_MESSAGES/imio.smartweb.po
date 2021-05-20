@@ -140,7 +140,7 @@ msgstr "Choisissez votre mode d'affichage"
 
 #: imio/directory/core/contents/entity/content.py:19
 msgid "Choose zip codes for this entity"
-msgstr ""
+msgstr "Choisissez les codes postaux liés à cette entité"
 
 #: imio/directory/core/contents/contact/content.py:93
 msgid "City"
@@ -269,7 +269,7 @@ msgstr "Activer le mode sous-site"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
 msgid "Entity"
-msgstr ""
+msgstr "Entité"
 
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Entity agenda folderish content type"
@@ -277,7 +277,7 @@ msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
 msgid "Entity content type"
-msgstr ""
+msgstr "Entité"
 
 #: imio/events/core/profiles/default/types/imio.events.Event.xml
 msgid "Event"
@@ -798,7 +798,7 @@ msgstr "L'élément vue par défaut du dossier est"
 
 #: imio/directory/core/contents/entity/content.py:18
 msgid "Zip codes and cities"
-msgstr ""
+msgstr "Codes postaux et communes"
 
 #: imio/directory/core/contents/contact/content.py:92
 msgid "Zipcode"
