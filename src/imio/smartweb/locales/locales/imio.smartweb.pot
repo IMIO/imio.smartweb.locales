@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-18 10:11+0000\n"
+"POT-Creation-Date: 2021-05-20 07:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,6 +50,7 @@ msgid "Add subsite properties/fields"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:86
+#: imio/smartweb/core/vocabularies.py:89
 msgid "Address"
 msgstr ""
 
@@ -91,6 +92,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/folder/configure.zcml:43
 msgid "Block view with images"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/content.py:17
+msgid "Blocks that will be displayed in contact"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:38
@@ -175,7 +180,16 @@ msgid "Contact content type"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:114
+#: imio/smartweb/core/vocabularies.py:90
 msgid "Contact informations"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
+msgid "Contact section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
+msgid "Contact section for a page"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
@@ -323,6 +337,10 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:62
 msgid "Full width"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:92
+msgid "Gallery"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
@@ -552,8 +570,16 @@ msgstr ""
 msgid "Quick access"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/contact/content.py:28
+msgid "Related contact"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Rich text section for a page"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:91
+msgid "Schedule"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:22
@@ -678,6 +704,10 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
+#: imio/smartweb/core/vocabularies.py:88
+msgid "Title and Subtitle"
+msgstr ""
+
 #: imio/events/core/behaviors/topics.py:16
 #: imio/events/core/setuphandlers.py:31
 msgid "Topics"
@@ -737,6 +767,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/video/content.py:15
 msgid "Video url from youtube, vimeo"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/content.py:16
+msgid "Visible blocks"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:84

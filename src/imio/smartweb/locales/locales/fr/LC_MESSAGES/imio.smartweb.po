@@ -45,6 +45,7 @@ msgid "Add subsite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un sous-site"
 
 #: imio/directory/core/contents/contact/content.py:86
+#: imio/smartweb/core/vocabularies.py:89
 msgid "Address"
 msgstr "Adresse"
 
@@ -87,6 +88,10 @@ msgstr "Affichage blocs"
 #: imio/smartweb/core/contents/folder/configure.zcml:43
 msgid "Block view with images"
 msgstr "Affichage blocs avec images"
+
+#: imio/smartweb/core/contents/sections/contact/content.py:17
+msgid "Blocks that will be displayed in contact"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:38
 msgid "Bootstrap CSS class"
@@ -170,8 +175,17 @@ msgid "Contact content type"
 msgstr "Contact"
 
 #: imio/directory/core/contents/contact/content.py:114
+#: imio/smartweb/core/vocabularies.py:90
 msgid "Contact informations"
 msgstr "Coordonnées"
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
+msgid "Contact section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionContact.xml
+msgid "Contact section for a page"
+msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Country"
@@ -319,6 +333,10 @@ msgstr "Le pied de page a été ajouté avec succès"
 #: imio/smartweb/core/vocabularies.py:62
 msgid "Full width"
 msgstr "Pleine page"
+
+#: imio/smartweb/core/vocabularies.py:92
+msgid "Gallery"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section"
@@ -547,9 +565,17 @@ msgstr "Lien vers la démarche"
 msgid "Quick access"
 msgstr "Accès rapide"
 
+#: imio/smartweb/core/contents/sections/contact/content.py:28
+msgid "Related contact"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Rich text section for a page"
 msgstr "Création d'une section de texte dans votre page."
+
+#: imio/smartweb/core/vocabularies.py:91
+msgid "Schedule"
+msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:22
 msgid "Secret key"
@@ -673,6 +699,10 @@ msgstr "Tiers de la page"
 msgid "Title"
 msgstr "Titre"
 
+#: imio/smartweb/core/vocabularies.py:88
+msgid "Title and Subtitle"
+msgstr ""
+
 #: imio/events/core/behaviors/topics.py:16
 #: imio/events/core/setuphandlers.py:31
 msgid "Topics"
@@ -733,6 +763,10 @@ msgstr "Lien vers la vidéo"
 #: imio/smartweb/core/contents/sections/video/content.py:15
 msgid "Video url from youtube, vimeo"
 msgstr "Lien vers une vidéo Youtube ou Vimeo"
+
+#: imio/smartweb/core/contents/sections/contact/content.py:16
+msgid "Visible blocks"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:84
 msgid "Website"
