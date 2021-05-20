@@ -20,6 +20,7 @@ imio.smartweb.locales
 =====================
 
 Locales for iMio smartweb packages :
+ - imio.directory.policy
  - imio.directory.core
  - imio.events.core
  - imio.portletpage

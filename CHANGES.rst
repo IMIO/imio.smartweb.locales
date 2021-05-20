@@ -5,6 +5,9 @@ Changelog
 1.0a3 (unreleased)
 ------------------
 
+- Add imio.directory.policy package to locales
+  [laulaz]
+
 - Add missing translations
   [laulaz]
 
