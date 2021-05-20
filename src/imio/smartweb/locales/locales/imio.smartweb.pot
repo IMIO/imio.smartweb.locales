@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-05-20 07:47+0000\n"
+"POT-Creation-Date: 2021-05-20 10:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,6 +18,7 @@ msgstr ""
 "Domain: imio.smartweb\n"
 
 #: imio/directory/core/contents/contact/content.py:36
+#: imio/directory/core/contents/entity/content.py:23
 msgid ""
 msgstr ""
 
@@ -141,6 +142,10 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/subsite.py:31
 msgid "Choose your display mode"
+msgstr ""
+
+#: imio/directory/core/contents/entity/content.py:19
+msgid "Choose zip codes for this entity"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:93
@@ -268,8 +273,16 @@ msgstr ""
 msgid "Enable subsite"
 msgstr ""
 
+#: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
+msgid "Entity"
+msgstr ""
+
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Entity agenda folderish content type"
+msgstr ""
+
+#: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
+msgid "Entity content type"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Event.xml
@@ -288,7 +301,7 @@ msgstr ""
 msgid "External URL"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:82
+#: imio/directory/core/vocabularies.py:84
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Facebook"
 msgstr ""
@@ -476,8 +489,8 @@ msgid "List of links"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:216
+#: imio/directory/core/contents/entity/content.py:23
 #: imio/smartweb/core/behaviors/subsite.py:24
-#: imio/smartweb/core/vocabularies.py:75
 msgid "Logo"
 msgstr ""
 
@@ -493,7 +506,7 @@ msgstr ""
 msgid "Manage section contents"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:41
+#: imio/directory/core/vocabularies.py:43
 msgid "Matter / Mission"
 msgstr ""
 
@@ -501,7 +514,7 @@ msgstr ""
 msgid "Menu depth"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:54
+#: imio/directory/core/vocabularies.py:56
 msgid "Mobile"
 msgstr ""
 
@@ -517,7 +530,7 @@ msgstr ""
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:38
+#: imio/directory/core/vocabularies.py:40
 msgid "Organization"
 msgstr ""
 
@@ -530,11 +543,11 @@ msgstr ""
 msgid "Parent listing"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:69
+#: imio/directory/core/vocabularies.py:71
 msgid "Personal email"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:55
+#: imio/directory/core/vocabularies.py:57
 msgid "Personal phone"
 msgstr ""
 
@@ -546,7 +559,7 @@ msgstr ""
 msgid "PortletPage"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:40
+#: imio/directory/core/vocabularies.py:42
 msgid "Position"
 msgstr ""
 
@@ -606,7 +619,7 @@ msgstr ""
 msgid "Select view"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:39
+#: imio/directory/core/vocabularies.py:41
 msgid "Service"
 msgstr ""
 
@@ -713,7 +726,7 @@ msgstr ""
 msgid "Topics"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:83
+#: imio/directory/core/vocabularies.py:85
 msgid "Twitter"
 msgstr ""
 
@@ -773,20 +786,24 @@ msgstr ""
 msgid "Visible blocks"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:84
+#: imio/directory/core/vocabularies.py:86
 msgid "Website"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:70
+#: imio/directory/core/vocabularies.py:72
 msgid "Work email"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:56
+#: imio/directory/core/vocabularies.py:58
 msgid "Work phone"
 msgstr ""
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
+msgstr ""
+
+#: imio/directory/core/contents/entity/content.py:18
+msgid "Zip codes and cities"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:92
