@@ -512,7 +512,7 @@ msgstr "Profondeur du menu"
 
 #: imio/directory/core/vocabularies.py:53
 msgid "Mission (passports, reception, parking, etc.)"
-msgstr ""
+msgstr "Mission (passeports, accueil, stationnement, etc.)"
 
 #: imio/directory/core/vocabularies.py:66
 msgid "Mobile"
@@ -557,7 +557,7 @@ msgstr ""
 
 #: imio/directory/core/vocabularies.py:49
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
-msgstr ""
+msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service, etc.)"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Preview"
@@ -638,7 +638,7 @@ msgstr "Spécifier le nombre maximum d'éléments à voir dans la portlet"
 
 #: imio/directory/core/vocabularies.py:43
 msgid "Standard (municipal administration, municipal service, CPAS, shop, etc.)"
-msgstr ""
+msgstr "Standard (administration communale, service communal, CPAS, commerce, etc.)"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
