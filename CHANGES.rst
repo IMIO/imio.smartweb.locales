@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a3 (unreleased)
+1.0a3 (2021-05-26)
 ------------------
 
 - Add imio.directory.policy package to locales
