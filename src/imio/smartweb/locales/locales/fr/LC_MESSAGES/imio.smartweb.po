@@ -153,7 +153,7 @@ msgstr "Activer un pied de page"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable minisite on this context."
-msgstr ""
+msgstr "Désactiver le mode minisite."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable subsite on this context."
@@ -161,7 +161,7 @@ msgstr "Désactiver le mode sous-site."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to enable minisite on this context."
-msgstr ""
+msgstr "Activer le mode minisite."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to enable subsite on this context."
@@ -223,7 +223,7 @@ msgstr "Supprimer la section"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
-msgstr ""
+msgstr "Désactiver le mode minisite"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable subsite"
@@ -279,7 +279,7 @@ msgstr "Formulaire de choix de l'élément à afficher par défaut"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable minisite"
-msgstr ""
+msgstr "Activer le mode minisite"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable subsite"
@@ -528,11 +528,11 @@ msgstr "Profondeur du menu"
 
 #: imio/smartweb/core/browser/minisite/settings.py:42
 msgid "Minisite has been disabled"
-msgstr ""
+msgstr "Le mode minisite a été désactivé"
 
 #: imio/smartweb/core/browser/minisite/settings.py:31
 msgid "Minisite has been successfully activated"
-msgstr ""
+msgstr "Le mode minisite a été activé avec succès"
 
 #: imio/directory/core/vocabularies.py:53
 msgid "Mission (passports, reception, parking, etc.)"
@@ -683,7 +683,7 @@ msgstr "Sous-site"
 
 #: imio/smartweb/core/browser/subsite/settings.py:33
 msgid "Subsite has been disabled"
-msgstr "Le mode sous-site a été désactivé."
+msgstr "Le mode sous-site a été désactivé"
 
 #: imio/smartweb/core/browser/subsite/settings.py:23
 msgid "Subsite has been successfully activated"
@@ -824,7 +824,7 @@ msgstr "Téléphone professionnel"
 
 #: imio/smartweb/core/subscribers.py:20
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
-msgstr ""
+msgstr "Le dossier était un minisite, mais cette action n'a pas pu conserver ce comportement"
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "Your current folder default view is"
