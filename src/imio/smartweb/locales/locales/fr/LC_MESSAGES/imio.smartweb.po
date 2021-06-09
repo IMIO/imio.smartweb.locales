@@ -40,7 +40,11 @@ msgstr "Ajouter une portlet de texte"
 msgid "Add footer"
 msgstr "Ajouter un pied de page"
 
-#: imio/smartweb/core/behaviors/configure.zcml:28
+#: imio/smartweb/core/behaviors/configure.zcml:43
+msgid "Add minisite properties/fields"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:35
 msgid "Add subsite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un sous-site"
 
@@ -62,7 +66,11 @@ msgstr "Choisir si cet élément doit être placé dans les accès rapides."
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son parent."
 
-#: imio/smartweb/core/contents/folder/views.py:103
+#: imio/smartweb/core/behaviors/configure.zcml:27
+msgid "Allow to select quick access elements for current context."
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/views.py:107
 msgid "Apply"
 msgstr "Appliquer"
 
@@ -124,10 +132,12 @@ msgid "Carousel"
 msgstr "Carrousel"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
+#: imio/smartweb/core/contents/sections/selections/configure.zcml:26
 msgid "Carousel view"
 msgstr "Affichage carrousel"
 
 #: imio/events/core/behaviors/topics.py:14
+#: imio/smartweb/core/behaviors/quickaccess.py:36
 msgid "Categorization"
 msgstr "Catégorisation"
 
@@ -135,6 +145,7 @@ msgstr "Catégorisation"
 msgid "Choose an item as your default folder view"
 msgstr "Choisissez un élément comme vue par défaut de votre dossier"
 
+#: imio/smartweb/core/behaviors/minisite.py:36
 #: imio/smartweb/core/behaviors/subsite.py:31
 msgid "Choose your display mode"
 msgstr "Choisissez votre mode d'affichage"
@@ -209,6 +220,10 @@ msgstr "Pays"
 msgid "Define a banner for folder and children"
 msgstr "Choisir une image de bannière pour le dossier et ses (sous) contenus"
 
+#: imio/smartweb/core/behaviors/minisite.py:30
+msgid "Define a logo for minisite"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/subsite.py:25
 msgid "Define a logo for subsite and children"
 msgstr "Définir un logo pour ce sous-site (et ses pages enfants)"
@@ -273,7 +288,7 @@ msgstr "Modifier"
 msgid "Element view"
 msgstr "Choisir un élément"
 
-#: imio/smartweb/core/contents/folder/views.py:75
+#: imio/smartweb/core/contents/folder/views.py:79
 msgid "Element view form"
 msgstr "Formulaire de choix de l'élément à afficher par défaut"
 
@@ -405,7 +420,7 @@ msgstr "Je suis"
 msgid "Icon"
 msgstr "Icône"
 
-#: imio/smartweb/core/behaviors/quickaccess.py:20
+#: imio/smartweb/core/behaviors/quickaccess.py:49
 msgid "If selected, this item will appear in quick access menu"
 msgstr "Si vous cochez cette option, cet élément apparaîtra dans le menu des accès rapides."
 
@@ -415,12 +430,17 @@ msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affi
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 #: imio/smartweb/core/contents/sections/links/content.py:16
+#: imio/smartweb/core/contents/sections/selections/content.py:19
 msgid "Image scale"
 msgstr "Échelle de l'image"
 
-#: imio/smartweb/core/behaviors/quickaccess.py:19
+#: imio/smartweb/core/behaviors/quickaccess.py:48
 msgid "Include in quick access menu"
 msgstr "Présent dans le menu des accès rapides"
+
+#: imio/smartweb/core/profiles.zcml:21
+msgid "Installs imio.smartweb.core.testing profile."
+msgstr ""
 
 #: imio/directory/policy/configure.zcml:25
 msgid "Installs the imio.directory.policy add-on."
@@ -432,6 +452,10 @@ msgstr ""
 
 #: imio/portletpage/configure.zcml:29
 msgid "Installs the imio.portletpage add-on."
+msgstr ""
+
+#: imio/smartweb/core/profiles.zcml:13
+msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:26
@@ -462,9 +486,9 @@ msgstr "Label (Secrétariat, Bureau de la direction, Ventes, ...)"
 msgid "Label (direction, Main number,...)"
 msgstr "Label (direction, numéro principal, ...)"
 
+#: imio/smartweb/core/behaviors/minisite.py:24
 #: imio/smartweb/core/behaviors/subsite.py:19
 #: imio/smartweb/core/contents/folder/content.py:33
-#: imio/smartweb/core/contents/pages/footer/content.py:17
 msgid "Layout"
 msgstr ""
 
@@ -506,7 +530,7 @@ msgstr "Liste de liens"
 
 #: imio/directory/core/contents/contact/content.py:217
 #: imio/directory/core/contents/entity/content.py:23
-#: imio/smartweb/core/behaviors/subsite.py:24
+#: imio/smartweb/core/behaviors/minisite.py:29
 msgid "Logo"
 msgstr "Logo"
 
@@ -514,6 +538,7 @@ msgstr "Logo"
 msgid "Logo and title"
 msgstr "Logo et titre"
 
+#: imio/smartweb/core/behaviors/minisite.py:35
 #: imio/smartweb/core/behaviors/subsite.py:30
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
@@ -526,11 +551,15 @@ msgstr "Contenus"
 msgid "Menu depth"
 msgstr "Profondeur du menu"
 
-#: imio/smartweb/core/browser/minisite/settings.py:42
+#: imio/smartweb/core/behaviors/configure.zcml:43
+msgid "Minisite"
+msgstr ""
+
+#: imio/smartweb/core/browser/minisite/settings.py:43
 msgid "Minisite has been disabled"
 msgstr "Le mode minisite a été désactivé"
 
-#: imio/smartweb/core/browser/minisite/settings.py:31
+#: imio/smartweb/core/browser/minisite/settings.py:30
 msgid "Minisite has been successfully activated"
 msgstr "Le mode minisite a été activé avec succès"
 
@@ -603,6 +632,14 @@ msgstr "Lien vers la démarche"
 msgid "Quick access"
 msgstr "Accès rapide"
 
+#: imio/smartweb/core/behaviors/quickaccess.py:19
+msgid "Quick access contents"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:27
+msgid "Quick access selection"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/contact/content.py:18
 msgid "Related contact"
 msgstr "Contact lié"
@@ -631,6 +668,10 @@ msgstr "Le titre de la section a été caché (pour le visiteur)"
 msgid "Section title has been shown"
 msgstr "Le titre de la section a été affiché"
 
+#: imio/smartweb/core/contents/sections/contact/content.py:19
+msgid "Select a related contact from directory"
+msgstr ""
+
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
 msgstr ""
@@ -638,6 +679,18 @@ msgstr ""
 #: imio/smartweb/core/contents/sections/macros.pt:54
 msgid "Select view"
 msgstr "Affichage"
+
+#: imio/smartweb/core/contents/sections/selections/content.py:26
+msgid "Selected items"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
+msgid "Selections section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
+msgid "Selections section for a page"
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/content.py:25
 msgid "Set Default page"
@@ -677,7 +730,7 @@ msgstr "Affichage standard"
 msgid "Street"
 msgstr "Rue"
 
-#: imio/smartweb/core/behaviors/configure.zcml:28
+#: imio/smartweb/core/behaviors/configure.zcml:35
 msgid "Subsite"
 msgstr "Sous-site"
 
@@ -702,6 +755,7 @@ msgid "Summary view with images"
 msgstr "Affichage liste avec images"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:15
+#: imio/smartweb/core/contents/sections/selections/configure.zcml:15
 msgid "Table view"
 msgstr "Affichage tableau"
 
@@ -774,6 +828,10 @@ msgstr ""
 msgid "Uninstalls the imio.portletpage add-on."
 msgstr ""
 
+#: imio/smartweb/core/profiles.zcml:30
+msgid "Uninstalls the imio.smartweb.core add-on."
+msgstr ""
+
 #: imio/smartweb/policy/configure.zcml:44
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
@@ -785,6 +843,10 @@ msgstr "URL"
 #: imio/smartweb/core/browser/controlpanel.py:14
 msgid "Url to get forms from your e-guichet"
 msgstr "Url de récupération des démarches de votre e-guichet"
+
+#: imio/smartweb/core/browser/forms.py:21
+msgid "Use **text** to set text in bold and *text* to set text in italic."
+msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:118
 msgid "VAT number"
@@ -822,7 +884,7 @@ msgstr "E-mail professionnel"
 msgid "Work phone"
 msgstr "Téléphone professionnel"
 
-#: imio/smartweb/core/subscribers.py:20
+#: imio/smartweb/core/subscribers.py:21
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Le dossier était un minisite, mais cette action n'a pas pu conserver ce comportement"
 
@@ -860,6 +922,18 @@ msgstr ""
 
 #: imio/portletpage/configure.zcml:38
 msgid "imio.portletpage (uninstall)"
+msgstr ""
+
+#: imio/smartweb/core/profiles.zcml:13
+msgid "imio.smartweb.core"
+msgstr ""
+
+#: imio/smartweb/core/profiles.zcml:21
+msgid "imio.smartweb.core (testing)"
+msgstr ""
+
+#: imio/smartweb/core/profiles.zcml:30
+msgid "imio.smartweb.core (uninstall)"
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:26
