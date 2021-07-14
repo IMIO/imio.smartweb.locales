@@ -64,7 +64,7 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:12
 msgid "Agriculture"
-msgstr ""
+msgstr "Agriculture"
 
 #: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to choose if this element must be placed in quick access."
@@ -165,7 +165,7 @@ msgstr "Choisissez les codes postaux liés à cette entité"
 
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Citizen participation"
-msgstr ""
+msgstr "Participation citoyenne"
 
 #: imio/directory/core/contents/contact/content.py:94
 msgid "City"
@@ -201,7 +201,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
 #: imio/smartweb/core/contents/sections/contact/view.py:142
 msgid "Closed"
-msgstr ""
+msgstr "Fermé"
 
 #: imio/directory/core/contents/contact/content.py:92
 msgid "Complement"
@@ -235,7 +235,7 @@ msgstr "Pays"
 
 #: imio/smartweb/common/vocabularies.py:11
 msgid "Culture"
-msgstr ""
+msgstr "Culture"
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -267,7 +267,7 @@ msgstr "Désactiver le mode sous-site"
 
 #: imio/smartweb/common/vocabularies.py:45
 msgid "Disabled person"
-msgstr ""
+msgstr "En situation de handicap"
 
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
@@ -291,7 +291,7 @@ msgstr "E-mails"
 
 #: imio/smartweb/common/vocabularies.py:18
 msgid "Economic life"
-msgstr ""
+msgstr "Vie économique"
 
 #: imio/portletpage/portlets/collection/portlet.py:85
 msgid "Edit Collection Portlet"
@@ -315,11 +315,11 @@ msgstr "Modifier"
 
 #: imio/smartweb/common/vocabularies.py:13
 msgid "Education"
-msgstr ""
+msgstr "Éducation"
 
 #: imio/smartweb/common/vocabularies.py:38
 msgid "Elder"
-msgstr ""
+msgstr "Ainé/senior"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:52
 msgid "Element view"
@@ -339,7 +339,7 @@ msgstr "Activer le mode sous-site"
 
 #: imio/smartweb/common/vocabularies.py:25
 msgid "Entertainment"
-msgstr ""
+msgstr "Divertissement"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
 msgid "Entity"
@@ -355,7 +355,7 @@ msgstr "Entité"
 
 #: imio/smartweb/common/vocabularies.py:14
 msgid "Environment"
-msgstr ""
+msgstr "Environnement"
 
 #: imio/events/core/profiles/default/types/imio.events.Event.xml
 msgid "Event"
@@ -380,7 +380,7 @@ msgstr "Facebook"
 
 #: imio/directory/core/vocabularies.py:66
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
 msgid "Files section"
@@ -426,7 +426,7 @@ msgstr "Le pied de page a été ajouté avec succès"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:49
 msgid "Friday"
-msgstr ""
+msgstr "Vendredi"
 
 #: imio/smartweb/core/vocabularies.py:63
 msgid "Full width"
@@ -450,7 +450,7 @@ msgstr "Grille"
 
 #: imio/smartweb/common/vocabularies.py:20
 msgid "Habitat"
-msgstr ""
+msgstr "Habitat"
 
 #: imio/smartweb/core/vocabularies.py:61
 msgid "Half of width"
@@ -458,7 +458,7 @@ msgstr "Moitié de la page"
 
 #: imio/smartweb/common/vocabularies.py:15
 msgid "Health"
-msgstr ""
+msgstr "Santé"
 
 #: imio/smartweb/core/viewlets/banner.pt:17
 msgid "Hide banner from this item"
@@ -543,11 +543,11 @@ msgstr "Élements"
 
 #: imio/smartweb/common/vocabularies.py:46
 msgid "Job seeker"
-msgstr ""
+msgstr "Demandeur d'emploi"
 
 #: imio/smartweb/common/vocabularies.py:41
 msgid "Journalist"
-msgstr ""
+msgstr "Journaliste"
 
 #: imio/directory/core/contents/contact/content.py:56
 msgid "Label (Secretariat, Manager office, Sales,...)"
@@ -616,7 +616,7 @@ msgstr "Type d'affichage du logo"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:173
 msgid "Lunch time"
-msgstr ""
+msgstr "Heure du midi"
 
 #: imio/smartweb/core/contents/sections/macros.pt:48
 msgid "Manage section contents"
@@ -628,7 +628,7 @@ msgstr "Profondeur du menu"
 
 #: imio/smartweb/common/vocabularies.py:40
 msgid "Merchant"
-msgstr ""
+msgstr "Commerçant"
 
 #: imio/smartweb/core/behaviors/configure.zcml:43
 msgid "Minisite"
@@ -652,15 +652,15 @@ msgstr "GSM"
 
 #: imio/smartweb/common/vocabularies.py:21
 msgid "Mobility"
-msgstr ""
+msgstr "Mobilité"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:45
 msgid "Monday"
-msgstr ""
+msgstr "Lundi"
 
 #: imio/smartweb/common/vocabularies.py:42
 msgid "Newcomer"
-msgstr ""
+msgstr "Nouvel arrivant"
 
 #: imio/directory/core/contents/contact/content.py:49
 msgid "Number"
@@ -676,15 +676,15 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:148
 msgid "Open"
-msgstr ""
+msgstr "Ouvert"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:169
 msgid "Open at "
-msgstr ""
+msgstr "Ouvre à "
 
 #: imio/directory/core/vocabularies.py:43
 msgid "Organization (municipal administration, municipal service, CPAS, shop, etc.)"
-msgstr ""
+msgstr "Organisation (administration communale, service communal, CPAS, commerce, etc.)"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -693,7 +693,7 @@ msgstr "Page"
 
 #: imio/smartweb/common/vocabularies.py:44
 msgid "Parent"
-msgstr ""
+msgstr "Parent"
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Parent listing"
@@ -713,7 +713,7 @@ msgstr "Téléphones"
 
 #: imio/smartweb/common/vocabularies.py:19
 msgid "Political life"
-msgstr ""
+msgstr "Vie politique"
 
 #: imio/portletpage/profiles/default/types/PortletPage.xml
 msgid "PortletPage"
@@ -761,11 +761,11 @@ msgstr "Création d'une section de texte dans votre page."
 
 #: imio/smartweb/common/vocabularies.py:26
 msgid "Safety & prevention"
-msgstr ""
+msgstr "Sécurité & prévention"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:50
 msgid "Saturday"
-msgstr ""
+msgstr "Samedi"
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:66
 #: imio/smartweb/core/vocabularies.py:92
@@ -831,7 +831,7 @@ msgstr "Paramètrage de smartweb"
 
 #: imio/smartweb/common/vocabularies.py:23
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: imio/portletpage/portlets/collection/portlet.py:36
 msgid "Specify the maximum number of items to show in the portlet."
@@ -839,7 +839,7 @@ msgstr "Spécifier le nombre maximum d'éléments à voir dans la portlet"
 
 #: imio/smartweb/common/vocabularies.py:16
 msgid "Sports"
-msgstr ""
+msgstr "Sports"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -856,7 +856,7 @@ msgstr "Rue"
 
 #: imio/directory/core/contents/contact/view.pt:122
 msgid "Sub contacts"
-msgstr ""
+msgstr "Sous-contacts"
 
 #: imio/smartweb/core/behaviors/configure.zcml:35
 msgid "Subsite"
@@ -884,7 +884,7 @@ msgstr "Affichage liste avec images"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:51
 msgid "Sunday"
-msgstr ""
+msgstr "Dimanche"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:15
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:15
@@ -911,7 +911,7 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:17
 msgid "Territory & town planning"
-msgstr ""
+msgstr "Territoire & urbanisme"
 
 #: imio/portletpage/portlets/text/portlet.py:21
 msgid "Text"
@@ -931,7 +931,7 @@ msgstr "Tiers de la page"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:48
 msgid "Thursday"
-msgstr ""
+msgstr "Jeudi"
 
 #: imio/portletpage/contents/portletpage/content.py:18
 #: imio/portletpage/portlets/collection/portlet.py:20
@@ -951,15 +951,15 @@ msgstr "Sujets"
 
 #: imio/smartweb/common/vocabularies.py:22
 msgid "Tourism"
-msgstr ""
+msgstr "Tourisme"
 
 #: imio/smartweb/common/vocabularies.py:43
 msgid "Tourist"
-msgstr ""
+msgstr "Touriste"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:46
 msgid "Tuesday"
-msgstr ""
+msgstr "Mardi"
 
 #: imio/directory/core/vocabularies.py:96
 msgid "Twitter"
@@ -1039,7 +1039,7 @@ msgstr "Site web"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:47
 msgid "Wednesday"
-msgstr ""
+msgstr "Mercredi"
 
 #: imio/directory/core/vocabularies.py:83
 msgid "Work email"
@@ -1051,7 +1051,7 @@ msgstr "Téléphone professionnel"
 
 #: imio/smartweb/common/vocabularies.py:39
 msgid "Young"
-msgstr ""
+msgstr "Jeune"
 
 #: imio/smartweb/core/subscribers.py:25
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
