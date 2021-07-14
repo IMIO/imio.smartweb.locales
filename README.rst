@@ -26,6 +26,7 @@ Locales for iMio smartweb packages :
  - imio.portletpage
  - imio.smartweb.policy
  - imio.smartweb.core
+ - imio.smartweb.common
 
 
 Documentation

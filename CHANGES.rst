@@ -5,6 +5,9 @@ Changelog
 1.0a5 (unreleased)
 ------------------
 
+- Add imio.smartweb.common package to locales
+  [laulaz]
+
 - Add missing translations
   [laulaz]
 
