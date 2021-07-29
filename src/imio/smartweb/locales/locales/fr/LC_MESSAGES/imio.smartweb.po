@@ -40,11 +40,11 @@ msgstr "Ajouter une portlet de texte"
 msgid "Add footer"
 msgstr "Ajouter un pied de page"
 
-#: imio/smartweb/core/behaviors/configure.zcml:43
+#: imio/smartweb/core/behaviors/configure.zcml:36
 msgid "Add minisite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un minisite"
 
-#: imio/smartweb/core/behaviors/configure.zcml:35
+#: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Add subsite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un sous-site"
 
@@ -66,15 +66,11 @@ msgstr ""
 msgid "Agriculture"
 msgstr "Agriculture"
 
-#: imio/smartweb/core/behaviors/configure.zcml:20
-msgid "Allow to choose if this element must be placed in quick access."
-msgstr "Choisir si cet élément doit être placé dans les accès rapides."
-
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son parent."
 
-#: imio/smartweb/core/behaviors/configure.zcml:27
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to select quick access elements for current context."
 msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément courant."
 
@@ -106,7 +102,7 @@ msgstr "Affichage blocs"
 msgid "Block view with images"
 msgstr "Affichage blocs avec images"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:27
+#: imio/smartweb/core/contents/sections/contact/content.py:30
 msgid "Blocks that will be displayed in contact"
 msgstr "Blocs qui vont être affichés dans le contact"
 
@@ -361,7 +357,7 @@ msgstr "Environnement"
 msgid "Event"
 msgstr "Événement"
 
-#: imio/smartweb/core/behaviors/listing.py:19
+#: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
 msgstr "Exclure dans l'affichage listing du parent"
 
@@ -483,11 +479,7 @@ msgstr "Je suis"
 msgid "Icon"
 msgstr "Icône"
 
-#: imio/smartweb/core/behaviors/quickaccess.py:49
-msgid "If selected, this item will appear in quick access menu"
-msgstr "Si vous cochez cette option, cet élément apparaîtra dans le menu des accès rapides."
-
-#: imio/smartweb/core/behaviors/listing.py:20
+#: imio/smartweb/core/behaviors/listing.py:21
 msgid "If selected, this item will not appear in parent listing views"
 msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
@@ -496,10 +488,6 @@ msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affi
 #: imio/smartweb/core/contents/sections/selections/content.py:19
 msgid "Image scale"
 msgstr "Échelle de l'image"
-
-#: imio/smartweb/core/behaviors/quickaccess.py:48
-msgid "Include in quick access menu"
-msgstr "Présent dans le menu des accès rapides"
 
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
@@ -630,7 +618,7 @@ msgstr "Profondeur du menu"
 msgid "Merchant"
 msgstr "Commerçant"
 
-#: imio/smartweb/core/behaviors/configure.zcml:43
+#: imio/smartweb/core/behaviors/configure.zcml:36
 msgid "Minisite"
 msgstr ""
 
@@ -739,15 +727,15 @@ msgstr "Démarche"
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
 
-#: imio/smartweb/core/behaviors/configure.zcml:20
+#: imio/smartweb/core/viewlets/navigation.py:94
 msgid "Quick access"
 msgstr "Accès rapide"
 
-#: imio/smartweb/core/behaviors/quickaccess.py:19
+#: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
 msgstr "Contenus Accès directs"
 
-#: imio/smartweb/core/behaviors/configure.zcml:27
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Quick access selection"
 msgstr "Sélection d'accès direct"
 
@@ -789,8 +777,8 @@ msgid "Section title has been shown"
 msgstr "Le titre de la section a été affiché"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:19
-msgid "Select a related contact from directory"
-msgstr "Sélectionnez un contact depuis l'annuaire"
+msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
+msgstr ""
 
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
@@ -858,7 +846,7 @@ msgstr "Rue"
 msgid "Sub contacts"
 msgstr "Sous-contacts"
 
-#: imio/smartweb/core/behaviors/configure.zcml:35
+#: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
 msgstr "Sous-site"
 
@@ -1029,7 +1017,7 @@ msgstr "Lien vers la vidéo"
 msgid "Video url from youtube, vimeo"
 msgstr "Lien vers une vidéo Youtube ou Vimeo"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:26
+#: imio/smartweb/core/contents/sections/contact/content.py:29
 msgid "Visible blocks"
 msgstr "Blocs visibles"
 
