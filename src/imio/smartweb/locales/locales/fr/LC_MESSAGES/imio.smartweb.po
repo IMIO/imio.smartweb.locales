@@ -778,7 +778,7 @@ msgstr "Le titre de la section a été affiché"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:19
 msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
-msgstr ""
+msgstr "Sélectionnez un contact. Si vous ne trouvez pas le contact souhaité, assurez-vous qu'il existe dans l'annuaire et que son \"état\" est publié."
 
 #: imio/portletpage/portlets/selection/portlet.py:25
 msgid "Select the items of you portlet"
