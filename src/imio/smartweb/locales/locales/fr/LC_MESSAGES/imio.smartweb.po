@@ -53,8 +53,8 @@ msgid "Add topics on content types."
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:87
-#: imio/smartweb/core/contents/sections/contact/view.pt:30
-#: imio/smartweb/core/vocabularies.py:90
+#: imio/smartweb/core/contents/sections/contact/view.pt:38
+#: imio/smartweb/core/vocabularies.py:92
 msgid "Address"
 msgstr "Adresse"
 
@@ -195,7 +195,7 @@ msgstr "Exporter le contact vers une vcard."
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
-#: imio/smartweb/core/contents/sections/contact/view.py:142
+#: imio/smartweb/core/contents/sections/contact/view.py:158
 msgid "Closed"
 msgstr "Fermé"
 
@@ -212,8 +212,8 @@ msgid "Contact content type"
 msgstr "Contact"
 
 #: imio/directory/core/contents/contact/content.py:115
-#: imio/smartweb/core/contents/sections/contact/view.pt:40
-#: imio/smartweb/core/vocabularies.py:91
+#: imio/smartweb/core/contents/sections/contact/view.pt:53
+#: imio/smartweb/core/vocabularies.py:93
 msgid "Contact informations"
 msgstr "Coordonnées"
 
@@ -428,7 +428,7 @@ msgstr "Vendredi"
 msgid "Full width"
 msgstr "Pleine page"
 
-#: imio/smartweb/core/vocabularies.py:93
+#: imio/smartweb/core/vocabularies.py:95
 msgid "Gallery"
 msgstr "Galerie"
 
@@ -529,6 +529,10 @@ msgstr "Note interne"
 msgid "Items"
 msgstr "Élements"
 
+#: imio/smartweb/core/contents/sections/contact/view.pt:46
+msgid "Itinerary"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:46
 msgid "Job seeker"
 msgstr "Demandeur d'emploi"
@@ -549,6 +553,10 @@ msgstr "Label (direction, numéro principal, ...)"
 #: imio/smartweb/core/behaviors/subsite.py:19
 #: imio/smartweb/core/contents/folder/content.py:33
 msgid "Layout"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:90
+msgid "Lead Image"
 msgstr ""
 
 #: imio/portletpage/portlets/collection/portlet.py:35
@@ -602,7 +610,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:173
+#: imio/smartweb/core/contents/sections/contact/view.py:189
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -662,11 +670,11 @@ msgstr "En un clic"
 msgid "Only one procedure field can be filled !"
 msgstr "Un seul champ \"démarche\" peut être rempli !"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:148
+#: imio/smartweb/core/contents/sections/contact/view.py:164
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:169
+#: imio/smartweb/core/contents/sections/contact/view.py:185
 msgid "Open at "
 msgstr "Ouvre à "
 
@@ -755,8 +763,8 @@ msgstr "Sécurité & prévention"
 msgid "Saturday"
 msgstr "Samedi"
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:66
-#: imio/smartweb/core/vocabularies.py:92
+#: imio/smartweb/core/contents/sections/contact/view.pt:79
+#: imio/smartweb/core/vocabularies.py:94
 msgid "Schedule"
 msgstr "Horaires"
 
@@ -927,7 +935,7 @@ msgstr "Jeudi"
 msgid "Title"
 msgstr "Titre"
 
-#: imio/smartweb/core/vocabularies.py:89
+#: imio/smartweb/core/vocabularies.py:91
 msgid "Title and Subtitle"
 msgstr "Titre et Sous-titre"
 
@@ -1095,6 +1103,10 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:28
 msgid "imio.smartweb.policy"
+msgstr ""
+
+#: imio/smartweb/policy/configure.zcml:37
+msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:46
