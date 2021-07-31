@@ -531,7 +531,7 @@ msgstr "Élements"
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:46
 msgid "Itinerary"
-msgstr ""
+msgstr "Itinéraire"
 
 #: imio/smartweb/common/vocabularies.py:46
 msgid "Job seeker"
@@ -557,7 +557,7 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:90
 msgid "Lead Image"
-msgstr ""
+msgstr "Image de garde"
 
 #: imio/portletpage/portlets/collection/portlet.py:35
 msgid "Limit"
