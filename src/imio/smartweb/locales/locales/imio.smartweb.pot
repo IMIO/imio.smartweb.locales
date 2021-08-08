@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-07-31 08:39+0000\n"
+"POT-Creation-Date: 2021-08-08 12:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,7 +58,7 @@ msgstr ""
 msgid "Add topics on content types."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:87
+#: imio/directory/core/contents/contact/content.py:89
 #: imio/smartweb/core/contents/sections/contact/view.pt:38
 #: imio/smartweb/core/vocabularies.py:92
 msgid "Address"
@@ -169,7 +169,7 @@ msgstr ""
 msgid "Citizen participation"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:94
+#: imio/directory/core/contents/contact/content.py:96
 msgid "City"
 msgstr ""
 
@@ -201,11 +201,11 @@ msgstr ""
 msgid "Click to preview content (without editor actions)."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:158
+#: imio/smartweb/core/contents/sections/contact/view.py:159
 msgid "Closed"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:92
+#: imio/directory/core/contents/contact/content.py:94
 msgid "Complement"
 msgstr ""
 
@@ -217,7 +217,7 @@ msgstr ""
 msgid "Contact content type"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:115
+#: imio/directory/core/contents/contact/content.py:117
 #: imio/smartweb/core/contents/sections/contact/view.pt:53
 #: imio/smartweb/core/vocabularies.py:93
 msgid "Contact informations"
@@ -231,7 +231,7 @@ msgstr ""
 msgid "Contact section for a page"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:96
+#: imio/directory/core/contents/contact/content.py:98
 msgid "Country"
 msgstr ""
 
@@ -283,11 +283,11 @@ msgstr ""
 msgid "E-Guichet procedure"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:68
+#: imio/directory/core/contents/contact/content.py:70
 msgid "E-mail"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:130
+#: imio/directory/core/contents/contact/content.py:132
 msgid "E-mails"
 msgstr ""
 
@@ -527,7 +527,7 @@ msgstr ""
 msgid "Internal URL"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:187
+#: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
 msgstr ""
 
@@ -547,7 +547,7 @@ msgstr ""
 msgid "Journalist"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:56
+#: imio/directory/core/contents/contact/content.py:58
 msgid "Label (Secretariat, Manager office, Sales,...)"
 msgstr ""
 
@@ -601,7 +601,7 @@ msgstr ""
 msgid "List of links"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:217
+#: imio/directory/core/contents/contact/content.py:219
 #: imio/directory/core/contents/entity/content.py:23
 #: imio/smartweb/core/behaviors/minisite.py:29
 msgid "Logo"
@@ -616,7 +616,7 @@ msgstr ""
 msgid "Logo display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:189
+#: imio/smartweb/core/contents/sections/contact/view.py:190
 msgid "Lunch time"
 msgstr ""
 
@@ -664,8 +664,12 @@ msgstr ""
 msgid "Newcomer"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:49
+#: imio/directory/core/contents/contact/content.py:93
 msgid "Number"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:49
+msgid "Number (format: +32475010203)"
 msgstr ""
 
 #: imio/smartweb/policy/utils.py:35
@@ -676,16 +680,16 @@ msgstr ""
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:164
+#: imio/smartweb/core/contents/sections/contact/view.py:165
 msgid "Open"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:185
+#: imio/smartweb/core/contents/sections/contact/view.py:186
 msgid "Open at "
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:43
-msgid "Organization (municipal administration, municipal service, CPAS, shop, etc.)"
+msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
@@ -709,7 +713,7 @@ msgstr ""
 msgid "Personal phone"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:120
+#: imio/directory/core/contents/contact/content.py:122
 msgid "Phones"
 msgstr ""
 
@@ -729,7 +733,7 @@ msgstr ""
 msgid "Preview"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:154
+#: imio/directory/core/contents/contact/content.py:156
 msgid "Private contact informations"
 msgstr ""
 
@@ -739,10 +743,6 @@ msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:25
 msgid "Procedure url"
-msgstr ""
-
-#: imio/smartweb/core/viewlets/navigation.py:94
-msgid "Quick access"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
@@ -852,7 +852,7 @@ msgstr ""
 msgid "Standard view"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:90
+#: imio/directory/core/contents/contact/content.py:92
 msgid "Street"
 msgstr ""
 
@@ -872,7 +872,7 @@ msgstr ""
 msgid "Subsite has been successfully activated"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:215
+#: imio/directory/core/contents/contact/content.py:217
 msgid "Subtitle"
 msgstr ""
 
@@ -975,7 +975,7 @@ msgstr ""
 msgid "Type"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:140
+#: imio/directory/core/contents/contact/content.py:142
 msgid "URLs"
 msgstr ""
 
@@ -999,7 +999,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:80
+#: imio/directory/core/contents/contact/content.py:82
 msgid "Url"
 msgstr ""
 
@@ -1011,7 +1011,7 @@ msgstr ""
 msgid "Use **text** to set text in bold and *text* to set text in italic."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:118
+#: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"
 msgstr ""
 
@@ -1067,7 +1067,7 @@ msgstr ""
 msgid "Zip codes and cities"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:93
+#: imio/directory/core/contents/contact/content.py:95
 msgid "Zipcode"
 msgstr ""
 

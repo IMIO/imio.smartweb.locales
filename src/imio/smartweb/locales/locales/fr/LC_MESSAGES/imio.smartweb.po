@@ -52,7 +52,7 @@ msgstr "Ajoute les champs de propriétés d'un sous-site"
 msgid "Add topics on content types."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:87
+#: imio/directory/core/contents/contact/content.py:89
 #: imio/smartweb/core/contents/sections/contact/view.pt:38
 #: imio/smartweb/core/vocabularies.py:92
 msgid "Address"
@@ -163,7 +163,7 @@ msgstr "Choisissez les codes postaux liés à cette entité"
 msgid "Citizen participation"
 msgstr "Participation citoyenne"
 
-#: imio/directory/core/contents/contact/content.py:94
+#: imio/directory/core/contents/contact/content.py:96
 msgid "City"
 msgstr "Commune"
 
@@ -195,11 +195,11 @@ msgstr "Exporter le contact vers une vcard."
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
-#: imio/smartweb/core/contents/sections/contact/view.py:158
+#: imio/smartweb/core/contents/sections/contact/view.py:159
 msgid "Closed"
 msgstr "Fermé"
 
-#: imio/directory/core/contents/contact/content.py:92
+#: imio/directory/core/contents/contact/content.py:94
 msgid "Complement"
 msgstr "Complément"
 
@@ -211,7 +211,7 @@ msgstr "Contact"
 msgid "Contact content type"
 msgstr "Contact"
 
-#: imio/directory/core/contents/contact/content.py:115
+#: imio/directory/core/contents/contact/content.py:117
 #: imio/smartweb/core/contents/sections/contact/view.pt:53
 #: imio/smartweb/core/vocabularies.py:93
 msgid "Contact informations"
@@ -225,7 +225,7 @@ msgstr "Section contact"
 msgid "Contact section for a page"
 msgstr "Section contact pour une page"
 
-#: imio/directory/core/contents/contact/content.py:96
+#: imio/directory/core/contents/contact/content.py:98
 msgid "Country"
 msgstr "Pays"
 
@@ -277,11 +277,11 @@ msgstr ""
 msgid "E-Guichet procedure"
 msgstr "Lien vers la démarche dans l'e-guichet iMio"
 
-#: imio/directory/core/contents/contact/content.py:68
+#: imio/directory/core/contents/contact/content.py:70
 msgid "E-mail"
 msgstr "E-mail"
 
-#: imio/directory/core/contents/contact/content.py:130
+#: imio/directory/core/contents/contact/content.py:132
 msgid "E-mails"
 msgstr "E-mails"
 
@@ -521,7 +521,7 @@ msgstr ""
 msgid "Internal URL"
 msgstr "URL interne"
 
-#: imio/directory/core/contents/contact/content.py:187
+#: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
 msgstr "Note interne"
 
@@ -541,7 +541,7 @@ msgstr "Demandeur d'emploi"
 msgid "Journalist"
 msgstr "Journaliste"
 
-#: imio/directory/core/contents/contact/content.py:56
+#: imio/directory/core/contents/contact/content.py:58
 msgid "Label (Secretariat, Manager office, Sales,...)"
 msgstr "Label (Secrétariat, Bureau de la direction, Ventes, ...)"
 
@@ -595,7 +595,7 @@ msgstr "Liste"
 msgid "List of links"
 msgstr "Liste de liens"
 
-#: imio/directory/core/contents/contact/content.py:217
+#: imio/directory/core/contents/contact/content.py:219
 #: imio/directory/core/contents/entity/content.py:23
 #: imio/smartweb/core/behaviors/minisite.py:29
 msgid "Logo"
@@ -610,7 +610,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:189
+#: imio/smartweb/core/contents/sections/contact/view.py:190
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -658,9 +658,13 @@ msgstr "Lundi"
 msgid "Newcomer"
 msgstr "Nouvel arrivant"
 
-#: imio/directory/core/contents/contact/content.py:49
+#: imio/directory/core/contents/contact/content.py:93
 msgid "Number"
 msgstr "Numéro"
+
+#: imio/directory/core/contents/contact/content.py:49
+msgid "Number (format: +32475010203)"
+msgstr ""
 
 #: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
@@ -670,17 +674,17 @@ msgstr "En un clic"
 msgid "Only one procedure field can be filled !"
 msgstr "Un seul champ \"démarche\" peut être rempli !"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:164
+#: imio/smartweb/core/contents/sections/contact/view.py:165
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:185
+#: imio/smartweb/core/contents/sections/contact/view.py:186
 msgid "Open at "
 msgstr "Ouvre à "
 
 #: imio/directory/core/vocabularies.py:43
-msgid "Organization (municipal administration, municipal service, CPAS, shop, etc.)"
-msgstr "Organisation (administration communale, service communal, CPAS, commerce, etc.)"
+msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
+msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -703,7 +707,7 @@ msgstr "E-mail personnel"
 msgid "Personal phone"
 msgstr "Téléphone personnel"
 
-#: imio/directory/core/contents/contact/content.py:120
+#: imio/directory/core/contents/contact/content.py:122
 msgid "Phones"
 msgstr "Téléphones"
 
@@ -723,7 +727,7 @@ msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service,
 msgid "Preview"
 msgstr "Prévisualiser"
 
-#: imio/directory/core/contents/contact/content.py:154
+#: imio/directory/core/contents/contact/content.py:156
 msgid "Private contact informations"
 msgstr "Coordonnées privées"
 
@@ -734,10 +738,6 @@ msgstr "Démarche"
 #: imio/smartweb/core/contents/pages/procedure/content.py:25
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
-
-#: imio/smartweb/core/viewlets/navigation.py:94
-msgid "Quick access"
-msgstr "Accès rapide"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
@@ -846,7 +846,7 @@ msgstr "Page standard pour afficher de l'information"
 msgid "Standard view"
 msgstr "Affichage standard"
 
-#: imio/directory/core/contents/contact/content.py:90
+#: imio/directory/core/contents/contact/content.py:92
 msgid "Street"
 msgstr "Rue"
 
@@ -866,7 +866,7 @@ msgstr "Le mode sous-site a été désactivé"
 msgid "Subsite has been successfully activated"
 msgstr "Le mode sous-site a été activé avec succès"
 
-#: imio/directory/core/contents/contact/content.py:215
+#: imio/directory/core/contents/contact/content.py:217
 msgid "Subtitle"
 msgstr "Sous-titre"
 
@@ -969,7 +969,7 @@ msgstr "Deux tiers de la page"
 msgid "Type"
 msgstr "Type"
 
-#: imio/directory/core/contents/contact/content.py:140
+#: imio/directory/core/contents/contact/content.py:142
 msgid "URLs"
 msgstr "URLs"
 
@@ -993,7 +993,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:80
+#: imio/directory/core/contents/contact/content.py:82
 msgid "Url"
 msgstr "URL"
 
@@ -1005,7 +1005,7 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 msgid "Use **text** to set text in bold and *text* to set text in italic."
 msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre du texte en italique."
 
-#: imio/directory/core/contents/contact/content.py:118
+#: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"
 msgstr "Numéro d'entreprise / TVA"
 
@@ -1061,7 +1061,7 @@ msgstr "L'élément vue par défaut du dossier est"
 msgid "Zip codes and cities"
 msgstr "Codes postaux et communes"
 
-#: imio/directory/core/contents/contact/content.py:93
+#: imio/directory/core/contents/contact/content.py:95
 msgid "Zipcode"
 msgstr "Code postal"
 
