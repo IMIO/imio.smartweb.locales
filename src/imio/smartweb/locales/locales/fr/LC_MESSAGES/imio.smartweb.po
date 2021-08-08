@@ -664,7 +664,7 @@ msgstr "Numéro"
 
 #: imio/directory/core/contents/contact/content.py:49
 msgid "Number (format: +32475010203)"
-msgstr ""
+msgstr "Numéro (format: +32475010203)"
 
 #: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
@@ -684,7 +684,7 @@ msgstr "Ouvre à "
 
 #: imio/directory/core/vocabularies.py:43
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
-msgstr ""
+msgstr "Organisation (service administratif, commerce, profession libérale, club sportif, association, etc.)"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
