@@ -20,6 +20,10 @@ msgstr ""
 msgid "A portlet content type for homepage."
 msgstr "Type de contenu portlet pour la homepage."
 
+#: imio/directory/core/vocabularies.py:79
+msgid "Accessibility (PMR)"
+msgstr ""
+
 #: imio/portletpage/portlets/collection/portlet.py:77
 msgid "Add Collection Portlet"
 msgstr "Ajouter une portlet collection"
@@ -195,13 +199,21 @@ msgstr "Exporter le contact vers une vcard."
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
-#: imio/smartweb/core/contents/sections/contact/view.py:159
+#: imio/smartweb/core/contents/sections/contact/view.py:161
 msgid "Closed"
 msgstr "Fermé"
 
 #: imio/directory/core/contents/contact/content.py:94
 msgid "Complement"
 msgstr "Complément"
+
+#: imio/events/core/vocabularies.py:13
+msgid "Concert & festival"
+msgstr ""
+
+#: imio/events/core/vocabularies.py:14
+msgid "Conference & debate"
+msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
@@ -232,6 +244,10 @@ msgstr "Pays"
 #: imio/smartweb/common/vocabularies.py:11
 msgid "Culture"
 msgstr "Culture"
+
+#: imio/directory/core/vocabularies.py:80
+msgid "Defibrillator"
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -268,6 +284,10 @@ msgstr "En situation de handicap"
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
 msgstr "Afficher la bannière"
+
+#: imio/directory/core/vocabularies.py:82
+msgid "Drinking water point"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "E-Guichet"
@@ -365,16 +385,20 @@ msgstr "Exclure dans l'affichage listing du parent"
 msgid "Export contact"
 msgstr "Exporter le contact"
 
+#: imio/events/core/vocabularies.py:15
+msgid "Exposure"
+msgstr ""
+
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
 msgstr "URL externe"
 
-#: imio/directory/core/vocabularies.py:95
+#: imio/directory/core/vocabularies.py:65
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Facebook"
 msgstr "Facebook"
 
-#: imio/directory/core/vocabularies.py:66
+#: imio/directory/core/vocabularies.py:36
 msgid "Fax"
 msgstr "Fax"
 
@@ -388,6 +412,10 @@ msgstr "Création d'une section de fichiers dans votre page."
 
 #: imio/portletpage/portlets/collection/portlet.py:29
 msgid "Find the collection which provides the items to list"
+msgstr ""
+
+#: imio/events/core/vocabularies.py:12
+msgid "Flea market & market"
 msgstr ""
 
 #: imio/events/core/profiles/default/types/imio.events.Folder.xml
@@ -420,7 +448,11 @@ msgstr "Pied de page"
 msgid "Footer has been successfully added"
 msgstr "Le pied de page a été ajouté avec succès"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:49
+#: imio/directory/core/vocabularies.py:84
+msgid "Free WIFI"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/view.py:50
 msgid "Friday"
 msgstr "Vendredi"
 
@@ -497,7 +529,7 @@ msgstr ""
 msgid "Installs the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/core/configure.zcml:32
+#: imio/events/core/configure.zcml:33
 msgid "Installs the imio.events.core add-on."
 msgstr ""
 
@@ -524,6 +556,10 @@ msgstr "URL interne"
 #: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
 msgstr "Note interne"
+
+#: imio/events/core/vocabularies.py:19
+msgid "Internships & courses"
+msgstr ""
 
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
@@ -610,7 +646,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:190
+#: imio/smartweb/core/contents/sections/contact/view.py:200
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -638,11 +674,11 @@ msgstr "Le mode minisite a été désactivé"
 msgid "Minisite has been successfully activated"
 msgstr "Le mode minisite a été activé avec succès"
 
-#: imio/directory/core/vocabularies.py:53
+#: imio/directory/core/vocabularies.py:23
 msgid "Mission (passports, reception, parking, etc.)"
 msgstr "Mission (passeports, accueil, stationnement, etc.)"
 
-#: imio/directory/core/vocabularies.py:67
+#: imio/directory/core/vocabularies.py:37
 msgid "Mobile"
 msgstr "GSM"
 
@@ -650,9 +686,13 @@ msgstr "GSM"
 msgid "Mobility"
 msgstr "Mobilité"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:45
+#: imio/smartweb/core/contents/sections/contact/view.py:46
 msgid "Monday"
 msgstr "Lundi"
+
+#: imio/events/core/vocabularies.py:16
+msgid "Movie"
+msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:42
 msgid "Newcomer"
@@ -674,15 +714,15 @@ msgstr "En un clic"
 msgid "Only one procedure field can be filled !"
 msgstr "Un seul champ \"démarche\" peut être rempli !"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:165
+#: imio/smartweb/core/contents/sections/contact/view.py:168
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:186
+#: imio/smartweb/core/contents/sections/contact/view.py:194
 msgid "Open at "
 msgstr "Ouvre à "
 
-#: imio/directory/core/vocabularies.py:43
+#: imio/directory/core/vocabularies.py:13
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
 msgstr "Organisation (service administratif, commerce, profession libérale, club sportif, association, etc.)"
 
@@ -699,11 +739,15 @@ msgstr "Parent"
 msgid "Parent listing"
 msgstr "Listing du parent"
 
-#: imio/directory/core/vocabularies.py:82
+#: imio/events/core/vocabularies.py:17
+msgid "Party & folklore"
+msgstr ""
+
+#: imio/directory/core/vocabularies.py:52
 msgid "Personal email"
 msgstr "E-mail personnel"
 
-#: imio/directory/core/vocabularies.py:68
+#: imio/directory/core/vocabularies.py:38
 msgid "Personal phone"
 msgstr "Téléphone personnel"
 
@@ -719,7 +763,7 @@ msgstr "Vie politique"
 msgid "PortletPage"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:49
+#: imio/directory/core/vocabularies.py:19
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
 msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service, etc.)"
 
@@ -738,6 +782,10 @@ msgstr "Démarche"
 #: imio/smartweb/core/contents/pages/procedure/content.py:25
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
+
+#: imio/directory/core/vocabularies.py:83
+msgid "Public toilets"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
@@ -759,7 +807,7 @@ msgstr "Création d'une section de texte dans votre page."
 msgid "Safety & prevention"
 msgstr "Sécurité & prévention"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:50
+#: imio/smartweb/core/contents/sections/contact/view.py:51
 msgid "Saturday"
 msgstr "Samedi"
 
@@ -850,6 +898,10 @@ msgstr "Affichage standard"
 msgid "Street"
 msgstr "Rue"
 
+#: imio/events/core/vocabularies.py:11
+msgid "Stroll & discovery"
+msgstr ""
+
 #: imio/directory/core/contents/contact/view.pt:122
 msgid "Sub contacts"
 msgstr "Sous-contacts"
@@ -878,7 +930,7 @@ msgstr "Affichage liste"
 msgid "Summary view with images"
 msgstr "Affichage liste avec images"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:51
+#: imio/smartweb/core/contents/sections/contact/view.py:52
 msgid "Sunday"
 msgstr "Dimanche"
 
@@ -921,11 +973,15 @@ msgstr "Section de texte"
 msgid "The text to render"
 msgstr "Texte à afficher"
 
+#: imio/events/core/vocabularies.py:20
+msgid "Theater & show"
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:60
 msgid "Third of width"
 msgstr "Tiers de la page"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:48
+#: imio/smartweb/core/contents/sections/contact/view.py:49
 msgid "Thursday"
 msgstr "Jeudi"
 
@@ -953,11 +1009,15 @@ msgstr "Tourisme"
 msgid "Tourist"
 msgstr "Touriste"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:46
+#: imio/events/core/vocabularies.py:18
+msgid "Trade Fair & Fair"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/view.py:47
 msgid "Tuesday"
 msgstr "Mardi"
 
-#: imio/directory/core/vocabularies.py:96
+#: imio/directory/core/vocabularies.py:66
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -977,7 +1037,7 @@ msgstr "URLs"
 msgid "Uninstalls the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/core/configure.zcml:41
+#: imio/events/core/configure.zcml:42
 msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
 
@@ -1005,6 +1065,10 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 msgid "Use **text** to set text in bold and *text* to set text in italic."
 msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre du texte en italique."
 
+#: imio/directory/core/vocabularies.py:81
+msgid "Useful numbers"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"
 msgstr "Numéro d'entreprise / TVA"
@@ -1029,19 +1093,19 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 msgid "Visible blocks"
 msgstr "Blocs visibles"
 
-#: imio/directory/core/vocabularies.py:97
+#: imio/directory/core/vocabularies.py:67
 msgid "Website"
 msgstr "Site web"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:47
+#: imio/smartweb/core/contents/sections/contact/view.py:48
 msgid "Wednesday"
 msgstr "Mercredi"
 
-#: imio/directory/core/vocabularies.py:83
+#: imio/directory/core/vocabularies.py:53
 msgid "Work email"
 msgstr "E-mail professionnel"
 
-#: imio/directory/core/vocabularies.py:69
+#: imio/directory/core/vocabularies.py:39
 msgid "Work phone"
 msgstr "Téléphone professionnel"
 
@@ -1073,11 +1137,11 @@ msgstr ""
 msgid "imio.directory.policy (uninstall)"
 msgstr ""
 
-#: imio/events/core/configure.zcml:32
+#: imio/events/core/configure.zcml:33
 msgid "imio.events.core"
 msgstr ""
 
-#: imio/events/core/configure.zcml:41
+#: imio/events/core/configure.zcml:42
 msgid "imio.events.core (uninstall)"
 msgstr ""
 
