@@ -22,7 +22,7 @@ msgstr "Type de contenu portlet pour la homepage."
 
 #: imio/directory/core/vocabularies.py:79
 msgid "Accessibility (PMR)"
-msgstr ""
+msgstr "Accessibilité (PMR)"
 
 #: imio/portletpage/portlets/collection/portlet.py:77
 msgid "Add Collection Portlet"
@@ -209,11 +209,11 @@ msgstr "Complément"
 
 #: imio/events/core/vocabularies.py:13
 msgid "Concert & festival"
-msgstr ""
+msgstr "Concert & festival"
 
 #: imio/events/core/vocabularies.py:14
 msgid "Conference & debate"
-msgstr ""
+msgstr "Conférence & débat"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
@@ -247,7 +247,7 @@ msgstr "Culture"
 
 #: imio/directory/core/vocabularies.py:80
 msgid "Defibrillator"
-msgstr ""
+msgstr "Défibrillateur"
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -287,7 +287,7 @@ msgstr "Afficher la bannière"
 
 #: imio/directory/core/vocabularies.py:82
 msgid "Drinking water point"
-msgstr ""
+msgstr "Point d'eau potable"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "E-Guichet"
@@ -386,8 +386,8 @@ msgid "Export contact"
 msgstr "Exporter le contact"
 
 #: imio/events/core/vocabularies.py:15
-msgid "Exposure"
-msgstr ""
+msgid "Exhibit"
+msgstr "Exposition"
 
 #: imio/portletpage/portlets/link/portlet.py:93
 msgid "External URL"
@@ -416,7 +416,7 @@ msgstr ""
 
 #: imio/events/core/vocabularies.py:12
 msgid "Flea market & market"
-msgstr ""
+msgstr "Brocante & marché"
 
 #: imio/events/core/profiles/default/types/imio.events.Folder.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Folder.xml
@@ -450,7 +450,7 @@ msgstr "Le pied de page a été ajouté avec succès"
 
 #: imio/directory/core/vocabularies.py:84
 msgid "Free WIFI"
-msgstr ""
+msgstr "Wifi gratuit"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:50
 msgid "Friday"
@@ -559,7 +559,7 @@ msgstr "Note interne"
 
 #: imio/events/core/vocabularies.py:19
 msgid "Internships & courses"
-msgstr ""
+msgstr "Stages & cours"
 
 #: imio/portletpage/portlets/selection/portlet.py:24
 msgid "Items"
@@ -692,7 +692,7 @@ msgstr "Lundi"
 
 #: imio/events/core/vocabularies.py:16
 msgid "Movie"
-msgstr ""
+msgstr "Film"
 
 #: imio/smartweb/common/vocabularies.py:42
 msgid "Newcomer"
@@ -741,7 +741,7 @@ msgstr "Listing du parent"
 
 #: imio/events/core/vocabularies.py:17
 msgid "Party & folklore"
-msgstr ""
+msgstr "Fête & folklore"
 
 #: imio/directory/core/vocabularies.py:52
 msgid "Personal email"
@@ -785,7 +785,7 @@ msgstr "Lien vers la démarche"
 
 #: imio/directory/core/vocabularies.py:83
 msgid "Public toilets"
-msgstr ""
+msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
@@ -900,7 +900,7 @@ msgstr "Rue"
 
 #: imio/events/core/vocabularies.py:11
 msgid "Stroll & discovery"
-msgstr ""
+msgstr "Balade & découverte"
 
 #: imio/directory/core/contents/contact/view.pt:122
 msgid "Sub contacts"
@@ -975,7 +975,7 @@ msgstr "Texte à afficher"
 
 #: imio/events/core/vocabularies.py:20
 msgid "Theater & show"
-msgstr ""
+msgstr "Théâtre & spectacle"
 
 #: imio/smartweb/core/vocabularies.py:60
 msgid "Third of width"
@@ -1011,7 +1011,7 @@ msgstr "Touriste"
 
 #: imio/events/core/vocabularies.py:18
 msgid "Trade Fair & Fair"
-msgstr ""
+msgstr "Salon & Foire"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:47
 msgid "Tuesday"
@@ -1067,7 +1067,7 @@ msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre d
 
 #: imio/directory/core/vocabularies.py:81
 msgid "Useful numbers"
-msgstr ""
+msgstr "N° utiles"
 
 #: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"

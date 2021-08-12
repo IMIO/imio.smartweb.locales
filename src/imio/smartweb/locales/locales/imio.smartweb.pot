@@ -392,7 +392,7 @@ msgid "Export contact"
 msgstr ""
 
 #: imio/events/core/vocabularies.py:15
-msgid "Exposure"
+msgid "Exhibit"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:93
