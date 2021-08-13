@@ -5,6 +5,12 @@ Changelog
 1.0a5 (unreleased)
 ------------------
 
+- Add imio.news.core package to locales
+  [laulaz]
+
+- Add imio.events.policy package to locales
+  [laulaz]
+
 - Add imio.smartweb.common package to locales
   [laulaz]
 
