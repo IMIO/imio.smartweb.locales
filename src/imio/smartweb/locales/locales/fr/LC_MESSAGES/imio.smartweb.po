@@ -1092,7 +1092,7 @@ msgstr "Titre et Sous-titre"
 #: imio/smartweb/common/behaviors/configure.zcml:13
 #: imio/smartweb/common/behaviors/topics.py:17
 msgid "Topics"
-msgstr "Sujets"
+msgstr "Thématiques"
 
 #: imio/smartweb/common/vocabularies.py:29
 msgid "Tourism"
