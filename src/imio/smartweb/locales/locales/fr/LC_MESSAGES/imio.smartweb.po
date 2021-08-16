@@ -30,7 +30,7 @@ msgstr "Ajouter une portlet collection"
 
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
-msgstr ""
+msgstr "Ajoute les catégories Je suis sur un type de contenu."
 
 #: imio/portletpage/portlets/link/portlet.py:167
 msgid "Add Link Portlet"
@@ -58,7 +58,7 @@ msgstr "Ajoute les champs de propriétés d'un sous-site"
 
 #: imio/smartweb/common/behaviors/configure.zcml:13
 msgid "Add topics on content types."
-msgstr ""
+msgstr "Ajoute les thématiques sur un type de contenu."
 
 #: imio/directory/core/contents/contact/content.py:90
 #: imio/events/core/contents/event/content.py:17
@@ -157,15 +157,15 @@ msgstr "Catégorisation"
 #: imio/events/core/contents/event/content.py:102
 #: imio/events/core/contents/event/view.pt:39
 msgid "Category"
-msgstr ""
+msgstr "Catégorie"
 
 #: imio/events/core/contents/event/content.py:82
 msgid "Check if entry is free"
-msgstr ""
+msgstr "Cochez si l'événement est gratuit"
 
 #: imio/events/core/contents/event/content.py:95
 msgid "Check if there is facilities for person with reduced mobility"
-msgstr ""
+msgstr "Cochez si l'événement est accessible aux personnes à mobilité réduite"
 
 #: imio/smartweb/core/contents/folder/content.py:26
 msgid "Choose an item as your default folder view"
@@ -402,7 +402,7 @@ msgstr "Événement"
 
 #: imio/events/core/contents/event/content.py:52
 msgid "Event site url"
-msgstr ""
+msgstr "Site web de l'événement"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -428,16 +428,16 @@ msgstr "Facebook"
 
 #: imio/events/core/contents/event/content.py:64
 msgid "Facebook url for this event"
-msgstr ""
+msgstr "Adresse facebook pour cet événement"
 
 #: imio/directory/core/contents/contact/content.py:224
 msgid "Facilities"
-msgstr ""
+msgstr "Facilités"
 
 #: imio/events/core/contents/event/content.py:94
 #: imio/events/core/contents/event/view.pt:45
 msgid "Facilities for person with reduced mobility"
-msgstr ""
+msgstr "Accessible aux personnes à mobilité réduite"
 
 #: imio/directory/core/vocabularies.py:36
 msgid "Fax"
@@ -496,7 +496,7 @@ msgstr "Wifi gratuit"
 #: imio/events/core/contents/event/content.py:81
 #: imio/events/core/contents/event/view.pt:42
 msgid "Free entry"
-msgstr ""
+msgstr "Gratuit"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:50
 msgid "Friday"
@@ -569,24 +569,28 @@ msgstr "Échelle de l'image"
 
 #: imio/smartweb/common/behaviors/iam.py:18
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
-msgstr ""
+msgstr "Important! Ces catégories sont utilisées pour créer des listes accessibles via le menu navigation"
 
 #: imio/events/core/contents/event/content.py:103
 msgid "Important! These categories are used to supplement the information provided by the topics"
-msgstr ""
+msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques"
 
 #: imio/directory/core/contents/contact/content.py:225
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
-msgstr ""
+msgstr "Important! Ces catégories permettent de mettre en avant et de géolocaliser certains services de base"
 
 #: imio/smartweb/common/behaviors/topics.py:18
 msgid "Important! Topics are used to filter search results and create lists"
-msgstr ""
+msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats de la recherche et créer des listes"
 
 #: imio/events/core/contents/event/content.py:75
 #: imio/events/core/contents/event/view.pt:57
 msgid "Instagram"
 msgstr ""
+
+#: imio/events/core/contents/event/content.py:76
+msgid "Instagram url for this event"
+msgstr "Adresse Instagram pour cet événement"
 
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
@@ -618,10 +622,6 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:37
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
-msgstr ""
-
-#: imio/events/core/contents/event/content.py:76
-msgid "Instgram url for this event"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:91
@@ -684,7 +684,7 @@ msgstr "Lien vers Facebook"
 
 #: imio/events/core/contents/event/content.py:89
 msgid "Link to online participation"
-msgstr ""
+msgstr "lien pour participer en ligne"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Link to your e-guichet"
@@ -792,11 +792,11 @@ msgstr "En un clic"
 
 #: imio/events/core/contents/event/view.pt:60
 msgid "Online participation"
-msgstr ""
+msgstr "Participation en ligne"
 
 #: imio/events/core/contents/event/content.py:88
 msgid "Online participation url"
-msgstr ""
+msgstr "Adresse pour la participation en ligne"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:33
 msgid "Only one procedure field can be filled !"
@@ -1073,11 +1073,11 @@ msgstr "Jeudi"
 #: imio/events/core/contents/event/content.py:57
 #: imio/events/core/contents/event/view.pt:48
 msgid "Ticket url"
-msgstr ""
+msgstr "Adresse de billeterie"
 
 #: imio/events/core/contents/event/content.py:58
 msgid "Ticket url to subscribe to this event"
-msgstr ""
+msgstr "Adresse de la billeterie pour s'inscrire à cet événement"
 
 #: imio/portletpage/contents/portletpage/content.py:18
 #: imio/portletpage/portlets/collection/portlet.py:20
@@ -1118,7 +1118,7 @@ msgstr "Twitter"
 
 #: imio/events/core/contents/event/content.py:70
 msgid "Twitter url for this event"
-msgstr ""
+msgstr "Adresse Twitter pour cet événement"
 
 #: imio/smartweb/core/vocabularies.py:62
 msgid "Two third of width"
