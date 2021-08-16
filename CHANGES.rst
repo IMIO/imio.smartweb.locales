@@ -5,6 +5,9 @@ Changelog
 1.0a5 (unreleased)
 ------------------
 
+- Add imio.news.policy package to locales
+  [laulaz]
+
 - Add imio.news.core package to locales
   [laulaz]
 
