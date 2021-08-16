@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-08-16 10:07+0000\n"
+"POT-Creation-Date: 2021-08-16 10:20+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -595,6 +595,10 @@ msgstr ""
 msgid "Instagram"
 msgstr ""
 
+#: imio/events/core/contents/event/content.py:76
+msgid "Instagram url for this event"
+msgstr ""
+
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
 msgstr ""
@@ -625,10 +629,6 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:37
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
-msgstr ""
-
-#: imio/events/core/contents/event/content.py:76
-msgid "Instgram url for this event"
 msgstr ""
 
 #: imio/portletpage/portlets/link/portlet.py:91
