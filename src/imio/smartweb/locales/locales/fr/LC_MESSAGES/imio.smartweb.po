@@ -30,7 +30,7 @@ msgstr "Ajouter une portlet collection"
 
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
-msgstr ""
+msgstr "Ajout d'une catégorie JE SUIS sur le contenu."
 
 #: imio/portletpage/portlets/link/portlet.py:167
 msgid "Add Link Portlet"
@@ -58,7 +58,7 @@ msgstr "Ajoute les champs de propriétés d'un sous-site"
 
 #: imio/smartweb/common/behaviors/configure.zcml:13
 msgid "Add topics on content types."
-msgstr ""
+msgstr "Ajouter une thématique transversale sur le contenu."
 
 #: imio/directory/core/contents/contact/content.py:90
 #: imio/events/core/contents/event/content.py:17
@@ -326,7 +326,7 @@ msgstr "Lien vers la démarche dans l'e-guichet iMio"
 
 #: imio/directory/core/contents/contact/content.py:71
 msgid "E-mail"
-msgstr ""
+msgstr "Adresse e-mail"
 
 #: imio/directory/core/contents/contact/content.py:132
 msgid "E-mails"
@@ -448,11 +448,11 @@ msgstr "Adresse facebook pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:27
 msgid "Facebook url for this news"
-msgstr ""
+msgstr "Lien facebook pour cette actualité"
 
 #: imio/directory/core/contents/contact/content.py:223
 msgid "Facilities"
-msgstr ""
+msgstr "Facilités"
 
 #: imio/events/core/contents/event/content.py:94
 #: imio/events/core/contents/event/view.pt:45
@@ -605,7 +605,7 @@ msgstr ""
 #: imio/events/core/contents/event/content.py:103
 #: imio/news/core/contents/newsitem/content.py:46
 msgid "Important! These categories are used to supplement the information provided by the topics"
-msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques"
+msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques transversales"
 
 #: imio/directory/core/contents/contact/content.py:224
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:39
 msgid "Instgram url for this news"
-msgstr ""
+msgstr "Lien Instagram de cette actualité"
 
 #: imio/portletpage/portlets/link/portlet.py:91
 msgid "Internal URL"
@@ -675,7 +675,7 @@ msgstr "URL interne"
 
 #: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
-msgstr ""
+msgstr "Note interne"
 
 #: imio/events/core/vocabularies.py:22
 msgid "Internships and courses"
@@ -703,11 +703,11 @@ msgstr "Journaliste"
 
 #: imio/directory/core/contents/contact/content.py:59
 msgid "Label (Secretariat, Manager office, Sales,...)"
-msgstr ""
+msgstr "Intitulé (Secrétariat, Directeur, Ventes,...)"
 
 #: imio/directory/core/contents/contact/content.py:37
 msgid "Label (direction, Main number,...)"
-msgstr ""
+msgstr "Libellé (direction, numéro principal,...)"
 
 #: imio/smartweb/core/behaviors/minisite.py:24
 #: imio/smartweb/core/behaviors/subsite.py:19
@@ -812,11 +812,11 @@ msgstr "Le mode minisite a été activé avec succès"
 
 #: imio/directory/core/vocabularies.py:23
 msgid "Mission (passports, reception, parking, etc.)"
-msgstr ""
+msgstr "Mission (passports, réception, parking, etc.)"
 
 #: imio/directory/core/vocabularies.py:37
 msgid "Mobile"
-msgstr ""
+msgstr "GSM"
 
 #: imio/smartweb/common/vocabularies.py:25
 msgid "Mobility"
@@ -832,11 +832,11 @@ msgstr "Film"
 
 #: imio/smartweb/common/vocabularies.py:50
 msgid "Newcomer"
-msgstr ""
+msgstr "Nouvel arrivant"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsFolder.xml
 msgid "News folder"
-msgstr "Nouvel arrivant"
+msgstr ""
 
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
@@ -844,7 +844,7 @@ msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:21
 msgid "NewsItem site url"
-msgstr ""
+msgstr "Lien du site de l'actualité"
 
 #: imio/directory/core/contents/contact/content.py:94
 #: imio/events/core/contents/event/content.py:21
@@ -853,7 +853,7 @@ msgstr "Numéro"
 
 #: imio/directory/core/contents/contact/content.py:50
 msgid "Number (format: +32475010203)"
-msgstr ""
+msgstr "Numéro (format: +32475010203)"
 
 #: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
@@ -881,7 +881,7 @@ msgstr "Ouvre à "
 
 #: imio/directory/core/vocabularies.py:13
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
-msgstr ""
+msgstr "Organisation (Service administratif, professionnel, entreprise, club de sport, association, etc.)"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -902,15 +902,15 @@ msgstr "Fête et folklore"
 
 #: imio/directory/core/vocabularies.py:52
 msgid "Personal email"
-msgstr ""
+msgstr "Adresse e-mail personnelle"
 
 #: imio/directory/core/vocabularies.py:38
 msgid "Personal phone"
-msgstr ""
+msgstr "Numéro de téléphone personnel"
 
 #: imio/directory/core/contents/contact/content.py:122
 msgid "Phones"
-msgstr ""
+msgstr "Téléphones"
 
 #: imio/smartweb/common/vocabularies.py:27
 msgid "Politics"
@@ -922,7 +922,7 @@ msgstr ""
 
 #: imio/directory/core/vocabularies.py:19
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
-msgstr ""
+msgstr "Fonction (bourgmestre, échevin, directeur, chef de département, etc.)"
 
 #: imio/news/core/vocabularies.py:15
 msgid "Presse"
@@ -934,7 +934,7 @@ msgstr "Prévisualiser"
 
 #: imio/directory/core/contents/contact/content.py:156
 msgid "Private contact informations"
-msgstr ""
+msgstr "Informations privées du contact"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
 msgid "Procedure"
@@ -1088,7 +1088,7 @@ msgstr "Balade et découverte"
 
 #: imio/directory/core/contents/contact/view.pt:122
 msgid "Sub contacts"
-msgstr ""
+msgstr "Sous contacts"
 
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
@@ -1104,7 +1104,7 @@ msgstr "Le mode sous-site a été activé avec succès"
 
 #: imio/directory/core/contents/contact/content.py:217
 msgid "Subtitle"
-msgstr ""
+msgstr "Sous-titre"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:63
 msgid "Summary view"
@@ -1213,7 +1213,7 @@ msgstr "Adresse Twitter pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:33
 msgid "Twitter url for this news"
-msgstr ""
+msgstr "Lien Twitter pour cette actualité"
 
 #: imio/smartweb/core/vocabularies.py:62
 msgid "Two third of width"
@@ -1305,7 +1305,7 @@ msgstr "Blocs visibles"
 
 #: imio/directory/core/vocabularies.py:67
 msgid "Website"
-msgstr ""
+msgstr "Site Internet"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:48
 msgid "Wednesday"
@@ -1313,11 +1313,11 @@ msgstr "Mercredi"
 
 #: imio/directory/core/vocabularies.py:53
 msgid "Work email"
-msgstr ""
+msgstr "Adresse e-mail professionnelle"
 
 #: imio/directory/core/vocabularies.py:39
 msgid "Work phone"
-msgstr ""
+msgstr "Numéro de téléphone professionnel"
 
 #: imio/news/core/vocabularies.py:17
 msgid "Works"
