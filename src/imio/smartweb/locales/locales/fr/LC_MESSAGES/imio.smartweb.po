@@ -1274,9 +1274,9 @@ msgstr ""
 #. Default: "You are editing the default page of a container. If you wanted to edit the container itself, ${go_here}."
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container"
-msgstr ""
+msgstr "Vous modifiez actuellement la page d'accueil d'un dossier. Si vous voulez modifier le dossier lui-même, ${go_here}."
 
 #. Default: "go here"
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container_go_here"
-msgstr ""
+msgstr "cliquez ici"
