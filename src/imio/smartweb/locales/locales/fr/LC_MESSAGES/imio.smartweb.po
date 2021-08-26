@@ -178,7 +178,7 @@ msgstr "Activer le mode sous-site."
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Click to export contact to vcard."
-msgstr ""
+msgstr "Exporter le contact vers une vcard."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to preview content (without editor actions)."
@@ -203,11 +203,11 @@ msgstr "Conférence et débat"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact content type"
-msgstr ""
+msgstr "Contact"
 
 #: imio/directory/core/contents/contact/content.py:117
 #: imio/smartweb/core/contents/sections/contact/view.pt:55
@@ -374,7 +374,7 @@ msgstr "Exposition"
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Export contact"
-msgstr ""
+msgstr "Exporter le contact"
 
 #: imio/directory/core/vocabularies.py:65
 #: imio/events/core/contents/event/content.py:63
@@ -401,7 +401,7 @@ msgstr "Accessible aux personnes à mobilité réduite"
 
 #: imio/directory/core/vocabularies.py:36
 msgid "Fax"
-msgstr ""
+msgstr "Fax"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
 msgid "Files section"
@@ -524,24 +524,24 @@ msgstr "Échelle de l'image"
 #: imio/events/core/contents/event/content.py:112
 #: imio/news/core/contents/newsitem/content.py:55
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
-msgstr ""
+msgstr "Important! Ces catégories permettent d'utiliser des critères qui sont propres à votre organisation"
 
 #: imio/smartweb/common/behaviors/iam.py:18
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
-msgstr ""
+msgstr "Important! Ces catégories sont utilisées pour créer des listes accessibles via le menu navigation"
 
 #: imio/events/core/contents/event/content.py:103
 #: imio/news/core/contents/newsitem/content.py:46
 msgid "Important! These categories are used to supplement the information provided by the topics"
-msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques transversales"
+msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques"
 
 #: imio/directory/core/contents/contact/content.py:224
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
-msgstr ""
+msgstr "Important! Ces catégories permettent de mettre en avant et de géolocaliser certains services de base"
 
 #: imio/smartweb/common/behaviors/topics.py:18
 msgid "Important! Topics are used to filter search results and create lists"
-msgstr ""
+msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats de la recherche et créer des listes"
 
 #: imio/events/core/contents/event/content.py:75
 #: imio/events/core/contents/event/view.pt:57
@@ -619,11 +619,11 @@ msgstr "Journaliste"
 
 #: imio/directory/core/contents/contact/content.py:59
 msgid "Label (Secretariat, Manager office, Sales,...)"
-msgstr "Intitulé (Secrétariat, Directeur, Ventes,...)"
+msgstr "Intitulé (Secrétariat, Bureau de la direction, Ventes, ...)"
 
 #: imio/directory/core/contents/contact/content.py:37
 msgid "Label (direction, Main number,...)"
-msgstr "Libellé (direction, numéro principal,...)"
+msgstr "Intitulé (direction, numéro principal, ...)"
 
 #: imio/smartweb/core/behaviors/minisite.py:24
 #: imio/smartweb/core/behaviors/subsite.py:19
@@ -708,7 +708,7 @@ msgstr "Le mode minisite a été activé avec succès"
 
 #: imio/directory/core/vocabularies.py:23
 msgid "Mission (passports, reception, parking, etc.)"
-msgstr "Mission (passports, réception, parking, etc.)"
+msgstr "Mission (passeports, réception, parking, etc.)"
 
 #: imio/directory/core/vocabularies.py:37
 msgid "Mobile"
@@ -777,7 +777,7 @@ msgstr "Ouvre à "
 
 #: imio/directory/core/vocabularies.py:13
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
-msgstr "Organisation (Service administratif, professionnel, entreprise, club de sport, association, etc.)"
+msgstr "Organisation (service administratif, commerce, profession libérale, club sportif, association, etc.)"
 
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -814,7 +814,7 @@ msgstr "Politique"
 
 #: imio/directory/core/vocabularies.py:19
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
-msgstr "Fonction (bourgmestre, échevin, directeur, chef de département, etc.)"
+msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service, etc.)"
 
 #: imio/news/core/vocabularies.py:15
 msgid "Presse"
@@ -826,7 +826,7 @@ msgstr "Prévisualiser"
 
 #: imio/directory/core/contents/contact/content.py:156
 msgid "Private contact informations"
-msgstr "Informations privées du contact"
+msgstr "Coordonnées privées"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Procedure.xml
 msgid "Procedure"
@@ -838,7 +838,7 @@ msgstr "Lien vers la démarche"
 
 #: imio/directory/core/vocabularies.py:83
 msgid "Public toilets"
-msgstr "WC public"
+msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
@@ -1048,7 +1048,7 @@ msgstr "Titre et Sous-titre"
 #: imio/smartweb/common/behaviors/configure.zcml:13
 #: imio/smartweb/common/behaviors/topics.py:17
 msgid "Topics"
-msgstr "Thématiques transversales"
+msgstr "Thématiques"
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Tourism"
@@ -1122,7 +1122,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:83
 msgid "Url"
-msgstr ""
+msgstr "URL"
 
 #: imio/smartweb/core/browser/controlpanel.py:14
 msgid "Url to get forms from your e-guichet"
@@ -1134,11 +1134,11 @@ msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre d
 
 #: imio/directory/core/vocabularies.py:82
 msgid "Useful numbers"
-msgstr "Numéro utile"
+msgstr "N° utiles"
 
 #: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"
-msgstr "Numéro de TVA"
+msgstr "Numéro d'entreprise / TVA"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionVideo.xml
 msgid "Video section"
