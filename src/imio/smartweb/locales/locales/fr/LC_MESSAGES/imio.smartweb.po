@@ -16,33 +16,13 @@ msgstr ""
 "Language: fr\n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: imio/portletpage/profiles/default/types/PortletPage.xml
-msgid "A portlet content type for homepage."
-msgstr "Type de contenu portlet pour la homepage."
-
 #: imio/directory/core/vocabularies.py:79
 msgid "Accessibility (PMR)"
 msgstr "Accessibilité PMR"
 
-#: imio/portletpage/portlets/collection/portlet.py:77
-msgid "Add Collection Portlet"
-msgstr "Ajouter une portlet collection"
-
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
 msgstr "Ajout d'une catégorie JE SUIS sur le contenu."
-
-#: imio/portletpage/portlets/link/portlet.py:167
-msgid "Add Link Portlet"
-msgstr "Ajouter une portlet de lien"
-
-#: imio/portletpage/portlets/selection/portlet.py:59
-msgid "Add Selection Portlet"
-msgstr "Ajouter une portlet de sélection"
-
-#: imio/portletpage/portlets/text/portlet.py:45
-msgid "Add Text Portlet"
-msgstr "Ajouter une portlet de texte"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Add footer"
@@ -118,30 +98,10 @@ msgstr "Blocs qui vont être affichés dans le contact"
 msgid "Bootstrap CSS class"
 msgstr "Classe Bootstrap"
 
-#: imio/portletpage/portlets/collection/portlet.py:48
-#: imio/portletpage/portlets/link/portlet.py:139
-#: imio/portletpage/portlets/selection/portlet.py:38
-msgid "CSS Classes"
-msgstr "Classes CSS"
-
-#: imio/portletpage/portlets/text/portlet.py:26
-msgid "CSS Classes to personalise portlet"
-msgstr "Classes CSS pour personnaliser la portlet"
-
-#: imio/portletpage/portlets/collection/portlet.py:49
-#: imio/portletpage/portlets/link/portlet.py:140
-#: imio/portletpage/portlets/selection/portlet.py:39
-msgid "CSS Classes to personnalize the portlet style"
-msgstr "Classes CSS pour personnaliser la portlet"
-
 #: imio/smartweb/core/contents/pages/footer/content.py:27
 #: imio/smartweb/core/contents/sections/base.py:44
 msgid "CSS class"
 msgstr "Classe CSS"
-
-#: imio/portletpage/portlets/templates/carousel.py:18
-msgid "Carousel"
-msgstr "Carrousel"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:26
@@ -336,22 +296,6 @@ msgstr ""
 msgid "Economics"
 msgstr "Économie"
 
-#: imio/portletpage/portlets/collection/portlet.py:85
-msgid "Edit Collection Portlet"
-msgstr "Éditer la portlet collection"
-
-#: imio/portletpage/portlets/link/portlet.py:175
-msgid "Edit Link Portlet"
-msgstr "Éditer la portlet de lien"
-
-#: imio/portletpage/portlets/selection/portlet.py:67
-msgid "Edit Selection Portlet"
-msgstr "Éditer la portlet de sélection"
-
-#: imio/portletpage/portlets/text/portlet.py:53
-msgid "Edit Text Portlet"
-msgstr "Éditer la portlet de texte"
-
 #: imio/smartweb/core/contents/sections/macros.pt:43
 msgid "Edit section"
 msgstr "Modifier"
@@ -432,10 +376,6 @@ msgstr "Exposition"
 msgid "Export contact"
 msgstr ""
 
-#: imio/portletpage/portlets/link/portlet.py:93
-msgid "External URL"
-msgstr "URL externe"
-
 #: imio/directory/core/vocabularies.py:65
 #: imio/events/core/contents/event/content.py:63
 #: imio/events/core/contents/event/view.pt:51
@@ -470,10 +410,6 @@ msgstr "Section de fichiers"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionFiles.xml
 msgid "Files section for a page"
 msgstr "Création d'une section de fichiers dans votre page."
-
-#: imio/portletpage/portlets/collection/portlet.py:29
-msgid "Find the collection which provides the items to list"
-msgstr ""
 
 #: imio/events/core/vocabularies.py:15
 msgid "Flea market and market"
@@ -544,10 +480,6 @@ msgstr "Section galerie"
 msgid "Gallery section for a page"
 msgstr "Création d'une section galerie qui affichera ses images dans votre page. "
 
-#: imio/portletpage/portlets/templates/grid.py:18
-msgid "Grid"
-msgstr "Grille"
-
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Habitat and town planning"
 msgstr "Habitat et urbanisme"
@@ -578,10 +510,6 @@ msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visi
 #: imio/smartweb/policy/utils.py:30
 msgid "I am"
 msgstr "Je suis"
-
-#: imio/portletpage/portlets/link/portlet.py:95
-msgid "Icon"
-msgstr "Icône"
 
 #: imio/smartweb/core/behaviors/listing.py:21
 msgid "If selected, this item will not appear in parent listing views"
@@ -649,10 +577,6 @@ msgstr ""
 msgid "Installs the imio.news.policy add-on."
 msgstr ""
 
-#: imio/portletpage/configure.zcml:29
-msgid "Installs the imio.portletpage add-on."
-msgstr ""
-
 #: imio/smartweb/core/profiles.zcml:13
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
@@ -669,10 +593,6 @@ msgstr ""
 msgid "Instgram url for this news"
 msgstr "Lien Instagram de cette actualité"
 
-#: imio/portletpage/portlets/link/portlet.py:91
-msgid "Internal URL"
-msgstr "URL interne"
-
 #: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
 msgstr "Note interne"
@@ -680,10 +600,6 @@ msgstr "Note interne"
 #: imio/events/core/vocabularies.py:22
 msgid "Internships and courses"
 msgstr "Stages et cours"
-
-#: imio/portletpage/portlets/selection/portlet.py:24
-msgid "Items"
-msgstr "Élements"
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:48
 msgid "Itinerary"
@@ -719,14 +635,6 @@ msgstr ""
 msgid "Lead Image"
 msgstr "Image de garde"
 
-#: imio/portletpage/portlets/collection/portlet.py:35
-msgid "Limit"
-msgstr "Limite"
-
-#: imio/portletpage/portlets/link/portlet.py:148
-msgid "Link"
-msgstr "Lien"
-
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Link to Facebook"
 msgstr "Lien vers Facebook"
@@ -739,10 +647,6 @@ msgstr "lien pour participer en ligne"
 msgid "Link to your e-guichet"
 msgstr "Lien vers votre e-guichet"
 
-#: imio/portletpage/portlets/link/portlet.py:145
-msgid "Links"
-msgstr "Liens"
-
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
 msgid "Links section"
 msgstr "Section de liens"
@@ -751,17 +655,9 @@ msgstr "Section de liens"
 msgid "Links section for a page"
 msgstr "Section de liens pour une page"
 
-#: imio/portletpage/portlets/templates/list.py:18
-msgid "List"
-msgstr "Liste"
-
 #: imio/events/core/contents/entity/content.py:28
 msgid "List of events categories values available for this entity (one per line)"
 msgstr ""
-
-#: imio/portletpage/portlets/link/portlet.py:146
-msgid "List of links"
-msgstr "Liste de liens"
 
 #: imio/news/core/contents/entity/content.py:28
 msgid "List of news categories values available for this entity (one per line)"
@@ -916,10 +812,6 @@ msgstr "Téléphones"
 msgid "Politics"
 msgstr "Politique"
 
-#: imio/portletpage/profiles/default/types/PortletPage.xml
-msgid "PortletPage"
-msgstr ""
-
 #: imio/directory/core/vocabularies.py:19
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
 msgstr "Fonction (bourgmestre, échevin, directeur, chef de département, etc.)"
@@ -1001,10 +893,6 @@ msgstr "Le titre de la section a été affiché"
 msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
 msgstr "Sélectionnez un contact. Si vous ne trouvez pas le contact souhaité, assurez-vous qu'il existe dans l'annuaire et que son \"état\" est publié."
 
-#: imio/portletpage/portlets/selection/portlet.py:25
-msgid "Select the items of you portlet"
-msgstr ""
-
 #: imio/smartweb/core/contents/sections/macros.pt:54
 msgid "Select view"
 msgstr "Affichage"
@@ -1059,10 +947,6 @@ msgstr ""
 #: imio/news/core/contents/entity/content.py:27
 msgid "Specific news categories"
 msgstr ""
-
-#: imio/portletpage/portlets/collection/portlet.py:36
-msgid "Specify the maximum number of items to show in the portlet."
-msgstr "Spécifier le nombre maximum d'éléments à voir dans la portlet"
 
 #: imio/smartweb/common/vocabularies.py:31
 msgid "Sports"
@@ -1123,31 +1007,13 @@ msgstr "Dimanche"
 msgid "Table view"
 msgstr "Affichage tableau"
 
-#: imio/portletpage/portlets/collection/portlet.py:28
-msgid "Target collection"
-msgstr ""
-
-#: imio/portletpage/portlets/collection/portlet.py:41
-#: imio/portletpage/portlets/link/portlet.py:132
-#: imio/portletpage/portlets/selection/portlet.py:31
-msgid "Template"
-msgstr ""
-
 #: imio/smartweb/common/vocabularies.py:32
 msgid "Territory and public space"
 msgstr "Territoire et espace public"
 
-#: imio/portletpage/portlets/text/portlet.py:21
-msgid "Text"
-msgstr "Texte"
-
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
 msgstr "Section de texte"
-
-#: imio/portletpage/portlets/text/portlet.py:21
-msgid "The text to render"
-msgstr "Texte à afficher"
 
 #: imio/events/core/vocabularies.py:23
 msgid "Theater and show"
@@ -1170,9 +1036,8 @@ msgstr "Adresse de billeterie"
 msgid "Ticket url to subscribe to this event"
 msgstr "Adresse de la billeterie pour s'inscrire à cet événement"
 
-#: imio/portletpage/contents/portletpage/content.py:18
-#: imio/portletpage/portlets/collection/portlet.py:20
-#: imio/portletpage/portlets/link/portlet.py:89
+#: imio/smartweb/core/contents/sections/base.py:15
+#: imio/smartweb/core/vocabularies.py:75
 msgid "Title"
 msgstr "Titre"
 
@@ -1245,10 +1110,6 @@ msgstr ""
 
 #: imio/news/policy/configure.zcml:38
 msgid "Uninstalls the imio.news.policy add-on."
-msgstr ""
-
-#: imio/portletpage/configure.zcml:38
-msgid "Uninstalls the imio.portletpage add-on."
 msgstr ""
 
 #: imio/smartweb/core/profiles.zcml:30
@@ -1386,14 +1247,6 @@ msgstr ""
 msgid "imio.news.policy (uninstall)"
 msgstr ""
 
-#: imio/portletpage/configure.zcml:29
-msgid "imio.portletpage"
-msgstr ""
-
-#: imio/portletpage/configure.zcml:38
-msgid "imio.portletpage (uninstall)"
-msgstr ""
-
 #: imio/smartweb/core/profiles.zcml:13
 msgid "imio.smartweb.core"
 msgstr ""
@@ -1416,9 +1269,4 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:50
 msgid "imio.smartweb.policy (uninstall)"
-msgstr ""
-
-#. Default: "More…"
-#: imio/portletpage/portlets/templates/list.pt:25
-msgid "more_url"
 msgstr ""
