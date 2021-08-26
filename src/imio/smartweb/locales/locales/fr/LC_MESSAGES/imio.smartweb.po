@@ -1270,3 +1270,13 @@ msgstr ""
 #: imio/smartweb/policy/configure.zcml:50
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
+
+#. Default: "You are editing the default page of a container. If you wanted to edit the container itself, ${go_here}."
+#: imio/smartweb/core/viewlets/default_page_warning.pt:7
+msgid "label_edit_default_page_container"
+msgstr ""
+
+#. Default: "go here"
+#: imio/smartweb/core/viewlets/default_page_warning.pt:7
+msgid "label_edit_default_page_container_go_here"
+msgstr ""

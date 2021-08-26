@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-08-26 07:46+0000\n"
+"POT-Creation-Date: 2021-08-26 10:01+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1276,6 +1276,16 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:50
 msgid "imio.smartweb.policy (uninstall)"
+msgstr ""
+
+#. Default: "You are editing the default page of a container. If you wanted to edit the container itself, ${go_here}."
+#: imio/smartweb/core/viewlets/default_page_warning.pt:7
+msgid "label_edit_default_page_container"
+msgstr ""
+
+#. Default: "go here"
+#: imio/smartweb/core/viewlets/default_page_warning.pt:7
+msgid "label_edit_default_page_container_go_here"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:15
