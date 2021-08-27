@@ -256,6 +256,10 @@ msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 msgid "Delete section"
 msgstr "Supprimer la section"
 
+#: imio/smartweb/core/contents/blocks/link/content.py:27
+msgid "Description"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
 msgstr "Désactiver le mode minisite"
@@ -361,8 +365,8 @@ msgid "Event planner"
 msgstr "Organisateur d’événement"
 
 #: imio/events/core/contents/event/content.py:52
-msgid "Event site url"
-msgstr "Site web de l'événement"
+msgid "Event website url"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -515,6 +519,10 @@ msgstr "Je suis"
 msgid "If selected, this item will not appear in parent listing views"
 msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
+#: imio/smartweb/core/contents/blocks/link/content.py:30
+msgid "Image"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 #: imio/smartweb/core/contents/sections/links/content.py:16
 #: imio/smartweb/core/contents/sections/selections/content.py:19
@@ -553,6 +561,10 @@ msgstr ""
 msgid "Instagram url for this event"
 msgstr "Adresse Instagram pour cet événement"
 
+#: imio/news/core/contents/newsitem/content.py:39
+msgid "Instagram url for this news"
+msgstr ""
+
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
 msgstr ""
@@ -588,10 +600,6 @@ msgstr ""
 #: imio/smartweb/policy/configure.zcml:41
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
-
-#: imio/news/core/contents/newsitem/content.py:39
-msgid "Instgram url for this news"
-msgstr "Lien Instagram de cette actualité"
 
 #: imio/directory/core/contents/contact/content.py:189
 msgid "Internal note"
@@ -634,6 +642,14 @@ msgstr ""
 #: imio/smartweb/core/vocabularies.py:90
 msgid "Lead Image"
 msgstr "Image de garde"
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
+msgid "Link block"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
+msgid "Link block for a links section"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Link to Facebook"
@@ -739,8 +755,8 @@ msgid "NewsItem"
 msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:21
-msgid "NewsItem site url"
-msgstr "Lien du site de l'actualité"
+msgid "NewsItem website url"
+msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:94
 #: imio/events/core/contents/event/content.py:21
@@ -774,6 +790,10 @@ msgstr "Ouvert"
 #: imio/smartweb/core/contents/sections/contact/view.py:206
 msgid "Open at "
 msgstr "Ouvre à "
+
+#: imio/smartweb/core/contents/blocks/link/content.py:28
+msgid "Open in a new tab"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:13
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
@@ -922,11 +942,6 @@ msgstr "Définir une image de fond"
 msgid "Show title"
 msgstr "Afficher le titre"
 
-#: imio/events/core/contents/event/content.py:51
-#: imio/news/core/contents/newsitem/content.py:20
-msgid "Site"
-msgstr ""
-
 #: imio/smartweb/core/browser/controlpanel.py:31
 msgid "Smartweb Settings"
 msgstr "Paramètrage de smartweb"
@@ -1036,6 +1051,7 @@ msgstr "Adresse de billeterie"
 msgid "Ticket url to subscribe to this event"
 msgstr "Adresse de la billeterie pour s'inscrire à cet événement"
 
+#: imio/smartweb/core/contents/blocks/link/content.py:26
 #: imio/smartweb/core/contents/sections/base.py:15
 #: imio/smartweb/core/vocabularies.py:75
 msgid "Title"
@@ -1086,6 +1102,10 @@ msgstr "Deux tiers de la page"
 
 #: imio/directory/core/contents/contact/content.py:43
 msgid "Type"
+msgstr ""
+
+#: imio/smartweb/core/contents/blocks/link/content.py:29
+msgid "URL"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:142
@@ -1165,6 +1185,8 @@ msgid "Visible blocks"
 msgstr "Blocs visibles"
 
 #: imio/directory/core/vocabularies.py:67
+#: imio/events/core/contents/event/content.py:51
+#: imio/news/core/contents/newsitem/content.py:20
 msgid "Website"
 msgstr "Site Internet"
 

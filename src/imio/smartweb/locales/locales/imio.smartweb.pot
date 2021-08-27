@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-08-26 10:01+0000\n"
+"POT-Creation-Date: 2021-08-27 09:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -263,6 +263,10 @@ msgstr ""
 msgid "Delete section"
 msgstr ""
 
+#: imio/smartweb/core/contents/blocks/link/content.py:27
+msgid "Description"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
 msgstr ""
@@ -368,7 +372,7 @@ msgid "Event planner"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:52
-msgid "Event site url"
+msgid "Event website url"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
@@ -522,6 +526,10 @@ msgstr ""
 msgid "If selected, this item will not appear in parent listing views"
 msgstr ""
 
+#: imio/smartweb/core/contents/blocks/link/content.py:30
+msgid "Image"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 #: imio/smartweb/core/contents/sections/links/content.py:16
 #: imio/smartweb/core/contents/sections/selections/content.py:19
@@ -560,6 +568,10 @@ msgstr ""
 msgid "Instagram url for this event"
 msgstr ""
 
+#: imio/news/core/contents/newsitem/content.py:39
+msgid "Instagram url for this news"
+msgstr ""
+
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
 msgstr ""
@@ -594,10 +606,6 @@ msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:41
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
-msgstr ""
-
-#: imio/news/core/contents/newsitem/content.py:39
-msgid "Instgram url for this news"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:189
@@ -640,6 +648,14 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:90
 msgid "Lead Image"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
+msgid "Link block"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
+msgid "Link block for a links section"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
@@ -746,7 +762,7 @@ msgid "NewsItem"
 msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:21
-msgid "NewsItem site url"
+msgid "NewsItem website url"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:94
@@ -780,6 +796,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/view.py:206
 msgid "Open at "
+msgstr ""
+
+#: imio/smartweb/core/contents/blocks/link/content.py:28
+msgid "Open in a new tab"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:13
@@ -929,11 +949,6 @@ msgstr ""
 msgid "Show title"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:51
-#: imio/news/core/contents/newsitem/content.py:20
-msgid "Site"
-msgstr ""
-
 #: imio/smartweb/core/browser/controlpanel.py:31
 msgid "Smartweb Settings"
 msgstr ""
@@ -1043,6 +1058,7 @@ msgstr ""
 msgid "Ticket url to subscribe to this event"
 msgstr ""
 
+#: imio/smartweb/core/contents/blocks/link/content.py:26
 #: imio/smartweb/core/contents/sections/base.py:15
 #: imio/smartweb/core/vocabularies.py:75
 msgid "Title"
@@ -1093,6 +1109,10 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:43
 msgid "Type"
+msgstr ""
+
+#: imio/smartweb/core/contents/blocks/link/content.py:29
+msgid "URL"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:142
@@ -1172,6 +1192,8 @@ msgid "Visible blocks"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:67
+#: imio/events/core/contents/event/content.py:51
+#: imio/news/core/contents/newsitem/content.py:20
 msgid "Website"
 msgstr ""
 
