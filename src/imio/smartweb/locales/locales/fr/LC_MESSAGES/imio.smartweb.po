@@ -366,7 +366,7 @@ msgstr "Organisateur d’événement"
 
 #: imio/events/core/contents/event/content.py:52
 msgid "Event website url"
-msgstr ""
+msgstr "Site web de l'événement"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -563,7 +563,7 @@ msgstr "Adresse Instagram pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:39
 msgid "Instagram url for this news"
-msgstr ""
+msgstr "Lien Instagram de cette actualité"
 
 #: imio/smartweb/core/profiles.zcml:21
 msgid "Installs imio.smartweb.core.testing profile."
@@ -645,11 +645,11 @@ msgstr "Image de garde"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
-msgstr ""
+msgstr "Lien"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block for a links section"
-msgstr ""
+msgstr "Lien pour une Section de liens"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Link to Facebook"
@@ -673,11 +673,11 @@ msgstr "Section de liens pour une page"
 
 #: imio/events/core/contents/entity/content.py:28
 msgid "List of events categories values available for this entity (one per line)"
-msgstr ""
+msgstr "Liste de catégories spécifiques d'événements disponibes pour cette entité (un par ligne)"
 
 #: imio/news/core/contents/entity/content.py:28
 msgid "List of news categories values available for this entity (one per line)"
-msgstr ""
+msgstr "Liste de catégories spécifiques d'actualités disponibes pour cette entité (une par ligne)"
 
 #: imio/directory/core/contents/contact/content.py:219
 #: imio/directory/core/contents/entity/content.py:23
@@ -748,15 +748,15 @@ msgstr "Nouvel arrivant"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsFolder.xml
 msgid "News folder"
-msgstr ""
+msgstr "Dossier d'actualités"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
-msgstr ""
+msgstr "Actualité"
 
 #: imio/news/core/contents/newsitem/content.py:21
 msgid "NewsItem website url"
-msgstr ""
+msgstr "Site web de l'actualité"
 
 #: imio/directory/core/contents/contact/content.py:94
 #: imio/events/core/contents/event/content.py:21
@@ -793,7 +793,7 @@ msgstr "Ouvre à "
 
 #: imio/smartweb/core/contents/blocks/link/content.py:28
 msgid "Open in a new tab"
-msgstr ""
+msgstr "Ouvrir dans un nouvel onglet"
 
 #: imio/directory/core/vocabularies.py:13
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
@@ -874,7 +874,7 @@ msgstr "Contact lié"
 
 #: imio/smartweb/common/faceted/widget.py:21
 msgid "Relative path widget"
-msgstr ""
+msgstr "Widget de chemin relatif"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Rich text section for a page"
@@ -953,15 +953,15 @@ msgstr "Social"
 #: imio/events/core/contents/event/content.py:111
 #: imio/news/core/contents/newsitem/content.py:54
 msgid "Specific category"
-msgstr ""
+msgstr "Catégorie spécifique"
 
 #: imio/events/core/contents/entity/content.py:27
 msgid "Specific events categories"
-msgstr ""
+msgstr "Catégories spécifiques d'événements"
 
 #: imio/news/core/contents/entity/content.py:27
 msgid "Specific news categories"
-msgstr ""
+msgstr "Catégories spécifiques d'actualités"
 
 #: imio/smartweb/common/vocabularies.py:31
 msgid "Sports"
