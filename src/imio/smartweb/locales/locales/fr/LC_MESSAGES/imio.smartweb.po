@@ -373,8 +373,8 @@ msgid "Exclude from parent listing"
 msgstr "Exclure dans l'affichage listing du parent"
 
 #: imio/events/core/vocabularies.py:18
-msgid "Exhibit"
-msgstr "Exposition"
+msgid "Exhibition and artistic meeting"
+msgstr "Exposition et rencontre artistique"
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Export contact"
@@ -739,8 +739,8 @@ msgid "Monday"
 msgstr "Lundi"
 
 #: imio/events/core/vocabularies.py:19
-msgid "Movie"
-msgstr "Film"
+msgid "Projection and cinema"
+msgstr "Projection et cinéma"
 
 #: imio/smartweb/common/vocabularies.py:50
 msgid "Newcomer"
@@ -1076,7 +1076,7 @@ msgstr "Touriste"
 
 #: imio/events/core/vocabularies.py:21
 msgid "Trade Fair and Fair"
-msgstr "Projection et cinéma"
+msgstr "Salon et Foire"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:47
 msgid "Tuesday"

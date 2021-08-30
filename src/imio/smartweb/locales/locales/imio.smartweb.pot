@@ -380,7 +380,7 @@ msgid "Exclude from parent listing"
 msgstr ""
 
 #: imio/events/core/vocabularies.py:18
-msgid "Exhibit"
+msgid "Exhibition and artistic meeting"
 msgstr ""
 
 #: imio/directory/core/profiles/default/actions.xml
@@ -746,7 +746,7 @@ msgid "Monday"
 msgstr ""
 
 #: imio/events/core/vocabularies.py:19
-msgid "Movie"
+msgid "Projection and cinema"
 msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:50
