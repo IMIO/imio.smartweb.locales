@@ -234,7 +234,7 @@ msgstr "Culture"
 
 #: imio/directory/core/vocabularies.py:80
 msgid "Defibrillator"
-msgstr "Défibrillateur"
+msgstr "Défibrillateurs"
 
 #: imio/smartweb/core/contents/folder/content.py:39
 msgid "Define a banner for folder and children"
@@ -1154,7 +1154,7 @@ msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre d
 
 #: imio/directory/core/vocabularies.py:82
 msgid "Useful numbers"
-msgstr "N° utiles"
+msgstr "Numéros utiles"
 
 #: imio/directory/core/contents/contact/content.py:120
 msgid "VAT number"
