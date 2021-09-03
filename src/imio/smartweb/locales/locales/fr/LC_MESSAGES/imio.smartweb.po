@@ -323,7 +323,7 @@ msgstr "Économie"
 
 #: imio/smartweb/core/contents/sections/macros.pt:43
 msgid "Edit section"
-msgstr "Modifier"
+msgstr "Modifier section"
 
 #: imio/smartweb/common/vocabularies.py:23
 msgid "Education"
@@ -720,7 +720,7 @@ msgstr "Heure du midi"
 
 #: imio/smartweb/core/contents/sections/macros.pt:48
 msgid "Manage section contents"
-msgstr "Contenus"
+msgstr "Modifier contenu"
 
 #: imio/smartweb/core/behaviors/subsite.py:38
 msgid "Menu depth"
