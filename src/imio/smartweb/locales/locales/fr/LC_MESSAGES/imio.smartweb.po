@@ -16,7 +16,7 @@ msgstr ""
 "Language: fr\n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
-#: imio/directory/core/vocabularies.py:79
+#: imio/directory/core/vocabularies.py:80
 msgid "Accessibility (PMR)"
 msgstr "Accessibilité PMR"
 
@@ -244,7 +244,7 @@ msgstr "Pays"
 msgid "Culture"
 msgstr "Culture"
 
-#: imio/directory/core/vocabularies.py:80
+#: imio/directory/core/vocabularies.py:81
 msgid "Defibrillator"
 msgstr "Défibrillateurs"
 
@@ -260,7 +260,7 @@ msgstr "Définir un logo pour ce minisite"
 msgid "Define a logo for subsite and children"
 msgstr "Définir un logo pour ce sous-site (et ses pages enfants)"
 
-#: imio/smartweb/core/behaviors/subsite.py:39
+#: imio/smartweb/core/behaviors/subsite.py:40
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 
@@ -297,7 +297,7 @@ msgstr ""
 msgid "Display linked news from imio news instance."
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:81
+#: imio/directory/core/vocabularies.py:82
 msgid "Drinking water point"
 msgstr "Points d'eau potable"
 
@@ -401,7 +401,7 @@ msgstr "Exposition et rencontre artistique"
 msgid "Export contact"
 msgstr "Exporter le contact"
 
-#: imio/directory/core/vocabularies.py:65
+#: imio/directory/core/vocabularies.py:66
 #: imio/events/core/contents/event/content.py:67
 #: imio/events/core/contents/event/view.pt:51
 msgid "Facebook"
@@ -415,7 +415,7 @@ msgstr "Adresse facebook pour cet événement"
 msgid "Facebook url for this news"
 msgstr "Lien facebook pour cette actualité"
 
-#: imio/directory/core/contents/contact/content.py:223
+#: imio/directory/core/contents/contact/content.py:233
 msgid "Facilities"
 msgstr "Facilités"
 
@@ -424,7 +424,7 @@ msgstr "Facilités"
 msgid "Facilities for person with reduced mobility"
 msgstr "Accessible aux personnes à mobilité réduite"
 
-#: imio/directory/core/vocabularies.py:36
+#: imio/directory/core/vocabularies.py:37
 msgid "Fax"
 msgstr "Fax"
 
@@ -476,7 +476,7 @@ msgstr "Pied de page"
 msgid "Footer has been successfully added"
 msgstr "Le pied de page a été ajouté avec succès"
 
-#: imio/directory/core/vocabularies.py:84
+#: imio/directory/core/vocabularies.py:85
 msgid "Free WIFI"
 msgstr "Wifi gratuit"
 
@@ -545,10 +545,16 @@ msgid "Image"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
-#: imio/smartweb/core/contents/sections/links/content.py:24
+msgid "Image scale for images"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/selections/content.py:19
-msgid "Image scale"
-msgstr "Échelle de l'image"
+msgid "Image scale for items"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/links/content.py:24
+msgid "Image scale for links"
+msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:55
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
@@ -563,7 +569,7 @@ msgstr "Important! Ces catégories sont utilisées pour créer des listes access
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques"
 
-#: imio/directory/core/contents/contact/content.py:224
+#: imio/directory/core/contents/contact/content.py:234
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
 msgstr "Important! Ces catégories permettent de mettre en avant et de géolocaliser certains services de base"
 
@@ -722,7 +728,7 @@ msgstr "Heure du midi"
 msgid "Manage section contents"
 msgstr "Modifier contenu"
 
-#: imio/smartweb/core/behaviors/subsite.py:38
+#: imio/smartweb/core/behaviors/subsite.py:39
 msgid "Menu depth"
 msgstr "Profondeur du menu"
 
@@ -742,11 +748,11 @@ msgstr "Le mode minisite a été désactivé"
 msgid "Minisite has been successfully activated"
 msgstr "Le mode minisite a été activé avec succès"
 
-#: imio/directory/core/vocabularies.py:23
+#: imio/directory/core/vocabularies.py:24
 msgid "Mission (passports, reception, parking, etc.)"
 msgstr "Mission (passeports, réception, parking, etc.)"
 
-#: imio/directory/core/vocabularies.py:37
+#: imio/directory/core/vocabularies.py:38
 msgid "Mobile"
 msgstr "GSM"
 
@@ -815,7 +821,7 @@ msgstr "Ouvre à "
 msgid "Open in a new tab"
 msgstr "Ouvrir dans un nouvel onglet"
 
-#: imio/directory/core/vocabularies.py:13
+#: imio/directory/core/vocabularies.py:14
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
 msgstr "Organisation (service administratif, commerce, profession libérale, club sportif, association, etc.)"
 
@@ -836,11 +842,11 @@ msgstr "Listing du parent"
 msgid "Party and folklore"
 msgstr "Fête et folklore"
 
-#: imio/directory/core/vocabularies.py:52
+#: imio/directory/core/vocabularies.py:53
 msgid "Personal email"
 msgstr "Adresse e-mail personnelle"
 
-#: imio/directory/core/vocabularies.py:38
+#: imio/directory/core/vocabularies.py:39
 msgid "Personal phone"
 msgstr "Numéro de téléphone personnel"
 
@@ -852,7 +858,15 @@ msgstr "Téléphones"
 msgid "Politics"
 msgstr "Politique"
 
-#: imio/directory/core/vocabularies.py:19
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
+msgid "Portal Page"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
+msgid "Portal Page content type to print informations"
+msgstr ""
+
+#: imio/directory/core/vocabularies.py:20
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
 msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service, etc.)"
 
@@ -880,7 +894,7 @@ msgstr "Lien vers la démarche"
 msgid "Projection and cinema"
 msgstr "Projection et cinéma"
 
-#: imio/directory/core/vocabularies.py:83
+#: imio/directory/core/vocabularies.py:84
 msgid "Public toilets"
 msgstr "Toilettes publiques"
 
@@ -945,12 +959,20 @@ msgstr "Sélectionnez un contact. Si vous ne trouvez pas le contact souhaité, a
 msgid "Select agendas where this event will be displayed. Current agenda where is always selected."
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:225
+msgid "Select entities where this contact will be displayed. Current entity will always be selected."
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/macros.pt:54
 msgid "Select view"
 msgstr "Affichage"
 
 #: imio/events/core/contents/event/content.py:116
 msgid "Selected agendas"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:224
+msgid "Selected entities"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/selections/content.py:26
@@ -1117,7 +1139,7 @@ msgstr "Salon et Foire"
 msgid "Tuesday"
 msgstr "Mardi"
 
-#: imio/directory/core/vocabularies.py:66
+#: imio/directory/core/vocabularies.py:67
 #: imio/events/core/contents/event/content.py:73
 #: imio/events/core/contents/event/view.pt:54
 msgid "Twitter"
@@ -1188,7 +1210,7 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 msgid "Use **text** to set text in bold and *text* to set text in italic."
 msgstr "Utilisez **texte** pour mettre du texte en gras et *texte* pour mettre du texte en italique."
 
-#: imio/directory/core/vocabularies.py:82
+#: imio/directory/core/vocabularies.py:83
 msgid "Useful numbers"
 msgstr "Numéros utiles"
 
@@ -1220,7 +1242,7 @@ msgstr "Lien vers une vidéo Youtube ou Vimeo"
 msgid "Visible blocks"
 msgstr "Blocs visibles"
 
-#: imio/directory/core/vocabularies.py:67
+#: imio/directory/core/vocabularies.py:68
 #: imio/news/core/contents/newsitem/content.py:20
 msgid "Website"
 msgstr "Site Internet"
@@ -1229,11 +1251,11 @@ msgstr "Site Internet"
 msgid "Wednesday"
 msgstr "Mercredi"
 
-#: imio/directory/core/vocabularies.py:53
+#: imio/directory/core/vocabularies.py:54
 msgid "Work email"
 msgstr "Adresse e-mail professionnelle"
 
-#: imio/directory/core/vocabularies.py:39
+#: imio/directory/core/vocabularies.py:40
 msgid "Work phone"
 msgstr "Numéro de téléphone professionnel"
 
