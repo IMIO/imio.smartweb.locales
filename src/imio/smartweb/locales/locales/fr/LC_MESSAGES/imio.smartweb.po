@@ -68,7 +68,7 @@ msgstr "Appliquer"
 
 #: imio/smartweb/core/viewlets/navigation.py:89
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: imio/directory/core/contents/contact/content.py:30
 msgid "Bad phone format"
@@ -194,7 +194,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
 #: imio/smartweb/core/viewlets/navigation.py:92
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:173
 msgid "Closed"
@@ -271,7 +271,7 @@ msgstr "Supprimer la section"
 #: imio/smartweb/core/contents/blocks/link/content.py:27
 #: imio/smartweb/core/contents/sections/links/content.py:15
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
@@ -291,11 +291,11 @@ msgstr "Afficher la bannière"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "Display linked events from imio events instance."
-msgstr ""
+msgstr "Affiche des événements depuis la source authentique"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
 msgid "Display linked news from imio news instance."
-msgstr ""
+msgstr "Affiche des actualités depuis la source authentique"
 
 #: imio/directory/core/vocabularies.py:82
 msgid "Drinking water point"
@@ -387,7 +387,7 @@ msgstr "Organisateur d’événement"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "EventsView"
-msgstr ""
+msgstr "Vue événements"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -546,15 +546,15 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
-msgstr ""
+msgstr "Echelle d'images"
 
 #: imio/smartweb/core/contents/sections/selections/content.py:19
 msgid "Image scale for items"
-msgstr ""
+msgstr "Echelle d'image pour les éléments"
 
 #: imio/smartweb/core/contents/sections/links/content.py:24
 msgid "Image scale for links"
-msgstr ""
+msgstr "Echelle d'image pour les liens"
 
 #: imio/news/core/contents/newsitem/content.py:55
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
@@ -782,7 +782,7 @@ msgstr "Site web de l'actualité"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
 msgid "NewsView"
-msgstr ""
+msgstr "Vue actualités"
 
 #: imio/directory/core/contents/contact/content.py:94
 #: imio/events/core/contents/event/content.py:26
@@ -860,11 +860,11 @@ msgstr "Politique"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
 msgid "Portal Page"
-msgstr ""
+msgstr "Page Portail"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
 msgid "Portal Page content type to print informations"
-msgstr ""
+msgstr "Page Portail pour afficher de l'information"
 
 #: imio/directory/core/vocabularies.py:20
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
@@ -900,7 +900,7 @@ msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/viewlets/navigation.py:181
 msgid "Quick access"
-msgstr ""
+msgstr "Accès directs"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
@@ -961,7 +961,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:225
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
-msgstr ""
+msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'entité courante sera toujours sélectionnée."
 
 #: imio/smartweb/core/contents/sections/macros.pt:54
 msgid "Select view"
@@ -973,7 +973,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:224
 msgid "Selected entities"
-msgstr ""
+msgstr "Entités concernées"
 
 #: imio/smartweb/core/contents/sections/selections/content.py:26
 msgid "Selected items"
