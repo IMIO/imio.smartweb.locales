@@ -900,15 +900,15 @@ msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/viewlets/navigation.py:181
 msgid "Quick access"
-msgstr "Accès directs"
+msgstr "Accès rapides"
 
 #: imio/smartweb/core/behaviors/quickaccess.py:18
 msgid "Quick access contents"
-msgstr "Contenus Accès directs"
+msgstr "Contenus Accès rapides"
 
 #: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Quick access selection"
-msgstr "Sélection d'accès direct"
+msgstr "Sélection d'accès rapides"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:18
 msgid "Related contact"
@@ -981,7 +981,7 @@ msgstr "Elements sélectionnés"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section"
-msgstr "Section de sélections"
+msgstr "Section de contenus liés"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section for a page"
