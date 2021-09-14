@@ -1032,7 +1032,7 @@ msgstr "Dossier d'actualités sélectionné"
 
 #: imio/news/core/contents/newsitem/content.py:52
 msgid "Selected news folders"
-msgstr "Dossier d'actualités concernées"
+msgstr "Dossiers d'actualités concernés"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section"
