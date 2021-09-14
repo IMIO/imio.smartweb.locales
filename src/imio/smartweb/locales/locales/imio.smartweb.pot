@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-14 06:53+0000\n"
+"POT-Creation-Date: 2021-09-14 08:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,9 +125,9 @@ msgstr ""
 msgid "Categorization"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:119
+#: imio/events/core/contents/event/content.py:121
 #: imio/events/core/contents/event/view.pt:39
-#: imio/news/core/contents/newsitem/content.py:45
+#: imio/news/core/contents/newsitem/content.py:62
 msgid "Category"
 msgstr ""
 
@@ -167,7 +167,7 @@ msgstr ""
 msgid "City"
 msgstr ""
 
-#: imio/news/core/vocabularies.py:18
+#: imio/news/core/vocabularies.py:20
 msgid "City project"
 msgstr ""
 
@@ -426,7 +426,7 @@ msgstr ""
 msgid "Facebook url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:27
+#: imio/news/core/contents/newsitem/content.py:31
 msgid "Facebook url for this news"
 msgstr ""
 
@@ -571,7 +571,8 @@ msgstr ""
 msgid "Image scale for links"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:55
+#: imio/events/core/contents/event/content.py:131
+#: imio/news/core/contents/newsitem/content.py:72
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr ""
 
@@ -579,8 +580,8 @@ msgstr ""
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:120
-#: imio/news/core/contents/newsitem/content.py:46
+#: imio/events/core/contents/event/content.py:122
+#: imio/news/core/contents/newsitem/content.py:63
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr ""
 
@@ -594,7 +595,7 @@ msgstr ""
 
 #: imio/events/core/contents/event/content.py:81
 #: imio/events/core/contents/event/view.pt:57
-#: imio/news/core/contents/newsitem/content.py:38
+#: imio/news/core/contents/newsitem/content.py:42
 msgid "Instagram"
 msgstr ""
 
@@ -602,7 +603,7 @@ msgstr ""
 msgid "Instagram url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:39
+#: imio/news/core/contents/newsitem/content.py:43
 msgid "Instagram url for this news"
 msgstr ""
 
@@ -622,7 +623,7 @@ msgstr ""
 msgid "Installs the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/core/configure.zcml:26
+#: imio/events/core/profiles.zcml:13
 msgid "Installs the imio.events.core add-on."
 msgstr ""
 
@@ -662,7 +663,7 @@ msgstr ""
 msgid "Itinerary"
 msgstr ""
 
-#: imio/news/core/vocabularies.py:16
+#: imio/news/core/vocabularies.py:18
 msgid "Job offer"
 msgstr ""
 
@@ -803,7 +804,7 @@ msgstr ""
 msgid "NewsItem"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:21
+#: imio/news/core/contents/newsitem/content.py:25
 msgid "NewsItem website url"
 msgstr ""
 
@@ -902,7 +903,7 @@ msgstr ""
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
 msgstr ""
 
-#: imio/news/core/vocabularies.py:17
+#: imio/news/core/vocabularies.py:19
 msgid "Presse"
 msgstr ""
 
@@ -996,7 +997,7 @@ msgstr ""
 msgid "Select agenda to display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:110
+#: imio/events/core/contents/event/content.py:112
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr ""
 
@@ -1008,6 +1009,10 @@ msgstr ""
 msgid "Select news folder to display"
 msgstr ""
 
+#: imio/news/core/contents/newsitem/content.py:53
+msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/macros.pt:56
 msgid "Select view"
 msgstr ""
@@ -1016,7 +1021,7 @@ msgstr ""
 msgid "Selected agenda"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:109
+#: imio/events/core/contents/event/content.py:111
 msgid "Selected agendas"
 msgstr ""
 
@@ -1030,6 +1035,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/rest/news/content.py:20
 msgid "Selected news folder"
+msgstr ""
+
+#: imio/news/core/contents/newsitem/content.py:52
+msgid "Selected news folders"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
@@ -1066,7 +1075,8 @@ msgstr ""
 msgid "Social"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:54
+#: imio/events/core/contents/event/content.py:130
+#: imio/news/core/contents/newsitem/content.py:71
 msgid "Specific category"
 msgstr ""
 
@@ -1207,7 +1217,7 @@ msgstr ""
 msgid "Twitter url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:33
+#: imio/news/core/contents/newsitem/content.py:37
 msgid "Twitter url for this news"
 msgstr ""
 
@@ -1235,7 +1245,7 @@ msgstr ""
 msgid "Uninstalls the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/core/configure.zcml:35
+#: imio/events/core/profiles.zcml:22
 msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
 
@@ -1289,13 +1299,13 @@ msgid "Video section for a page"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:57
-#: imio/news/core/contents/newsitem/content.py:14
+#: imio/news/core/contents/newsitem/content.py:18
 #: imio/smartweb/core/contents/sections/video/content.py:14
 msgid "Video url"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:58
-#: imio/news/core/contents/newsitem/content.py:15
+#: imio/news/core/contents/newsitem/content.py:19
 #: imio/smartweb/core/contents/sections/video/content.py:15
 msgid "Video url from youtube, vimeo"
 msgstr ""
@@ -1305,7 +1315,7 @@ msgid "Visible blocks"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:68
-#: imio/news/core/contents/newsitem/content.py:20
+#: imio/news/core/contents/newsitem/content.py:24
 msgid "Website"
 msgstr ""
 
@@ -1321,7 +1331,7 @@ msgstr ""
 msgid "Work phone"
 msgstr ""
 
-#: imio/news/core/vocabularies.py:19
+#: imio/news/core/vocabularies.py:21
 msgid "Works"
 msgstr ""
 
@@ -1368,11 +1378,11 @@ msgstr ""
 msgid "imio.directory.policy (uninstall)"
 msgstr ""
 
-#: imio/events/core/configure.zcml:26
+#: imio/events/core/profiles.zcml:13
 msgid "imio.events.core"
 msgstr ""
 
-#: imio/events/core/configure.zcml:35
+#: imio/events/core/profiles.zcml:22
 msgid "imio.events.core (uninstall)"
 msgstr ""
 
