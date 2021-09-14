@@ -275,7 +275,7 @@ msgstr "Description"
 
 #: imio/smartweb/core/browser/controlpanel.py:28
 msgid "Directory entity"
-msgstr ""
+msgstr "Entité pour l'annuaire"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
@@ -391,7 +391,7 @@ msgstr "Organisateur d’événement"
 
 #: imio/smartweb/core/browser/controlpanel.py:34
 msgid "Events entity"
-msgstr ""
+msgstr "Entité pour les événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "EventsView"
@@ -786,7 +786,7 @@ msgstr "Nouvel arrivant"
 
 #: imio/smartweb/core/browser/controlpanel.py:40
 msgid "News entity"
-msgstr ""
+msgstr "Entité pour les actualités"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsFolder.xml
 msgid "News folder"
@@ -816,7 +816,7 @@ msgstr "Numéro (format: +32475010203)"
 #: imio/smartweb/core/contents/rest/events/content.py:14
 #: imio/smartweb/core/contents/rest/news/content.py:14
 msgid "Number of items to display"
-msgstr ""
+msgstr "Nombre d'éléments à afficher"
 
 #: imio/smartweb/policy/utils.py:35
 msgid "One click finding"
@@ -979,7 +979,7 @@ msgstr "Le titre de la section a été affiché"
 #: imio/smartweb/core/contents/rest/events/content.py:17
 #: imio/smartweb/core/contents/rest/news/content.py:17
 msgid "See more link"
-msgstr ""
+msgstr "Lien Voir plus"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:19
 msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
@@ -987,11 +987,11 @@ msgstr "Sélectionnez un contact. Si vous ne trouvez pas le contact souhaité, a
 
 #: imio/smartweb/core/contents/rest/events/content.py:21
 msgid "Select agenda to display"
-msgstr ""
+msgstr "Sélectionnez l'agenda à afficher"
 
 #: imio/events/core/contents/event/content.py:110
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
-msgstr ""
+msgstr "Sélectionnez les agendas dans lesquels cet événement sera affiché. L'agenda courant sera toujours sélectionné."
 
 #: imio/directory/core/contents/contact/content.py:225
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
@@ -999,7 +999,7 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 
 #: imio/smartweb/core/contents/rest/news/content.py:21
 msgid "Select news folder to display"
-msgstr ""
+msgstr "Sélectionnez le dossier d'actualités à afficher"
 
 #: imio/smartweb/core/contents/sections/macros.pt:56
 msgid "Select view"
@@ -1007,11 +1007,11 @@ msgstr "Affichage"
 
 #: imio/smartweb/core/contents/rest/events/content.py:20
 msgid "Selected agenda"
-msgstr ""
+msgstr "Agenda sélectionné"
 
 #: imio/events/core/contents/event/content.py:109
 msgid "Selected agendas"
-msgstr ""
+msgstr "Agendas concernés"
 
 #: imio/directory/core/contents/contact/content.py:224
 msgid "Selected entities"
@@ -1023,7 +1023,7 @@ msgstr "Elements sélectionnés"
 
 #: imio/smartweb/core/contents/rest/news/content.py:20
 msgid "Selected news folder"
-msgstr ""
+msgstr "Dossier d'actualités sélectionné"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section"
@@ -1045,7 +1045,7 @@ msgstr "Définir une image de fond"
 #: imio/smartweb/core/contents/rest/events/content.py:27
 #: imio/smartweb/core/contents/rest/news/content.py:27
 msgid "Show items description"
-msgstr ""
+msgstr "Afficher la description des éléments"
 
 #: imio/smartweb/core/contents/sections/macros.pt:32
 msgid "Show title"
