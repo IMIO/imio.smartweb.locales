@@ -22,7 +22,7 @@ msgstr "Accessibilité PMR"
 
 #: imio/events/core/vocabularies.py:119
 msgid "Activity"
-msgstr ""
+msgstr "Activité"
 
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
@@ -108,7 +108,7 @@ msgstr "Classe Bootstrap"
 
 #: imio/smartweb/core/vocabularies.py:231
 msgid "Bottom"
-msgstr ""
+msgstr "Bas"
 
 #: imio/smartweb/core/contents/pages/footer/content.py:27
 #: imio/smartweb/core/contents/sections/base.py:44
@@ -399,11 +399,11 @@ msgstr "Organisateur d’événement"
 
 #: imio/events/core/contents/event/content.py:139
 msgid "Event type"
-msgstr ""
+msgstr "Type d'événement"
 
 #: imio/events/core/vocabularies.py:118
 msgid "Event-driven"
-msgstr ""
+msgstr "Evénementiel"
 
 #: imio/smartweb/core/browser/controlpanel.py:34
 msgid "Events entity"
@@ -539,7 +539,7 @@ msgstr "Moitié de la page"
 
 #: imio/smartweb/core/vocabularies.py:245
 msgid "Half page"
-msgstr ""
+msgstr "Moitié de la page"
 
 #: imio/smartweb/common/vocabularies.py:29
 msgid "Health"
@@ -574,7 +574,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/content.py:17
 msgid "Image alignment"
-msgstr ""
+msgstr "Alignement de l'image"
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
@@ -590,7 +590,7 @@ msgstr "Echelle d'image pour les liens"
 
 #: imio/smartweb/core/contents/sections/text/content.py:25
 msgid "Image size"
-msgstr ""
+msgstr "Taille de l'image"
 
 #: imio/events/core/contents/event/content.py:131
 #: imio/news/core/contents/newsitem/content.py:72
@@ -716,7 +716,7 @@ msgstr "Image de garde"
 
 #: imio/smartweb/core/vocabularies.py:229
 msgid "Left"
-msgstr ""
+msgstr "Gauche"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
@@ -779,11 +779,11 @@ msgstr "Modifier contenu"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
 msgid "Map section"
-msgstr ""
+msgstr "Section plan"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
 msgid "Map section for a page"
-msgstr ""
+msgstr "Section plan pour une page"
 
 #: imio/smartweb/core/behaviors/subsite.py:39
 msgid "Menu depth"
@@ -966,7 +966,7 @@ msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/vocabularies.py:63
 msgid "Quarter of width"
-msgstr ""
+msgstr "Quart de la page"
 
 #: imio/smartweb/core/viewlets/navigation.py:181
 msgid "Quick access"
@@ -994,7 +994,7 @@ msgstr "Création d'une section de texte dans votre page."
 
 #: imio/smartweb/core/vocabularies.py:230
 msgid "Right"
-msgstr ""
+msgstr "Droite"
 
 #: imio/smartweb/common/vocabularies.py:30
 msgid "Safety and prevention"
@@ -1048,7 +1048,7 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 
 #: imio/smartweb/core/contents/sections/text/content.py:26
 msgid "Select image size"
-msgstr ""
+msgstr "Sélectionnez la taille de l'image"
 
 #: imio/smartweb/core/contents/rest/news/content.py:21
 msgid "Select news folder to display"
@@ -1064,7 +1064,7 @@ msgstr "Affichage"
 
 #: imio/smartweb/core/contents/sections/text/content.py:18
 msgid "Select where you want to display the image"
-msgstr ""
+msgstr "Sélectionnez l'emplacement où vous souhaitez afficher l'image"
 
 #: imio/smartweb/core/contents/rest/events/content.py:20
 msgid "Selected agenda"
@@ -1114,7 +1114,7 @@ msgstr "Afficher la description des éléments"
 
 #: imio/smartweb/core/contents/sections/selections/content.py:35
 msgid "Show items lead image"
-msgstr ""
+msgstr "Afficher l'image principale des éléments"
 
 #: imio/smartweb/core/contents/sections/macros.pt:39
 msgid "Show title"
@@ -1218,11 +1218,11 @@ msgstr "Tiers de la page"
 
 #: imio/smartweb/core/vocabularies.py:246
 msgid "Third page"
-msgstr ""
+msgstr "Tiers de la page"
 
 #: imio/smartweb/core/vocabularies.py:67
 msgid "Three quarter of width"
-msgstr ""
+msgstr "Trois quarts de la page"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:79
 msgid "Thursday"
@@ -1249,7 +1249,7 @@ msgstr "Titre et Sous-titre"
 
 #: imio/smartweb/core/vocabularies.py:232
 msgid "Top"
-msgstr ""
+msgstr "Haut"
 
 #: imio/smartweb/common/behaviors/configure.zcml:13
 #: imio/smartweb/common/behaviors/topics.py:17
