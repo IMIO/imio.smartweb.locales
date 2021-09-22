@@ -22,7 +22,7 @@ msgstr "Accessibilité PMR"
 
 #: imio/events/core/vocabularies.py:128
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
-msgstr ""
+msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
 
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
@@ -395,11 +395,11 @@ msgstr "Événement"
 
 #: imio/events/core/contents/event/content.py:26
 msgid "Event address"
-msgstr ""
+msgstr "Adresse de l'événement"
 
 #: imio/smartweb/common/vocabularies.py:52
 msgid "Event planner"
-msgstr "Organisateur d’événement"
+msgstr "Organisateur d'événement"
 
 #: imio/events/core/contents/event/content.py:61
 msgid "Event type"
@@ -407,7 +407,7 @@ msgstr "Type d'événement"
 
 #: imio/events/core/vocabularies.py:122
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
-msgstr ""
+msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, balade, etc.)"
 
 #: imio/smartweb/core/browser/controlpanel.py:34
 msgid "Events entity"
@@ -784,7 +784,7 @@ msgstr "Modifier contenu"
 
 #: imio/smartweb/core/vocabularies.py:98
 msgid "Map"
-msgstr ""
+msgstr "Plan"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
 msgid "Map section"
@@ -1219,7 +1219,7 @@ msgstr "Section de texte"
 
 #: imio/directory/core/contents/contact/forms.py:16
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
-msgstr ""
+msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enregistrement de la fiche. Il est possible de modifier le pointeur manuellement si ce dernier n'est pas bien positionné."
 
 #: imio/events/core/vocabularies.py:26
 msgid "Theater and show"
