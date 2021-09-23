@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-22 12:58+0000\n"
+"POT-Creation-Date: 2021-09-23 07:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -73,7 +73,7 @@ msgstr ""
 msgid "Allow to select quick access elements for current context."
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/views.py:110
+#: imio/smartweb/core/contents/folder/views.py:109
 msgid "Apply"
 msgstr ""
 
@@ -292,6 +292,10 @@ msgstr ""
 msgid "Directory entity"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
+msgid "Directory view"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
 msgstr ""
@@ -306,6 +310,10 @@ msgstr ""
 
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
+msgid "Display linked directory from imio directory instance."
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
@@ -356,7 +364,7 @@ msgstr ""
 msgid "Element view"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/views.py:82
+#: imio/smartweb/core/contents/folder/views.py:81
 msgid "Element view form"
 msgstr ""
 
@@ -421,7 +429,7 @@ msgid "Events entity"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
-msgid "EventsView"
+msgid "Events view"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
@@ -591,7 +599,7 @@ msgstr ""
 msgid "Image scale for images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/selections/content.py:19
+#: imio/smartweb/core/contents/sections/selections/content.py:32
 msgid "Image scale for items"
 msgstr ""
 
@@ -849,16 +857,16 @@ msgstr ""
 msgid "News folder"
 msgstr ""
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
+msgid "News view"
+msgstr ""
+
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
 msgstr ""
 
 #: imio/news/core/contents/newsitem/content.py:25
 msgid "NewsItem website url"
-msgstr ""
-
-#: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
-msgid "NewsView"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:96
@@ -870,6 +878,7 @@ msgstr ""
 msgid "Number (format: +32475010203)"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/content.py:14
 #: imio/smartweb/core/contents/rest/events/content.py:14
 #: imio/smartweb/core/contents/rest/news/content.py:14
 msgid "Number of items to display"
@@ -1041,6 +1050,7 @@ msgstr ""
 msgid "Section title has been shown"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/content.py:17
 #: imio/smartweb/core/contents/rest/events/content.py:17
 #: imio/smartweb/core/contents/rest/news/content.py:17
 msgid "See more link"
@@ -1060,6 +1070,10 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:227
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/directory/content.py:21
+msgid "Select entity to display"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/content.py:25
@@ -1094,7 +1108,11 @@ msgstr ""
 msgid "Selected entities"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/selections/content.py:26
+#: imio/smartweb/core/contents/rest/directory/content.py:20
+msgid "Selected entity"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/selections/content.py:18
 msgid "Selected items"
 msgstr ""
 
@@ -1123,12 +1141,13 @@ msgstr ""
 msgid "Set a background image"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/content.py:27
 #: imio/smartweb/core/contents/rest/events/content.py:27
 #: imio/smartweb/core/contents/rest/news/content.py:27
 msgid "Show items description"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/selections/content.py:35
+#: imio/smartweb/core/contents/sections/selections/content.py:28
 msgid "Show items lead image"
 msgstr ""
 

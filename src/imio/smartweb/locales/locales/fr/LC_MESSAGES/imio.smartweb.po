@@ -66,7 +66,7 @@ msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son 
 msgid "Allow to select quick access elements for current context."
 msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément courant."
 
-#: imio/smartweb/core/contents/folder/views.py:110
+#: imio/smartweb/core/contents/folder/views.py:109
 msgid "Apply"
 msgstr "Appliquer"
 
@@ -285,6 +285,10 @@ msgstr "Description"
 msgid "Directory entity"
 msgstr "Entité pour l'annuaire"
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
+msgid "Directory view"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
 msgstr "Désactiver le mode minisite"
@@ -300,6 +304,10 @@ msgstr "En situation de handicap"
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
 msgstr "Afficher la bannière"
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
+msgid "Display linked directory from imio directory instance."
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "Display linked events from imio events instance."
@@ -349,7 +357,7 @@ msgstr "Senior"
 msgid "Element view"
 msgstr "Choisir un élément"
 
-#: imio/smartweb/core/contents/folder/views.py:82
+#: imio/smartweb/core/contents/folder/views.py:81
 msgid "Element view form"
 msgstr "Formulaire de choix de l'élément à afficher par défaut"
 
@@ -414,8 +422,8 @@ msgid "Events entity"
 msgstr "Entité pour les événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
-msgid "EventsView"
-msgstr "Vue événements"
+msgid "Events view"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -584,7 +592,7 @@ msgstr "Alignement de l'image"
 msgid "Image scale for images"
 msgstr "Echelle d'images"
 
-#: imio/smartweb/core/contents/sections/selections/content.py:19
+#: imio/smartweb/core/contents/sections/selections/content.py:32
 msgid "Image scale for items"
 msgstr "Echelle d'image pour les éléments"
 
@@ -842,6 +850,10 @@ msgstr "Entité pour les actualités"
 msgid "News folder"
 msgstr "Dossier d'actualités"
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
+msgid "News view"
+msgstr ""
+
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
 msgstr "Actualité"
@@ -849,10 +861,6 @@ msgstr "Actualité"
 #: imio/news/core/contents/newsitem/content.py:25
 msgid "NewsItem website url"
 msgstr "Site web de l'actualité"
-
-#: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
-msgid "NewsView"
-msgstr "Vue actualités"
 
 #: imio/directory/core/contents/contact/content.py:96
 #: imio/events/core/contents/event/content.py:30
@@ -863,6 +871,7 @@ msgstr "Numéro"
 msgid "Number (format: +32475010203)"
 msgstr "Numéro (format: +32475010203)"
 
+#: imio/smartweb/core/contents/rest/directory/content.py:14
 #: imio/smartweb/core/contents/rest/events/content.py:14
 #: imio/smartweb/core/contents/rest/news/content.py:14
 msgid "Number of items to display"
@@ -1034,6 +1043,7 @@ msgstr "Le titre de la section a été caché (pour le visiteur)"
 msgid "Section title has been shown"
 msgstr "Le titre de la section a été affiché"
 
+#: imio/smartweb/core/contents/rest/directory/content.py:17
 #: imio/smartweb/core/contents/rest/events/content.py:17
 #: imio/smartweb/core/contents/rest/news/content.py:17
 msgid "See more link"
@@ -1054,6 +1064,10 @@ msgstr "Sélectionnez les agendas dans lesquels cet événement sera affiché. L
 #: imio/directory/core/contents/contact/content.py:227
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
 msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'entité courante sera toujours sélectionnée."
+
+#: imio/smartweb/core/contents/rest/directory/content.py:21
+msgid "Select entity to display"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/content.py:25
 msgid "Select image size"
@@ -1087,7 +1101,11 @@ msgstr "Agendas concernés"
 msgid "Selected entities"
 msgstr "Entités concernées"
 
-#: imio/smartweb/core/contents/sections/selections/content.py:26
+#: imio/smartweb/core/contents/rest/directory/content.py:20
+msgid "Selected entity"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/selections/content.py:18
 msgid "Selected items"
 msgstr "Elements sélectionnés"
 
@@ -1116,12 +1134,13 @@ msgstr "Définir la page par défaut"
 msgid "Set a background image"
 msgstr "Définir une image de fond"
 
+#: imio/smartweb/core/contents/rest/directory/content.py:27
 #: imio/smartweb/core/contents/rest/events/content.py:27
 #: imio/smartweb/core/contents/rest/news/content.py:27
 msgid "Show items description"
 msgstr "Afficher la description des éléments"
 
-#: imio/smartweb/core/contents/sections/selections/content.py:35
+#: imio/smartweb/core/contents/sections/selections/content.py:28
 msgid "Show items lead image"
 msgstr "Afficher l'image principale des éléments"
 
