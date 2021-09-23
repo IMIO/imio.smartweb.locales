@@ -287,7 +287,7 @@ msgstr "Entité pour l'annuaire"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
 msgid "Directory view"
-msgstr ""
+msgstr "Vue annuaire"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
@@ -307,7 +307,7 @@ msgstr "Afficher la bannière"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
 msgid "Display linked directory from imio directory instance."
-msgstr ""
+msgstr "Affiche des contacts depuis la source authentique"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "Display linked events from imio events instance."
@@ -423,7 +423,7 @@ msgstr "Entité pour les événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "Events view"
-msgstr ""
+msgstr "Vue événements"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -852,7 +852,7 @@ msgstr "Dossier d'actualités"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
 msgid "News view"
-msgstr ""
+msgstr "Vue actualités"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
@@ -1067,7 +1067,7 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 
 #: imio/smartweb/core/contents/rest/directory/content.py:21
 msgid "Select entity to display"
-msgstr ""
+msgstr "Sélectionnez l'entité à afficher"
 
 #: imio/smartweb/core/contents/sections/text/content.py:25
 msgid "Select image size"
@@ -1103,7 +1103,7 @@ msgstr "Entités concernées"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:20
 msgid "Selected entity"
-msgstr ""
+msgstr "Entité sélectionnée"
 
 #: imio/smartweb/core/contents/sections/selections/content.py:18
 msgid "Selected items"
