@@ -213,6 +213,10 @@ msgstr "Fermé"
 msgid "Complement"
 msgstr "Complément"
 
+#: imio/smartweb/core/viewlets/procedure.pt:5
+msgid "Complete this procedure online"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:19
 msgid "Concert and festival"
 msgstr "Concert et festival"
