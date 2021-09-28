@@ -215,7 +215,7 @@ msgstr "Complément"
 
 #: imio/smartweb/core/viewlets/procedure.pt:5
 msgid "Complete this procedure online"
-msgstr ""
+msgstr "Effectuer cette démarche en ligne"
 
 #: imio/events/core/vocabularies.py:19
 msgid "Concert and festival"
