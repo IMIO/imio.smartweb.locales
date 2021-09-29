@@ -146,7 +146,7 @@ msgstr "Cochez si l'événement est accessible aux personnes à mobilité rédui
 
 #: imio/smartweb/core/contents/folder/content.py:25
 msgid "Choose item to display"
-msgstr ""
+msgstr "Choisissez l'élément à afficher"
 
 #: imio/smartweb/core/behaviors/minisite.py:36
 #: imio/smartweb/core/behaviors/subsite.py:31
@@ -519,11 +519,11 @@ msgstr "Le pied de page a été ajouté avec succès"
 
 #: imio/smartweb/core/contents/folder/content.py:26
 msgid "For the anonymous visitor, the folder and the selected item are one. When he clicks on the folder, the item is displayed."
-msgstr ""
+msgstr "Pour le visiteur anonyme, le dossier et l'élément sélectionné ne font qu'un. Lorsqu'il clique sur le dossier, l'élément s'affiche."
 
 #: imio/smartweb/core/contents/folder/views.py:81
 msgid "Form to choose item to be displayed as the home page of the folder"
-msgstr ""
+msgstr "Formulaire de choix de l'élément à afficher comme page d'accueil du dossier"
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Free WIFI"
@@ -556,7 +556,7 @@ msgstr "Création d'une section galerie qui affichera ses images dans votre page
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:5
 msgid "Go to ${url}"
-msgstr ""
+msgstr "Aller sur ${url}"
 
 #: imio/smartweb/common/vocabularies.py:25
 msgid "Habitat and town planning"
@@ -1255,7 +1255,7 @@ msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enreg
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "The item selected as the folder home page is :"
-msgstr ""
+msgstr "L'élément sélectionné comme page d'accueil du dossier est :"
 
 #: imio/events/core/vocabularies.py:26
 msgid "Theater and show"
