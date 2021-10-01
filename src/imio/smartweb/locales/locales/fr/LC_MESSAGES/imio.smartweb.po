@@ -81,7 +81,7 @@ msgstr "Retour"
 #: imio/smartweb/core/contents/pages/footer/content.py:22
 #: imio/smartweb/core/contents/sections/base.py:43
 msgid "Background image"
-msgstr ""
+msgstr "Image de fond"
 
 #: imio/directory/core/contents/contact/content.py:32
 msgid "Bad phone format"
@@ -569,11 +569,11 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionHTML.xml
 msgid "HTML section"
-msgstr ""
+msgstr "Section HTML"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionHTML.xml
 msgid "HTML section for a page"
-msgstr ""
+msgstr "Section HTML pour une page"
 
 #: imio/smartweb/common/vocabularies.py:25
 msgid "Habitat and town planning"
@@ -624,7 +624,7 @@ msgstr "Alignement de l'image"
 
 #: imio/smartweb/core/contents/sections/macros.pt:49
 msgid "Image cropping"
-msgstr ""
+msgstr "Découpe d'image"
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
@@ -1291,7 +1291,7 @@ msgstr "Théâtre et spectacle"
 
 #: imio/smartweb/core/contents/pages/views.py:48
 msgid "There is no section on this page."
-msgstr ""
+msgstr "Il n'y a aucune section dans cette page."
 
 #: imio/smartweb/core/vocabularies.py:64
 msgid "Third of width"
