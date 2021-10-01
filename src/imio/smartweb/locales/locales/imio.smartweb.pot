@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-09-29 06:51+0000\n"
+"POT-Creation-Date: 2021-10-01 13:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -52,7 +52,7 @@ msgid "Add topics on content types."
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:92
-#: imio/smartweb/core/contents/sections/contact/view.pt:92
+#: imio/smartweb/core/contents/sections/contact/view.pt:85
 #: imio/smartweb/core/vocabularies.py:98
 msgid "Address"
 msgstr ""
@@ -85,11 +85,16 @@ msgstr ""
 msgid "Back"
 msgstr ""
 
+#: imio/smartweb/core/contents/pages/footer/content.py:22
+#: imio/smartweb/core/contents/sections/base.py:43
+msgid "Background image"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:32
 msgid "Bad phone format"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/content.py:41
+#: imio/smartweb/core/contents/folder/content.py:51
 msgid "Banner"
 msgstr ""
 
@@ -101,11 +106,11 @@ msgstr ""
 msgid "Banner is now hidden from this item"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:32
+#: imio/smartweb/core/contents/folder/configure.zcml:38
 msgid "Block view"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:43
+#: imio/smartweb/core/contents/folder/configure.zcml:49
 msgid "Block view with images"
 msgstr ""
 
@@ -113,7 +118,7 @@ msgstr ""
 msgid "Blocks that will be displayed in contact"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/base.py:38
+#: imio/smartweb/core/contents/sections/base.py:48
 msgid "Bootstrap CSS class"
 msgstr ""
 
@@ -122,7 +127,7 @@ msgid "Bottom"
 msgstr ""
 
 #: imio/smartweb/core/contents/pages/footer/content.py:27
-#: imio/smartweb/core/contents/sections/base.py:44
+#: imio/smartweb/core/contents/sections/base.py:54
 msgid "CSS class"
 msgstr ""
 
@@ -151,7 +156,7 @@ msgstr ""
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/content.py:25
+#: imio/smartweb/core/contents/folder/content.py:35
 msgid "Choose item to display"
 msgstr ""
 
@@ -245,8 +250,8 @@ msgid "Contact content type"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:119
-#: imio/smartweb/core/contents/sections/contact/view.pt:53
-#: imio/smartweb/core/vocabularies.py:100
+#: imio/smartweb/core/contents/sections/contact/view.pt:46
+#: imio/smartweb/core/vocabularies.py:97
 msgid "Contact informations"
 msgstr ""
 
@@ -271,7 +276,7 @@ msgstr ""
 msgid "Defibrillator"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/content.py:42
+#: imio/smartweb/core/contents/folder/content.py:52
 msgid "Define a banner for folder and children"
 msgstr ""
 
@@ -287,13 +292,13 @@ msgstr ""
 msgid "Define number of levels in menu navigation subsite"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:61
+#: imio/smartweb/core/contents/sections/macros.pt:65
 msgid "Delete section"
 msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:27
 #: imio/smartweb/core/contents/sections/links/content.py:15
-#: imio/smartweb/core/vocabularies.py:97
+#: imio/smartweb/core/vocabularies.py:101
 msgid "Description"
 msgstr ""
 
@@ -369,7 +374,7 @@ msgstr ""
 msgid "Elder"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:52
+#: imio/smartweb/core/contents/folder/configure.zcml:58
 msgid "Element view"
 msgstr ""
 
@@ -524,7 +529,7 @@ msgstr ""
 msgid "Footer has been successfully added"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/content.py:26
+#: imio/smartweb/core/contents/folder/content.py:36
 msgid "For the anonymous visitor, the folder and the selected item are one. When he clicks on the folder, the item is displayed."
 msgstr ""
 
@@ -561,8 +566,20 @@ msgstr ""
 msgid "Gallery section for a page"
 msgstr ""
 
-#: imio/smartweb/core/viewlets/minisite_link.pt:5
+#: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/html/content.py:14
+msgid "HTML"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionHTML.xml
+msgid "HTML section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionHTML.xml
+msgid "HTML section for a page"
 msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:25
@@ -585,12 +602,12 @@ msgstr ""
 msgid "Hide banner from this item"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/base.py:17
+#: imio/smartweb/core/contents/sections/base.py:27
 #: imio/smartweb/core/contents/sections/macros.pt:34
 msgid "Hide title"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/base.py:18
+#: imio/smartweb/core/contents/sections/base.py:28
 msgid "Hide title for anonymous user. Title stays visible for the editor."
 msgstr ""
 
@@ -608,8 +625,12 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:16
+#: imio/smartweb/core/contents/sections/text/content.py:28
 msgid "Image alignment"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/macros.pt:49
+msgid "Image cropping"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
@@ -624,7 +645,7 @@ msgstr ""
 msgid "Image scale for links"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:24
+#: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Image size"
 msgstr ""
 
@@ -716,7 +737,7 @@ msgstr ""
 msgid "Internships and courses"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:103
+#: imio/smartweb/core/contents/sections/contact/view.pt:96
 #: imio/smartweb/core/contents/sections/contact/view.py:46
 msgid "Itinerary"
 msgstr ""
@@ -743,7 +764,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/minisite.py:24
 #: imio/smartweb/core/behaviors/subsite.py:19
-#: imio/smartweb/core/contents/folder/content.py:36
+#: imio/smartweb/core/contents/folder/content.py:46
 msgid "Layout"
 msgstr ""
 
@@ -806,7 +827,7 @@ msgstr ""
 msgid "Lunch time"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:50
+#: imio/smartweb/core/contents/sections/macros.pt:54
 msgid "Manage section contents"
 msgstr ""
 
@@ -868,6 +889,10 @@ msgstr ""
 
 #: imio/news/core/profiles/default/types/imio.news.NewsFolder.xml
 msgid "News folder"
+msgstr ""
+
+#: imio/news/core/contents/newsfolder/content.py:19
+msgid "News folders that populate current news folder with their events."
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
@@ -966,6 +991,10 @@ msgstr ""
 msgid "Populating agendas"
 msgstr ""
 
+#: imio/news/core/contents/newsfolder/content.py:18
+msgid "Populating news folders"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
 msgid "Portal Page"
 msgstr ""
@@ -1046,8 +1075,8 @@ msgstr ""
 msgid "Saturday"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:120
-#: imio/smartweb/core/vocabularies.py:101
+#: imio/smartweb/core/contents/sections/contact/view.pt:113
+#: imio/smartweb/core/vocabularies.py:100
 msgid "Schedule"
 msgstr ""
 
@@ -1093,7 +1122,7 @@ msgstr ""
 msgid "Select entity to display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:25
+#: imio/smartweb/core/contents/sections/text/content.py:37
 msgid "Select image size"
 msgstr ""
 
@@ -1105,11 +1134,11 @@ msgstr ""
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:56
+#: imio/smartweb/core/contents/sections/macros.pt:60
 msgid "Select view"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:17
+#: imio/smartweb/core/contents/sections/text/content.py:29
 msgid "Select where you want to display the image"
 msgstr ""
 
@@ -1147,11 +1176,6 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section for a page"
-msgstr ""
-
-#: imio/smartweb/core/contents/pages/footer/content.py:22
-#: imio/smartweb/core/contents/sections/base.py:33
-msgid "Set a background image"
 msgstr ""
 
 #: imio/smartweb/core/contents/rest/directory/content.py:27
@@ -1198,7 +1222,7 @@ msgstr ""
 msgid "Standard Page content type to print informations"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:19
+#: imio/smartweb/core/contents/folder/configure.zcml:25
 msgid "Standard view"
 msgstr ""
 
@@ -1209,6 +1233,10 @@ msgstr ""
 
 #: imio/events/core/vocabularies.py:17
 msgid "Stroll and discovery"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/html/content.py:15
+msgid "Structure your content directly with html."
 msgstr ""
 
 #: imio/directory/core/contents/contact/view.pt:122
@@ -1231,11 +1259,11 @@ msgstr ""
 msgid "Subtitle"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:63
+#: imio/smartweb/core/contents/folder/configure.zcml:69
 msgid "Summary view"
 msgstr ""
 
-#: imio/smartweb/core/contents/folder/configure.zcml:74
+#: imio/smartweb/core/contents/folder/configure.zcml:80
 msgid "Summary view with images"
 msgstr ""
 
@@ -1268,6 +1296,10 @@ msgstr ""
 msgid "Theater and show"
 msgstr ""
 
+#: imio/smartweb/core/contents/pages/views.py:48
+msgid "There is no section on this page."
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:64
 msgid "Third of width"
 msgstr ""
@@ -1294,7 +1326,7 @@ msgid "Ticket url to subscribe to this event"
 msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26
-#: imio/smartweb/core/contents/sections/base.py:15
+#: imio/smartweb/core/contents/sections/base.py:25
 #: imio/smartweb/core/vocabularies.py:80
 msgid "Title"
 msgstr ""
@@ -1460,7 +1492,7 @@ msgstr ""
 msgid "Young"
 msgstr ""
 
-#: imio/smartweb/core/subscribers.py:25
+#: imio/smartweb/core/subscribers.py:26
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr ""
 
