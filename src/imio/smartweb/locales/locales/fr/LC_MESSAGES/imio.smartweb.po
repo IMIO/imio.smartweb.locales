@@ -1426,7 +1426,7 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 #: imio/smartweb/common/browser/forms.py:33
 #: imio/smartweb/core/contents/sections/links/content.py:17
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
-msgstr ""
+msgstr "Utilisez **texte** pour mettre du texte en gras. Limité à ${max} caractères."
 
 #: imio/directory/core/vocabularies.py:83
 msgid "Useful numbers"
