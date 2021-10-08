@@ -56,7 +56,7 @@ msgstr "Agenda"
 
 #: imio/events/core/contents/agenda/content.py:19
 msgid "Agendas that populate current agenda with their events."
-msgstr ""
+msgstr "Les événements de l’agenda sélectionné apparaîtront dans le présent agenda."
 
 #: imio/smartweb/common/vocabularies.py:19
 msgid "Agriculture"
@@ -143,7 +143,7 @@ msgstr "Catégorie"
 
 #: imio/events/core/contents/event/content.py:91
 msgid "Check if entry is free"
-msgstr "Cochez si l'événement est gratuit"
+msgstr "Cochez si l'événement est gratuit pour tout le monde"
 
 #: imio/events/core/contents/event/content.py:104
 msgid "Check if there is facilities for person with reduced mobility"
@@ -455,7 +455,7 @@ msgstr "Facebook"
 
 #: imio/events/core/contents/event/content.py:73
 msgid "Facebook url for this event"
-msgstr "Adresse facebook pour cet événement"
+msgstr "Lien facebook pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:31
 msgid "Facebook url for this news"
@@ -672,7 +672,7 @@ msgstr ""
 
 #: imio/events/core/contents/event/content.py:85
 msgid "Instagram url for this event"
-msgstr "Adresse Instagram pour cet événement"
+msgstr "Lien Instagram pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:43
 msgid "Instagram url for this news"
@@ -925,7 +925,7 @@ msgstr "Participation en ligne"
 
 #: imio/events/core/contents/event/content.py:97
 msgid "Online participation url"
-msgstr "Adresse pour la participation en ligne"
+msgstr "Lien pour la participation en ligne"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:33
 msgid "Only one procedure field can be filled !"
@@ -986,7 +986,7 @@ msgstr ""
 
 #: imio/news/core/contents/newsfolder/content.py:18
 msgid "Populating news folders"
-msgstr ""
+msgstr "S’abonner à un/des agenda(s)"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
 msgid "Portal Page"
@@ -1312,11 +1312,11 @@ msgstr "Jeudi"
 #: imio/events/core/contents/event/content.py:66
 #: imio/events/core/contents/event/view.pt:48
 msgid "Ticket url"
-msgstr "Adresse de billeterie"
+msgstr "Billeterie"
 
 #: imio/events/core/contents/event/content.py:67
 msgid "Ticket url to subscribe to this event"
-msgstr "Adresse de la billeterie pour s'inscrire à cet événement"
+msgstr "Lien de la billeterie pour s'inscrire à cet événement"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26
 #: imio/smartweb/core/contents/sections/base.py:25
@@ -1361,7 +1361,7 @@ msgstr "Twitter"
 
 #: imio/events/core/contents/event/content.py:79
 msgid "Twitter url for this event"
-msgstr "Adresse Twitter pour cet événement"
+msgstr "Lien Twitter pour cet événement"
 
 #: imio/news/core/contents/newsitem/content.py:37
 msgid "Twitter url for this news"
@@ -1448,7 +1448,7 @@ msgstr "Création d'une section contenant une vidéo qui sera inclue dans votre 
 #: imio/news/core/contents/newsitem/content.py:18
 #: imio/smartweb/core/contents/sections/video/content.py:14
 msgid "Video url"
-msgstr "Lien vers la vidéo"
+msgstr "Vidéo"
 
 #: imio/events/core/contents/event/content.py:61
 #: imio/news/core/contents/newsitem/content.py:19
