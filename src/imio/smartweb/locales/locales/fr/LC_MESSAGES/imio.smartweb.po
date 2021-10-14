@@ -56,7 +56,7 @@ msgstr "Agenda"
 
 #: imio/events/core/contents/agenda/content.py:19
 msgid "Agendas that automatically populates this agenda with their events."
-msgstr ""
+msgstr "Les événements des agendas sélectionnés apparaîtront automatiquement dans le présent agenda."
 
 #: imio/smartweb/common/vocabularies.py:19
 msgid "Agriculture"
@@ -218,11 +218,11 @@ msgstr "Fermé"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionCollection.xml
 msgid "Collection section"
-msgstr ""
+msgstr "Section collection"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionCollection.xml
 msgid "Collection section for a page"
-msgstr ""
+msgstr "Section collection pour une page"
 
 #: imio/smartweb/common/interfaces.py:29
 msgid "Complement"
@@ -442,11 +442,11 @@ msgstr "Entité pour les événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
-msgstr ""
+msgstr "Section événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section for a page"
-msgstr ""
+msgstr "Section événements pour une page"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.EventsView.xml
 msgid "Events view"
@@ -454,7 +454,7 @@ msgstr "Vue événements"
 
 #: imio/smartweb/core/contents/sections/events/content.py:36
 msgid "Events view used to display events details"
-msgstr ""
+msgstr "Vue événements utilisée pour afficher les détails de l'événement"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -663,7 +663,7 @@ msgstr "Echelle d'image pour les liens"
 #: imio/smartweb/core/contents/sections/events/content.py:51
 #: imio/smartweb/core/contents/sections/news/content.py:51
 msgid "Image scale for news"
-msgstr ""
+msgstr "Echelle d'image pour les actualités"
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Image size"
@@ -867,7 +867,7 @@ msgstr "Section plan pour une page"
 #: imio/smartweb/core/contents/sections/events/content.py:42
 #: imio/smartweb/core/contents/sections/news/content.py:42
 msgid "Maximum number of items to display"
-msgstr ""
+msgstr "Nombre maximum d'éléments à afficher"
 
 #: imio/smartweb/core/behaviors/subsite.py:39
 msgid "Menu depth"
@@ -923,15 +923,15 @@ msgstr "Dossier d'actualités"
 
 #: imio/news/core/contents/newsfolder/content.py:19
 msgid "News folders that automatically populates this news folder with their news."
-msgstr ""
+msgstr "Les actualités des dossiers sélectionnés apparaîtront automatiquement dans le présent dossier d'actualités."
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
-msgstr ""
+msgstr "Section actualités"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section for a page"
-msgstr ""
+msgstr "Section actualités pour une pagee"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.NewsView.xml
 msgid "News view"
@@ -939,7 +939,7 @@ msgstr "Vue actualités"
 
 #: imio/smartweb/core/contents/sections/news/content.py:36
 msgid "News view used to display news items details"
-msgstr ""
+msgstr "Vue actualités utilisée pour afficher les détails de l'actualité"
 
 #: imio/news/core/profiles/default/types/imio.news.NewsItem.xml
 msgid "NewsItem"
@@ -961,7 +961,7 @@ msgstr "Numéro (format: +32475010203)"
 #: imio/smartweb/core/contents/sections/events/content.py:46
 #: imio/smartweb/core/contents/sections/news/content.py:46
 msgid "Number of items per batch"
-msgstr ""
+msgstr "Nombre d'éléments par lot"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:14
 #: imio/smartweb/core/contents/rest/events/content.py:14
@@ -1036,11 +1036,11 @@ msgstr "Politique"
 
 #: imio/events/core/contents/agenda/content.py:18
 msgid "Populating agendas"
-msgstr ""
+msgstr "S'abonner à un/des agenda(s)"
 
 #: imio/news/core/contents/newsfolder/content.py:18
 msgid "Populating news folders"
-msgstr "S’abonner à un/des agenda(s)"
+msgstr "S'abonner à un/des dossier(s) d'actualités"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.PortalPage.xml
 msgid "Portal Page"
@@ -1084,7 +1084,7 @@ msgstr "Toilettes publiques"
 
 #: imio/smartweb/core/contents/sections/html/content.py:15
 msgid "Put your html code snippet here"
-msgstr ""
+msgstr "Entrez votre code HTML directement ici"
 
 #: imio/smartweb/core/vocabularies.py:63
 msgid "Quarter of width"
@@ -1104,7 +1104,7 @@ msgstr "Sélection d'accès rapides"
 
 #: imio/smartweb/core/contents/sections/events/content.py:21
 msgid "Related agenda"
-msgstr ""
+msgstr "Agenda lié"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:18
 msgid "Related contact"
@@ -1112,7 +1112,7 @@ msgstr "Contact lié"
 
 #: imio/smartweb/core/contents/sections/news/content.py:21
 msgid "Related news folder"
-msgstr ""
+msgstr "Dossier d'actualités lié"
 
 #: imio/smartweb/common/faceted/widget.py:21
 msgid "Relative path widget"
@@ -1163,7 +1163,7 @@ msgstr "Lien Voir plus"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:46
 msgid "Select a collection"
-msgstr ""
+msgstr "Collection sélectionnée"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:19
 msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
@@ -1246,7 +1246,7 @@ msgstr "Afficher l'image principale des éléments"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:63
 msgid "Show items publication date"
-msgstr ""
+msgstr "Afficher la date de publication des éléments"
 
 #: imio/smartweb/core/contents/sections/macros.pt:39
 msgid "Show title"
@@ -1337,7 +1337,7 @@ msgstr "Territoire et espace public"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:51
 msgid "Text for the link to the collection"
-msgstr ""
+msgstr "Texte pour le lien vers la collection"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
