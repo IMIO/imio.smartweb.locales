@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-10-14 17:54+0000\n"
+"POT-Creation-Date: 2021-10-18 10:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,7 +53,7 @@ msgstr ""
 
 #: imio/smartweb/common/interfaces.py:24
 #: imio/smartweb/core/contents/sections/contact/view.pt:85
-#: imio/smartweb/core/vocabularies.py:98
+#: imio/smartweb/core/vocabularies.py:97
 msgid "Address"
 msgstr ""
 
@@ -122,7 +122,7 @@ msgstr ""
 msgid "Bootstrap CSS class"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:233
+#: imio/smartweb/core/vocabularies.py:232
 msgid "Bottom"
 msgstr ""
 
@@ -257,7 +257,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:114
 #: imio/smartweb/core/contents/sections/contact/view.pt:46
-#: imio/smartweb/core/vocabularies.py:97
+#: imio/smartweb/core/vocabularies.py:96
 msgid "Contact informations"
 msgstr ""
 
@@ -275,6 +275,18 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:21
 msgid "Culture"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:64
+msgid "Default directory view"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:71
+msgid "Default events view"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:78
+msgid "Default news view"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:81
@@ -303,7 +315,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:27
 #: imio/smartweb/core/contents/sections/links/content.py:16
-#: imio/smartweb/core/vocabularies.py:101
+#: imio/smartweb/core/vocabularies.py:100
 msgid "Description"
 msgstr ""
 
@@ -571,11 +583,11 @@ msgstr ""
 msgid "Friday"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:68
+#: imio/smartweb/core/vocabularies.py:67
 msgid "Full width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:102
+#: imio/smartweb/core/vocabularies.py:101
 msgid "Gallery"
 msgstr ""
 
@@ -607,11 +619,11 @@ msgstr ""
 msgid "Habitat and town planning"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:65
+#: imio/smartweb/core/vocabularies.py:64
 msgid "Half of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:247
+#: imio/smartweb/core/vocabularies.py:246
 msgid "Half page"
 msgstr ""
 
@@ -795,11 +807,11 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:95
+#: imio/smartweb/core/vocabularies.py:94
 msgid "Lead Image"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:231
+#: imio/smartweb/core/vocabularies.py:230
 msgid "Left"
 msgstr ""
 
@@ -841,7 +853,7 @@ msgstr ""
 msgid "Logo"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:82
+#: imio/smartweb/core/vocabularies.py:81
 msgid "Logo and title"
 msgstr ""
 
@@ -858,7 +870,7 @@ msgstr ""
 msgid "Manage section contents"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:99
+#: imio/smartweb/core/vocabularies.py:98
 msgid "Map"
 msgstr ""
 
@@ -906,6 +918,10 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:26
 msgid "Mobility"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/macros.pt:73
+msgid "Modified"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/view.py:80
@@ -1093,7 +1109,7 @@ msgstr ""
 msgid "Put your html code snippet here"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:63
+#: imio/smartweb/core/vocabularies.py:62
 msgid "Quarter of width"
 msgstr ""
 
@@ -1129,7 +1145,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:232
+#: imio/smartweb/core/vocabularies.py:231
 msgid "Right"
 msgstr ""
 
@@ -1142,7 +1158,7 @@ msgid "Saturday"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:113
-#: imio/smartweb/core/vocabularies.py:100
+#: imio/smartweb/core/vocabularies.py:99
 msgid "Schedule"
 msgstr ""
 
@@ -1259,7 +1275,7 @@ msgstr ""
 msgid "Show title"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:67
+#: imio/smartweb/core/browser/controlpanel.py:88
 msgid "Smartweb Settings"
 msgstr ""
 
@@ -1366,15 +1382,19 @@ msgstr ""
 msgid "There is no section on this page."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:64
+#: imio/smartweb/core/vocabularies.py:63
 msgid "Third of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:248
+#: imio/smartweb/core/vocabularies.py:247
 msgid "Third page"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:67
+#: imio/smartweb/core/browser/controlpanel.py:65
+msgid "This information is used for search results redirection"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:66
 msgid "Three quarter of width"
 msgstr ""
 
@@ -1393,15 +1413,15 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26
 #: imio/smartweb/core/contents/sections/base.py:25
-#: imio/smartweb/core/vocabularies.py:80
+#: imio/smartweb/core/vocabularies.py:79
 msgid "Title"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:96
+#: imio/smartweb/core/vocabularies.py:95
 msgid "Title and Subtitle"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:234
+#: imio/smartweb/core/vocabularies.py:233
 msgid "Top"
 msgstr ""
 
@@ -1440,7 +1460,7 @@ msgstr ""
 msgid "Twitter url for this news"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:66
+#: imio/smartweb/core/vocabularies.py:65
 msgid "Two third of width"
 msgstr ""
 
