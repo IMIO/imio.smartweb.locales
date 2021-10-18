@@ -915,7 +915,7 @@ msgstr "Mobilité"
 
 #: imio/smartweb/core/contents/sections/macros.pt:73
 msgid "Modified"
-msgstr ""
+msgstr "Modifié"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:80
 msgid "Monday"
