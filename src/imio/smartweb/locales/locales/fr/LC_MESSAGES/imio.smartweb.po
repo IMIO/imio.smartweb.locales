@@ -143,7 +143,7 @@ msgstr "Catégorie"
 
 #: imio/smartweb/core/browser/controlpanel.py:85
 msgid "Category and topics vocabulary setting for TeleServices"
-msgstr ""
+msgstr "Paramètres de vocabulaire Catégories et thématiques pour les TeleServices"
 
 #: imio/events/core/contents/event/content.py:89
 msgid "Check if entry is free"
@@ -155,7 +155,7 @@ msgstr "Cochez si l'événement est accessible aux personnes à mobilité rédui
 
 #: imio/smartweb/core/browser/controlpanel.py:86
 msgid "Choose a term from the vocabulary and define the corresponding name"
-msgstr ""
+msgstr "Choisissez un terme du vocabulaire et définissez le nom correspondant"
 
 #: imio/smartweb/core/contents/folder/content.py:35
 msgid "Choose item to display"
@@ -280,15 +280,15 @@ msgstr "Culture"
 
 #: imio/smartweb/core/browser/controlpanel.py:64
 msgid "Default directory view"
-msgstr ""
+msgstr "Vue contacts par défaut"
 
 #: imio/smartweb/core/browser/controlpanel.py:71
 msgid "Default events view"
-msgstr ""
+msgstr "Vue événements par défaut"
 
 #: imio/smartweb/core/browser/controlpanel.py:78
 msgid "Default news view"
-msgstr ""
+msgstr "Vue actualités par défaut"
 
 #: imio/directory/core/vocabularies.py:81
 msgid "Defibrillator"
@@ -322,7 +322,7 @@ msgstr "Description"
 
 #: imio/smartweb/core/browser/controlpanel.py:46
 msgid "Directory SolR Core ID"
-msgstr ""
+msgstr "ID du cœur SolR pour l'annuaire"
 
 #: imio/smartweb/core/browser/controlpanel.py:28
 msgid "Directory entity"
@@ -394,7 +394,7 @@ msgstr "Éducation"
 
 #: imio/news/core/contents/newsitem/view.pt:71
 msgid "Effective"
-msgstr ""
+msgstr "Publication"
 
 #: imio/smartweb/common/vocabularies.py:54
 msgid "Elder"
@@ -458,7 +458,7 @@ msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, 
 
 #: imio/smartweb/core/browser/controlpanel.py:52
 msgid "Events SolR Core ID"
-msgstr ""
+msgstr "ID du cœur SolR pour l'agenda"
 
 #: imio/smartweb/core/browser/controlpanel.py:34
 msgid "Events entity"
@@ -490,7 +490,7 @@ msgstr "Exposition et rencontre artistique"
 
 #: imio/news/core/contents/newsitem/view.pt:74
 msgid "Expires"
-msgstr ""
+msgstr "Expiration"
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Export contact"
@@ -806,7 +806,7 @@ msgstr "Journaliste"
 #: imio/events/core/contents/event/view.pt:85
 #: imio/news/core/contents/newsitem/view.pt:64
 msgid "Keywords"
-msgstr ""
+msgstr "Mots-clés"
 
 #: imio/directory/core/contents/contact/content.py:71
 msgid "Label (Secretariat, Manager office, Sales,...)"
@@ -945,7 +945,7 @@ msgstr "Lundi"
 
 #: imio/smartweb/core/browser/controlpanel.py:94
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 #: imio/smartweb/common/vocabularies.py:51
 msgid "Newcomer"
@@ -953,7 +953,7 @@ msgstr "Nouvel arrivant"
 
 #: imio/smartweb/core/browser/controlpanel.py:58
 msgid "News SolR Core ID"
-msgstr ""
+msgstr "ID du cœur SolR pour les actualités"
 
 #: imio/smartweb/core/browser/controlpanel.py:40
 msgid "News entity"
@@ -993,7 +993,7 @@ msgstr "Site web de l'actualité"
 
 #: imio/events/core/contents/event/view.pt:48
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: imio/smartweb/common/interfaces.py:28
 msgid "Number"
@@ -1203,15 +1203,15 @@ msgstr "Le titre de la section a été affiché"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:21
 msgid "See all"
-msgstr ""
+msgstr "Voir tous"
 
 #: imio/smartweb/core/contents/sections/events/content.py:22
 msgid "See all events"
-msgstr ""
+msgstr "Voir tous les événements"
 
 #: imio/smartweb/core/contents/sections/news/content.py:22
 msgid "See all news"
-msgstr ""
+msgstr "Voir toutes les actualités"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:37
 msgid "Select a collection"
@@ -1393,11 +1393,11 @@ msgstr "Texte pour le lien vers la collection"
 
 #: imio/smartweb/core/contents/sections/events/content.py:66
 msgid "Text for the link to the events view"
-msgstr ""
+msgstr "Texte du lien vers la vue évévenements"
 
 #: imio/smartweb/core/contents/sections/news/content.py:66
 msgid "Text for the link to the news view"
-msgstr ""
+msgstr "Texte du lien vers la vue actualités"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
@@ -1429,7 +1429,7 @@ msgstr "Tiers de la page"
 
 #: imio/smartweb/core/browser/controlpanel.py:65
 msgid "This information is used for search results redirection"
-msgstr ""
+msgstr "Cette information est utilisée pour la redirection des résultats de recherche"
 
 #: imio/smartweb/core/vocabularies.py:73
 msgid "Three quarter of width"
@@ -1593,7 +1593,7 @@ msgstr "Blocs visibles"
 
 #: imio/smartweb/core/browser/controlpanel.py:90
 msgid "Vocabulary term"
-msgstr ""
+msgstr "Terme du vocabulaire"
 
 #: imio/directory/core/vocabularies.py:68
 #: imio/news/core/contents/newsitem/content.py:29
@@ -1618,7 +1618,7 @@ msgstr "Travaux"
 
 #: imio/events/core/contents/event/view.pt:45
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: imio/smartweb/common/vocabularies.py:49
 msgid "Young"
