@@ -136,7 +136,7 @@ msgid "Categorization"
 msgstr "Catégorisation"
 
 #: imio/events/core/contents/event/content.py:118
-#: imio/events/core/contents/event/view.pt:76
+#: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:73
 msgid "Category"
 msgstr "Catégorie"
@@ -315,7 +315,7 @@ msgid "Delete section"
 msgstr "Supprimer la section"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:27
-#: imio/smartweb/core/contents/sections/links/content.py:16
+#: imio/smartweb/core/contents/sections/links/content.py:15
 #: imio/smartweb/core/vocabularies.py:107
 msgid "Description"
 msgstr "Description"
@@ -476,9 +476,13 @@ msgstr "Section événements pour une page"
 msgid "Events view"
 msgstr "Vue événements"
 
-#: imio/smartweb/core/contents/sections/events/content.py:45
+#: imio/smartweb/core/contents/sections/events/content.py:44
 msgid "Events view used to display events details"
 msgstr "Vue événements utilisée pour afficher les détails de l'événement"
+
+#: imio/smartweb/core/browser/controlpanel.py:15
+msgid "Example : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
@@ -498,7 +502,7 @@ msgstr "Exporter le contact"
 
 #: imio/directory/core/vocabularies.py:66
 #: imio/events/core/contents/event/content.py:70
-#: imio/events/core/contents/event/view.pt:64
+#: imio/events/core/contents/event/view.pt:72
 msgid "Facebook"
 msgstr "Facebook"
 
@@ -515,7 +519,7 @@ msgid "Facilities"
 msgstr "Facilités"
 
 #: imio/events/core/contents/event/content.py:95
-#: imio/events/core/contents/event/view.pt:52
+#: imio/events/core/contents/event/view.pt:57
 msgid "Facilities for person with reduced mobility"
 msgstr "Accessible aux personnes à mobilité réduite"
 
@@ -584,7 +588,7 @@ msgid "Free WIFI"
 msgstr "Wifi gratuit"
 
 #: imio/events/core/contents/event/content.py:88
-#: imio/events/core/contents/event/view.pt:43
+#: imio/events/core/contents/event/view.pt:47
 msgid "Free entry"
 msgstr "Gratuit"
 
@@ -653,7 +657,7 @@ msgstr "Cacher le titre"
 msgid "Hide title for anonymous user. Title stays visible for the editor."
 msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visible pour l'éditeur."
 
-#: imio/events/core/contents/event/view.pt:82
+#: imio/events/core/contents/event/view.pt:102
 #: imio/news/core/contents/newsitem/view.pt:60
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "I am"
@@ -678,20 +682,6 @@ msgstr "Découpe d'image"
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
 msgstr "Echelle d'images"
-
-#: imio/smartweb/core/contents/sections/collection/content.py:84
-#: imio/smartweb/core/contents/sections/selections/content.py:39
-msgid "Image scale for items"
-msgstr "Echelle d'image pour les éléments"
-
-#: imio/smartweb/core/contents/sections/links/content.py:34
-msgid "Image scale for links"
-msgstr "Echelle d'image pour les liens"
-
-#: imio/smartweb/core/contents/sections/events/content.py:73
-#: imio/smartweb/core/contents/sections/news/content.py:73
-msgid "Image scale for news"
-msgstr "Echelle d'image pour les actualités"
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Image size"
@@ -720,7 +710,7 @@ msgid "Important! Topics are used to filter search results and create lists"
 msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats de la recherche et créer des listes"
 
 #: imio/events/core/contents/event/content.py:82
-#: imio/events/core/contents/event/view.pt:70
+#: imio/events/core/contents/event/view.pt:82
 #: imio/news/core/contents/newsitem/content.py:53
 msgid "Instagram"
 msgstr ""
@@ -769,11 +759,11 @@ msgstr ""
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:32
+#: imio/smartweb/policy/configure.zcml:33
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:41
+#: imio/smartweb/policy/configure.zcml:42
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
@@ -803,7 +793,7 @@ msgstr "Demandeur d'emploi"
 msgid "Journalist"
 msgstr "Journaliste"
 
-#: imio/events/core/contents/event/view.pt:85
+#: imio/events/core/contents/event/view.pt:107
 #: imio/news/core/contents/newsitem/view.pt:64
 msgid "Keywords"
 msgstr "Mots-clés"
@@ -898,8 +888,8 @@ msgid "Map section for a page"
 msgstr "Section plan pour une page"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:42
-#: imio/smartweb/core/contents/sections/events/content.py:51
-#: imio/smartweb/core/contents/sections/news/content.py:51
+#: imio/smartweb/core/contents/sections/events/content.py:50
+#: imio/smartweb/core/contents/sections/news/content.py:50
 msgid "Maximum number of items to display"
 msgstr "Nombre maximum d'éléments à afficher"
 
@@ -979,7 +969,7 @@ msgstr "Section actualités pour une pagee"
 msgid "News view"
 msgstr "Vue actualités"
 
-#: imio/smartweb/core/contents/sections/news/content.py:45
+#: imio/smartweb/core/contents/sections/news/content.py:44
 msgid "News view used to display news items details"
 msgstr "Vue actualités utilisée pour afficher les détails de l'actualité"
 
@@ -991,7 +981,7 @@ msgstr "Actualité"
 msgid "NewsItem website url"
 msgstr "Site web de l'actualité"
 
-#: imio/events/core/contents/event/view.pt:48
+#: imio/events/core/contents/event/view.pt:52
 msgid "No"
 msgstr "Non"
 
@@ -1004,8 +994,8 @@ msgid "Number (format: +32475010203)"
 msgstr "Numéro (format: +32475010203)"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:50
-#: imio/smartweb/core/contents/sections/events/content.py:59
-#: imio/smartweb/core/contents/sections/links/content.py:26
+#: imio/smartweb/core/contents/sections/events/content.py:58
+#: imio/smartweb/core/contents/sections/files/content.py:14
 msgid "Number of items per batch"
 msgstr "Nombre d'éléments par lot"
 
@@ -1019,7 +1009,7 @@ msgstr "Nombre d'éléments à afficher"
 msgid "One click finding"
 msgstr "En un clic"
 
-#: imio/events/core/contents/event/view.pt:73
+#: imio/events/core/contents/event/view.pt:87
 msgid "Online participation"
 msgstr "Participation en ligne"
 
@@ -1148,7 +1138,7 @@ msgstr "Contenus Accès rapides"
 msgid "Quick access selection"
 msgstr "Sélection d'accès rapides"
 
-#: imio/smartweb/core/contents/sections/events/content.py:30
+#: imio/smartweb/core/contents/sections/events/content.py:29
 msgid "Related agenda"
 msgstr "Agenda lié"
 
@@ -1156,7 +1146,7 @@ msgstr "Agenda lié"
 msgid "Related contact"
 msgstr "Contact lié"
 
-#: imio/smartweb/core/contents/sections/news/content.py:30
+#: imio/smartweb/core/contents/sections/news/content.py:29
 msgid "Related news folder"
 msgstr "Dossier d'actualités lié"
 
@@ -1205,11 +1195,11 @@ msgstr "Le titre de la section a été affiché"
 msgid "See all"
 msgstr "Voir tous"
 
-#: imio/smartweb/core/contents/sections/events/content.py:22
+#: imio/smartweb/core/contents/sections/events/content.py:21
 msgid "See all events"
 msgstr "Voir tous les événements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:22
+#: imio/smartweb/core/contents/sections/news/content.py:21
 msgid "See all news"
 msgstr "Voir toutes les actualités"
 
@@ -1291,12 +1281,12 @@ msgstr "Section de sélections pour une page"
 msgid "Show items description"
 msgstr "Afficher la description des éléments"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:72
+#: imio/smartweb/core/contents/sections/collection/content.py:71
 #: imio/smartweb/core/contents/sections/selections/content.py:35
 msgid "Show items lead image"
 msgstr "Afficher l'image principale des éléments"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:80
+#: imio/smartweb/core/contents/sections/collection/content.py:79
 msgid "Show items publication date"
 msgstr "Afficher la date de publication des éléments"
 
@@ -1346,7 +1336,7 @@ msgstr "Rue"
 msgid "Stroll and discovery"
 msgstr "Balade et découverte"
 
-#: imio/directory/core/contents/contact/view.pt:123
+#: imio/directory/core/contents/contact/view.pt:94
 msgid "Sub contacts"
 msgstr "Sous contacts"
 
@@ -1391,11 +1381,11 @@ msgstr "Territoire et espace public"
 msgid "Text for the link to the collection"
 msgstr "Texte pour le lien vers la collection"
 
-#: imio/smartweb/core/contents/sections/events/content.py:66
+#: imio/smartweb/core/contents/sections/events/content.py:65
 msgid "Text for the link to the events view"
 msgstr "Texte du lien vers la vue évévenements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:66
+#: imio/smartweb/core/contents/sections/news/content.py:65
 msgid "Text for the link to the news view"
 msgstr "Texte du lien vers la vue actualités"
 
@@ -1440,7 +1430,7 @@ msgid "Thursday"
 msgstr "Jeudi"
 
 #: imio/events/core/contents/event/content.py:58
-#: imio/events/core/contents/event/view.pt:61
+#: imio/events/core/contents/event/view.pt:67
 msgid "Ticket url"
 msgstr "Billeterie"
 
@@ -1462,7 +1452,7 @@ msgstr "Titre et Sous-titre"
 msgid "Top"
 msgstr "Haut"
 
-#: imio/events/core/contents/event/view.pt:79
+#: imio/events/core/contents/event/view.pt:97
 #: imio/news/core/contents/newsitem/view.pt:56
 #: imio/smartweb/common/behaviors/configure.zcml:13
 msgid "Topics"
@@ -1486,7 +1476,7 @@ msgstr "Mardi"
 
 #: imio/directory/core/vocabularies.py:67
 #: imio/events/core/contents/event/content.py:76
-#: imio/events/core/contents/event/view.pt:67
+#: imio/events/core/contents/event/view.pt:77
 msgid "Twitter"
 msgstr "Twitter"
 
@@ -1542,7 +1532,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:50
+#: imio/smartweb/policy/configure.zcml:51
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -1555,7 +1545,7 @@ msgid "Url to get forms from your e-guichet"
 msgstr "Url de récupération des démarches de votre e-guichet"
 
 #: imio/smartweb/common/browser/forms.py:33
-#: imio/smartweb/core/contents/sections/links/content.py:17
+#: imio/smartweb/core/contents/sections/links/content.py:16
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
 msgstr "Utilisez **texte** pour mettre du texte en gras. Limité à ${max} caractères."
 
@@ -1616,7 +1606,7 @@ msgstr "Numéro de téléphone professionnel"
 msgid "Works"
 msgstr "Travaux"
 
-#: imio/events/core/contents/event/view.pt:45
+#: imio/events/core/contents/event/view.pt:49
 msgid "Yes"
 msgstr "Oui"
 
@@ -1702,15 +1692,15 @@ msgstr ""
 msgid "imio.smartweb.core (uninstall)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:32
+#: imio/smartweb/policy/configure.zcml:33
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:41
+#: imio/smartweb/policy/configure.zcml:42
 msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:50
+#: imio/smartweb/policy/configure.zcml:51
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
