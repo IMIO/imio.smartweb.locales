@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a5 (unreleased)
+1.0a5 (2021-11-05)
 ------------------
 
 - Fix setup.py classifiers & URL
