@@ -35,7 +35,7 @@ setup(
     keywords="Python Plone CMS",
     author="iMio",
     author_email="christophe.boulanger@imio.be",
-    url="https://github.com/collective/imio.smartweb.locales",
+    url="https://github.com/imio/imio.smartweb.locales",
     project_urls={
         "PyPI": "https://pypi.python.org/pypi/imio.smartweb.locales",
         "Source": "https://github.com/imio/imio.smartweb.locales",
