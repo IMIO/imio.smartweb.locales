@@ -5,6 +5,9 @@ Changelog
 1.0a5 (unreleased)
 ------------------
 
+- Fix setup.py classifiers & URL
+  [laulaz]
+
 - Add imio.news.policy package to locales
   [laulaz]
 
