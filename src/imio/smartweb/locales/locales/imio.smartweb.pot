@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-05 16:56+0000\n"
+"POT-Creation-Date: 2021-11-08 09:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -160,10 +160,6 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:86
 msgid "Choose a term from the vocabulary and define the corresponding name"
-msgstr ""
-
-#: imio/smartweb/core/contents/folder/content.py:35
-msgid "Choose item to display"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/minisite.py:36
@@ -778,6 +774,10 @@ msgstr ""
 
 #: imio/events/core/vocabularies.py:26
 msgid "Internships and courses"
+msgstr ""
+
+#: imio/smartweb/core/contents/folder/content.py:35
+msgid "Item(s) that can be selected as the folder default page."
 msgstr ""
 
 #: imio/events/core/contents/event/views.py:78
