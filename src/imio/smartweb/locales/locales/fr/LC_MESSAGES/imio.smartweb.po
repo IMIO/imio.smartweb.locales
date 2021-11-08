@@ -773,7 +773,7 @@ msgstr "Stages et cours"
 
 #: imio/smartweb/core/contents/folder/content.py:35
 msgid "Item(s) that can be selected as the folder default page."
-msgstr ""
+msgstr "Elément(s) pouvant être sélectionné(s) comme page d'accueil du dossier."
 
 #: imio/events/core/contents/event/views.py:78
 #: imio/smartweb/core/contents/sections/contact/view.pt:96
