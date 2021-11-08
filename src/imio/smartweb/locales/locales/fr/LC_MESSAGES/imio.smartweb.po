@@ -1189,7 +1189,7 @@ msgstr "Le titre de la section a été affiché"
 
 #: imio/smartweb/core/contents/sections/base.py:48
 msgid "Section width"
-msgstr ""
+msgstr "Largeur de la section"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:21
 msgid "See all"
