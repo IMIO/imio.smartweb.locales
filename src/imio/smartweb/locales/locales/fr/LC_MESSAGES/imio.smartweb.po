@@ -111,10 +111,6 @@ msgstr "Affichage blocs avec images"
 msgid "Blocks that will be displayed in contact"
 msgstr "Blocs qui vont être affichés dans le contact"
 
-#: imio/smartweb/core/contents/sections/base.py:48
-msgid "Bootstrap CSS class"
-msgstr "Classe Bootstrap"
-
 #: imio/smartweb/core/vocabularies.py:239
 msgid "Bottom"
 msgstr "Bas"
@@ -1190,6 +1186,10 @@ msgstr "Le titre de la section a été caché (pour le visiteur)"
 #: imio/smartweb/core/contents/sections/views.py:47
 msgid "Section title has been shown"
 msgstr "Le titre de la section a été affiché"
+
+#: imio/smartweb/core/contents/sections/base.py:48
+msgid "Section width"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:21
 msgid "See all"
