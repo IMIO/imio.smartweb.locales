@@ -504,11 +504,11 @@ msgstr "Lien facebook pour cette actualité"
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:57
 msgid "Faceted block view"
-msgstr ""
+msgstr "Affichage blocs"
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:64
 msgid "Faceted block view with images"
-msgstr ""
+msgstr "Affichage blocs avec images"
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:14
 msgid "Faceted items preview"
@@ -516,11 +516,11 @@ msgstr ""
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:71
 msgid "Faceted summary view"
-msgstr ""
+msgstr "Affichage liste"
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:78
 msgid "Faceted summary view with images"
-msgstr ""
+msgstr "Affichage liste avec images"
 
 #: imio/directory/core/contents/contact/content.py:227
 msgid "Facilities"
@@ -846,7 +846,7 @@ msgstr "lien pour participer en ligne"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Link to your account"
-msgstr ""
+msgstr "Lien vers votre compte"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
 msgid "Links section"
@@ -903,7 +903,7 @@ msgstr "Section plan pour une page"
 #: imio/smartweb/core/contents/sections/events/content.py:57
 #: imio/smartweb/core/contents/sections/news/content.py:57
 msgid "Maximum number of batches to display"
-msgstr ""
+msgstr "Nombre maximum de lots à afficher"
 
 #: imio/smartweb/core/behaviors/subsite.py:49
 msgid "Menu depth"
@@ -947,7 +947,7 @@ msgstr "Lundi"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "My account"
-msgstr ""
+msgstr "Mon compte"
 
 #: imio/smartweb/core/browser/controlpanel.py:94
 msgid "Name"
@@ -1193,7 +1193,7 @@ msgstr "Horaires"
 
 #: imio/smartweb/core/viewlets/searchbox.pt:7
 msgid "Search"
-msgstr ""
+msgstr "Rechercher"
 
 #: imio/smartweb/core/browser/controlpanel.py:22
 msgid "Secret key"
@@ -1269,7 +1269,7 @@ msgstr "Sélectionnez l'emplacement où vous souhaitez afficher l'image"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:17
 msgid "Selected Categories"
-msgstr ""
+msgstr "Catégories sélectionnées"
 
 #: imio/smartweb/core/contents/rest/events/content.py:23
 msgid "Selected agenda"
@@ -1285,7 +1285,7 @@ msgstr "Entités concernées"
 
 #: imio/smartweb/core/contents/rest/events/content.py:17
 msgid "Selected event types"
-msgstr ""
+msgstr "Types d'événements sélectionnés"
 
 #: imio/smartweb/core/contents/sections/selections/content.py:18
 msgid "Selected items"
