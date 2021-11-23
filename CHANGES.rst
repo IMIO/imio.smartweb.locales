@@ -5,7 +5,8 @@ Changelog
 1.0a7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing translations
+  [laulaz]
 
 
 1.0a6 (2021-11-16)

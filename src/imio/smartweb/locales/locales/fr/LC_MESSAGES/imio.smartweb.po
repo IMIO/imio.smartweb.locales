@@ -314,7 +314,7 @@ msgstr "Description"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Directory"
-msgstr ""
+msgstr "Annuaire"
 
 #: imio/smartweb/core/browser/controlpanel.py:46
 msgid "Directory SolR Core ID"
@@ -406,7 +406,7 @@ msgstr "Activer le mode sous-site"
 
 #: imio/smartweb/core/contents/sections/html/content.py:15
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
-msgstr ""
+msgstr "Entrez votre code HTML directement ici. Ce dernier doit être imbriqué dans des balises telles que : <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
 
 #: imio/smartweb/common/vocabularies.py:18
 msgid "Entertainment"
@@ -666,7 +666,7 @@ msgstr "Cacher la bannière à partir de ce contenu"
 
 #: imio/smartweb/core/contents/sections/base.py:39
 msgid "Hide the content of the section that will be displayed by clicking on the title"
-msgstr ""
+msgstr "Masquer le contenu de la section qui s'affichera en cliquant sur le titre"
 
 #: imio/smartweb/core/contents/sections/base.py:30
 #: imio/smartweb/core/contents/sections/macros.pt:50
@@ -685,7 +685,7 @@ msgstr "Je suis"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:38
 msgid "Icon"
-msgstr ""
+msgstr "Icône"
 
 #: imio/smartweb/core/behaviors/listing.py:21
 msgid "If selected, this item will not appear in parent listing views"
@@ -1060,7 +1060,7 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:39
 msgid "Only used in table view (takes precedence over image)"
-msgstr ""
+msgstr "Utilisée uniquement dans l'affichage tableau (prend la priorité sur l'image)"
 
 #: imio/smartweb/core/contents/sections/contact/view.py:230
 msgid "Open"
@@ -1093,7 +1093,7 @@ msgstr "Listing du parent"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Parkings"
-msgstr ""
+msgstr "Parkings"
 
 #: imio/events/core/vocabularies.py:23
 msgid "Party and folklore"
@@ -1157,7 +1157,7 @@ msgstr "Lien vers la démarche"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Procedures"
-msgstr ""
+msgstr "Démarches"
 
 #: imio/events/core/vocabularies.py:24
 msgid "Projection and cinema"
@@ -1223,7 +1223,7 @@ msgstr "Horaires"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Schools"
-msgstr ""
+msgstr "Ecoles"
 
 #: imio/smartweb/core/viewlets/searchbox.pt:7
 msgid "Search"
@@ -1470,7 +1470,7 @@ msgstr "L'élément sélectionné comme page d'accueil du dossier est :"
 
 #: imio/smartweb/core/contents/sections/base.py:42
 msgid "The title will always be displayed if this behavior is enabled."
-msgstr ""
+msgstr "Le titre sera toujours affiché si ce comportement est activé."
 
 #: imio/events/core/vocabularies.py:27
 msgid "Theater and show"
@@ -1669,7 +1669,7 @@ msgstr "Mercredi"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Work"
-msgstr ""
+msgstr "Travaux"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Work email"
