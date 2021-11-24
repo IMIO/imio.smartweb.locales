@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a7 (unreleased)
+1.0a7 (2021-11-24)
 ------------------
 
 - Add missing translations
