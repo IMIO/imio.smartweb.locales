@@ -20,6 +20,30 @@ msgstr ""
 msgid "Accessibility (PMR)"
 msgstr "Accessibilité PMR"
 
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Contact us"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Email"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Join us"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Organize event"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Report problem"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - See map"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:132
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
@@ -136,6 +160,94 @@ msgstr "Catégorisation"
 #: imio/news/core/contents/newsitem/content.py:73
 msgid "Category"
 msgstr "Catégorie"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Advices and inquiries"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Associations"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Bonuses"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Childhood"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Cinema"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Concert"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Culture"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Education"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Environment - Waste management"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Exhibit"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Mobility"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Parkings"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Parks and gardens"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Procedures"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Representative"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Schedule"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Sport - Bike"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Sport - Run"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Sport - Trophy"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Theater"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Tourism"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Works info"
+msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:85
 msgid "Category and topics vocabulary setting for TeleServices"
@@ -311,10 +423,6 @@ msgstr "Supprimer la section"
 #: imio/smartweb/core/contents/sections/video/content.py:15
 msgid "Description"
 msgstr "Description"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-msgid "Directory"
-msgstr "Annuaire"
 
 #: imio/smartweb/core/browser/controlpanel.py:46
 msgid "Directory SolR Core ID"
@@ -954,7 +1062,6 @@ msgid "Mobile"
 msgstr "GSM"
 
 #: imio/smartweb/common/vocabularies.py:26
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Mobility"
 msgstr "Mobilité"
 
@@ -1078,6 +1185,38 @@ msgstr "Ouvrir dans un nouvel onglet"
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
 msgstr "Organisation (service administratif, commerce, profession libérale, club sportif, association, etc.)"
 
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Cpas"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Library"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Mobility"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Music academy"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Police"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - School"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - School of arts"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Organization - Sports Center"
+msgstr ""
+
 #: imio/events/core/profiles/default/types/imio.events.Page.xml
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
@@ -1090,10 +1229,6 @@ msgstr "Parent"
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Parent listing"
 msgstr "Listing du parent"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-msgid "Parkings"
-msgstr "Parkings"
 
 #: imio/events/core/vocabularies.py:23
 msgid "Party and folklore"
@@ -1155,10 +1290,6 @@ msgstr "Démarche"
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
 
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-msgid "Procedures"
-msgstr "Démarches"
-
 #: imio/events/core/vocabularies.py:24
 msgid "Projection and cinema"
 msgstr "Projection et cinéma"
@@ -1216,14 +1347,9 @@ msgid "Saturday"
 msgstr "Samedi"
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:115
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/vocabularies.py:136
 msgid "Schedule"
 msgstr "Horaires"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-msgid "Schools"
-msgstr "Ecoles"
 
 #: imio/smartweb/core/viewlets/searchbox.pt:7
 msgid "Search"
@@ -1368,6 +1494,26 @@ msgstr "Paramètrage de smartweb"
 msgid "Social"
 msgstr "Social"
 
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Facebook"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Facebook thumb"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Instagram"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Vimeo"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Youtube"
+msgstr ""
+
 #: imio/events/core/contents/event/content.py:127
 #: imio/news/core/contents/newsitem/content.py:82
 msgid "Specific category"
@@ -1382,7 +1528,6 @@ msgid "Specific news categories"
 msgstr "Catégories spécifiques d'actualités"
 
 #: imio/smartweb/common/vocabularies.py:32
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Sports"
 msgstr "Sports"
 
@@ -1530,7 +1675,6 @@ msgid "Topics"
 msgstr "Thématiques"
 
 #: imio/smartweb/common/vocabularies.py:34
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Tourism"
 msgstr "Tourisme"
 
@@ -1650,6 +1794,18 @@ msgstr "Vidéo"
 msgid "Video url from youtube, vimeo"
 msgstr "Lien vers une vidéo Youtube ou Vimeo"
 
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "View - Agenda"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "View - Directory"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "View - News"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/contact/content.py:29
 msgid "Visible blocks"
 msgstr "Blocs visibles"
@@ -1666,10 +1822,6 @@ msgstr "Site Internet"
 #: imio/smartweb/core/contents/sections/contact/view.py:82
 msgid "Wednesday"
 msgstr "Mercredi"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-msgid "Work"
-msgstr "Travaux"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Work email"
