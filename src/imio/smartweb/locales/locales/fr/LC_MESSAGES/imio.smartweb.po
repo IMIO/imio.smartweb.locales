@@ -738,7 +738,7 @@ msgstr "Création d'une section galerie qui affichera ses images dans votre page
 
 #: imio/smartweb/core/contents/sections/events/content.py:36
 msgid "Get priory on related agenda for these specifics events."
-msgstr ""
+msgstr "Ces événéments prennent la priorité sur le champ d'agenda lié."
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
@@ -797,7 +797,7 @@ msgstr "Je suis"
 
 #: imio/smartweb/policy/utils.py:50
 msgid "I find"
-msgstr ""
+msgstr "Je trouve"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:38
 msgid "Icon"
@@ -1296,7 +1296,7 @@ msgstr "Lien vers la démarche"
 
 #: imio/smartweb/policy/utils.py:57
 msgid "Procedures and practical informations"
-msgstr ""
+msgstr "Démarches & infos pratiques"
 
 #: imio/events/core/vocabularies.py:24
 msgid "Projection and cinema"
@@ -1537,7 +1537,7 @@ msgstr "Catégories spécifiques d'actualités"
 
 #: imio/smartweb/core/contents/sections/events/content.py:35
 msgid "Specific related events"
-msgstr ""
+msgstr "Evénements spécifiquement sélectionnés"
 
 #: imio/smartweb/common/vocabularies.py:32
 msgid "Sports"
