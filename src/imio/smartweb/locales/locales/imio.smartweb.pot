@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-11-24 10:47+0000\n"
+"POT-Creation-Date: 2021-11-25 13:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,7 +75,7 @@ msgstr ""
 
 #: imio/smartweb/common/interfaces.py:24
 #: imio/smartweb/core/contents/sections/contact/view.pt:87
-#: imio/smartweb/core/vocabularies.py:134
+#: imio/smartweb/core/vocabularies.py:147
 msgid "Address"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "Blocks that will be displayed in contact"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:269
+#: imio/smartweb/core/vocabularies.py:282
 msgid "Bottom"
 msgstr ""
 
@@ -367,7 +367,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:110
 #: imio/smartweb/core/contents/sections/contact/view.pt:48
-#: imio/smartweb/core/vocabularies.py:133
+#: imio/smartweb/core/vocabularies.py:146
 msgid "Contact informations"
 msgstr ""
 
@@ -419,7 +419,7 @@ msgstr ""
 msgid "Define number of levels in menu navigation subsite"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:81
+#: imio/smartweb/core/contents/sections/macros.pt:82
 msgid "Delete section"
 msgstr ""
 
@@ -489,7 +489,7 @@ msgstr ""
 msgid "Economics"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:61
+#: imio/smartweb/core/contents/sections/macros.pt:62
 msgid "Edit section"
 msgstr ""
 
@@ -585,7 +585,7 @@ msgstr ""
 msgid "Events view"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/events/content.py:44
+#: imio/smartweb/core/contents/sections/events/content.py:54
 msgid "Events view used to display events details"
 msgstr ""
 
@@ -725,11 +725,11 @@ msgstr ""
 msgid "Friday"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:104
+#: imio/smartweb/core/vocabularies.py:117
 msgid "Full width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:138
+#: imio/smartweb/core/vocabularies.py:151
 msgid "Gallery"
 msgstr ""
 
@@ -739,6 +739,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section for a page"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/content.py:36
+msgid "Get priory on related agenda for these specifics events."
 msgstr ""
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
@@ -761,11 +765,11 @@ msgstr ""
 msgid "Habitat and town planning"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:101
+#: imio/smartweb/core/vocabularies.py:114
 msgid "Half of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:283
+#: imio/smartweb/core/vocabularies.py:296
 msgid "Half page"
 msgstr ""
 
@@ -782,7 +786,7 @@ msgid "Hide the content of the section that will be displayed by clicking on the
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:30
-#: imio/smartweb/core/contents/sections/macros.pt:50
+#: imio/smartweb/core/contents/sections/macros.pt:51
 msgid "Hide title"
 msgstr ""
 
@@ -794,6 +798,10 @@ msgstr ""
 #: imio/news/core/contents/newsitem/view.pt:60
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "I am"
+msgstr ""
+
+#: imio/smartweb/policy/utils.py:50
+msgid "I find"
 msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:38
@@ -812,7 +820,7 @@ msgstr ""
 msgid "Image alignment"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:65
+#: imio/smartweb/core/contents/sections/macros.pt:66
 msgid "Image cropping"
 msgstr ""
 
@@ -861,7 +869,7 @@ msgid "Instagram url for this news"
 msgstr ""
 
 #: imio/smartweb/core/profiles.zcml:38
-msgid "Installs basic smartweb icons set"
+msgid "Installs basic smartweb flat icons set"
 msgstr ""
 
 #: imio/directory/core/profiles.zcml:22
@@ -957,11 +965,11 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:131
+#: imio/smartweb/core/vocabularies.py:144
 msgid "Lead Image"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:267
+#: imio/smartweb/core/vocabularies.py:280
 msgid "Left"
 msgstr ""
 
@@ -1003,7 +1011,7 @@ msgstr ""
 msgid "Logo"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:118
+#: imio/smartweb/core/vocabularies.py:131
 msgid "Logo and title"
 msgstr ""
 
@@ -1016,11 +1024,11 @@ msgstr ""
 msgid "Lunch time"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:70
+#: imio/smartweb/core/contents/sections/macros.pt:71
 msgid "Manage section contents"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:135
+#: imio/smartweb/core/vocabularies.py:148
 msgid "Map"
 msgstr ""
 
@@ -1033,7 +1041,7 @@ msgid "Map section for a page"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:49
-#: imio/smartweb/core/contents/sections/events/content.py:57
+#: imio/smartweb/core/contents/sections/events/content.py:67
 #: imio/smartweb/core/contents/sections/news/content.py:57
 msgid "Maximum number of batches to display"
 msgstr ""
@@ -1070,7 +1078,7 @@ msgstr ""
 msgid "Mobility"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:89
+#: imio/smartweb/core/contents/sections/macros.pt:90
 msgid "Modified"
 msgstr ""
 
@@ -1143,7 +1151,7 @@ msgid "Number (format: +32475010203)"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:42
-#: imio/smartweb/core/contents/sections/events/content.py:50
+#: imio/smartweb/core/contents/sections/events/content.py:60
 #: imio/smartweb/core/contents/sections/files/content.py:14
 msgid "Number of items per batch"
 msgstr ""
@@ -1152,10 +1160,6 @@ msgstr ""
 #: imio/smartweb/core/contents/rest/events/content.py:30
 #: imio/smartweb/core/contents/rest/news/content.py:21
 msgid "Number of items to display"
-msgstr ""
-
-#: imio/smartweb/policy/utils.py:35
-msgid "One click finding"
 msgstr ""
 
 #: imio/events/core/contents/event/view.pt:87
@@ -1295,6 +1299,10 @@ msgstr ""
 msgid "Procedure url"
 msgstr ""
 
+#: imio/smartweb/policy/utils.py:57
+msgid "Procedures and practical informations"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:24
 msgid "Projection and cinema"
 msgstr ""
@@ -1303,7 +1311,7 @@ msgstr ""
 msgid "Public toilets"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:99
+#: imio/smartweb/core/vocabularies.py:112
 msgid "Quarter of width"
 msgstr ""
 
@@ -1339,7 +1347,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:268
+#: imio/smartweb/core/vocabularies.py:281
 msgid "Right"
 msgstr ""
 
@@ -1352,7 +1360,7 @@ msgid "Saturday"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:115
-#: imio/smartweb/core/vocabularies.py:136
+#: imio/smartweb/core/vocabularies.py:149
 msgid "Schedule"
 msgstr ""
 
@@ -1368,11 +1376,11 @@ msgstr ""
 msgid "Secret key to use API"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/views.py:40
+#: imio/smartweb/core/contents/sections/views.py:42
 msgid "Section title has been hidden"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/views.py:47
+#: imio/smartweb/core/contents/sections/views.py:49
 msgid "Section title has been shown"
 msgstr ""
 
@@ -1424,7 +1432,7 @@ msgstr ""
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:76
+#: imio/smartweb/core/contents/sections/macros.pt:77
 msgid "Select view"
 msgstr ""
 
@@ -1487,7 +1495,7 @@ msgstr ""
 msgid "Show items publication date"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:55
+#: imio/smartweb/core/contents/sections/macros.pt:56
 msgid "Show title"
 msgstr ""
 
@@ -1530,6 +1538,10 @@ msgstr ""
 
 #: imio/news/core/contents/entity/content.py:24
 msgid "Specific news categories"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/content.py:35
+msgid "Specific related events"
 msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:32
@@ -1598,7 +1610,7 @@ msgstr ""
 msgid "Text for the link to the collection"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/events/content.py:65
+#: imio/smartweb/core/contents/sections/events/content.py:75
 msgid "Text for the link to the events view"
 msgstr ""
 
@@ -1630,11 +1642,11 @@ msgstr ""
 msgid "There is no section on this page."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:100
+#: imio/smartweb/core/vocabularies.py:113
 msgid "Third of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:284
+#: imio/smartweb/core/vocabularies.py:297
 msgid "Third page"
 msgstr ""
 
@@ -1642,7 +1654,7 @@ msgstr ""
 msgid "This information is used for search results redirection"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:103
+#: imio/smartweb/core/vocabularies.py:116
 msgid "Three quarter of width"
 msgstr ""
 
@@ -1661,15 +1673,15 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:25
 #: imio/smartweb/core/contents/sections/base.py:15
-#: imio/smartweb/core/vocabularies.py:116
+#: imio/smartweb/core/vocabularies.py:129
 msgid "Title"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:132
+#: imio/smartweb/core/vocabularies.py:145
 msgid "Title and Subtitle"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:270
+#: imio/smartweb/core/vocabularies.py:283
 msgid "Top"
 msgstr ""
 
@@ -1709,7 +1721,7 @@ msgstr ""
 msgid "Twitter url for this news"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:102
+#: imio/smartweb/core/vocabularies.py:115
 msgid "Two third of width"
 msgstr ""
 
@@ -1927,7 +1939,7 @@ msgid "imio.smartweb.core (uninstall)"
 msgstr ""
 
 #: imio/smartweb/core/profiles.zcml:38
-msgid "imio.smartweb.core basic icons set"
+msgid "imio.smartweb.core basic flat icons set"
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:34
