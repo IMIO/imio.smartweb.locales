@@ -927,7 +927,7 @@ msgid "Important! Topics are used to filter search results and create lists"
 msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats de la recherche et créer des listes"
 
 #: imio/directory/core/browser/import.py:330
-msgid "Imported {0} contacts successfully !"
+msgid "Imported ${number} contacts successfully !"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:82
