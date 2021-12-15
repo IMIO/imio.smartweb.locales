@@ -109,11 +109,11 @@ msgstr "Image de fond"
 
 #: imio/directory/core/browser/import.py:108
 msgid "Bad URL format '${val}' (good format sample: https://www.imio.be)."
-msgstr ""
+msgstr "Mauvais format d'URL pour '${val}' (format correct: https://www.imio.be)."
 
 #: imio/directory/core/browser/import.py:90
 msgid "Bad mail format '${val}' (good format sample: noreply@imio.be)."
-msgstr ""
+msgstr "Mauvais format d'email pour '${val}' (format correct: noreply@imio.be)."
 
 #: imio/directory/core/contents/contact/content.py:42
 msgid "Bad phone format"
@@ -121,7 +121,7 @@ msgstr "Mauvais format de téléphone"
 
 #: imio/directory/core/browser/import.py:72
 msgid "Bad phone format '${val}' (good format sample: +32444556677)."
-msgstr ""
+msgstr "Mauvais format de numéro de téléphone pour '${val}' (format correct: +32444556677)."
 
 #: imio/smartweb/core/contents/folder/content.py:41
 msgid "Banner"
@@ -158,7 +158,7 @@ msgstr "Classe CSS"
 
 #: imio/directory/core/browser/import.py:299
 msgid "CSV file"
-msgstr ""
+msgstr "Fichier CSV"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:26
@@ -294,35 +294,35 @@ msgstr "Choisissez les codes postaux liés à cette entité"
 
 #: imio/directory/core/browser/import.py:115
 msgid "Chosen URL type '${val}' doesn't exist."
-msgstr ""
+msgstr "Le type d'URL choisi '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:56
 msgid "Chosen contact type '${val}' doesn't exist."
-msgstr ""
+msgstr "Le type de contact choisi '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:63
 msgid "Chosen country '${val}' doesn't exist (good format sample: be, fr)."
-msgstr ""
+msgstr "Le pays choisi '${val}' n'existe pas (exemple de format correct: be, fr)."
 
 #: imio/directory/core/browser/import.py:221
 msgid "Chosen facility '${val}' doesn't exist."
-msgstr ""
+msgstr "La facilité choisie '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:230
 msgid "Chosen i am term '${val}' doesn't exist."
-msgstr ""
+msgstr "Le terme Je suis choisi '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:97
 msgid "Chosen mail type '${val}' doesn't exist."
-msgstr ""
+msgstr "Le type de mail choisi '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:79
 msgid "Chosen phone type '${val}' doesn't exist."
-msgstr ""
+msgstr "Le type de numéro de téléphone choisi '${val}' n'existe pas."
 
 #: imio/directory/core/browser/import.py:215
 msgid "Chosen topic '${val}' doesn't exist."
-msgstr ""
+msgstr "La thématique choisie '${val}' n'existe pas."
 
 #: imio/smartweb/common/vocabularies.py:27
 msgid "Citizen participation"
@@ -366,7 +366,7 @@ msgstr "Exporter le contact vers une vcard."
 
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Click to import contacts."
-msgstr ""
+msgstr "Importer des contacts."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to preview content (without editor actions)."
@@ -428,11 +428,11 @@ msgstr "Section contact pour une page"
 
 #: imio/directory/core/browser/import.py:194
 msgid "Contact title is missing."
-msgstr ""
+msgstr "Le titre du contact est manquant."
 
 #: imio/directory/core/browser/import.py:189
 msgid "Contact type is missing."
-msgstr ""
+msgstr "Le type de contact est manquant."
 
 #: imio/smartweb/common/interfaces.py:33
 msgid "Country"
@@ -606,7 +606,7 @@ msgstr "Environnement"
 
 #: imio/directory/core/browser/import.pt:25
 msgid "Error(s) on line ${number}"
-msgstr ""
+msgstr "Erreur(s) à la ligne ${number}"
 
 #: imio/events/core/profiles/default/types/imio.events.Event.xml
 msgid "Event"
@@ -786,7 +786,7 @@ msgstr "Vendredi"
 
 #: imio/smartweb/core/contents/sections/events/view.py:18
 msgid "From ${start} to ${end}"
-msgstr ""
+msgstr "Du ${start} au ${end}"
 
 #: imio/smartweb/core/vocabularies.py:117
 msgid "Full width"
@@ -897,12 +897,12 @@ msgstr "Taille de l'image"
 
 #: imio/directory/core/browser/import.py:308
 msgid "Import"
-msgstr ""
+msgstr "Importer"
 
 #: imio/directory/core/browser/import.py:303
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Import contacts"
-msgstr ""
+msgstr "Importer des contacts"
 
 #: imio/events/core/contents/event/content.py:128
 #: imio/news/core/contents/newsitem/content.py:83
@@ -1244,7 +1244,7 @@ msgstr "Nombre d'éléments à afficher"
 
 #: imio/smartweb/core/contents/sections/events/view.py:29
 msgid "On ${start}"
-msgstr ""
+msgstr "Le ${start}"
 
 #: imio/events/core/contents/event/view.pt:87
 msgid "Online participation"
@@ -1960,7 +1960,7 @@ msgstr "Code postal"
 
 #: imio/directory/core/browser/import.py:198
 msgid "Zipcode '${val}' is not a number."
-msgstr ""
+msgstr "Le code postal '${val}' n'est pas un nombre."
 
 #: imio/directory/core/profiles.zcml:14
 msgid "imio.directory.core"
