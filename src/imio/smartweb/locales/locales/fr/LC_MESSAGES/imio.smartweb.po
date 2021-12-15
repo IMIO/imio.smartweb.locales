@@ -928,7 +928,7 @@ msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats 
 
 #: imio/directory/core/browser/import.py:330
 msgid "Imported ${number} contacts successfully !"
-msgstr ""
+msgstr "${number} contacts importés avec succès !"
 
 #: imio/events/core/contents/event/content.py:82
 #: imio/events/core/contents/event/view.pt:82
