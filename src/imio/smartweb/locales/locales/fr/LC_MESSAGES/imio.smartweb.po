@@ -16,6 +16,10 @@ msgstr ""
 "Language: fr\n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#: imio/smartweb/common/viewlets/colophon.pt:13
+msgid "Accessibility"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:80
 msgid "Accessibility (PMR)"
 msgstr "Accessibilité PMR"
@@ -68,7 +72,7 @@ msgstr "Ajoute les champs de propriétés d'un sous-site"
 msgid "Add topics on content types."
 msgstr "Ajouter une thématique transversale sur le contenu."
 
-#: imio/smartweb/common/interfaces.py:24
+#: imio/smartweb/common/interfaces.py:27
 #: imio/smartweb/core/contents/sections/contact/view.pt:88
 #: imio/smartweb/core/vocabularies.py:147
 msgid "Address"
@@ -281,6 +285,10 @@ msgstr "Cochez si l'événement est accessible aux personnes à mobilité rédui
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr "Choisissez un terme du vocabulaire et définissez le nom correspondant"
 
+#: imio/smartweb/common/browser/privacy/form.py:21
+msgid "Choose to opt in or out of various pieces of functionality.<br/>If you want, you can <a href=\"${policy_url}\">read our cookie policy</a>."
+msgstr ""
+
 #: imio/smartweb/core/behaviors/minisite.py:46
 #: imio/smartweb/core/behaviors/subsite.py:41
 msgid "Choose your display mode"
@@ -332,7 +340,7 @@ msgstr "Participation citoyenne"
 msgid "Citizenship"
 msgstr "Citoyenneté"
 
-#: imio/smartweb/common/interfaces.py:31
+#: imio/smartweb/common/interfaces.py:34
 msgid "City"
 msgstr "Commune"
 
@@ -388,7 +396,7 @@ msgstr "Section collection"
 msgid "Collection section for a page"
 msgstr "Section collection pour une page"
 
-#: imio/smartweb/common/interfaces.py:29
+#: imio/smartweb/common/interfaces.py:32
 msgid "Complement"
 msgstr "Complément"
 
@@ -434,7 +442,7 @@ msgstr "Le titre du contact est manquant."
 msgid "Contact type is missing."
 msgstr "Le type de contact est manquant."
 
-#: imio/smartweb/common/interfaces.py:33
+#: imio/smartweb/common/interfaces.py:36
 msgid "Country"
 msgstr "Pays"
 
@@ -867,6 +875,10 @@ msgstr "Je suis"
 msgid "I find"
 msgstr "Je trouve"
 
+#: imio/smartweb/common/viewlets/colophon.pt:19
+msgid "IMIO"
+msgstr ""
+
 #: imio/smartweb/core/contents/blocks/link/content.py:38
 msgid "Icon"
 msgstr "Icône"
@@ -1053,6 +1065,10 @@ msgstr "Image de garde"
 msgid "Left"
 msgstr "Gauche"
 
+#: imio/smartweb/common/viewlets/colophon.pt:7
+msgid "Legal notice"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
 msgstr "Lien"
@@ -1222,7 +1238,7 @@ msgstr "Site web de l'actualité"
 msgid "No"
 msgstr "Non"
 
-#: imio/smartweb/common/interfaces.py:28
+#: imio/smartweb/common/interfaces.py:31
 msgid "Number"
 msgstr "Numéro"
 
@@ -1443,6 +1459,10 @@ msgstr "Sécurité et prévention"
 msgid "Saturday"
 msgstr "Samedi"
 
+#: imio/smartweb/common/browser/privacy/form.py:28
+msgid "Save"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/contact/view.pt:119
 #: imio/smartweb/core/vocabularies.py:149
 msgid "Schedule"
@@ -1583,6 +1603,10 @@ msgstr "Afficher la date de publication des éléments"
 msgid "Show title"
 msgstr "Afficher le titre"
 
+#: imio/smartweb/common/viewlets/colophon.pt:19
+msgid "Site created in collaboration with"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:103
 msgid "Smartweb Settings"
 msgstr "Paramètrage de smartweb"
@@ -1641,7 +1665,7 @@ msgstr "Page standard pour afficher de l'information"
 msgid "Standard view"
 msgstr "Affichage standard"
 
-#: imio/smartweb/common/interfaces.py:27
+#: imio/smartweb/common/interfaces.py:30
 msgid "Street"
 msgstr "Rue"
 
@@ -1733,6 +1757,10 @@ msgstr "Tiers de la page"
 #: imio/smartweb/core/vocabularies.py:297
 msgid "Third page"
 msgstr "Tiers de la page"
+
+#: imio/smartweb/common/privacy.py:68
+msgid "This feature requires cookies acceptation.<br/>Please <a class=\"pat-plone-modal\" href=\"${consent_url}\">review your cookies preferences</a>."
+msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:65
 msgid "This information is used for search results redirection"
@@ -1954,13 +1982,17 @@ msgstr "Le dossier était un minisite, mais cette action n'a pas pu conserver ce
 msgid "Zip codes and cities"
 msgstr "Codes postaux et communes"
 
-#: imio/smartweb/common/interfaces.py:30
+#: imio/smartweb/common/interfaces.py:33
 msgid "Zipcode"
 msgstr "Code postal"
 
 #: imio/directory/core/browser/import.py:198
 msgid "Zipcode '${val}' is not a number."
 msgstr "Le code postal '${val}' n'est pas un nombre."
+
+#: imio/smartweb/common/viewlets/colophon.pt:20
+msgid "free license"
+msgstr ""
 
 #: imio/directory/core/profiles.zcml:14
 msgid "imio.directory.core"
@@ -2055,3 +2087,7 @@ msgstr "Vous modifiez actuellement la page d'accueil d'un dossier. Si vous voule
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container_go_here"
 msgstr "cliquez ici"
+
+#: imio/smartweb/common/viewlets/colophon.pt:19
+msgid "under"
+msgstr ""
