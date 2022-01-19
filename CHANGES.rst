@@ -5,7 +5,8 @@ Changelog
 1.0a10 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update buildout to use Plone 6.0.0a2 packages versions
+  [laulaz]
 
 
 1.0a9 (2022-01-13)
