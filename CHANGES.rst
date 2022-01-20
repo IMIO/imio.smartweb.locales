@@ -5,6 +5,9 @@ Changelog
 1.0a10 (unreleased)
 -------------------
 
+- Add / change cookies related translations
+  [laulaz]
+
 - Update buildout to use Plone 6.0.0a2 packages versions
   [laulaz]
 
