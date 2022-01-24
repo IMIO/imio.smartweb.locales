@@ -1806,7 +1806,7 @@ msgstr "Cette information est utilisée pour la redirection des résultats de re
 
 #: imio/smartweb/common/viewlets/privacy.pt:5
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
-msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (lecture de vidéos, affichage de plan et de contenus issus des réseaux sociaux notamment)."
+msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (lecture de vidéos, affichage de plans et de contenus issus des réseaux sociaux notamment)."
 
 #: imio/smartweb/core/vocabularies.py:117
 msgid "Three quarter of width"
