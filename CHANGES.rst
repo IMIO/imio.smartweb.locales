@@ -5,7 +5,8 @@ Changelog
 1.0a11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Change translation for short name
+  [laulaz]
 
 
 1.0a10 (2022-01-24)

@@ -22,7 +22,7 @@ msgstr "Éléments avec du contenu"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
-msgstr "L'identifiant sera affiché dans l'adresse (URL) de l'élément. Il ne doit pas contenir d'espace ou de tiret bas, ni de majuscules."
+msgstr "L'identifiant est affiché dans la barre d'adresse du navigateur (URL). Il est impératif de ne pas mettre de majuscule, d'accent et d'espace. Les espaces doivent être remplacés par des traits d'union (ex: ma-page)."
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27
