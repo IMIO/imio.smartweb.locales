@@ -82,7 +82,7 @@ msgid "Add topics on content types."
 msgstr "Ajouter une thématique transversale sur le contenu."
 
 #: imio/smartweb/common/interfaces.py:27
-#: imio/smartweb/core/contents/sections/contact/view.pt:88
+#: imio/smartweb/core/contents/sections/contact/view.pt:87
 #: imio/smartweb/core/vocabularies.py:148
 msgid "Address"
 msgstr "Adresse"
@@ -111,7 +111,7 @@ msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément co
 msgid "Apply"
 msgstr "Appliquer"
 
-#: imio/smartweb/core/viewlets/navigation.py:89
+#: imio/smartweb/core/viewlets/navigation.py:91
 msgid "Back"
 msgstr "Retour"
 
@@ -160,7 +160,7 @@ msgstr "Affichage blocs avec images"
 msgid "Blocks that will be displayed in contact"
 msgstr "Blocs qui vont être affichés dans le contact"
 
-#: imio/smartweb/core/vocabularies.py:283
+#: imio/smartweb/core/vocabularies.py:284
 msgid "Bottom"
 msgstr "Bas"
 
@@ -393,7 +393,7 @@ msgstr "Importer des contacts."
 msgid "Click to preview content (without editor actions)."
 msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 
-#: imio/smartweb/core/viewlets/navigation.py:92
+#: imio/smartweb/core/viewlets/navigation.py:94
 msgid "Close"
 msgstr "Fermer"
 
@@ -752,6 +752,10 @@ msgstr "Section de fichiers"
 msgid "Files section for a page"
 msgstr "Création d'une section de fichiers dans votre page."
 
+#: imio/smartweb/policy/upgrades/configure.zcml:20
+msgid "Fix caching configuration"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:19
 msgid "Flea market and market"
 msgstr "Brocante et marché"
@@ -821,7 +825,7 @@ msgstr "Du ${start} au ${end}"
 msgid "Full width"
 msgstr "Pleine page"
 
-#: imio/smartweb/core/vocabularies.py:152
+#: imio/smartweb/core/vocabularies.py:153
 msgid "Gallery"
 msgstr "Galerie"
 
@@ -861,7 +865,7 @@ msgstr "Habitat et urbanisme"
 msgid "Half of width"
 msgstr "Moitié de la page"
 
-#: imio/smartweb/core/vocabularies.py:297
+#: imio/smartweb/core/vocabularies.py:298
 msgid "Half page"
 msgstr "Moitié de la page"
 
@@ -1050,7 +1054,7 @@ msgid "Item(s) that can be selected as the folder default page."
 msgstr "Elément(s) pouvant être sélectionné(s) comme page d'accueil du dossier."
 
 #: imio/events/core/contents/event/views.py:75
-#: imio/smartweb/core/contents/sections/contact/view.pt:102
+#: imio/smartweb/core/contents/sections/contact/view.pt:104
 #: imio/smartweb/core/contents/sections/contact/view.py:46
 msgid "Itinerary"
 msgstr "Itinéraire"
@@ -1090,7 +1094,7 @@ msgstr ""
 msgid "Lead Image"
 msgstr "Image de garde"
 
-#: imio/smartweb/core/vocabularies.py:281
+#: imio/smartweb/core/vocabularies.py:282
 msgid "Left"
 msgstr "Gauche"
 
@@ -1157,7 +1161,7 @@ msgstr "Heure du midi"
 msgid "Manage section contents"
 msgstr "Modifier contenu"
 
-#: imio/smartweb/core/vocabularies.py:149
+#: imio/smartweb/core/vocabularies.py:150
 msgid "Map"
 msgstr "Plan"
 
@@ -1448,7 +1452,7 @@ msgstr "Toilettes publiques"
 msgid "Quarter of width"
 msgstr "Quart de la page"
 
-#: imio/smartweb/core/viewlets/navigation.py:181
+#: imio/smartweb/core/viewlets/navigation.py:183
 msgid "Quick access"
 msgstr "Accès rapides"
 
@@ -1489,7 +1493,7 @@ msgstr "Widget de chemin relatif"
 msgid "Rich text section for a page"
 msgstr "Création d'une section de texte dans votre page."
 
-#: imio/smartweb/core/vocabularies.py:282
+#: imio/smartweb/core/vocabularies.py:283
 msgid "Right"
 msgstr "Droite"
 
@@ -1505,8 +1509,8 @@ msgstr "Samedi"
 msgid "Save my choices"
 msgstr "Enregistrer mes choix"
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:119
-#: imio/smartweb/core/vocabularies.py:150
+#: imio/smartweb/core/contents/sections/contact/view.pt:121
+#: imio/smartweb/core/vocabularies.py:151
 msgid "Schedule"
 msgstr "Horaires"
 
@@ -1808,7 +1812,7 @@ msgstr "Il n'y a aucune section dans cette page."
 msgid "Third of width"
 msgstr "Tiers de la page"
 
-#: imio/smartweb/core/vocabularies.py:298
+#: imio/smartweb/core/vocabularies.py:299
 msgid "Third page"
 msgstr "Tiers de la page"
 
@@ -1851,7 +1855,7 @@ msgstr "Titre"
 msgid "Title and Subtitle"
 msgstr "Titre et Sous-titre"
 
-#: imio/smartweb/core/vocabularies.py:284
+#: imio/smartweb/core/vocabularies.py:285
 msgid "Top"
 msgstr "Haut"
 
@@ -1945,6 +1949,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:20
+msgid "Upgrade policy 1008 to 1009"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
