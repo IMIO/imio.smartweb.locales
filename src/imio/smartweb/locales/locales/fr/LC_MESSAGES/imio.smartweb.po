@@ -1029,11 +1029,11 @@ msgstr ""
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:35
+#: imio/smartweb/policy/configure.zcml:37
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:44
+#: imio/smartweb/policy/configure.zcml:46
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
@@ -1121,6 +1121,10 @@ msgstr "Section de liens"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
 msgid "Links section for a page"
 msgstr "Section de liens pour une page"
+
+#: imio/smartweb/core/contents/sections/sendinblue/content.py:14
+msgid "List"
+msgstr ""
 
 #: imio/events/core/contents/entity/content.py:25
 msgid "List of events categories values available for this entity (one per line)"
@@ -1506,7 +1510,7 @@ msgstr "Enregistrer mes choix"
 msgid "Schedule"
 msgstr "Horaires"
 
-#: imio/smartweb/core/viewlets/searchbox.pt:7
+#: imio/smartweb/core/viewlets/searchbox.pt:8
 msgid "Search"
 msgstr "Rechercher"
 
@@ -1566,6 +1570,10 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 msgid "Select image size"
 msgstr "Sélectionnez la taille de l'image"
 
+#: imio/smartweb/core/contents/sections/sendinblue/content.py:15
+msgid "Select list to enable subscriptions to"
+msgstr ""
+
 #: imio/smartweb/core/contents/rest/news/content.py:15
 msgid "Select news folder to display"
 msgstr "Sélectionnez le dossier d'actualités à afficher"
@@ -1621,6 +1629,14 @@ msgstr "Section de contenus liés"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSelections.xml
 msgid "Selections section for a page"
 msgstr "Section de sélections pour une page"
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
+msgid "Sendinblue section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
+msgid "Sendinblue section for a page"
+msgstr ""
 
 #: imio/smartweb/core/contents/rest/directory/content.py:29
 #: imio/smartweb/core/contents/rest/events/content.py:34
@@ -1923,7 +1939,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:53
+#: imio/smartweb/policy/configure.zcml:55
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -2128,15 +2144,15 @@ msgstr ""
 msgid "imio.smartweb.core last compilation dates"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:35
+#: imio/smartweb/policy/configure.zcml:37
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:44
+#: imio/smartweb/policy/configure.zcml:46
 msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:53
+#: imio/smartweb/policy/configure.zcml:55
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
@@ -2149,6 +2165,14 @@ msgstr "Vous modifiez actuellement la page d'accueil d'un dossier. Si vous voule
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container_go_here"
 msgstr "cliquez ici"
+
+#: imio/smartweb/core/browser/utils.py:65
+msgid "smartweb.settings : No secret key define"
+msgstr ""
+
+#: imio/smartweb/core/browser/utils.py:61
+msgid "smartweb.settings : No url define"
+msgstr ""
 
 #: imio/smartweb/common/viewlets/colophon.pt:27
 msgid "under"
