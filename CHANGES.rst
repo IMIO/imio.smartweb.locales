@@ -5,6 +5,9 @@ Changelog
 1.0a11 (unreleased)
 -------------------
 
+- Add Sendinblue related translations
+  [laulaz]
+
 - Change translation for short name
   [laulaz]
 

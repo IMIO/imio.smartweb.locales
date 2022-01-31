@@ -1124,7 +1124,7 @@ msgstr "Section de liens pour une page"
 
 #: imio/smartweb/core/contents/sections/sendinblue/content.py:14
 msgid "List"
-msgstr ""
+msgstr "Liste"
 
 #: imio/events/core/contents/entity/content.py:25
 msgid "List of events categories values available for this entity (one per line)"
@@ -1572,7 +1572,7 @@ msgstr "Sélectionnez la taille de l'image"
 
 #: imio/smartweb/core/contents/sections/sendinblue/content.py:15
 msgid "Select list to enable subscriptions to"
-msgstr ""
+msgstr "Sélectionnez la liste à laquelle les utilisateurs pourront s'inscrire"
 
 #: imio/smartweb/core/contents/rest/news/content.py:15
 msgid "Select news folder to display"
@@ -1632,11 +1632,11 @@ msgstr "Section de sélections pour une page"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
 msgid "Sendinblue section"
-msgstr ""
+msgstr "Section Sendinblue"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
 msgid "Sendinblue section for a page"
-msgstr ""
+msgstr "Section Sendinblue pour une page"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:29
 #: imio/smartweb/core/contents/rest/events/content.py:34
