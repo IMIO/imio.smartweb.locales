@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-01-31 14:55+0000\n"
+"POT-Creation-Date: 2022-02-03 14:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid ""
 msgstr ""
 
-#: imio/smartweb/common/browser/privacy/form.py:37
+#: imio/smartweb/common/browser/privacy/form.py:32
 #: imio/smartweb/common/viewlets/privacy.pt:15
 msgid "Accept all"
 msgstr ""
@@ -88,7 +88,7 @@ msgstr ""
 
 #: imio/smartweb/common/interfaces.py:27
 #: imio/smartweb/core/contents/sections/contact/view.pt:87
-#: imio/smartweb/core/vocabularies.py:148
+#: imio/smartweb/core/vocabularies.py:153
 msgid "Address"
 msgstr ""
 
@@ -116,7 +116,11 @@ msgstr ""
 msgid "Apply"
 msgstr ""
 
-#: imio/smartweb/core/viewlets/navigation.py:91
+#: imio/smartweb/core/browser/instancebehaviors/form.py:23
+msgid "Available taxonomies"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/navigation.py:84
 msgid "Back"
 msgstr ""
 
@@ -153,6 +157,10 @@ msgstr ""
 msgid "Banner is now hidden from this item"
 msgstr ""
 
+#: imio/smartweb/core/browser/instancebehaviors/form.py:39
+msgid "Be careful, adding or removing taxonomies must be a part of strategy implemented in collaboration with iMio"
+msgstr ""
+
 #: imio/smartweb/core/contents/folder/configure.zcml:40
 msgid "Block view"
 msgstr ""
@@ -165,7 +173,7 @@ msgstr ""
 msgid "Blocks that will be displayed in contact"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:284
+#: imio/smartweb/core/vocabularies.py:289
 msgid "Bottom"
 msgstr ""
 
@@ -287,6 +295,10 @@ msgstr ""
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr ""
 
+#: imio/smartweb/core/browser/instancebehaviors/form.py:24
+msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
+msgstr ""
+
 #: imio/events/core/contents/event/content.py:89
 msgid "Check if entry is free"
 msgstr ""
@@ -299,7 +311,7 @@ msgstr ""
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr ""
 
-#: imio/smartweb/common/browser/privacy/form.py:26
+#: imio/smartweb/common/browser/privacy/form.py:21
 msgid "Choose to opt in or out of cookies use.<br/>Our <a href=\"${policy_url}\">cookies policy</a> can help you choose."
 msgstr ""
 
@@ -398,7 +410,7 @@ msgstr ""
 msgid "Click to preview content (without editor actions)."
 msgstr ""
 
-#: imio/smartweb/core/viewlets/navigation.py:94
+#: imio/smartweb/core/viewlets/navigation.py:87
 msgid "Close"
 msgstr ""
 
@@ -440,7 +452,7 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:110
 #: imio/smartweb/core/contents/sections/contact/view.pt:49
-#: imio/smartweb/core/vocabularies.py:147
+#: imio/smartweb/core/vocabularies.py:152
 msgid "Contact informations"
 msgstr ""
 
@@ -460,7 +472,7 @@ msgstr ""
 msgid "Contact type is missing."
 msgstr ""
 
-#: imio/smartweb/common/browser/privacy/form.py:18
+#: imio/smartweb/common/browser/privacy/form.py:13
 msgid "Cookies choice"
 msgstr ""
 
@@ -562,7 +574,7 @@ msgstr ""
 msgid "Drinking water point"
 msgstr ""
 
-#: imio/smartweb/core/contents/pages/procedure/content.py:20
+#: imio/smartweb/core/contents/pages/procedure/content.py:21
 msgid "E-Guichet procedure"
 msgstr ""
 
@@ -826,11 +838,11 @@ msgstr ""
 msgid "From ${start} to ${end}"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:118
+#: imio/smartweb/core/vocabularies.py:123
 msgid "Full width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:153
+#: imio/smartweb/core/vocabularies.py:158
 msgid "Gallery"
 msgstr ""
 
@@ -866,11 +878,11 @@ msgstr ""
 msgid "Habitat and town planning"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:115
+#: imio/smartweb/core/vocabularies.py:120
 msgid "Half of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:298
+#: imio/smartweb/core/vocabularies.py:303
 msgid "Half page"
 msgstr ""
 
@@ -1038,11 +1050,11 @@ msgstr ""
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:37
+#: imio/smartweb/policy/configure.zcml:38
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:46
+#: imio/smartweb/policy/configure.zcml:47
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
@@ -1095,11 +1107,11 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:145
+#: imio/smartweb/core/vocabularies.py:150
 msgid "Lead Image"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:282
+#: imio/smartweb/core/vocabularies.py:287
 msgid "Left"
 msgstr ""
 
@@ -1149,7 +1161,7 @@ msgstr ""
 msgid "Logo"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:132
+#: imio/smartweb/core/vocabularies.py:137
 msgid "Logo and title"
 msgstr ""
 
@@ -1166,7 +1178,11 @@ msgstr ""
 msgid "Manage section contents"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:150
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Manage taxonomies on this content"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:155
 msgid "Map"
 msgstr ""
 
@@ -1312,7 +1328,7 @@ msgstr ""
 msgid "Online participation url"
 msgstr ""
 
-#: imio/smartweb/core/contents/pages/procedure/content.py:33
+#: imio/smartweb/core/contents/pages/procedure/content.py:34
 msgid "Only one procedure field can be filled !"
 msgstr ""
 
@@ -1437,7 +1453,7 @@ msgstr ""
 msgid "Procedure"
 msgstr ""
 
-#: imio/smartweb/core/contents/pages/procedure/content.py:25
+#: imio/smartweb/core/contents/pages/procedure/content.py:26
 msgid "Procedure url"
 msgstr ""
 
@@ -1453,11 +1469,11 @@ msgstr ""
 msgid "Public toilets"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:113
+#: imio/smartweb/core/vocabularies.py:118
 msgid "Quarter of width"
 msgstr ""
 
-#: imio/smartweb/core/viewlets/navigation.py:183
+#: imio/smartweb/core/viewlets/navigation.py:176
 msgid "Quick access"
 msgstr ""
 
@@ -1473,7 +1489,7 @@ msgstr ""
 msgid "Read more and manage settings"
 msgstr ""
 
-#: imio/smartweb/common/browser/privacy/form.py:43
+#: imio/smartweb/common/browser/privacy/form.py:38
 #: imio/smartweb/common/viewlets/privacy.pt:21
 msgid "Refuse all"
 msgstr ""
@@ -1498,7 +1514,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:283
+#: imio/smartweb/core/vocabularies.py:288
 msgid "Right"
 msgstr ""
 
@@ -1510,12 +1526,12 @@ msgstr ""
 msgid "Saturday"
 msgstr ""
 
-#: imio/smartweb/common/browser/privacy/form.py:33
+#: imio/smartweb/common/browser/privacy/form.py:28
 msgid "Save my choices"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/view.pt:121
-#: imio/smartweb/core/vocabularies.py:151
+#: imio/smartweb/core/vocabularies.py:156
 msgid "Schedule"
 msgstr ""
 
@@ -1773,6 +1789,14 @@ msgstr ""
 msgid "Table view"
 msgstr ""
 
+#: imio/smartweb/core/browser/instancebehaviors/form.py:75
+msgid "Taxonomies are correctly set on your object!"
+msgstr ""
+
+#: imio/smartweb/core/browser/instancebehaviors/form.py:38
+msgid "Taxonomies choices form"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
 msgstr ""
@@ -1813,11 +1837,11 @@ msgstr ""
 msgid "There is no section on this page."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:114
+#: imio/smartweb/core/vocabularies.py:119
 msgid "Third of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:299
+#: imio/smartweb/core/vocabularies.py:304
 msgid "Third page"
 msgstr ""
 
@@ -1833,7 +1857,7 @@ msgstr ""
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:117
+#: imio/smartweb/core/vocabularies.py:122
 msgid "Three quarter of width"
 msgstr ""
 
@@ -1852,15 +1876,15 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:25
 #: imio/smartweb/core/contents/sections/base.py:15
-#: imio/smartweb/core/vocabularies.py:130
+#: imio/smartweb/core/vocabularies.py:135
 msgid "Title"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:146
+#: imio/smartweb/core/vocabularies.py:151
 msgid "Title and Subtitle"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:285
+#: imio/smartweb/core/vocabularies.py:290
 msgid "Top"
 msgstr ""
 
@@ -1900,7 +1924,7 @@ msgstr ""
 msgid "Twitter url for this news"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:116
+#: imio/smartweb/core/vocabularies.py:121
 msgid "Two third of width"
 msgstr ""
 
@@ -1948,7 +1972,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:55
+#: imio/smartweb/policy/configure.zcml:56
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -2157,15 +2181,15 @@ msgstr ""
 msgid "imio.smartweb.core last compilation dates"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:37
+#: imio/smartweb/policy/configure.zcml:38
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:46
+#: imio/smartweb/policy/configure.zcml:47
 msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:55
+#: imio/smartweb/policy/configure.zcml:56
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
