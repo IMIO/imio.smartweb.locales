@@ -5,7 +5,8 @@ Changelog
 1.0a12 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add e_guichet view and taxonomies instance behaviors translations
+  [laulaz]
 
 
 1.0a11 (2022-01-31)

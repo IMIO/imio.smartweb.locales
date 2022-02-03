@@ -113,7 +113,7 @@ msgstr "Appliquer"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:23
 msgid "Available taxonomies"
-msgstr ""
+msgstr "Taxonomies disponibles"
 
 #: imio/smartweb/core/viewlets/navigation.py:84
 msgid "Back"
@@ -154,7 +154,7 @@ msgstr "La bannière est cachée à partir de ce contenu"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:39
 msgid "Be careful, adding or removing taxonomies must be a part of strategy implemented in collaboration with iMio"
-msgstr ""
+msgstr "Attention, l'ajout ou la suppression de taxonomie(s) ne doit être réalisé que dans le cadre d'une stratégie mise en place en collaboration avec iMio"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:40
 msgid "Block view"
@@ -292,7 +292,7 @@ msgstr "Paramètres de vocabulaire Catégories et thématiques pour les TeleServ
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:24
 msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
-msgstr ""
+msgstr "Les modifications apportées n'affecteront que ce contenu et doivent être réalisées en toute connaissance de cause (pas de test)"
 
 #: imio/events/core/contents/event/content.py:89
 msgid "Check if entry is free"
@@ -1175,7 +1175,7 @@ msgstr "Modifier contenu"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
-msgstr ""
+msgstr "Gérer les taxonomies sur ce contenu"
 
 #: imio/smartweb/core/vocabularies.py:155
 msgid "Map"
@@ -1786,11 +1786,11 @@ msgstr "Affichage tableau"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:75
 msgid "Taxonomies are correctly set on your object!"
-msgstr ""
+msgstr "Les taxonomies ont bien été définies sur ce contenu!"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:38
 msgid "Taxonomies choices form"
-msgstr ""
+msgstr "Formulaire de choix des taxonomies"
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
@@ -2200,11 +2200,11 @@ msgstr "cliquez ici"
 
 #: imio/smartweb/core/browser/utils.py:65
 msgid "smartweb.settings : No secret key define"
-msgstr ""
+msgstr "smartweb.settings : Pas de clé secrète définie"
 
 #: imio/smartweb/core/browser/utils.py:61
 msgid "smartweb.settings : No url define"
-msgstr ""
+msgstr "smartweb.settings : Pas d'adresse définie"
 
 #: imio/smartweb/common/viewlets/colophon.pt:27
 msgid "under"
