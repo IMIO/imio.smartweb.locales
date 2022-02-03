@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a12 (unreleased)
+1.0a12 (2022-02-03)
 -------------------
 
 - Add e_guichet view and taxonomies instance behaviors translations
