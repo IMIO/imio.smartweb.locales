@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a13 (unreleased)
+1.0a13 (2022-02-04)
 -------------------
 
 - Add event dates related translations
