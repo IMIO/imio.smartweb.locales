@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-02-03 14:54+0000\n"
+"POT-Creation-Date: 2022-02-04 10:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,6 +56,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - See map"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:28
+msgid "Activate plone.app.caching.moderateCaching.lastModified"
 msgstr ""
 
 #: imio/events/core/vocabularies.py:132
@@ -834,8 +838,8 @@ msgstr ""
 msgid "Friday"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/events/view.py:18
-msgid "From ${start} to ${end}"
+#: imio/smartweb/core/contents/sections/events/macros.pt:13
+msgid "From"
 msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:123
@@ -1316,8 +1320,8 @@ msgstr ""
 msgid "Number of items to display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/events/view.py:29
-msgid "On ${start}"
+#: imio/smartweb/core/contents/sections/events/macros.pt:25
+msgid "On"
 msgstr ""
 
 #: imio/events/core/contents/event/view.pt:87
@@ -1984,6 +1988,10 @@ msgstr ""
 msgid "Upgrade policy 1008 to 1009"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:28
+msgid "Upgrade policy 1010 to 1011"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Url"
 msgstr ""
@@ -2209,6 +2217,10 @@ msgstr ""
 
 #: imio/smartweb/core/browser/utils.py:61
 msgid "smartweb.settings : No url define"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/macros.pt:18
+msgid "to"
 msgstr ""
 
 #: imio/smartweb/common/viewlets/colophon.pt:27

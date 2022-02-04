@@ -53,6 +53,10 @@ msgstr "Action - Signaler un problème"
 msgid "Action - See map"
 msgstr "Action - Voir plan"
 
+#: imio/smartweb/policy/upgrades/configure.zcml:28
+msgid "Activate plone.app.caching.moderateCaching.lastModified"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:132
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
@@ -829,9 +833,9 @@ msgstr "Gratuit"
 msgid "Friday"
 msgstr "Vendredi"
 
-#: imio/smartweb/core/contents/sections/events/view.py:18
-msgid "From ${start} to ${end}"
-msgstr "Du ${start} au ${end}"
+#: imio/smartweb/core/contents/sections/events/macros.pt:13
+msgid "From"
+msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:123
 msgid "Full width"
@@ -1311,9 +1315,9 @@ msgstr "Nombre d'éléments par lot"
 msgid "Number of items to display"
 msgstr "Nombre d'éléments à afficher"
 
-#: imio/smartweb/core/contents/sections/events/view.py:29
-msgid "On ${start}"
-msgstr "Le ${start}"
+#: imio/smartweb/core/contents/sections/events/macros.pt:25
+msgid "On"
+msgstr ""
 
 #: imio/events/core/contents/event/view.pt:87
 msgid "Online participation"
@@ -1979,6 +1983,10 @@ msgstr ""
 msgid "Upgrade policy 1008 to 1009"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:28
+msgid "Upgrade policy 1010 to 1011"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Url"
 msgstr "URL"
@@ -2205,6 +2213,10 @@ msgstr "smartweb.settings : Pas de clé secrète définie"
 #: imio/smartweb/core/browser/utils.py:61
 msgid "smartweb.settings : No url define"
 msgstr "smartweb.settings : Pas d'adresse définie"
+
+#: imio/smartweb/core/contents/sections/events/macros.pt:18
+msgid "to"
+msgstr ""
 
 #: imio/smartweb/common/viewlets/colophon.pt:27
 msgid "under"
