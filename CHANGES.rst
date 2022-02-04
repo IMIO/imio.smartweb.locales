@@ -5,7 +5,8 @@ Changelog
 1.0a13 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add event dates related translations
+  [laulaz]
 
 
 1.0a12 (2022-02-03)

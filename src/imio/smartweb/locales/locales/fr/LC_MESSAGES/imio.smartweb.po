@@ -835,7 +835,7 @@ msgstr "Vendredi"
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:13
 msgid "From"
-msgstr ""
+msgstr "Du"
 
 #: imio/smartweb/core/vocabularies.py:123
 msgid "Full width"
@@ -1317,7 +1317,7 @@ msgstr "Nombre d'éléments à afficher"
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:25
 msgid "On"
-msgstr ""
+msgstr "Le"
 
 #: imio/events/core/contents/event/view.pt:87
 msgid "Online participation"
@@ -2216,7 +2216,7 @@ msgstr "smartweb.settings : Pas d'adresse définie"
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:18
 msgid "to"
-msgstr ""
+msgstr "au"
 
 #: imio/smartweb/common/viewlets/colophon.pt:27
 msgid "under"
