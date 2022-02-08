@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-02-04 10:18+0000\n"
+"POT-Creation-Date: 2022-02-08 11:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,7 +91,7 @@ msgid "Add topics on content types."
 msgstr ""
 
 #: imio/smartweb/common/interfaces.py:27
-#: imio/smartweb/core/contents/sections/contact/view.pt:87
+#: imio/smartweb/core/contents/sections/contact/view.pt:92
 #: imio/smartweb/core/vocabularies.py:153
 msgid "Address"
 msgstr ""
@@ -447,6 +447,7 @@ msgid "Conference and debate"
 msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
+#: imio/smartweb/core/contents/sections/contact/view.pt:52
 msgid "Contact"
 msgstr ""
 
@@ -455,7 +456,6 @@ msgid "Contact content type"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:110
-#: imio/smartweb/core/contents/sections/contact/view.pt:49
 #: imio/smartweb/core/vocabularies.py:152
 msgid "Contact informations"
 msgstr ""
@@ -1075,7 +1075,7 @@ msgid "Item(s) that can be selected as the folder default page."
 msgstr ""
 
 #: imio/events/core/contents/event/views.py:75
-#: imio/smartweb/core/contents/sections/contact/view.pt:104
+#: imio/smartweb/core/contents/sections/contact/view.pt:107
 #: imio/smartweb/core/contents/sections/contact/view.py:46
 msgid "Itinerary"
 msgstr ""
@@ -1186,7 +1186,7 @@ msgstr ""
 msgid "Manage taxonomies on this content"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:155
+#: imio/smartweb/core/vocabularies.py:156
 msgid "Map"
 msgstr ""
 
@@ -1534,8 +1534,8 @@ msgstr ""
 msgid "Save my choices"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:121
-#: imio/smartweb/core/vocabularies.py:156
+#: imio/smartweb/core/contents/sections/contact/view.pt:117
+#: imio/smartweb/core/vocabularies.py:155
 msgid "Schedule"
 msgstr ""
 
@@ -1708,6 +1708,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Instagram"
+msgstr ""
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Social network - Twitter"
 msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
