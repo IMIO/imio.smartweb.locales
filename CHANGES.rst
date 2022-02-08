@@ -5,7 +5,8 @@ Changelog
 1.0a14 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add social network translation
+  [laulaz]
 
 
 1.0a13 (2022-02-04)

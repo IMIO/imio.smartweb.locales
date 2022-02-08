@@ -1707,7 +1707,7 @@ msgstr "Réseau social - Instagram"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Twitter"
-msgstr ""
+msgstr "Réseau social - Twitter"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Vimeo"
