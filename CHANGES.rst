@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0a15 (unreleased)
+1.0a15 (2022-02-11)
 -------------------
 
 - Add new icons translations (e-guichet & shopping)
