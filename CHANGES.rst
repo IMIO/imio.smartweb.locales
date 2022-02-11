@@ -5,7 +5,8 @@ Changelog
 1.0a15 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add new icons translations (e-guichet & shopping)
+  [laulaz]
 
 
 1.0a14 (2022-02-08)

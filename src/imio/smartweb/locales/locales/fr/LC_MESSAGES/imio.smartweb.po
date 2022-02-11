@@ -36,7 +36,7 @@ msgstr "Action - Nous contacter"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1015_to_1016/registry/e-guichet-icon.xml
 msgid "Action - E-guichet"
-msgstr ""
+msgstr "Action - E-guichet"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - Email"
@@ -282,7 +282,7 @@ msgstr "Catégorie - Horaires"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1016_to_1017/registry/shop-icon.xml
 msgid "Category - Shop"
-msgstr ""
+msgstr "Catégorie - Commerce"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Sport - Bike"
