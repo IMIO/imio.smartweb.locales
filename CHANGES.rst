@@ -5,7 +5,8 @@ Changelog
 1.0a16 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix translation
+  [laulaz]
 
 
 1.0a15 (2022-02-11)

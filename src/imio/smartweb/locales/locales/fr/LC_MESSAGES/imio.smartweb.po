@@ -1134,7 +1134,7 @@ msgstr "Gauche"
 
 #: imio/smartweb/common/viewlets/colophon.pt:7
 msgid "Legal notice"
-msgstr "Mentions L&eacute;gales"
+msgstr "Mentions l&eacute;gales"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
