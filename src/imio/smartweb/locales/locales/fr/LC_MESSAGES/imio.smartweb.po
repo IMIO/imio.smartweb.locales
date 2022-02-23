@@ -940,7 +940,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:30
 msgid "Icons"
-msgstr ""
+msgstr "Icônes"
 
 #: imio/smartweb/core/behaviors/listing.py:21
 msgid "If selected, this item will not appear in parent listing views"
@@ -1146,7 +1146,7 @@ msgstr "Lien pour une Section de liens"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:33
 msgid "Link illustration icon"
-msgstr ""
+msgstr "Icône d'illustration du lien"
 
 #: imio/events/core/contents/event/content.py:53
 msgid "Link to online participation"

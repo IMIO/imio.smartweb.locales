@@ -5,7 +5,8 @@ Changelog
 1.0a17 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add icon field related translations
+  [laulaz]
 
 
 1.0a16 (2022-02-22)
