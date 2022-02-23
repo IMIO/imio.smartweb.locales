@@ -99,7 +99,7 @@ msgid "Add topics on content types."
 msgstr "Ajouter une thématique transversale sur le contenu."
 
 #: imio/smartweb/common/interfaces.py:27
-#: imio/smartweb/core/contents/sections/contact/view.pt:92
+#: imio/smartweb/core/contents/sections/contact/view.pt:106
 #: imio/smartweb/core/vocabularies.py:153
 msgid "Address"
 msgstr "Adresse"
@@ -460,7 +460,7 @@ msgid "Conference and debate"
 msgstr "Conférence et débat"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
-#: imio/smartweb/core/contents/sections/contact/view.pt:52
+#: imio/smartweb/core/contents/sections/contact/view.pt:66
 msgid "Contact"
 msgstr "Contact"
 
@@ -541,7 +541,7 @@ msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 msgid "Delete section"
 msgstr "Supprimer la section"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:27
+#: imio/smartweb/core/contents/blocks/link/content.py:20
 #: imio/smartweb/core/contents/sections/html/content.py:26
 #: imio/smartweb/core/contents/sections/links/content.py:15
 msgid "Description"
@@ -707,7 +707,7 @@ msgstr "Section événements pour une page"
 msgid "Events view"
 msgstr "Vue événements"
 
-#: imio/smartweb/core/contents/sections/events/content.py:55
+#: imio/smartweb/core/contents/sections/events/content.py:54
 msgid "Events view used to display events details"
 msgstr "Vue événements utilisée pour afficher les détails de l'événement"
 
@@ -871,7 +871,7 @@ msgstr "Section galerie"
 msgid "Gallery section for a page"
 msgstr "Création d'une section galerie qui affichera ses images dans votre page. "
 
-#: imio/smartweb/core/contents/sections/events/content.py:37
+#: imio/smartweb/core/contents/sections/events/content.py:36
 msgid "Get priory on related agenda for these specifics events."
 msgstr "Ces événéments prennent la priorité sur le champ d'agenda lié."
 
@@ -938,15 +938,15 @@ msgstr "Je trouve"
 msgid "IMIO"
 msgstr ""
 
-#: imio/smartweb/core/contents/blocks/link/content.py:38
-msgid "Icon"
-msgstr "Icône"
+#: imio/smartweb/core/contents/blocks/link/content.py:30
+msgid "Icons"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:21
 msgid "If selected, this item will not appear in parent listing views"
 msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
-#: imio/smartweb/core/contents/blocks/link/content.py:35
+#: imio/smartweb/core/contents/blocks/link/content.py:28
 msgid "Image"
 msgstr ""
 
@@ -1088,7 +1088,7 @@ msgid "Item(s) that can be selected as the folder default page."
 msgstr "Elément(s) pouvant être sélectionné(s) comme page d'accueil du dossier."
 
 #: imio/events/core/contents/event/views.py:75
-#: imio/smartweb/core/contents/sections/contact/view.pt:107
+#: imio/smartweb/core/contents/sections/contact/view.pt:121
 #: imio/smartweb/core/contents/sections/contact/view.py:48
 msgid "Itinerary"
 msgstr "Itinéraire"
@@ -1144,6 +1144,10 @@ msgstr "Lien"
 msgid "Link block for a links section"
 msgstr "Lien pour une Section de liens"
 
+#: imio/smartweb/core/contents/blocks/link/content.py:33
+msgid "Link illustration icon"
+msgstr ""
+
 #: imio/events/core/contents/event/content.py:53
 msgid "Link to online participation"
 msgstr "lien pour participer en ligne"
@@ -1160,7 +1164,7 @@ msgstr "Section de liens"
 msgid "Links section for a page"
 msgstr "Section de liens pour une page"
 
-#: imio/smartweb/core/contents/sections/sendinblue/content.py:14
+#: imio/smartweb/core/contents/sections/sendinblue/content.py:25
 msgid "List"
 msgstr "Liste"
 
@@ -1211,9 +1215,9 @@ msgstr "Section plan"
 msgid "Map section for a page"
 msgstr "Section plan pour une page"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:49
-#: imio/smartweb/core/contents/sections/events/content.py:68
-#: imio/smartweb/core/contents/sections/news/content.py:58
+#: imio/smartweb/core/contents/sections/collection/content.py:48
+#: imio/smartweb/core/contents/sections/events/content.py:67
+#: imio/smartweb/core/contents/sections/news/content.py:57
 msgid "Maximum number of batches to display"
 msgstr "Nombre maximum de lots à afficher"
 
@@ -1229,11 +1233,11 @@ msgstr "Commerçant"
 msgid "Minisite"
 msgstr ""
 
-#: imio/smartweb/core/browser/minisite/settings.py:43
+#: imio/smartweb/core/browser/minisite/settings.py:45
 msgid "Minisite has been disabled"
 msgstr "Le mode minisite a été désactivé"
 
-#: imio/smartweb/core/browser/minisite/settings.py:30
+#: imio/smartweb/core/browser/minisite/settings.py:32
 msgid "Minisite has been successfully activated"
 msgstr "Le mode minisite a été activé avec succès"
 
@@ -1297,7 +1301,7 @@ msgstr "Section actualités pour une pagee"
 msgid "News view"
 msgstr "Vue actualités"
 
-#: imio/smartweb/core/contents/sections/news/content.py:45
+#: imio/smartweb/core/contents/sections/news/content.py:44
 msgid "News view used to display news items details"
 msgstr "Vue actualités utilisée pour afficher les détails de l'actualité"
 
@@ -1321,8 +1325,8 @@ msgstr "Numéro"
 msgid "Number (format: +32475010203)"
 msgstr "Numéro (format: +32475010203)"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:42
-#: imio/smartweb/core/contents/sections/events/content.py:61
+#: imio/smartweb/core/contents/sections/collection/content.py:41
+#: imio/smartweb/core/contents/sections/events/content.py:60
 #: imio/smartweb/core/contents/sections/files/content.py:14
 msgid "Number of items per batch"
 msgstr "Nombre d'éléments par lot"
@@ -1349,7 +1353,7 @@ msgstr "Lien pour la participation en ligne"
 msgid "Only one procedure field can be filled !"
 msgstr "Un seul champ \"démarche\" peut être rempli !"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:39
+#: imio/smartweb/core/contents/blocks/link/content.py:34
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Utilisée uniquement dans l'affichage tableau (prend la priorité sur l'image)"
 
@@ -1361,7 +1365,7 @@ msgstr "Ouvert"
 msgid "Open at "
 msgstr "Ouvre à "
 
-#: imio/smartweb/core/contents/blocks/link/content.py:30
+#: imio/smartweb/core/contents/blocks/link/content.py:23
 msgid "Open in a new tab"
 msgstr "Ouvrir dans un nouvel onglet"
 
@@ -1494,7 +1498,7 @@ msgstr "Quart de la page"
 msgid "Quick access"
 msgstr "Accès rapides"
 
-#: imio/smartweb/core/behaviors/quickaccess.py:18
+#: imio/smartweb/core/behaviors/quickaccess.py:17
 msgid "Quick access contents"
 msgstr "Contenus Accès rapides"
 
@@ -1511,7 +1515,7 @@ msgstr "En savoir plus et personnaliser"
 msgid "Refuse all"
 msgstr "Tout refuser"
 
-#: imio/smartweb/core/contents/sections/events/content.py:30
+#: imio/smartweb/core/contents/sections/events/content.py:29
 msgid "Related agenda"
 msgstr "Agenda lié"
 
@@ -1519,7 +1523,7 @@ msgstr "Agenda lié"
 msgid "Related contact"
 msgstr "Contact lié"
 
-#: imio/smartweb/core/contents/sections/news/content.py:30
+#: imio/smartweb/core/contents/sections/news/content.py:29
 msgid "Related news folder"
 msgstr "Dossier d'actualités lié"
 
@@ -1547,7 +1551,7 @@ msgstr "Samedi"
 msgid "Save my choices"
 msgstr "Enregistrer mes choix"
 
-#: imio/smartweb/core/contents/sections/contact/view.pt:117
+#: imio/smartweb/core/contents/sections/contact/view.pt:131
 #: imio/smartweb/core/vocabularies.py:155
 msgid "Schedule"
 msgstr "Horaires"
@@ -1576,19 +1580,19 @@ msgstr "Le titre de la section a été affiché"
 msgid "Section width"
 msgstr "Largeur de la section"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:21
+#: imio/smartweb/core/contents/sections/collection/content.py:20
 msgid "See all"
 msgstr "Voir tous"
 
-#: imio/smartweb/core/contents/sections/events/content.py:22
+#: imio/smartweb/core/contents/sections/events/content.py:21
 msgid "See all events"
 msgstr "Voir tous les événements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:22
+#: imio/smartweb/core/contents/sections/news/content.py:21
 msgid "See all news"
 msgstr "Voir toutes les actualités"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:37
+#: imio/smartweb/core/contents/sections/collection/content.py:36
 msgid "Select a collection"
 msgstr "Collection sélectionnée"
 
@@ -1612,7 +1616,7 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 msgid "Select image size"
 msgstr "Sélectionnez la taille de l'image"
 
-#: imio/smartweb/core/contents/sections/sendinblue/content.py:15
+#: imio/smartweb/core/contents/sections/sendinblue/content.py:26
 msgid "Select list to enable subscriptions to"
 msgstr "Sélectionnez la liste à laquelle les utilisateurs pourront s'inscrire"
 
@@ -1652,7 +1656,7 @@ msgstr "Entités concernées"
 msgid "Selected event types"
 msgstr "Types d'événements sélectionnés"
 
-#: imio/smartweb/core/contents/sections/selections/content.py:18
+#: imio/smartweb/core/contents/sections/selections/content.py:17
 msgid "Selected items"
 msgstr "Elements sélectionnés"
 
@@ -1680,18 +1684,22 @@ msgstr "Section Sendinblue"
 msgid "Sendinblue section for a page"
 msgstr "Section Sendinblue pour une page"
 
+#: imio/smartweb/policy/upgrades/configure.zcml:36
+msgid "Set collective autoscaling default values"
+msgstr ""
+
 #: imio/smartweb/core/contents/rest/directory/content.py:29
 #: imio/smartweb/core/contents/rest/events/content.py:34
 #: imio/smartweb/core/contents/rest/news/content.py:25
 msgid "Show items description"
 msgstr "Afficher la description des éléments"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:71
-#: imio/smartweb/core/contents/sections/selections/content.py:35
+#: imio/smartweb/core/contents/sections/collection/content.py:70
+#: imio/smartweb/core/contents/sections/selections/content.py:34
 msgid "Show items lead image"
 msgstr "Afficher l'image principale des éléments"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:79
+#: imio/smartweb/core/contents/sections/collection/content.py:78
 msgid "Show items publication date"
 msgstr "Afficher la date de publication des éléments"
 
@@ -1748,7 +1756,7 @@ msgstr "Catégories spécifiques d'événements"
 msgid "Specific news categories"
 msgstr "Catégories spécifiques d'actualités"
 
-#: imio/smartweb/core/contents/sections/events/content.py:36
+#: imio/smartweb/core/contents/sections/events/content.py:35
 msgid "Specific related events"
 msgstr "Evénements spécifiquement sélectionnés"
 
@@ -1781,11 +1789,11 @@ msgstr "Sous contacts"
 msgid "Subsite"
 msgstr "Sous-site"
 
-#: imio/smartweb/core/browser/subsite/settings.py:33
+#: imio/smartweb/core/browser/subsite/settings.py:35
 msgid "Subsite has been disabled"
 msgstr "Le mode sous-site a été désactivé"
 
-#: imio/smartweb/core/browser/subsite/settings.py:23
+#: imio/smartweb/core/browser/subsite/settings.py:25
 msgid "Subsite has been successfully activated"
 msgstr "Le mode sous-site a été activé avec succès"
 
@@ -1822,15 +1830,15 @@ msgstr "Formulaire de choix des taxonomies"
 msgid "Territory and public space"
 msgstr "Territoire et espace public"
 
-#: imio/smartweb/core/contents/sections/collection/content.py:57
+#: imio/smartweb/core/contents/sections/collection/content.py:56
 msgid "Text for the link to the collection"
 msgstr "Texte pour le lien vers la collection"
 
-#: imio/smartweb/core/contents/sections/events/content.py:76
+#: imio/smartweb/core/contents/sections/events/content.py:75
 msgid "Text for the link to the events view"
 msgstr "Texte du lien vers la vue évévenements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:66
+#: imio/smartweb/core/contents/sections/news/content.py:65
 msgid "Text for the link to the news view"
 msgstr "Texte du lien vers la vue actualités"
 
@@ -1895,7 +1903,7 @@ msgstr "Billeterie"
 msgid "Ticket url to subscribe to this event"
 msgstr "Lien de la billeterie pour s'inscrire à cet événement"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:25
+#: imio/smartweb/core/contents/blocks/link/content.py:18
 #: imio/smartweb/core/contents/sections/base.py:15
 #: imio/smartweb/core/vocabularies.py:135
 msgid "Title"
@@ -1953,7 +1961,7 @@ msgstr "Deux tiers de la page"
 msgid "Type"
 msgstr ""
 
-#: imio/smartweb/core/contents/blocks/link/content.py:33
+#: imio/smartweb/core/contents/blocks/link/content.py:26
 msgid "URL"
 msgstr ""
 
@@ -2015,6 +2023,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:28
 msgid "Upgrade policy 1010 to 1011"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:36
+msgid "Upgrade policy 1011 to 1012"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
