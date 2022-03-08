@@ -745,23 +745,23 @@ msgstr "Lien facebook pour cet événement"
 msgid "Facebook url for this news"
 msgstr "Lien facebook pour cette actualité"
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:57
+#: imio/smartweb/core/browser/faceted/configure.zcml:59
 msgid "Faceted block view"
 msgstr "Affichage blocs"
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:64
+#: imio/smartweb/core/browser/faceted/configure.zcml:66
 msgid "Faceted block view with images"
 msgstr "Affichage blocs avec images"
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:14
+#: imio/smartweb/core/browser/faceted/configure.zcml:16
 msgid "Faceted items preview"
 msgstr ""
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:71
+#: imio/smartweb/core/browser/faceted/configure.zcml:73
 msgid "Faceted summary view"
 msgstr "Affichage liste"
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:78
+#: imio/smartweb/core/browser/faceted/configure.zcml:80
 msgid "Faceted summary view with images"
 msgstr "Affichage liste avec images"
 
@@ -930,7 +930,7 @@ msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visi
 msgid "I am"
 msgstr "Je suis"
 
-#: imio/smartweb/policy/utils.py:50
+#: imio/smartweb/policy/utils.py:52
 msgid "I find"
 msgstr "Je trouve"
 
@@ -1067,11 +1067,11 @@ msgstr ""
 msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:40
+#: imio/smartweb/policy/configure.zcml:41
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:49
+#: imio/smartweb/policy/configure.zcml:50
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
@@ -1478,7 +1478,7 @@ msgstr "Démarche"
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
 
-#: imio/smartweb/policy/utils.py:57
+#: imio/smartweb/policy/utils.py:59
 msgid "Procedures and practical informations"
 msgstr "Démarches & infos pratiques"
 
@@ -2001,7 +2001,7 @@ msgstr ""
 msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:58
+#: imio/smartweb/policy/configure.zcml:59
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -2226,15 +2226,15 @@ msgstr ""
 msgid "imio.smartweb.core last compilation dates"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:40
+#: imio/smartweb/policy/configure.zcml:41
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:49
+#: imio/smartweb/policy/configure.zcml:50
 msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:58
+#: imio/smartweb/policy/configure.zcml:59
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
