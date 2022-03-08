@@ -5,6 +5,9 @@ Changelog
 1.0a17 (unreleased)
 -------------------
 
+- Change 'minisite' to 'site partenaire' in French
+  [laulaz]
+
 - Add icon field related translations
   [laulaz]
 

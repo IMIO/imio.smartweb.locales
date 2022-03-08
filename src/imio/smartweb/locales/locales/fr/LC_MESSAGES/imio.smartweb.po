@@ -80,7 +80,7 @@ msgstr "Ajouter un pied de page"
 
 #: imio/smartweb/core/behaviors/configure.zcml:36
 msgid "Add minisite properties/fields"
-msgstr "Ajoute les champs de propriétés d'un minisite"
+msgstr "Ajoute les champs de propriétés d'un site partenaire"
 
 #: imio/smartweb/core/upgrades/configure.zcml:12
 msgid "Add new e-guichet icon to registry"
@@ -401,7 +401,7 @@ msgstr "Activer un pied de page"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable minisite on this context."
-msgstr "Désactiver le mode minisite."
+msgstr "Désactiver le mode site partenaire."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable subsite on this context."
@@ -409,7 +409,7 @@ msgstr "Désactiver le mode sous-site."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to enable minisite on this context."
-msgstr "Activer le mode minisite."
+msgstr "Activer le mode site partenaire."
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to enable subsite on this context."
@@ -527,7 +527,7 @@ msgstr "Choisir une image de bannière pour le dossier et ses (sous) contenus"
 
 #: imio/smartweb/core/behaviors/minisite.py:40
 msgid "Define a logo for minisite"
-msgstr "Définir un logo pour ce minisite"
+msgstr "Définir un logo pour ce site partenaire"
 
 #: imio/smartweb/core/behaviors/subsite.py:35
 msgid "Define a logo for subsite and children"
@@ -561,7 +561,7 @@ msgstr "Vue contacts"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable minisite"
-msgstr "Désactiver le mode minisite"
+msgstr "Désactiver le mode site partenaire"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Disable subsite"
@@ -629,7 +629,7 @@ msgstr "Choisir un élément"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable minisite"
-msgstr "Activer le mode minisite"
+msgstr "Activer le mode site partenaire"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable subsite"
@@ -1231,15 +1231,15 @@ msgstr "Commerçant"
 
 #: imio/smartweb/core/behaviors/configure.zcml:36
 msgid "Minisite"
-msgstr ""
+msgstr "Site partenaire"
 
 #: imio/smartweb/core/browser/minisite/settings.py:45
 msgid "Minisite has been disabled"
-msgstr "Le mode minisite a été désactivé"
+msgstr "Le mode site partenaire a été désactivé"
 
 #: imio/smartweb/core/browser/minisite/settings.py:32
 msgid "Minisite has been successfully activated"
-msgstr "Le mode minisite a été activé avec succès"
+msgstr "Le mode site partenaire a été activé avec succès"
 
 #: imio/directory/core/vocabularies.py:24
 msgid "Mission (passports, reception, parking, etc.)"
@@ -2122,7 +2122,7 @@ msgstr "Jeune"
 
 #: imio/smartweb/core/subscribers.py:29
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
-msgstr "Le dossier était un minisite, mais cette action n'a pas pu conserver ce comportement"
+msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conserver ce comportement"
 
 #: imio/directory/core/contents/entity/content.py:17
 #: imio/events/core/contents/entity/content.py:17
