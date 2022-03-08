@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-1.0a17 (unreleased)
--------------------
+1.0 (2022-03-08)
+----------------
 
 - Change 'minisite' to 'site partenaire' in French
   [laulaz]
