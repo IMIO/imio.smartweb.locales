@@ -5,7 +5,8 @@ Changelog
 1.0.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing translation for Local Manager & lead image portrait mode
+  [laulaz]
 
 
 1.0 (2022-03-08)

@@ -204,7 +204,7 @@ msgstr "Fichier CSV"
 
 #: imio/smartweb/core/sharing/localroles.py:13
 msgid "Can manage locally"
-msgstr ""
+msgstr "Peut administrer"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:26
@@ -1828,7 +1828,7 @@ msgstr "Dimanche"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:36
 msgid "Switch lead image to portrait mode"
-msgstr ""
+msgstr "Passer l'image de garde en mode portrait"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:15
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:15
