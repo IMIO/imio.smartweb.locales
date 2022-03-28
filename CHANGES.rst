@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.1 (unreleased)
+1.0.1 (2022-03-28)
 ------------------
 
 - Add missing translation for Local Manager & lead image portrait mode
