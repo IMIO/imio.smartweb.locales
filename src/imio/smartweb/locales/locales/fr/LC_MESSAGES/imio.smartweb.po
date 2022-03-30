@@ -66,6 +66,10 @@ msgstr ""
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
 
+#: imio/smartweb/core/upgrades/configure.zcml:36
+msgid "Add Hero banner permissions and registry"
+msgstr ""
+
 #: imio/smartweb/common/behaviors/configure.zcml:20
 msgid "Add I am categories on content types."
 msgstr "Ajout d'une catégorie JE SUIS sur le contenu."
@@ -74,9 +78,17 @@ msgstr "Ajout d'une catégorie JE SUIS sur le contenu."
 msgid "Add caching configuration to registry"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:52
+msgid "Add etags userid and roles in caching configuration"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Add footer"
 msgstr "Ajouter un pied de page"
+
+#: imio/smartweb/core/profiles/default/actions.xml
+msgid "Add hero banner"
+msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
 msgid "Add local manager role and its specific permissions"
@@ -127,6 +139,10 @@ msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son 
 #: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to select quick access elements for current context."
 msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément courant."
+
+#: imio/smartweb/core/contents/sections/slide/content.py:48
+msgid "Alternatively as a picture"
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/views.py:127
 msgid "Apply"
@@ -194,6 +210,7 @@ msgid "Bottom"
 msgstr "Bas"
 
 #: imio/smartweb/core/contents/pages/footer/content.py:27
+#: imio/smartweb/core/contents/pages/herobanner/content.py:18
 #: imio/smartweb/core/contents/sections/base.py:62
 msgid "CSS class"
 msgstr "Classe CSS"
@@ -408,6 +425,10 @@ msgid "Click to add footer on this context."
 msgstr "Activer un pied de page"
 
 #: imio/smartweb/core/profiles/default/actions.xml
+msgid "Click to add hero banner on this context."
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable minisite on this context."
 msgstr "Désactiver le mode site partenaire."
 
@@ -450,6 +471,10 @@ msgstr "Section collection"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionCollection.xml
 msgid "Collection section for a page"
 msgstr "Section collection pour une page"
+
+#: imio/smartweb/core/contents/sections/slide/content.py:41
+msgid "Color"
+msgstr ""
 
 #: imio/smartweb/common/interfaces.py:32
 msgid "Complement"
@@ -919,6 +944,23 @@ msgstr "Moitié de la page"
 msgid "Health"
 msgstr "Santé"
 
+#: imio/smartweb/core/browser/herobanner/settings.py:33
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.HeroBanner.xml
+msgid "Hero banner"
+msgstr ""
+
+#: imio/smartweb/core/browser/herobanner/settings.py:18
+msgid "Hero banner cannot be added here"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.HeroBanner.xml
+msgid "Hero banner content type"
+msgstr ""
+
+#: imio/smartweb/core/browser/herobanner/settings.py:45
+msgid "Hero banner has been successfully added"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/banner.pt:17
 msgid "Hide banner from this item"
 msgstr "Cacher la bannière à partir de ce contenu"
@@ -959,6 +1001,7 @@ msgid "If selected, this item will not appear in parent listing views"
 msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
 #: imio/smartweb/core/contents/blocks/link/content.py:28
+#: imio/smartweb/core/contents/sections/slide/content.py:35
 msgid "Image"
 msgstr ""
 
@@ -1148,6 +1191,14 @@ msgstr "Gauche"
 msgid "Legal notice"
 msgstr "Mentions l&eacute;gales"
 
+#: imio/smartweb/core/contents/sections/slide/content.py:42
+msgid "Like supplement or alternatively to picture"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/slide/content.py:58
+msgid "Link URL"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
 msgstr "Lien"
@@ -1159,6 +1210,14 @@ msgstr "Lien pour une Section de liens"
 #: imio/smartweb/core/contents/blocks/link/content.py:33
 msgid "Link illustration icon"
 msgstr "Icône d'illustration du lien"
+
+#: imio/smartweb/core/contents/sections/slide/content.py:53
+msgid "Link title"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/slide/content.py:54
+msgid "Link title will be display on picture as clickable element"
+msgstr ""
 
 #: imio/events/core/contents/event/content.py:53
 msgid "Link to online participation"
@@ -1378,6 +1437,7 @@ msgid "Open at "
 msgstr "Ouvre à "
 
 #: imio/smartweb/core/contents/blocks/link/content.py:23
+#: imio/smartweb/core/contents/sections/slide/content.py:61
 msgid "Open in a new tab"
 msgstr "Ouvrir dans un nouvel onglet"
 
@@ -1445,6 +1505,10 @@ msgstr "Numéro de téléphone personnel"
 #: imio/directory/core/contents/contact/content.py:115
 msgid "Phones"
 msgstr "Téléphones"
+
+#: imio/smartweb/core/contents/sections/slide/content.py:36
+msgid "Picture will be displayed as slide background"
+msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:28
 msgid "Politics"
@@ -1724,6 +1788,14 @@ msgstr "Afficher le titre"
 msgid "Site created in collaboration with"
 msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
+msgid "Slide section"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
+msgid "Slide section for a hero banner"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:103
 msgid "Smartweb Settings"
 msgstr "Paramètrage de smartweb"
@@ -1930,6 +2002,10 @@ msgstr "Titre"
 msgid "Title and Subtitle"
 msgstr "Titre et Sous-titre"
 
+#: imio/smartweb/core/contents/sections/slide/content.py:27
+msgid "Title and description will be displayed in front of picture as a slogan"
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:290
 msgid "Top"
 msgstr "Haut"
@@ -2034,6 +2110,10 @@ msgstr ""
 msgid "Upgrade core from 1020 to 1021"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:36
+msgid "Upgrade core from 1021 to 1022"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -2052,6 +2132,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:44
 msgid "Upgrade policy 1013 to 1014"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:52
+msgid "Upgrade policy 1014 to 1015"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
@@ -2148,6 +2232,10 @@ msgstr "Jeune"
 #: imio/smartweb/core/subscribers.py:29
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conserver ce comportement"
+
+#: imio/smartweb/core/contents/sections/slide/content.py:47
+msgid "Youtube video URL"
+msgstr ""
 
 #: imio/directory/core/contents/entity/content.py:17
 #: imio/events/core/contents/entity/content.py:17
