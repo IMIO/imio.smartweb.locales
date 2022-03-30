@@ -88,7 +88,7 @@ msgstr "Ajouter un pied de page"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Add hero banner"
-msgstr ""
+msgstr "Ajouter un bandeau d'en-tête"
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
 msgid "Add local manager role and its specific permissions"
@@ -142,7 +142,7 @@ msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément co
 
 #: imio/smartweb/core/contents/sections/slide/content.py:48
 msgid "Alternatively as a picture"
-msgstr ""
+msgstr "Comme alternative à une image"
 
 #: imio/smartweb/core/contents/folder/views.py:127
 msgid "Apply"
@@ -426,7 +426,7 @@ msgstr "Activer un pied de page"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to add hero banner on this context."
-msgstr ""
+msgstr "Activer un bandeau d'en-tête"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Click to disable minisite on this context."
@@ -474,7 +474,7 @@ msgstr "Section collection pour une page"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:41
 msgid "Color"
-msgstr ""
+msgstr "Couleur"
 
 #: imio/smartweb/common/interfaces.py:32
 msgid "Complement"
@@ -947,19 +947,19 @@ msgstr "Santé"
 #: imio/smartweb/core/browser/herobanner/settings.py:33
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.HeroBanner.xml
 msgid "Hero banner"
-msgstr ""
+msgstr "Bandeau d'en-tête"
 
 #: imio/smartweb/core/browser/herobanner/settings.py:18
 msgid "Hero banner cannot be added here"
-msgstr ""
+msgstr "Le bandeau d'en-tête ne peut pas être ajouté à cet endroit"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.HeroBanner.xml
 msgid "Hero banner content type"
-msgstr ""
+msgstr "Bandeau d'en-tête"
 
 #: imio/smartweb/core/browser/herobanner/settings.py:45
 msgid "Hero banner has been successfully added"
-msgstr ""
+msgstr "Le bandeau d'en-tête a été ajouté avec succès"
 
 #: imio/smartweb/core/viewlets/banner.pt:17
 msgid "Hide banner from this item"
@@ -1193,11 +1193,11 @@ msgstr "Mentions l&eacute;gales"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:42
 msgid "Like supplement or alternatively to picture"
-msgstr ""
+msgstr "Comme complément ou alternative à une image"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:58
 msgid "Link URL"
-msgstr ""
+msgstr "URL du lien"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.BlockLink.xml
 msgid "Link block"
@@ -1213,11 +1213,11 @@ msgstr "Icône d'illustration du lien"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:53
 msgid "Link title"
-msgstr ""
+msgstr "Titre du lien"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:54
 msgid "Link title will be display on picture as clickable element"
-msgstr ""
+msgstr "Le titre du lien s'affiche sur l'image comme élément cliquable"
 
 #: imio/events/core/contents/event/content.py:53
 msgid "Link to online participation"
@@ -1508,7 +1508,7 @@ msgstr "Téléphones"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:36
 msgid "Picture will be displayed as slide background"
-msgstr ""
+msgstr "L'image est affichée en background du slide"
 
 #: imio/smartweb/common/vocabularies.py:28
 msgid "Politics"
@@ -1790,11 +1790,11 @@ msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
 msgid "Slide section"
-msgstr ""
+msgstr "Section slide"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
 msgid "Slide section for a hero banner"
-msgstr ""
+msgstr "Section slide pour un bandeau d'en-tête"
 
 #: imio/smartweb/core/browser/controlpanel.py:103
 msgid "Smartweb Settings"
@@ -2004,7 +2004,7 @@ msgstr "Titre et Sous-titre"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:27
 msgid "Title and description will be displayed in front of picture as a slogan"
-msgstr ""
+msgstr "Le titre et la description apparaîtront devant l'image comme slogan"
 
 #: imio/smartweb/core/vocabularies.py:290
 msgid "Top"
@@ -2235,7 +2235,7 @@ msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conse
 
 #: imio/smartweb/core/contents/sections/slide/content.py:47
 msgid "Youtube video URL"
-msgstr ""
+msgstr "URL de la vidéo Youtube"
 
 #: imio/directory/core/contents/entity/content.py:17
 #: imio/events/core/contents/entity/content.py:17
