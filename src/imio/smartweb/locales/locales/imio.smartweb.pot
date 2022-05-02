@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-02 10:15+0000\n"
+"POT-Creation-Date: 2022-05-02 11:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -320,11 +320,6 @@ msgid "Category - Procedures"
 msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
-#: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
-msgid "Category - Public survey"
-msgstr ""
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Representative"
 msgstr ""
 
@@ -359,11 +354,6 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Works info"
-msgstr ""
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-#: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
-msgid "Category - Works info 2"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:85

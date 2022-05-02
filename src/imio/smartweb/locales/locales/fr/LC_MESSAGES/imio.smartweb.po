@@ -315,11 +315,6 @@ msgid "Category - Procedures"
 msgstr "Catégorie - Démarches"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
-#: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
-msgid "Category - Public survey"
-msgstr "Catégorie - Enquêtes publiques"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Representative"
 msgstr "Catégorie - Mandataires"
 
@@ -355,11 +350,6 @@ msgstr "Catégorie - Tourisme"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Works info"
 msgstr "Catégorie - Infos travaux"
-
-#: imio/smartweb/core/profiles/icons/basic/registry.xml
-#: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
-msgid "Category - Works info 2"
-msgstr "Catégorie - Infos travaux 2"
 
 #: imio/smartweb/core/browser/controlpanel.py:85
 msgid "Category and topics vocabulary setting for TeleServices"
