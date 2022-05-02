@@ -5,7 +5,8 @@ Changelog
 1.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add translations for new icons
+  [laulaz]
 
 
 1.0.2 (2022-04-25)

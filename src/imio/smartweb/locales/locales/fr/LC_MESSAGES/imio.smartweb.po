@@ -45,7 +45,7 @@ msgstr "Action - Email"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Action - Hiring"
-msgstr ""
+msgstr "Action - Engagement"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - Join us"
@@ -300,7 +300,7 @@ msgstr "Catégorie - Mobilité"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Category - My account"
-msgstr ""
+msgstr "Catégorie - Mon dossier"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Parkings"
@@ -317,7 +317,7 @@ msgstr "Catégorie - Démarches"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Category - Public survey"
-msgstr ""
+msgstr "Catégorie - Enquêtes publiques"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Representative"
@@ -359,7 +359,7 @@ msgstr "Catégorie - Infos travaux"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Category - Works info 2"
-msgstr ""
+msgstr "Catégorie - Infos travaux 2"
 
 #: imio/smartweb/core/browser/controlpanel.py:85
 msgid "Category and topics vocabulary setting for TeleServices"
