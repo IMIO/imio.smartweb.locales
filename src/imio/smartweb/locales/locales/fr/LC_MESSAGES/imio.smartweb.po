@@ -1544,7 +1544,7 @@ msgstr "L'image est affichée en background du slide"
 
 #: imio/smartweb/common/browser/forms.py:32
 msgid "Please note that it is important to upload an image without text for design and accessibility reasons. The image will not display in its entirety and the text may be cut off."
-msgstr ""
+msgstr "Attention, il est important de téléverser une image sans texte pour des raisons de design et d'accessibilité. L'image ne s'affichera pas dans son entièreté et le texte pourrait être coupé."
 
 #: imio/smartweb/common/vocabularies.py:28
 msgid "Politics"

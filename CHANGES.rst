@@ -5,6 +5,9 @@ Changelog
 1.0.3 (unreleased)
 ------------------
 
+- Add translation for image upload
+  [laulaz]
+
 - Add translations for new icons
   [laulaz]
 
