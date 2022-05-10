@@ -1570,12 +1570,12 @@ msgstr ""
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionPostit.xml
 #: imio/smartweb/core/upgrades/profiles/1023_to_1024/types/imio.smartweb.SectionPostit.xml
 msgid "Post-it section"
-msgstr ""
+msgstr "Section post-it"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionPostit.xml
 #: imio/smartweb/core/upgrades/profiles/1023_to_1024/types/imio.smartweb.SectionPostit.xml
 msgid "Post-it section for a page"
-msgstr ""
+msgstr "Section post-it pour une page"
 
 #: imio/smartweb/core/contents/sections/postit/content.py:60
 msgid "Post-its"
