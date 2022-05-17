@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-05-10 13:59+0000\n"
+"POT-Creation-Date: 2022-05-17 09:34+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -223,7 +223,7 @@ msgstr ""
 msgid "Block view with images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:30
+#: imio/smartweb/core/contents/sections/contact/content.py:31
 msgid "Blocks that will be displayed in contact"
 msgstr ""
 
@@ -243,6 +243,10 @@ msgstr ""
 
 #: imio/smartweb/common/sharing/localroles.py:13
 msgid "Can manage locally"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:526
+msgid "Carousel"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
@@ -389,6 +393,10 @@ msgstr ""
 msgid "Choose your display mode"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/contact/content.py:44
+msgid "Choose your gallery layout mode"
+msgstr ""
+
 #: imio/directory/core/contents/entity/content.py:19
 #: imio/events/core/contents/entity/content.py:19
 #: imio/news/core/contents/entity/content.py:19
@@ -487,7 +495,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:227
+#: imio/smartweb/core/contents/sections/contact/view.py:228
 msgid "Closed"
 msgstr ""
 
@@ -911,7 +919,7 @@ msgstr ""
 msgid "Free entry"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:86
+#: imio/smartweb/core/contents/sections/contact/view.py:87
 msgid "Friday"
 msgstr ""
 
@@ -925,6 +933,10 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:162
 msgid "Gallery"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/content.py:43
+msgid "Gallery mode"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
@@ -1046,6 +1058,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/content.py:57
+msgid "Image scale for images (only for gallery mode)"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
@@ -1175,7 +1191,7 @@ msgstr ""
 
 #: imio/events/core/contents/event/views.py:75
 #: imio/smartweb/core/contents/sections/contact/view.pt:121
-#: imio/smartweb/core/contents/sections/contact/view.py:48
+#: imio/smartweb/core/contents/sections/contact/view.py:49
 msgid "Itinerary"
 msgstr ""
 
@@ -1293,7 +1309,7 @@ msgstr ""
 msgid "Logo display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:266
+#: imio/smartweb/core/contents/sections/contact/view.py:267
 msgid "Lunch time"
 msgstr ""
 
@@ -1359,7 +1375,7 @@ msgstr ""
 msgid "Modified"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:82
+#: imio/smartweb/core/contents/sections/contact/view.py:83
 msgid "Monday"
 msgstr ""
 
@@ -1419,6 +1435,10 @@ msgstr ""
 msgid "No"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:12
+msgid "Not allowed to add Files or Images in imio.directory.Entity"
+msgstr ""
+
 #: imio/smartweb/common/interfaces.py:35
 msgid "Number"
 msgstr ""
@@ -1431,6 +1451,10 @@ msgstr ""
 #: imio/smartweb/core/contents/sections/events/content.py:60
 #: imio/smartweb/core/contents/sections/files/content.py:15
 msgid "Number of items per batch"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/content.py:50
+msgid "Number of items per batch (only for carousel mode)"
 msgstr ""
 
 #: imio/smartweb/core/contents/rest/directory/content.py:25
@@ -1459,11 +1483,11 @@ msgstr ""
 msgid "Only used in table view (takes precedence over image)"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:234
+#: imio/smartweb/core/contents/sections/contact/view.py:235
 msgid "Open"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:260
+#: imio/smartweb/core/contents/sections/contact/view.py:261
 msgid "Open at "
 msgstr ""
 
@@ -1647,7 +1671,7 @@ msgstr ""
 msgid "Related agenda"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:18
+#: imio/smartweb/core/contents/sections/contact/content.py:19
 msgid "Related contact"
 msgstr ""
 
@@ -1675,7 +1699,7 @@ msgstr ""
 msgid "Safety and prevention"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:87
+#: imio/smartweb/core/contents/sections/contact/view.py:88
 msgid "Saturday"
 msgstr ""
 
@@ -1728,7 +1752,7 @@ msgstr ""
 msgid "Select a collection"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:19
+#: imio/smartweb/core/contents/sections/contact/content.py:20
 msgid "Select a contact. If you can't find the contact you want, make sure it exists in the directory and that its \"state\" is published."
 msgstr ""
 
@@ -1950,11 +1974,11 @@ msgstr ""
 msgid "Summary view with images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:88
+#: imio/smartweb/core/contents/sections/contact/view.py:89
 msgid "Sunday"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:36
+#: imio/smartweb/core/contents/sections/contact/content.py:37
 msgid "Switch lead image to portrait mode"
 msgstr ""
 
@@ -2007,7 +2031,7 @@ msgstr ""
 msgid "Theater and show"
 msgstr ""
 
-#: imio/smartweb/core/contents/pages/views.py:48
+#: imio/smartweb/core/contents/pages/views.py:63
 msgid "There is no section on this page."
 msgstr ""
 
@@ -2035,7 +2059,7 @@ msgstr ""
 msgid "Three quarter of width"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:85
+#: imio/smartweb/core/contents/sections/contact/view.py:86
 msgid "Thursday"
 msgstr ""
 
@@ -2084,7 +2108,7 @@ msgstr ""
 msgid "Trade Fair and Fair"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:83
+#: imio/smartweb/core/contents/sections/contact/view.py:84
 msgid "Tuesday"
 msgstr ""
 
@@ -2164,6 +2188,10 @@ msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1002 to 1003"
+msgstr ""
+
+#: imio/directory/core/upgrades/configure.zcml:12
+msgid "Upgrade core from 1003 to 1004"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:12
@@ -2268,7 +2296,7 @@ msgstr ""
 msgid "View - News"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:29
+#: imio/smartweb/core/contents/sections/contact/content.py:30
 msgid "Visible blocks"
 msgstr ""
 
@@ -2281,7 +2309,7 @@ msgstr ""
 msgid "Website"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:84
+#: imio/smartweb/core/contents/sections/contact/view.py:85
 msgid "Wednesday"
 msgstr ""
 
