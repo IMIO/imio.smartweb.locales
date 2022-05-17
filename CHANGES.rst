@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.4 (unreleased)
+1.0.4 (2022-05-17)
 ------------------
 
 - Add translations for contact gallery
