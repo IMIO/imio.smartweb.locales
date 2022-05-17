@@ -242,7 +242,7 @@ msgstr "Peut administrer"
 
 #: imio/smartweb/core/vocabularies.py:526
 msgid "Carousel"
-msgstr ""
+msgstr "Carrousel"
 
 #: imio/smartweb/core/contents/sections/links/configure.zcml:26
 #: imio/smartweb/core/contents/sections/selections/configure.zcml:26
@@ -390,7 +390,7 @@ msgstr "Choisissez votre mode d'affichage"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:44
 msgid "Choose your gallery layout mode"
-msgstr ""
+msgstr "Choisissez votre mode d'affichage de galerie"
 
 #: imio/directory/core/contents/entity/content.py:19
 #: imio/events/core/contents/entity/content.py:19
@@ -932,7 +932,7 @@ msgstr "Galerie"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:43
 msgid "Gallery mode"
-msgstr ""
+msgstr "Mode de galerie"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section"
@@ -1057,7 +1057,7 @@ msgstr "Echelle d'images"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:57
 msgid "Image scale for images (only for gallery mode)"
-msgstr ""
+msgstr "Echelle d'images (seulement en mode galerie)"
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Image size"
@@ -1450,7 +1450,7 @@ msgstr "Nombre d'éléments par lot"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:50
 msgid "Number of items per batch (only for carousel mode)"
-msgstr ""
+msgstr "Nombre d'éléments par lot (seulement en mode carrousel)"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:25
 #: imio/smartweb/core/contents/rest/events/content.py:30

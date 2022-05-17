@@ -5,6 +5,9 @@ Changelog
 1.0.4 (unreleased)
 ------------------
 
+- Add translations for contact gallery
+  [laulaz]
+
 - Add translations for post-it section
   [laulaz]
 
