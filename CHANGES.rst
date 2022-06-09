@@ -5,7 +5,8 @@ Changelog
 1.0.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add translation for Agent connection
+  [laulaz]
 
 
 1.0.4 (2022-05-17)
