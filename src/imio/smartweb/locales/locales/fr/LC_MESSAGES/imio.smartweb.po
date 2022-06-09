@@ -127,6 +127,10 @@ msgstr ""
 msgid "Add subsite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un sous-site"
 
+#: imio/smartweb/policy/upgrades/configure.zcml:60
+msgid "Add tika config for file content indexing with SolR"
+msgstr ""
+
 #: imio/smartweb/common/behaviors/configure.zcml:13
 msgid "Add topics on content types."
 msgstr "Ajouter une thématique transversale sur le contenu."
@@ -145,6 +149,10 @@ msgstr "Agenda"
 msgid "Agendas that automatically populates this agenda with their events."
 msgstr "Les événements des agendas sélectionnés apparaîtront automatiquement dans le présent agenda."
 
+#: imio/smartweb/common/viewlets/colophon.pt:27
+msgid "Agent connection"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:19
 msgid "Agriculture"
 msgstr "Agriculture"
@@ -157,7 +165,7 @@ msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son 
 msgid "Allow to select quick access elements for current context."
 msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément courant."
 
-#: imio/smartweb/core/contents/sections/slide/content.py:48
+#: imio/smartweb/core/contents/sections/slide/content.py:53
 msgid "Alternatively as a picture"
 msgstr "Comme alternative à une image"
 
@@ -173,7 +181,7 @@ msgstr "Taxonomies disponibles"
 msgid "Back"
 msgstr "Retour"
 
-#: imio/smartweb/core/contents/pages/footer/content.py:22
+#: imio/smartweb/core/contents/pages/footer/content.py:25
 #: imio/smartweb/core/contents/sections/base.py:51
 msgid "Background image"
 msgstr "Image de fond"
@@ -226,8 +234,8 @@ msgstr "Blocs qui vont être affichés dans le contact"
 msgid "Bottom"
 msgstr "Bas"
 
-#: imio/smartweb/core/contents/pages/footer/content.py:27
-#: imio/smartweb/core/contents/pages/herobanner/content.py:18
+#: imio/smartweb/core/contents/pages/footer/content.py:30
+#: imio/smartweb/core/contents/pages/herobanner/content.py:21
 #: imio/smartweb/core/contents/sections/base.py:62
 msgid "CSS class"
 msgstr "Classe CSS"
@@ -388,7 +396,7 @@ msgstr "Choisissez d'accepter ou de refuser certains cookies.<br/>Notre <a href=
 msgid "Choose your display mode"
 msgstr "Choisissez votre mode d'affichage"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:44
+#: imio/smartweb/core/contents/sections/contact/content.py:52
 msgid "Choose your gallery layout mode"
 msgstr "Choisissez votre mode d'affichage de galerie"
 
@@ -490,7 +498,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 msgid "Close"
 msgstr "Fermer"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:228
+#: imio/smartweb/core/contents/sections/contact/view.py:229
 msgid "Closed"
 msgstr "Fermé"
 
@@ -502,7 +510,7 @@ msgstr "Section collection"
 msgid "Collection section for a page"
 msgstr "Section collection pour une page"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:41
+#: imio/smartweb/core/contents/sections/slide/content.py:46
 msgid "Color"
 msgstr "Couleur"
 
@@ -914,7 +922,7 @@ msgstr "Wifi gratuit"
 msgid "Free entry"
 msgstr "Gratuit"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:87
+#: imio/smartweb/core/contents/sections/contact/view.py:88
 msgid "Friday"
 msgstr "Vendredi"
 
@@ -930,7 +938,7 @@ msgstr "Pleine page"
 msgid "Gallery"
 msgstr "Galerie"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:43
+#: imio/smartweb/core/contents/sections/contact/content.py:51
 msgid "Gallery mode"
 msgstr "Mode de galerie"
 
@@ -1026,7 +1034,7 @@ msgstr "Je suis"
 msgid "I find"
 msgstr "Je trouve"
 
-#: imio/smartweb/common/viewlets/colophon.pt:27
+#: imio/smartweb/common/viewlets/colophon.pt:33
 msgid "IMIO"
 msgstr ""
 
@@ -1039,7 +1047,7 @@ msgid "If selected, this item will not appear in parent listing views"
 msgstr "Si vous cochez cette option, cet élément n'apparaîtra pas dans l'affichage listing de son parent."
 
 #: imio/smartweb/core/contents/blocks/link/content.py:28
-#: imio/smartweb/core/contents/sections/slide/content.py:35
+#: imio/smartweb/core/contents/sections/slide/content.py:40
 msgid "Image"
 msgstr ""
 
@@ -1055,7 +1063,7 @@ msgstr "Découpe d'image"
 msgid "Image scale for images"
 msgstr "Echelle d'images"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:57
+#: imio/smartweb/core/contents/sections/contact/content.py:65
 msgid "Image scale for images (only for gallery mode)"
 msgstr "Echelle d'images (seulement en mode galerie)"
 
@@ -1186,7 +1194,7 @@ msgstr "Elément(s) pouvant être sélectionné(s) comme page d'accueil du dossi
 
 #: imio/events/core/contents/event/views.py:75
 #: imio/smartweb/core/contents/sections/contact/view.pt:121
-#: imio/smartweb/core/contents/sections/contact/view.py:49
+#: imio/smartweb/core/contents/sections/contact/view.py:50
 msgid "Itinerary"
 msgstr "Itinéraire"
 
@@ -1233,11 +1241,11 @@ msgstr "Gauche"
 msgid "Legal notice"
 msgstr "Mentions l&eacute;gales"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:42
+#: imio/smartweb/core/contents/sections/slide/content.py:47
 msgid "Like supplement or alternatively to picture"
 msgstr "Comme complément ou alternative à une image"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:58
+#: imio/smartweb/core/contents/sections/slide/content.py:63
 msgid "Link URL"
 msgstr "URL du lien"
 
@@ -1253,11 +1261,11 @@ msgstr "Lien pour une Section de liens"
 msgid "Link illustration icon"
 msgstr "Icône d'illustration du lien"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:53
+#: imio/smartweb/core/contents/sections/slide/content.py:58
 msgid "Link title"
 msgstr "Titre du lien"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:54
+#: imio/smartweb/core/contents/sections/slide/content.py:59
 msgid "Link title will be display on picture as clickable element"
 msgstr "Le titre du lien s'affiche sur l'image comme élément cliquable"
 
@@ -1304,7 +1312,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:267
+#: imio/smartweb/core/contents/sections/contact/view.py:268
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -1370,7 +1378,7 @@ msgstr "Mobilité"
 msgid "Modified"
 msgstr "Modifié"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:83
+#: imio/smartweb/core/contents/sections/contact/view.py:84
 msgid "Monday"
 msgstr "Lundi"
 
@@ -1448,7 +1456,7 @@ msgstr "Numéro (format: +32475010203)"
 msgid "Number of items per batch"
 msgstr "Nombre d'éléments par lot"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:50
+#: imio/smartweb/core/contents/sections/contact/content.py:58
 msgid "Number of items per batch (only for carousel mode)"
 msgstr "Nombre d'éléments par lot (seulement en mode carrousel)"
 
@@ -1478,16 +1486,16 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Utilisée uniquement dans l'affichage tableau (prend la priorité sur l'image)"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:235
+#: imio/smartweb/core/contents/sections/contact/view.py:236
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:261
+#: imio/smartweb/core/contents/sections/contact/view.py:262
 msgid "Open at "
 msgstr "Ouvre à "
 
 #: imio/smartweb/core/contents/blocks/link/content.py:23
-#: imio/smartweb/core/contents/sections/slide/content.py:61
+#: imio/smartweb/core/contents/sections/slide/content.py:66
 msgid "Open in a new tab"
 msgstr "Ouvrir dans un nouvel onglet"
 
@@ -1555,7 +1563,7 @@ msgstr "Numéro de téléphone personnel"
 msgid "Phones"
 msgstr "Téléphones"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:36
+#: imio/smartweb/core/contents/sections/slide/content.py:41
 msgid "Picture will be displayed as slide background"
 msgstr "L'image est affichée en background du slide"
 
@@ -1694,7 +1702,7 @@ msgstr "Droite"
 msgid "Safety and prevention"
 msgstr "Sécurité et prévention"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:88
+#: imio/smartweb/core/contents/sections/contact/view.py:89
 msgid "Saturday"
 msgstr "Samedi"
 
@@ -1859,7 +1867,7 @@ msgstr "Afficher la date de publication des éléments"
 msgid "Show title"
 msgstr "Afficher le titre"
 
-#: imio/smartweb/common/viewlets/colophon.pt:27
+#: imio/smartweb/common/viewlets/colophon.pt:33
 msgid "Site created in collaboration with"
 msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
@@ -1969,11 +1977,11 @@ msgstr "Affichage liste"
 msgid "Summary view with images"
 msgstr "Affichage liste avec images"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:89
+#: imio/smartweb/core/contents/sections/contact/view.py:90
 msgid "Sunday"
 msgstr "Dimanche"
 
-#: imio/smartweb/core/contents/sections/contact/content.py:37
+#: imio/smartweb/core/contents/sections/contact/content.py:47
 msgid "Switch lead image to portrait mode"
 msgstr "Passer l'image de garde en mode portrait"
 
@@ -2054,7 +2062,7 @@ msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (
 msgid "Three quarter of width"
 msgstr "Trois quarts de la page"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:86
+#: imio/smartweb/core/contents/sections/contact/view.py:87
 msgid "Thursday"
 msgstr "Jeudi"
 
@@ -2077,7 +2085,7 @@ msgstr "Titre"
 msgid "Title and Subtitle"
 msgstr "Titre et Sous-titre"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:27
+#: imio/smartweb/core/contents/sections/slide/content.py:32
 msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr "Le titre et la description apparaîtront devant l'image comme slogan"
 
@@ -2103,7 +2111,7 @@ msgstr "Touriste"
 msgid "Trade Fair and Fair"
 msgstr "Salon et Foire"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:84
+#: imio/smartweb/core/contents/sections/contact/view.py:85
 msgid "Tuesday"
 msgstr "Mardi"
 
@@ -2304,7 +2312,7 @@ msgstr "Terme du vocabulaire"
 msgid "Website"
 msgstr "Site Internet"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:85
+#: imio/smartweb/core/contents/sections/contact/view.py:86
 msgid "Wednesday"
 msgstr "Mercredi"
 
@@ -2332,7 +2340,7 @@ msgstr "Jeune"
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conserver ce comportement"
 
-#: imio/smartweb/core/contents/sections/slide/content.py:47
+#: imio/smartweb/core/contents/sections/slide/content.py:52
 msgid "Youtube video URL"
 msgstr "URL de la vidéo Youtube"
 
@@ -2350,7 +2358,7 @@ msgstr "Code postal"
 msgid "Zipcode '${val}' is not a number."
 msgstr "Le code postal '${val}' n'est pas un nombre."
 
-#: imio/smartweb/common/viewlets/colophon.pt:28
+#: imio/smartweb/common/viewlets/colophon.pt:34
 msgid "free license"
 msgstr "licence libre"
 
@@ -2472,6 +2480,6 @@ msgstr "smartweb.settings : Pas d'adresse définie"
 msgid "to"
 msgstr "au"
 
-#: imio/smartweb/common/viewlets/colophon.pt:27
+#: imio/smartweb/common/viewlets/colophon.pt:33
 msgid "under"
 msgstr "sous"
