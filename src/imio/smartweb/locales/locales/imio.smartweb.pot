@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-06-09 19:50+0000\n"
+"POT-Creation-Date: 2022-06-18 22:04+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,7 +30,7 @@ msgstr ""
 msgid "Accessibility"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:80
+#: imio/directory/core/vocabularies.py:83
 msgid "Accessibility (PMR)"
 msgstr ""
 
@@ -122,6 +122,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:44
 msgid "Add new icons to registry"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:60
+msgid "Add new propose URLs settings to registry"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:20
@@ -372,7 +376,7 @@ msgstr ""
 msgid "Category - Works info"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:85
+#: imio/smartweb/core/browser/controlpanel.py:100
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr ""
 
@@ -388,7 +392,7 @@ msgstr ""
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:86
+#: imio/smartweb/core/browser/controlpanel.py:101
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr ""
 
@@ -581,19 +585,19 @@ msgstr ""
 msgid "Culture"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:64
+#: imio/smartweb/core/browser/controlpanel.py:79
 msgid "Default directory view"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:71
+#: imio/smartweb/core/browser/controlpanel.py:86
 msgid "Default events view"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:78
+#: imio/smartweb/core/browser/controlpanel.py:93
 msgid "Default news view"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:81
+#: imio/directory/core/vocabularies.py:84
 msgid "Defibrillator"
 msgstr ""
 
@@ -623,11 +627,11 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:46
+#: imio/smartweb/core/browser/controlpanel.py:61
 msgid "Directory SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:28
+#: imio/smartweb/core/browser/controlpanel.py:43
 msgid "Directory entity"
 msgstr ""
 
@@ -663,7 +667,7 @@ msgstr ""
 msgid "Display linked news from imio news instance."
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:82
+#: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
 msgstr ""
 
@@ -763,11 +767,11 @@ msgstr ""
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:52
+#: imio/smartweb/core/browser/controlpanel.py:67
 msgid "Events SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:34
+#: imio/smartweb/core/browser/controlpanel.py:49
 msgid "Events entity"
 msgstr ""
 
@@ -821,11 +825,11 @@ msgstr ""
 msgid "Facebook url for this news"
 msgstr ""
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:59
+#: imio/smartweb/core/browser/faceted/configure.zcml:67
 msgid "Faceted block view"
 msgstr ""
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:66
+#: imio/smartweb/core/browser/faceted/configure.zcml:74
 msgid "Faceted block view with images"
 msgstr ""
 
@@ -833,11 +837,15 @@ msgstr ""
 msgid "Faceted items preview"
 msgstr ""
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:73
+#: imio/smartweb/core/browser/faceted/configure.zcml:97
+msgid "Faceted map"
+msgstr ""
+
+#: imio/smartweb/core/browser/faceted/configure.zcml:81
 msgid "Faceted summary view"
 msgstr ""
 
-#: imio/smartweb/core/browser/faceted/configure.zcml:80
+#: imio/smartweb/core/browser/faceted/configure.zcml:88
 msgid "Faceted summary view with images"
 msgstr ""
 
@@ -918,7 +926,7 @@ msgstr ""
 msgid "Form to choose item to be displayed as the home page of the folder"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:85
+#: imio/directory/core/vocabularies.py:88
 msgid "Free WIFI"
 msgstr ""
 
@@ -1111,9 +1119,9 @@ msgstr ""
 msgid "Imported ${number} contacts successfully !"
 msgstr ""
 
+#: imio/directory/core/vocabularies.py:67
 #: imio/events/core/contents/event/content.py:82
 #: imio/events/core/contents/event/view.pt:82
-#: imio/news/core/contents/newsitem/content.py:53
 msgid "Instagram"
 msgstr ""
 
@@ -1391,7 +1399,7 @@ msgstr ""
 msgid "My account"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:94
+#: imio/smartweb/core/browser/controlpanel.py:109
 msgid "Name"
 msgstr ""
 
@@ -1399,11 +1407,11 @@ msgstr ""
 msgid "Newcomer"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:58
+#: imio/smartweb/core/browser/controlpanel.py:73
 msgid "News SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:40
+#: imio/smartweb/core/browser/controlpanel.py:55
 msgid "News entity"
 msgstr ""
 
@@ -1572,6 +1580,10 @@ msgstr ""
 msgid "Picture will be displayed as slide background"
 msgstr ""
 
+#: imio/directory/core/vocabularies.py:68
+msgid "Pinterest"
+msgstr ""
+
 #: imio/smartweb/common/browser/forms.py:32
 msgid "Please note that it is important to upload an image without text for design and accessibility reasons. The image will not display in its entirety and the text may be cut off."
 msgstr ""
@@ -1646,7 +1658,7 @@ msgstr ""
 msgid "Projection and cinema"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:84
+#: imio/directory/core/vocabularies.py:87
 msgid "Public toilets"
 msgstr ""
 
@@ -1884,7 +1896,7 @@ msgstr ""
 msgid "Slide section for a hero banner"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:103
+#: imio/smartweb/core/browser/controlpanel.py:118
 msgid "Smartweb Settings"
 msgstr ""
 
@@ -2055,7 +2067,7 @@ msgstr ""
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:65
+#: imio/smartweb/core/browser/controlpanel.py:80
 msgid "This information is used for search results redirection"
 msgstr ""
 
@@ -2120,7 +2132,7 @@ msgstr ""
 msgid "Tuesday"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:67
+#: imio/directory/core/vocabularies.py:69
 #: imio/events/core/contents/event/content.py:76
 #: imio/events/core/contents/event/view.pt:77
 msgid "Twitter"
@@ -2226,6 +2238,10 @@ msgstr ""
 msgid "Upgrade core from 1023 to 1024"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:60
+msgid "Upgrade core from 1025 to 1025"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -2258,13 +2274,25 @@ msgstr ""
 msgid "Url to get forms from your e-guichet"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel.py:28
+msgid "Url to propose a new citizen contact"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:33
+msgid "Url to propose a new citizen event"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:38
+msgid "Url to propose a new citizen news"
+msgstr ""
+
 #: imio/smartweb/common/browser/forms.py:40
 #: imio/smartweb/core/contents/sections/html/content.py:29
 #: imio/smartweb/core/contents/sections/links/content.py:16
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:83
+#: imio/directory/core/vocabularies.py:86
 msgid "Useful numbers"
 msgstr ""
 
@@ -2308,11 +2336,11 @@ msgstr ""
 msgid "Visible blocks"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:90
+#: imio/smartweb/core/browser/controlpanel.py:105
 msgid "Vocabulary term"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:68
+#: imio/directory/core/vocabularies.py:70
 #: imio/news/core/contents/newsitem/content.py:29
 msgid "Website"
 msgstr ""
@@ -2343,6 +2371,10 @@ msgstr ""
 
 #: imio/smartweb/core/subscribers.py:29
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
+msgstr ""
+
+#: imio/directory/core/vocabularies.py:71
+msgid "Youtube"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/slide/content.py:52
