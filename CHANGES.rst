@@ -5,7 +5,8 @@ Changelog
 1.0.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add propose URLs translations
+  [laulaz]
 
 
 1.0.5 (2022-06-13)

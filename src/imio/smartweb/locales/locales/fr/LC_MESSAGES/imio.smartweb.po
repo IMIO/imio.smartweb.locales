@@ -2271,15 +2271,15 @@ msgstr "Url de récupération des démarches de votre e-guichet"
 
 #: imio/smartweb/core/browser/controlpanel.py:28
 msgid "Url to propose a new citizen contact"
-msgstr ""
+msgstr "Url pour la proposition d'un contact par le citoyen"
 
 #: imio/smartweb/core/browser/controlpanel.py:33
 msgid "Url to propose a new citizen event"
-msgstr ""
+msgstr "Url pour la proposition d'un événement par le citoyen"
 
 #: imio/smartweb/core/browser/controlpanel.py:38
 msgid "Url to propose a new citizen news"
-msgstr ""
+msgstr "Url pour la proposition d'une actualité par le citoyen"
 
 #: imio/smartweb/common/browser/forms.py:40
 #: imio/smartweb/core/contents/sections/html/content.py:29
