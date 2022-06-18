@@ -5,6 +5,9 @@ Changelog
 1.0.6 (unreleased)
 ------------------
 
+- Add faceted map translation
+  [laulaz]
+
 - Add propose URLs translations
   [laulaz]
 

@@ -834,7 +834,7 @@ msgstr ""
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:97
 msgid "Faceted map"
-msgstr ""
+msgstr "Affichage plan"
 
 #: imio/smartweb/core/browser/faceted/configure.zcml:81
 msgid "Faceted summary view"
