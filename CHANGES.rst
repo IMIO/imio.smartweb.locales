@@ -5,6 +5,9 @@ Changelog
 1.0.6 (unreleased)
 ------------------
 
+- Add Dutch translations files
+  [laulaz]
+
 - Add faceted map translation
   [laulaz]
 
