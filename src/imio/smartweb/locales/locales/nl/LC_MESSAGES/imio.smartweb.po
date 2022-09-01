@@ -1147,56 +1147,16 @@ msgstr ""
 msgid "Instagram url for this news"
 msgstr ""
 
-#: imio/smartweb/core/profiles.zcml:46
-msgid "Installs CSS / JS bundles compilation dates"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:38
-msgid "Installs basic smartweb flat icons set"
-msgstr ""
-
-#: imio/directory/core/profiles.zcml:22
-msgid "Installs imio.directory.core testing profile."
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:21
-msgid "Installs imio.smartweb.core.testing profile."
-msgstr ""
-
-#: imio/directory/core/profiles.zcml:14
-msgid "Installs the imio.directory.core add-on."
-msgstr ""
-
 #: imio/directory/policy/configure.zcml:31
 msgid "Installs the imio.directory.policy add-on."
-msgstr ""
-
-#: imio/events/core/profiles.zcml:13
-msgid "Installs the imio.events.core add-on."
 msgstr ""
 
 #: imio/events/policy/configure.zcml:31
 msgid "Installs the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/core/profiles.zcml:13
-msgid "Installs the imio.news.core add-on."
-msgstr ""
-
 #: imio/news/policy/configure.zcml:31
 msgid "Installs the imio.news.policy add-on."
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:14
-msgid "Installs the imio.smartweb.common add-on."
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:23
-msgid "Installs the imio.smartweb.common testing profile."
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:13
-msgid "Installs the imio.smartweb.core add-on."
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:42
@@ -2196,36 +2156,16 @@ msgstr ""
 msgid "URLs"
 msgstr ""
 
-#: imio/directory/core/profiles.zcml:31
-msgid "Uninstalls the imio.directory.core add-on."
-msgstr ""
-
 #: imio/directory/policy/configure.zcml:40
 msgid "Uninstalls the imio.directory.policy add-on."
-msgstr ""
-
-#: imio/events/core/profiles.zcml:22
-msgid "Uninstalls the imio.events.core add-on."
 msgstr ""
 
 #: imio/events/policy/configure.zcml:40
 msgid "Uninstalls the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/core/profiles.zcml:22
-msgid "Uninstalls the imio.news.core add-on."
-msgstr ""
-
 #: imio/news/policy/configure.zcml:40
 msgid "Uninstalls the imio.news.policy add-on."
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:32
-msgid "Uninstalls the imio.smartweb.common add-on."
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:30
-msgid "Uninstalls the imio.smartweb.core add-on."
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:60
@@ -2453,32 +2393,12 @@ msgstr ""
 msgid "free license"
 msgstr ""
 
-#: imio/directory/core/profiles.zcml:14
-msgid "imio.directory.core"
-msgstr ""
-
-#: imio/directory/core/profiles.zcml:22
-msgid "imio.directory.core (testing)"
-msgstr ""
-
-#: imio/directory/core/profiles.zcml:31
-msgid "imio.directory.core (uninstall)"
-msgstr ""
-
 #: imio/directory/policy/configure.zcml:31
 msgid "imio.directory.policy"
 msgstr ""
 
 #: imio/directory/policy/configure.zcml:40
 msgid "imio.directory.policy (uninstall)"
-msgstr ""
-
-#: imio/events/core/profiles.zcml:13
-msgid "imio.events.core"
-msgstr ""
-
-#: imio/events/core/profiles.zcml:22
-msgid "imio.events.core (uninstall)"
 msgstr ""
 
 #: imio/events/policy/configure.zcml:31
@@ -2489,52 +2409,12 @@ msgstr ""
 msgid "imio.events.policy (uninstall)"
 msgstr ""
 
-#: imio/news/core/profiles.zcml:13
-msgid "imio.news.core"
-msgstr ""
-
-#: imio/news/core/profiles.zcml:22
-msgid "imio.news.core (uninstall)"
-msgstr ""
-
 #: imio/news/policy/configure.zcml:31
 msgid "imio.news.policy"
 msgstr ""
 
 #: imio/news/policy/configure.zcml:40
 msgid "imio.news.policy (uninstall)"
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:14
-msgid "imio.smartweb.common"
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:23
-msgid "imio.smartweb.common (testing)"
-msgstr ""
-
-#: imio/smartweb/common/profiles.zcml:32
-msgid "imio.smartweb.common (uninstall)"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:13
-msgid "imio.smartweb.core"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:21
-msgid "imio.smartweb.core (testing)"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:30
-msgid "imio.smartweb.core (uninstall)"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:38
-msgid "imio.smartweb.core basic flat icons set"
-msgstr ""
-
-#: imio/smartweb/core/profiles.zcml:46
-msgid "imio.smartweb.core last compilation dates"
 msgstr ""
 
 #: imio/smartweb/policy/configure.zcml:42

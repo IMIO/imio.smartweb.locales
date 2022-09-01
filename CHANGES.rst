@@ -5,7 +5,8 @@ Changelog
 1.0.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Exclude `profiles.zcml` from translations
+  [laulaz]
 
 
 1.0.6 (2022-07-14)
