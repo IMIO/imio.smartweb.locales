@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-06-18 22:04+0000\n"
+"POT-Creation-Date: 2022-09-01 12:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,6 +132,10 @@ msgstr ""
 msgid "Add new shop icon to registry"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:29
+msgid "Add non breaking space option to tiny (registry)"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Add subsite properties/fields"
 msgstr ""
@@ -180,6 +184,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/folder/views.py:127
 msgid "Apply"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:68
+msgid "Automatically publish GDPR article"
 msgstr ""
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:23
@@ -241,6 +249,10 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:293
 msgid "Bottom"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:68
+msgid "By default, Plone open external (Section text / Tiny) links in new tab"
 msgstr ""
 
 #: imio/smartweb/core/contents/pages/footer/content.py:30
@@ -376,7 +388,7 @@ msgstr ""
 msgid "Category - Works info"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:100
+#: imio/smartweb/core/browser/controlpanel.py:113
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr ""
 
@@ -392,7 +404,11 @@ msgstr ""
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:101
+#: imio/smartweb/core/browser/controlpanel.py:136
+msgid "Choose SendInblue submission button text"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:114
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr ""
 
@@ -507,7 +523,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:229
+#: imio/smartweb/core/contents/sections/contact/view.py:238
 msgid "Closed"
 msgstr ""
 
@@ -585,15 +601,15 @@ msgstr ""
 msgid "Culture"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:79
+#: imio/smartweb/core/browser/controlpanel.py:92
 msgid "Default directory view"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:86
+#: imio/smartweb/core/browser/controlpanel.py:99
 msgid "Default events view"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:93
+#: imio/smartweb/core/browser/controlpanel.py:106
 msgid "Default news view"
 msgstr ""
 
@@ -627,11 +643,11 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:61
+#: imio/smartweb/core/browser/controlpanel.py:74
 msgid "Directory SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:43
+#: imio/smartweb/core/browser/controlpanel.py:56
 msgid "Directory entity"
 msgstr ""
 
@@ -715,6 +731,10 @@ msgstr ""
 msgid "Enable subsite"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel.py:18
+msgid "Enter the language code. Ex.: en"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/html/content.py:18
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
 msgstr ""
@@ -767,11 +787,11 @@ msgstr ""
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:67
+#: imio/smartweb/core/browser/controlpanel.py:80
 msgid "Events SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:49
+#: imio/smartweb/core/browser/controlpanel.py:62
 msgid "Events entity"
 msgstr ""
 
@@ -791,7 +811,7 @@ msgstr ""
 msgid "Events view used to display events details"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:15
+#: imio/smartweb/core/browser/controlpanel.py:28
 msgid "Example : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
 msgstr ""
 
@@ -935,7 +955,7 @@ msgstr ""
 msgid "Free entry"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:88
+#: imio/smartweb/core/contents/sections/contact/view.py:97
 msgid "Friday"
 msgstr ""
 
@@ -1207,7 +1227,7 @@ msgstr ""
 
 #: imio/events/core/contents/event/views.py:75
 #: imio/smartweb/core/contents/sections/contact/view.pt:121
-#: imio/smartweb/core/contents/sections/contact/view.py:50
+#: imio/smartweb/core/contents/sections/contact/view.py:59
 msgid "Itinerary"
 msgstr ""
 
@@ -1234,6 +1254,10 @@ msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:49
 msgid "Label (direction, Main number,...)"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:17
+msgid "Language (en, fr,...)"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/minisite.py:36
@@ -1325,7 +1349,7 @@ msgstr ""
 msgid "Logo display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:268
+#: imio/smartweb/core/contents/sections/contact/view.py:277
 msgid "Lunch time"
 msgstr ""
 
@@ -1391,7 +1415,7 @@ msgstr ""
 msgid "Modified"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:84
+#: imio/smartweb/core/contents/sections/contact/view.py:93
 msgid "Monday"
 msgstr ""
 
@@ -1399,7 +1423,7 @@ msgstr ""
 msgid "My account"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:109
+#: imio/smartweb/core/browser/controlpanel.py:122
 msgid "Name"
 msgstr ""
 
@@ -1407,11 +1431,11 @@ msgstr ""
 msgid "Newcomer"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:73
+#: imio/smartweb/core/browser/controlpanel.py:86
 msgid "News SolR Core ID"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:55
+#: imio/smartweb/core/browser/controlpanel.py:68
 msgid "News entity"
 msgstr ""
 
@@ -1499,11 +1523,11 @@ msgstr ""
 msgid "Only used in table view (takes precedence over image)"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:236
+#: imio/smartweb/core/contents/sections/contact/view.py:245
 msgid "Open"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:262
+#: imio/smartweb/core/contents/sections/contact/view.py:271
 msgid "Open at "
 msgstr ""
 
@@ -1719,7 +1743,7 @@ msgstr ""
 msgid "Safety and prevention"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:89
+#: imio/smartweb/core/contents/sections/contact/view.py:98
 msgid "Saturday"
 msgstr ""
 
@@ -1736,11 +1760,11 @@ msgstr ""
 msgid "Search"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:22
+#: imio/smartweb/core/browser/controlpanel.py:35
 msgid "Secret key"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:23
+#: imio/smartweb/core/browser/controlpanel.py:36
 msgid "Secret key to use API"
 msgstr ""
 
@@ -1852,6 +1876,14 @@ msgstr ""
 msgid "Selections section for a page"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel.py:128
+msgid "SendInBlue : Define button position"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:135
+msgid "SendInBlue : Define button text"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
 msgid "Sendinblue section"
 msgstr ""
@@ -1896,7 +1928,7 @@ msgstr ""
 msgid "Slide section for a hero banner"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:118
+#: imio/smartweb/core/browser/controlpanel.py:150
 msgid "Smartweb Settings"
 msgstr ""
 
@@ -1969,6 +2001,10 @@ msgstr ""
 msgid "Sub contacts"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/sendinblue/views.py:54
+msgid "Subscribe"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
 msgstr ""
@@ -1994,7 +2030,7 @@ msgstr ""
 msgid "Summary view with images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:90
+#: imio/smartweb/core/contents/sections/contact/view.py:99
 msgid "Sunday"
 msgstr ""
 
@@ -2017,6 +2053,10 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:21
+msgid "Text"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:56
@@ -2067,7 +2107,7 @@ msgstr ""
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:80
+#: imio/smartweb/core/browser/controlpanel.py:93
 msgid "This information is used for search results redirection"
 msgstr ""
 
@@ -2079,7 +2119,7 @@ msgstr ""
 msgid "Three quarter of width"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:87
+#: imio/smartweb/core/contents/sections/contact/view.py:96
 msgid "Thursday"
 msgstr ""
 
@@ -2128,7 +2168,7 @@ msgstr ""
 msgid "Trade Fair and Fair"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:85
+#: imio/smartweb/core/contents/sections/contact/view.py:94
 msgid "Tuesday"
 msgstr ""
 
@@ -2206,6 +2246,10 @@ msgstr ""
 msgid "Upgrade common from 1008 to 1009"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:29
+msgid "Upgrade common from 1009 to 1010"
+msgstr ""
+
 #: imio/events/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1002 to 1003"
 msgstr ""
@@ -2242,6 +2286,10 @@ msgstr ""
 msgid "Upgrade core from 1025 to 1025"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:68
+msgid "Upgrade core from 1027 to 1028"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -2266,23 +2314,31 @@ msgstr ""
 msgid "Upgrade policy 1014 to 1015"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:60
+msgid "Upgrade policy 1017 to 1018"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:68
+msgid "Upgrade policy 1018 to 1019"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Url"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:14
+#: imio/smartweb/core/browser/controlpanel.py:27
 msgid "Url to get forms from your e-guichet"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:28
+#: imio/smartweb/core/browser/controlpanel.py:41
 msgid "Url to propose a new citizen contact"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:33
+#: imio/smartweb/core/browser/controlpanel.py:46
 msgid "Url to propose a new citizen event"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:38
+#: imio/smartweb/core/browser/controlpanel.py:51
 msgid "Url to propose a new citizen news"
 msgstr ""
 
@@ -2336,7 +2392,7 @@ msgstr ""
 msgid "Visible blocks"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:105
+#: imio/smartweb/core/browser/controlpanel.py:118
 msgid "Vocabulary term"
 msgstr ""
 
@@ -2345,7 +2401,7 @@ msgstr ""
 msgid "Website"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:86
+#: imio/smartweb/core/contents/sections/contact/view.py:95
 msgid "Wednesday"
 msgstr ""
 
@@ -2371,6 +2427,10 @@ msgstr ""
 
 #: imio/smartweb/core/subscribers.py:29
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:21
+msgid "Your button title"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:71
