@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.7 (unreleased)
+1.0.7 (2022-10-28)
 ------------------
 
 - Add some directory fields translations
