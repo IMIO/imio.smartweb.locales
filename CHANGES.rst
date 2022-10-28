@@ -5,6 +5,9 @@ Changelog
 1.0.7 (unreleased)
 ------------------
 
+- Add some directory fields translations
+  [boulch]
+
 - Exclude `profiles.zcml` from translations
   [laulaz]
 

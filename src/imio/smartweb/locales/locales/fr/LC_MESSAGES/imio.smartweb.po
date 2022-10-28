@@ -18,7 +18,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:85
 msgid "<div class=\"section_error_txt\">Error in section : \"{}\" <a href=\"{}/edit\">[edit]</a></div>"
-msgstr ""
+msgstr "<div class=\"section_error_txt\">Erreur dans la section : \"{}\" <a href=\"{}/edit\">[modifier]</a></div>"
 
 #: imio/smartweb/common/browser/privacy/form.py:32
 #: imio/smartweb/common/viewlets/privacy.pt:15
@@ -812,15 +812,15 @@ msgstr "Vue événements utilisée pour afficher les détails de l'événement"
 
 #: imio/directory/core/contents/contact/forms.py:36
 msgid "Example : Photo of a person or organization building"
-msgstr ""
+msgstr "Exemple : Photo d'une personne ou d'un bâtiment d'une organisation"
 
 #: imio/smartweb/core/browser/controlpanel.py:28
 msgid "Example : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
-msgstr ""
+msgstr "Exemple : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
 
 #: imio/directory/core/contents/contact/content.py:215
 msgid "Example : shop, service, association logo"
-msgstr ""
+msgstr "Exemple : Logo d'un magasin ou d'un service ou d'une association"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "Exclude from parent listing"
