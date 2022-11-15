@@ -276,15 +276,15 @@ msgstr ""
 msgid "Carousel view"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:103
+#: imio/events/core/contents/event/content.py:162
 #: imio/smartweb/common/behaviors/iam.py:15
 #: imio/smartweb/common/behaviors/topics.py:15
 msgid "Categorization"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:118
+#: imio/events/core/contents/event/content.py:177
 #: imio/events/core/contents/event/view.pt:92
-#: imio/news/core/contents/newsitem/content.py:73
+#: imio/news/core/contents/newsitem/content.py:132
 msgid "Category"
 msgstr ""
 
@@ -394,11 +394,11 @@ msgstr ""
 msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:89
+#: imio/events/core/contents/event/content.py:148
 msgid "Check if entry is free"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:96
+#: imio/events/core/contents/event/content.py:155
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr ""
 
@@ -635,9 +635,9 @@ msgstr ""
 msgid "Delete section"
 msgstr ""
 
-#: imio/smartweb/core/contents/blocks/link/content.py:20
-#: imio/smartweb/core/contents/sections/html/content.py:28
-#: imio/smartweb/core/contents/sections/links/content.py:15
+#: imio/directory/core/contents/contact/content.py:213
+#: imio/events/core/contents/event/content.py:54
+#: imio/news/core/contents/newsitem/content.py:40
 msgid "Description"
 msgstr ""
 
@@ -685,6 +685,12 @@ msgstr ""
 msgid "Drinking water point"
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:238
+#: imio/events/core/contents/event/content.py:80
+#: imio/news/core/contents/newsitem/content.py:66
+msgid "Dutch translations"
+msgstr ""
+
 #: imio/smartweb/core/contents/pages/procedure/content.py:21
 msgid "E-Guichet procedure"
 msgstr ""
@@ -727,6 +733,12 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable subsite"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:220
+#: imio/events/core/contents/event/content.py:62
+#: imio/news/core/contents/newsitem/content.py:48
+msgid "English translations"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:18
@@ -777,7 +789,7 @@ msgstr ""
 msgid "Event planner"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:45
+#: imio/events/core/contents/event/content.py:104
 msgid "Event type"
 msgstr ""
 
@@ -809,7 +821,7 @@ msgstr ""
 msgid "Events view used to display events details"
 msgstr ""
 
-#: imio/directory/core/contents/contact/forms.py:36
+#: imio/directory/core/contents/contact/forms.py:40
 msgid "Example : Photo of a person or organization building"
 msgstr ""
 
@@ -817,7 +829,7 @@ msgstr ""
 msgid "Example : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:215
+#: imio/directory/core/contents/contact/content.py:275
 msgid "Example : shop, service, association logo"
 msgstr ""
 
@@ -838,16 +850,16 @@ msgid "Export contact"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:66
-#: imio/events/core/contents/event/content.py:70
+#: imio/events/core/contents/event/content.py:129
 #: imio/events/core/contents/event/view.pt:72
 msgid "Facebook"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:71
+#: imio/events/core/contents/event/content.py:130
 msgid "Facebook url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:42
+#: imio/news/core/contents/newsitem/content.py:101
 msgid "Facebook url for this news"
 msgstr ""
 
@@ -875,11 +887,11 @@ msgstr ""
 msgid "Faceted summary view with images"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:232
+#: imio/directory/core/contents/contact/content.py:292
 msgid "Facilities"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:95
+#: imio/events/core/contents/event/content.py:154
 #: imio/events/core/contents/event/view.pt:57
 msgid "Facilities for person with reduced mobility"
 msgstr ""
@@ -956,7 +968,7 @@ msgstr ""
 msgid "Free WIFI"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:88
+#: imio/events/core/contents/event/content.py:147
 #: imio/events/core/contents/event/view.pt:47
 msgid "Free entry"
 msgstr ""
@@ -987,6 +999,12 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionGallery.xml
 msgid "Gallery section for a page"
+msgstr ""
+
+#: imio/directory/core/contents/contact/content.py:202
+#: imio/events/core/contents/event/content.py:44
+#: imio/news/core/contents/newsitem/content.py:30
+msgid "German translations"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/content.py:36
@@ -1119,8 +1137,8 @@ msgstr ""
 msgid "Import contacts"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:128
-#: imio/news/core/contents/newsitem/content.py:83
+#: imio/events/core/contents/event/content.py:187
+#: imio/news/core/contents/newsitem/content.py:142
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr ""
 
@@ -1128,12 +1146,12 @@ msgstr ""
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:119
-#: imio/news/core/contents/newsitem/content.py:74
+#: imio/events/core/contents/event/content.py:178
+#: imio/news/core/contents/newsitem/content.py:133
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:233
+#: imio/directory/core/contents/contact/content.py:293
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
 msgstr ""
 
@@ -1146,16 +1164,16 @@ msgid "Imported ${number} contacts successfully !"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:67
-#: imio/events/core/contents/event/content.py:82
+#: imio/events/core/contents/event/content.py:141
 #: imio/events/core/contents/event/view.pt:82
 msgid "Instagram"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:83
+#: imio/events/core/contents/event/content.py:142
 msgid "Instagram url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:54
+#: imio/news/core/contents/newsitem/content.py:113
 msgid "Instagram url for this news"
 msgstr ""
 
@@ -1272,7 +1290,7 @@ msgstr ""
 msgid "Link title will be display on picture as clickable element"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:53
+#: imio/events/core/contents/event/content.py:112
 msgid "Link to online participation"
 msgstr ""
 
@@ -1300,7 +1318,7 @@ msgstr ""
 msgid "List of news categories values available for this entity (one per line)"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:214
+#: imio/directory/core/contents/contact/content.py:274
 #: imio/smartweb/core/behaviors/minisite.py:42
 #: imio/smartweb/core/behaviors/subsite.py:34
 msgid "Logo"
@@ -1433,7 +1451,7 @@ msgstr ""
 msgid "NewsItem"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:30
+#: imio/news/core/contents/newsitem/content.py:89
 msgid "NewsItem website url"
 msgstr ""
 
@@ -1477,7 +1495,7 @@ msgstr ""
 msgid "Online participation"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:52
+#: imio/events/core/contents/event/content.py:111
 msgid "Online participation url"
 msgstr ""
 
@@ -1774,11 +1792,11 @@ msgstr ""
 msgid "Select agenda to display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:109
+#: imio/events/core/contents/event/content.py:168
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:223
+#: imio/directory/core/contents/contact/content.py:283
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
 msgstr ""
 
@@ -1794,7 +1812,7 @@ msgstr ""
 msgid "Select news folder to display"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:64
+#: imio/news/core/contents/newsitem/content.py:123
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr ""
 
@@ -1814,11 +1832,11 @@ msgstr ""
 msgid "Selected agenda"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:108
+#: imio/events/core/contents/event/content.py:167
 msgid "Selected agendas"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:222
+#: imio/directory/core/contents/contact/content.py:282
 msgid "Selected entities"
 msgstr ""
 
@@ -1834,7 +1852,7 @@ msgstr ""
 msgid "Selected news folder"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:63
+#: imio/news/core/contents/newsitem/content.py:122
 msgid "Selected news folders"
 msgstr ""
 
@@ -1870,9 +1888,9 @@ msgstr ""
 msgid "Set some restrictions in control panel"
 msgstr ""
 
-#: imio/smartweb/core/contents/rest/directory/content.py:29
-#: imio/smartweb/core/contents/rest/events/content.py:34
-#: imio/smartweb/core/contents/rest/news/content.py:25
+#: imio/smartweb/core/contents/sections/collection/content.py:74
+#: imio/smartweb/core/contents/sections/events/content.py:82
+#: imio/smartweb/core/contents/sections/news/content.py:72
 msgid "Show items description"
 msgstr ""
 
@@ -1934,8 +1952,8 @@ msgstr ""
 msgid "Social network - Youtube"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:127
-#: imio/news/core/contents/newsitem/content.py:82
+#: imio/events/core/contents/event/content.py:186
+#: imio/news/core/contents/newsitem/content.py:141
 msgid "Specific category"
 msgstr ""
 
@@ -1991,7 +2009,7 @@ msgstr ""
 msgid "Subsite has been successfully activated"
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:210
+#: imio/directory/core/contents/contact/content.py:212
 #: imio/smartweb/core/contents/sections/postit/content.py:26
 msgid "Subtitle"
 msgstr ""
@@ -2029,6 +2047,8 @@ msgstr ""
 msgid "Territory and public space"
 msgstr ""
 
+#: imio/events/core/contents/event/content.py:55
+#: imio/news/core/contents/newsitem/content.py:41
 #: imio/smartweb/core/browser/controlpanel.py:21
 msgid "Text"
 msgstr ""
@@ -2049,7 +2069,7 @@ msgstr ""
 msgid "Text section"
 msgstr ""
 
-#: imio/directory/core/contents/contact/forms.py:16
+#: imio/directory/core/contents/contact/forms.py:18
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr ""
 
@@ -2081,6 +2101,12 @@ msgstr ""
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr ""
 
+#: imio/directory/core/contents/contact/content.py:207
+#: imio/events/core/contents/event/content.py:49
+#: imio/news/core/contents/newsitem/content.py:35
+msgid "This field is required if the content must be available in this language"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:93
 msgid "This information is used for search results redirection"
 msgstr ""
@@ -2097,18 +2123,18 @@ msgstr ""
 msgid "Thursday"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:58
+#: imio/events/core/contents/event/content.py:117
 #: imio/events/core/contents/event/view.pt:67
 msgid "Ticket url"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:59
+#: imio/events/core/contents/event/content.py:118
 msgid "Ticket url to subscribe to this event"
 msgstr ""
 
-#: imio/smartweb/core/contents/blocks/link/content.py:18
-#: imio/smartweb/core/contents/sections/base.py:17
-#: imio/smartweb/core/contents/sections/postit/content.py:19
+#: imio/directory/core/contents/contact/content.py:206
+#: imio/events/core/contents/event/content.py:48
+#: imio/news/core/contents/newsitem/content.py:34
 msgid "Title"
 msgstr ""
 
@@ -2147,16 +2173,16 @@ msgid "Tuesday"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:69
-#: imio/events/core/contents/event/content.py:76
+#: imio/events/core/contents/event/content.py:135
 #: imio/events/core/contents/event/view.pt:77
 msgid "Twitter"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:77
+#: imio/events/core/contents/event/content.py:136
 msgid "Twitter url for this event"
 msgstr ""
 
-#: imio/news/core/contents/newsitem/content.py:48
+#: imio/news/core/contents/newsitem/content.py:107
 msgid "Twitter url for this news"
 msgstr ""
 
@@ -2334,14 +2360,14 @@ msgstr ""
 msgid "Video section for a page"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:64
-#: imio/news/core/contents/newsitem/content.py:35
+#: imio/events/core/contents/event/content.py:123
+#: imio/news/core/contents/newsitem/content.py:94
 #: imio/smartweb/core/contents/sections/video/content.py:25
 msgid "Video url"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:65
-#: imio/news/core/contents/newsitem/content.py:36
+#: imio/events/core/contents/event/content.py:124
+#: imio/news/core/contents/newsitem/content.py:95
 #: imio/smartweb/core/contents/sections/video/content.py:26
 msgid "Video url from youtube, vimeo"
 msgstr ""
@@ -2367,7 +2393,7 @@ msgid "Vocabulary term"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:70
-#: imio/news/core/contents/newsitem/content.py:29
+#: imio/news/core/contents/newsitem/content.py:88
 msgid "Website"
 msgstr ""
 
