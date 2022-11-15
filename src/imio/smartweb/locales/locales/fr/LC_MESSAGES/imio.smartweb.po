@@ -405,7 +405,7 @@ msgstr "Cochez si l'événement est accessible aux personnes à mobilité rédui
 
 #: imio/smartweb/core/browser/controlpanel.py:136
 msgid "Choose SendInblue submission button text"
-msgstr ""
+msgstr "Choisissez l'intitulé du bouton d'inscription à la newsletter SendInblue"
 
 #: imio/smartweb/core/browser/controlpanel.py:114
 msgid "Choose a term from the vocabulary and define the corresponding name"
@@ -690,7 +690,7 @@ msgstr "Points d'eau potable"
 #: imio/events/core/contents/event/content.py:80
 #: imio/news/core/contents/newsitem/content.py:66
 msgid "Dutch translations"
-msgstr ""
+msgstr "Traductions néerlandophones"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:21
 msgid "E-Guichet procedure"
@@ -740,11 +740,11 @@ msgstr "Activer le mode sous-site"
 #: imio/events/core/contents/event/content.py:62
 #: imio/news/core/contents/newsitem/content.py:48
 msgid "English translations"
-msgstr ""
+msgstr "Traductions anglophones"
 
 #: imio/smartweb/core/browser/controlpanel.py:18
 msgid "Enter the language code. Ex.: en"
-msgstr ""
+msgstr "Entrez le code de langue. Ex: fr"
 
 #: imio/smartweb/core/contents/sections/html/content.py:18
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
@@ -1006,7 +1006,7 @@ msgstr "Création d'une section galerie qui affichera ses images dans votre page
 #: imio/events/core/contents/event/content.py:44
 #: imio/news/core/contents/newsitem/content.py:30
 msgid "German translations"
-msgstr ""
+msgstr "Traductions germanophones"
 
 #: imio/smartweb/core/contents/sections/events/content.py:36
 msgid "Get priory on related agenda for these specifics events."
@@ -1243,7 +1243,7 @@ msgstr "Intitulé (direction, numéro principal, ...)"
 
 #: imio/smartweb/core/browser/controlpanel.py:17
 msgid "Language (en, fr,...)"
-msgstr ""
+msgstr "Langue (en, fr, ...)"
 
 #: imio/smartweb/core/behaviors/minisite.py:36
 #: imio/smartweb/core/behaviors/subsite.py:29
@@ -1867,11 +1867,11 @@ msgstr "Section de sélections pour une page"
 
 #: imio/smartweb/core/browser/controlpanel.py:128
 msgid "SendInBlue : Define button position"
-msgstr ""
+msgstr "SendInBlue : Définissez la position du bouton"
 
 #: imio/smartweb/core/browser/controlpanel.py:135
 msgid "SendInBlue : Define button text"
-msgstr ""
+msgstr "SendInBlue : Définissez le texte du bouton"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSendinblue.xml
 msgid "Sendinblue section"
@@ -1996,7 +1996,7 @@ msgstr "Sous contacts"
 
 #: imio/smartweb/core/contents/sections/sendinblue/views.py:54
 msgid "Subscribe"
-msgstr ""
+msgstr "S'inscrire"
 
 #: imio/smartweb/core/behaviors/configure.zcml:28
 msgid "Subsite"
@@ -2052,7 +2052,7 @@ msgstr "Territoire et espace public"
 #: imio/news/core/contents/newsitem/content.py:41
 #: imio/smartweb/core/browser/controlpanel.py:21
 msgid "Text"
-msgstr ""
+msgstr "Texte"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:56
 msgid "Text for the link to the collection"
@@ -2106,7 +2106,7 @@ msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/><a class
 #: imio/events/core/contents/event/content.py:49
 #: imio/news/core/contents/newsitem/content.py:35
 msgid "This field is required if the content must be available in this language"
-msgstr ""
+msgstr "Ce champ est requis si le contenu doit être disponible dans cette langue"
 
 #: imio/smartweb/core/browser/controlpanel.py:93
 msgid "This information is used for search results redirection"
@@ -2428,7 +2428,7 @@ msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conse
 
 #: imio/smartweb/core/browser/controlpanel.py:21
 msgid "Your button title"
-msgstr ""
+msgstr "Titre du bouton"
 
 #: imio/directory/core/vocabularies.py:71
 msgid "Youtube"

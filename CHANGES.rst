@@ -5,7 +5,8 @@ Changelog
 1.0.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing French translations (Sendinblue, multilingual)
+  [laulaz]
 
 
 1.0.7 (2022-10-28)
