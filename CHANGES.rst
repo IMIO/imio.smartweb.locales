@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.0.8 (unreleased)
+1.0.8 (2022-11-15)
 ------------------
 
 - Add missing French translations (Sendinblue, multilingual)
