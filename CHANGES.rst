@@ -5,7 +5,8 @@ Changelog
 1.0.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Update buildout to Plone 6.0.0 final
+  [laulaz]
 
 
 1.0.8 (2022-11-15)
