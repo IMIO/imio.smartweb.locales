@@ -1,10 +1,10 @@
-# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
-# SOME DESCRIPTIVE TITLE.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#--- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+#SOME DESCRIPTIVE TITLE.
+#FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-11-15 09:30+0000\n"
+"POT-Creation-Date: 2022-12-23 09:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -126,6 +126,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:44
 msgid "Add new icons to registry"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:76
+msgid "Add new permission to authorize site admin to manage taxonomies on specific content"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:60
@@ -1183,23 +1187,23 @@ msgstr ""
 msgid "Instagram url for this news"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:31
+#: imio/directory/policy/configure.zcml:33
 msgid "Installs the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/policy/configure.zcml:31
+#: imio/events/policy/configure.zcml:32
 msgid "Installs the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/policy/configure.zcml:32
+#: imio/news/policy/configure.zcml:34
 msgid "Installs the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:42
+#: imio/smartweb/policy/configure.zcml:43
 msgid "Installs the imio.smartweb.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:51
+#: imio/smartweb/policy/configure.zcml:52
 msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
@@ -1375,6 +1379,11 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:46
 msgid "Merchant"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:37
+#: imio/smartweb/core/upgrades/configure.zcml:84
+msgid "Migrate bundles / resources to simplified resources registry"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:36
@@ -1721,8 +1730,21 @@ msgstr ""
 msgid "Relative path widget"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:45
+msgid "Remove faceted deprecated bundles"
+msgstr ""
+
 #: imio/events/core/upgrades/configure.zcml:12
 msgid "Remove imio.events.Page portal type"
+msgstr ""
+
+#: imio/directory/policy/upgrades/configure.zcml:12
+#: imio/smartweb/policy/upgrades/configure.zcml:108
+msgid "Remove plone.patternslib deprecated bundles"
+msgstr ""
+
+#: imio/news/policy/upgrades/configure.zcml:12
+msgid "Remove ugly IImioEventsPolicyLayer"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
@@ -2208,19 +2230,19 @@ msgstr ""
 msgid "URLs"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:40
+#: imio/directory/policy/configure.zcml:42
 msgid "Uninstalls the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/policy/configure.zcml:40
+#: imio/events/policy/configure.zcml:41
 msgid "Uninstalls the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/policy/configure.zcml:41
+#: imio/news/policy/configure.zcml:43
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:60
+#: imio/smartweb/policy/configure.zcml:61
 msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
@@ -2238,6 +2260,22 @@ msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:29
 msgid "Upgrade common from 1009 to 1010"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:37
+msgid "Upgrade common from 1010 to 1011"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:45
+msgid "Upgrade common from 1011 to 1012"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:92
+msgid "Upgrade common from 1031 to 1032"
+msgstr ""
+
+#: imio/news/policy/upgrades/configure.zcml:12
+msgid "Upgrade core from 1000 to 1001"
 msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:12
@@ -2278,6 +2316,14 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:68
 msgid "Upgrade core from 1027 to 1028"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:76
+msgid "Upgrade core from 1029 to 1030"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:84
+msgid "Upgrade core from 1030 to 1031"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
@@ -2324,6 +2370,18 @@ msgstr ""
 msgid "Upgrade policy 1021 to 1022"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:100
+msgid "Upgrade policy 1022 to 1023"
+msgstr ""
+
+#: imio/directory/policy/upgrades/configure.zcml:12
+msgid "Upgrade policy from 1000 to 1001"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:108
+msgid "Upgrade policy from 1023 to 1024"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:95
 msgid "Url"
 msgstr ""
@@ -2348,6 +2406,10 @@ msgstr ""
 #: imio/smartweb/core/contents/sections/html/content.py:29
 #: imio/smartweb/core/contents/sections/links/content.py:16
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:92
+msgid "Use custom spotlight to avoid bad gallery refresh"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:86
@@ -2461,39 +2523,39 @@ msgstr ""
 msgid "free license"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:31
+#: imio/directory/policy/configure.zcml:33
 msgid "imio.directory.policy"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:40
+#: imio/directory/policy/configure.zcml:42
 msgid "imio.directory.policy (uninstall)"
 msgstr ""
 
-#: imio/events/policy/configure.zcml:31
+#: imio/events/policy/configure.zcml:32
 msgid "imio.events.policy"
 msgstr ""
 
-#: imio/events/policy/configure.zcml:40
+#: imio/events/policy/configure.zcml:41
 msgid "imio.events.policy (uninstall)"
 msgstr ""
 
-#: imio/news/policy/configure.zcml:32
+#: imio/news/policy/configure.zcml:34
 msgid "imio.news.policy"
 msgstr ""
 
-#: imio/news/policy/configure.zcml:41
+#: imio/news/policy/configure.zcml:43
 msgid "imio.news.policy (uninstall)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:42
+#: imio/smartweb/policy/configure.zcml:43
 msgid "imio.smartweb.policy"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:51
+#: imio/smartweb/policy/configure.zcml:52
 msgid "imio.smartweb.policy (demo)"
 msgstr ""
 
-#: imio/smartweb/policy/configure.zcml:60
+#: imio/smartweb/policy/configure.zcml:61
 msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
