@@ -2,8 +2,8 @@ Changelog
 =========
 
 
-1.0.9 (unreleased)
-------------------
+1.1 (2023-01-09)
+----------------
 
 - Add DE translations (with copied French sentences for now)
   [laulaz]
