@@ -5,6 +5,9 @@ Changelog
 1.0.9 (unreleased)
 ------------------
 
+- Add DE translations (with copied French sentences for now)
+  [laulaz]
+
 - Update buildout to Plone 6.0.0 final
   [laulaz]
 
