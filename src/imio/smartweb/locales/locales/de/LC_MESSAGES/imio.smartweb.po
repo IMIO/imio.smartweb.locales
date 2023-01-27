@@ -111,6 +111,16 @@ msgstr ""
 msgid "Add minisite properties/fields"
 msgstr "Ajoute les champs de propriétés d'un site partenaire"
 
+#: imio/directory/core/upgrades/configure.zcml:20
+#: imio/events/core/upgrades/configure.zcml:20
+#: imio/news/core/upgrades/configure.zcml:12
+msgid "Add more missing translations indexes / metadata"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:116
+msgid "Add new content type : imio.smartweb.CirkwiView"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:52
 msgid "Add new content type : imio.smartweb.SectionPostit"
 msgstr ""
@@ -185,9 +195,13 @@ msgstr "Permet de sélectionner des éléments Accès Direct pour l'élément co
 msgid "Alternatively as a picture"
 msgstr "Comme alternative à une image"
 
-#: imio/smartweb/core/contents/folder/views.py:127
+#: imio/smartweb/core/contents/folder/views.py:132
 msgid "Apply"
 msgstr "Appliquer"
+
+#: imio/smartweb/core/viewlets/toolbar.py:20
+msgid "Authentic sources"
+msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:68
 msgid "Automatically publish GDPR article"
@@ -272,7 +286,7 @@ msgstr "Fichier CSV"
 msgid "Can manage locally"
 msgstr "Peut administrer"
 
-#: imio/smartweb/core/vocabularies.py:529
+#: imio/smartweb/core/vocabularies.py:535
 msgid "Carousel"
 msgstr "Carrousel"
 
@@ -395,6 +409,10 @@ msgstr "Catégorie - Infos travaux"
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Paramètres de vocabulaire Catégories et thématiques pour les TeleServices"
 
+#: imio/smartweb/policy/upgrades/configure.zcml:124
+msgid "Change collective.messagesviwlet control panel default values"
+msgstr ""
+
 #: imio/smartweb/core/browser/instancebehaviors/form.py:24
 msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
 msgstr "Les modifications apportées n'affecteront que ce contenu et doivent être réalisées en toute connaissance de cause (pas de test)"
@@ -466,6 +484,15 @@ msgstr "Le type de numéro de téléphone choisi '${val}' n'existe pas."
 msgid "Chosen topic '${val}' doesn't exist."
 msgstr "La thématique choisie '${val}' n'existe pas."
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.CirkwiView.xml
+#: imio/smartweb/core/upgrades/profiles/1035_to_1036/types/imio.smartweb.CirkwiView.xml
+msgid "Cirkwi view"
+msgstr ""
+
+#: imio/smartweb/core/contents/pages/cirkwi/content.py:14
+msgid "Cirkwi widget ID"
+msgstr ""
+
 #: imio/smartweb/common/profiles/default/registry.xml
 msgid "Cities"
 msgstr ""
@@ -526,7 +553,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 msgid "Close"
 msgstr "Fermer"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:239
+#: imio/smartweb/core/contents/sections/contact/view.py:255
 msgid "Closed"
 msgstr "Fermé"
 
@@ -557,6 +584,12 @@ msgstr "Concert et festival"
 #: imio/events/core/vocabularies.py:21
 msgid "Conference and debate"
 msgstr "Conférence et débat"
+
+#: imio/directory/policy/upgrades/configure.zcml:20
+#: imio/events/policy/upgrades/configure.zcml:12
+#: imio/news/policy/upgrades/configure.zcml:20
+msgid "Configure autopublishing settings"
+msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 #: imio/smartweb/core/contents/sections/contact/view.pt:67
@@ -674,6 +707,11 @@ msgstr "En situation de handicap"
 msgid "Display banner from this item"
 msgstr "Afficher la bannière"
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.CirkwiView.xml
+#: imio/smartweb/core/upgrades/profiles/1035_to_1036/types/imio.smartweb.CirkwiView.xml
+msgid "Display cirkwi informations and map."
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
 msgid "Display linked directory from imio directory instance."
 msgstr "Affiche des contacts depuis la source authentique"
@@ -731,6 +769,10 @@ msgstr "Senior"
 #: imio/smartweb/core/contents/folder/configure.zcml:61
 msgid "Element view"
 msgstr "Choisir un élément"
+
+#: imio/smartweb/core/upgrades/configure.zcml:108
+msgid "Enable autopublishing behavior on all types"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable minisite"
@@ -913,6 +955,10 @@ msgstr "Section de fichiers"
 msgid "Files section for a page"
 msgstr "Création d'une section de fichiers dans votre page."
 
+#: imio/smartweb/common/upgrades/configure.zcml:53
+msgid "Fix TinyMCE menu bar and format menu"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:20
 msgid "Fix caching configuration"
 msgstr ""
@@ -965,7 +1011,7 @@ msgstr "Le pied de page a été ajouté avec succès"
 msgid "For the anonymous visitor, the folder and the selected item are one. When he clicks on the folder, the item is displayed."
 msgstr "Pour le visiteur anonyme, le dossier et l'élément sélectionné ne font qu'un. Lorsqu'il clique sur le dossier, l'élément s'affiche."
 
-#: imio/smartweb/core/contents/folder/views.py:98
+#: imio/smartweb/core/contents/folder/views.py:103
 msgid "Form to choose item to be displayed as the home page of the folder"
 msgstr "Formulaire de choix de l'élément à afficher comme page d'accueil du dossier"
 
@@ -978,7 +1024,7 @@ msgstr "Wifi gratuit"
 msgid "Free entry"
 msgstr "Gratuit"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:98
+#: imio/smartweb/core/contents/sections/contact/view.py:114
 msgid "Friday"
 msgstr "Vendredi"
 
@@ -1092,7 +1138,7 @@ msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visi
 msgid "I am"
 msgstr "Je suis"
 
-#: imio/smartweb/policy/utils.py:52
+#: imio/smartweb/policy/utils.py:53
 msgid "I find"
 msgstr "Je trouve"
 
@@ -1182,24 +1228,16 @@ msgstr "Lien Instagram pour cet événement"
 msgid "Instagram url for this news"
 msgstr "Lien Instagram de cette actualité"
 
-#: imio/directory/policy/configure.zcml:33
+#: imio/directory/policy/configure.zcml:34
 msgid "Installs the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/policy/configure.zcml:32
+#: imio/events/policy/configure.zcml:35
 msgid "Installs the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/policy/configure.zcml:34
+#: imio/news/policy/configure.zcml:35
 msgid "Installs the imio.news.policy add-on."
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:43
-msgid "Installs the imio.smartweb.policy add-on."
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:52
-msgid "Installs the imio.smartweb.policy demo contents and configuration"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:182
@@ -1338,7 +1376,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:269
+#: imio/smartweb/core/contents/sections/contact/view.py:285
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -1381,15 +1419,19 @@ msgstr "Commerçant"
 msgid "Migrate bundles / resources to simplified resources registry"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:100
+msgid "Migrate content types icons"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:36
 msgid "Minisite"
 msgstr "Site partenaire"
 
-#: imio/smartweb/core/browser/minisite/settings.py:45
+#: imio/smartweb/core/browser/minisite/settings.py:46
 msgid "Minisite has been disabled"
 msgstr "Le mode site partenaire a été désactivé"
 
-#: imio/smartweb/core/browser/minisite/settings.py:32
+#: imio/smartweb/core/browser/minisite/settings.py:33
 msgid "Minisite has been successfully activated"
 msgstr "Le mode site partenaire a été activé avec succès"
 
@@ -1409,7 +1451,7 @@ msgstr "Mobilité"
 msgid "Modified"
 msgstr "Modifié"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:94
+#: imio/smartweb/core/contents/sections/contact/view.py:110
 msgid "Monday"
 msgstr "Lundi"
 
@@ -1517,11 +1559,11 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Utilisée uniquement dans l'affichage tableau (prend la priorité sur l'image)"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:246
+#: imio/smartweb/core/contents/sections/contact/view.py:262
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:263
+#: imio/smartweb/core/contents/sections/contact/view.py:279
 msgid "Open at "
 msgstr "Ouvre à "
 
@@ -1668,7 +1710,7 @@ msgstr "Démarche"
 msgid "Procedure url"
 msgstr "Lien vers la démarche"
 
-#: imio/smartweb/policy/utils.py:59
+#: imio/smartweb/policy/utils.py:60
 msgid "Procedures and practical informations"
 msgstr "Démarches & infos pratiques"
 
@@ -1754,7 +1796,7 @@ msgstr "Droite"
 msgid "Safety and prevention"
 msgstr "Sécurité et prévention"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:99
+#: imio/smartweb/core/contents/sections/contact/view.py:115
 msgid "Saturday"
 msgstr "Samedi"
 
@@ -1992,6 +2034,10 @@ msgstr "Catégories spécifiques d'actualités"
 msgid "Specific related events"
 msgstr "Evénements spécifiquement sélectionnés"
 
+#: imio/smartweb/core/contents/pages/cirkwi/content.py:15
+msgid "Specify your cirkwi widget ID. You can find it when you create a new widget in Cirkwi."
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:32
 msgid "Sports"
 msgstr "Sports"
@@ -2012,7 +2058,7 @@ msgstr "Rue"
 msgid "Stroll and discovery"
 msgstr "Balade et découverte"
 
-#: imio/directory/core/contents/contact/view.pt:96
+#: imio/directory/core/contents/contact/view.pt:86
 msgid "Sub contacts"
 msgstr "Sous contacts"
 
@@ -2045,7 +2091,7 @@ msgstr "Affichage liste"
 msgid "Summary view with images"
 msgstr "Affichage liste avec images"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:100
+#: imio/smartweb/core/contents/sections/contact/view.py:116
 msgid "Sunday"
 msgstr "Dimanche"
 
@@ -2112,6 +2158,10 @@ msgstr "Théâtre et spectacle"
 msgid "There is no section on this page."
 msgstr "Il n'y a aucune section dans cette page."
 
+#: imio/smartweb/core/contents/pages/procedure/view.py:13
+msgid "There is no section on this procedure."
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:125
 msgid "Third of width"
 msgstr "Tiers de la page"
@@ -2142,7 +2192,7 @@ msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (
 msgid "Three quarter of width"
 msgstr "Trois quarts de la page"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:97
+#: imio/smartweb/core/contents/sections/contact/view.py:113
 msgid "Thursday"
 msgstr "Jeudi"
 
@@ -2191,7 +2241,12 @@ msgstr "Touriste"
 msgid "Trade Fair and Fair"
 msgstr "Salon et Foire"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:95
+#: imio/smartweb/policy/profiles/default/registry/messagesviewlet.xml
+#: imio/smartweb/policy/upgrades/profiles/1028_to_1029/registry/messagesviewlet.xml
+msgid "True"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/contact/view.py:111
 msgid "Tuesday"
 msgstr "Mardi"
 
@@ -2225,20 +2280,16 @@ msgstr ""
 msgid "URLs"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:42
+#: imio/directory/policy/configure.zcml:43
 msgid "Uninstalls the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/policy/configure.zcml:41
+#: imio/events/policy/configure.zcml:44
 msgid "Uninstalls the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/policy/configure.zcml:43
+#: imio/news/policy/configure.zcml:44
 msgid "Uninstalls the imio.news.policy add-on."
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:61
-msgid "Uninstalls the imio.smartweb.policy add-on."
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
@@ -2265,8 +2316,24 @@ msgstr ""
 msgid "Upgrade common from 1011 to 1012"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:53
+msgid "Upgrade common from 1013 to 1014"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:92
 msgid "Upgrade common from 1031 to 1032"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:100
+msgid "Upgrade common from 1033 to 1034"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:108
+msgid "Upgrade common from 1034 to 1035"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:116
+msgid "Upgrade common from 1035 to 1036"
 msgstr ""
 
 #: imio/news/policy/upgrades/configure.zcml:12
@@ -2278,7 +2345,16 @@ msgid "Upgrade core from 1002 to 1003"
 msgstr ""
 
 #: imio/directory/core/upgrades/configure.zcml:12
+#: imio/news/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1003 to 1004"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:20
+msgid "Upgrade core from 1005 to 1006"
+msgstr ""
+
+#: imio/directory/core/upgrades/configure.zcml:20
+msgid "Upgrade core from 1006 to 1007"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:12
@@ -2370,11 +2446,28 @@ msgid "Upgrade policy 1022 to 1023"
 msgstr ""
 
 #: imio/directory/policy/upgrades/configure.zcml:12
+#: imio/events/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy from 1000 to 1001"
+msgstr ""
+
+#: imio/news/policy/upgrades/configure.zcml:20
+msgid "Upgrade policy from 1001 to 1002"
+msgstr ""
+
+#: imio/directory/policy/upgrades/configure.zcml:20
+msgid "Upgrade policy from 1002 to 1003"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:108
 msgid "Upgrade policy from 1023 to 1024"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:116
+msgid "Upgrade policy from 1026 to 1027"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:124
+msgid "Upgrade policy from 1028 to 1029"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:95
@@ -2460,7 +2553,7 @@ msgstr "Terme du vocabulaire"
 msgid "Website"
 msgstr "Site Internet"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:96
+#: imio/smartweb/core/contents/sections/contact/view.py:112
 msgid "Wednesday"
 msgstr "Mercredi"
 
@@ -2484,7 +2577,7 @@ msgstr "Oui"
 msgid "Young"
 msgstr "Jeune"
 
-#: imio/smartweb/core/subscribers.py:29
+#: imio/smartweb/core/subscribers.py:34
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conserver ce comportement"
 
@@ -2518,40 +2611,28 @@ msgstr "Le code postal '${val}' n'est pas un nombre."
 msgid "free license"
 msgstr "licence libre"
 
-#: imio/directory/policy/configure.zcml:33
+#: imio/directory/policy/configure.zcml:34
 msgid "imio.directory.policy"
 msgstr ""
 
-#: imio/directory/policy/configure.zcml:42
+#: imio/directory/policy/configure.zcml:43
 msgid "imio.directory.policy (uninstall)"
 msgstr ""
 
-#: imio/events/policy/configure.zcml:32
+#: imio/events/policy/configure.zcml:35
 msgid "imio.events.policy"
 msgstr ""
 
-#: imio/events/policy/configure.zcml:41
+#: imio/events/policy/configure.zcml:44
 msgid "imio.events.policy (uninstall)"
 msgstr ""
 
-#: imio/news/policy/configure.zcml:34
+#: imio/news/policy/configure.zcml:35
 msgid "imio.news.policy"
 msgstr ""
 
-#: imio/news/policy/configure.zcml:43
+#: imio/news/policy/configure.zcml:44
 msgid "imio.news.policy (uninstall)"
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:43
-msgid "imio.smartweb.policy"
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:52
-msgid "imio.smartweb.policy (demo)"
-msgstr ""
-
-#: imio/smartweb/policy/configure.zcml:61
-msgid "imio.smartweb.policy (uninstall)"
 msgstr ""
 
 #. Default: "You are editing the default page of a container. If you wanted to edit the container itself, ${go_here}."

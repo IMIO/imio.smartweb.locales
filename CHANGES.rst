@@ -5,7 +5,8 @@ Changelog
 1.1.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add some new French translations (Cirkwi)
+  [boulch]
 
 
 1.1 (2023-01-09)
