@@ -487,7 +487,7 @@ msgstr "La thématique choisie '${val}' n'existe pas."
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.CirkwiView.xml
 #: imio/smartweb/core/upgrades/profiles/1035_to_1036/types/imio.smartweb.CirkwiView.xml
 msgid "Cirkwi view"
-msgstr ""
+msgstr "Vue Cirkwi"
 
 #: imio/smartweb/core/contents/pages/cirkwi/content.py:14
 msgid "Cirkwi widget ID"

@@ -5,7 +5,8 @@ Changelog
 1.1.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- WEB-3848 : Add missing translations
+  [boulch]
 
 
 1.1.1 (2023-02-20)
