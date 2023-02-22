@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.2 (unreleased)
+1.1.2 (2023-02-22)
 ------------------
 
 - WEB-3848 : Add missing translations
