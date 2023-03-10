@@ -137,6 +137,10 @@ msgstr ""
 msgid "Add new permission to authorize site admin to manage taxonomies on specific content"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:132
+msgid "Add new permission to manage configlets in control panel"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:60
 msgid "Add new propose URLs settings to registry"
 msgstr ""
@@ -553,7 +557,7 @@ msgstr "Prévisualiser le contenu (sans les boutons d'édition)."
 msgid "Close"
 msgstr "Fermer"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:255
+#: imio/smartweb/core/contents/sections/contact/view.py:258
 msgid "Closed"
 msgstr "Fermé"
 
@@ -673,7 +677,7 @@ msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 msgid "Delete section"
 msgstr "Supprimer la section"
 
-#: imio/directory/core/contents/contact/content.py:207
+#: imio/directory/core/contents/contact/content.py:209
 #: imio/events/core/contents/event/content.py:53
 #: imio/news/core/contents/newsitem/content.py:39
 msgid "Description"
@@ -728,7 +732,7 @@ msgstr "Affiche des actualités depuis la source authentique"
 msgid "Drinking water point"
 msgstr "Points d'eau potable"
 
-#: imio/directory/core/contents/contact/content.py:230
+#: imio/directory/core/contents/contact/content.py:232
 #: imio/events/core/contents/event/content.py:77
 #: imio/news/core/contents/newsitem/content.py:63
 msgid "Dutch translations"
@@ -782,7 +786,7 @@ msgstr "Activer le mode site partenaire"
 msgid "Enable subsite"
 msgstr "Activer le mode sous-site"
 
-#: imio/directory/core/contents/contact/content.py:213
+#: imio/directory/core/contents/contact/content.py:215
 #: imio/events/core/contents/event/content.py:60
 #: imio/news/core/contents/newsitem/content.py:46
 msgid "English translations"
@@ -864,7 +868,7 @@ msgstr "Section événements pour une page"
 msgid "Events view"
 msgstr "Vue événements"
 
-#: imio/smartweb/core/contents/sections/events/content.py:54
+#: imio/smartweb/core/contents/sections/events/content.py:57
 msgid "Events view used to display events details"
 msgstr "Vue événements utilisée pour afficher les détails de l'événement"
 
@@ -876,7 +880,7 @@ msgstr "Exemple : Photo d'une personne ou d'un bâtiment d'une organisation"
 msgid "Example : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
 msgstr "Exemple : https://COMMUNE-formulaires.guichet-citoyen.be/api/formdefs/"
 
-#: imio/directory/core/contents/contact/content.py:267
+#: imio/directory/core/contents/contact/content.py:269
 msgid "Example : shop, service, association logo"
 msgstr "Exemple : Logo d'un magasin ou d'un service ou d'une association"
 
@@ -934,7 +938,7 @@ msgstr "Affichage liste"
 msgid "Faceted summary view with images"
 msgstr "Affichage liste avec images"
 
-#: imio/directory/core/contents/contact/content.py:284
+#: imio/directory/core/contents/contact/content.py:286
 msgid "Facilities"
 msgstr "Facilités"
 
@@ -957,6 +961,10 @@ msgstr "Création d'une section de fichiers dans votre page."
 
 #: imio/smartweb/common/upgrades/configure.zcml:53
 msgid "Fix TinyMCE menu bar and format menu"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:61
+msgid "Fix atom/syndication registry keys"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:20
@@ -1024,7 +1032,7 @@ msgstr "Wifi gratuit"
 msgid "Free entry"
 msgstr "Gratuit"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:114
+#: imio/smartweb/core/contents/sections/contact/view.py:117
 msgid "Friday"
 msgstr "Vendredi"
 
@@ -1052,17 +1060,17 @@ msgstr "Section galerie"
 msgid "Gallery section for a page"
 msgstr "Création d'une section galerie qui affichera ses images dans votre page. "
 
-#: imio/directory/core/contents/contact/content.py:196
+#: imio/directory/core/contents/contact/content.py:198
 #: imio/events/core/contents/event/content.py:43
 #: imio/news/core/contents/newsitem/content.py:29
 msgid "German translations"
 msgstr "Traductions germanophones"
 
-#: imio/smartweb/core/contents/sections/events/content.py:36
+#: imio/smartweb/core/contents/sections/events/content.py:37
 msgid "Get priory on related agenda for these specifics events."
 msgstr "Ces événéments prennent la priorité sur le champ d'agenda lié."
 
-#: imio/smartweb/core/contents/sections/news/content.py:36
+#: imio/smartweb/core/contents/sections/news/content.py:37
 msgid "Get priory on related news for these specifics news."
 msgstr "Ces actualités prennent la priorité sur le champ des actualités liées."
 
@@ -1206,7 +1214,7 @@ msgstr "Important! Ces catégories sont utilisées pour créer des listes access
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr "Important! Ces catégories permettent de compléter l'information apportée par les thématiques"
 
-#: imio/directory/core/contents/contact/content.py:285
+#: imio/directory/core/contents/contact/content.py:287
 msgid "Important! These categories make it possible to highlight and geolocate certain basic services"
 msgstr "Important! Ces catégories permettent de mettre en avant et de géolocaliser certains services de base"
 
@@ -1244,7 +1252,7 @@ msgstr ""
 msgid "Installs the imio.news.policy add-on."
 msgstr ""
 
-#: imio/directory/core/contents/contact/content.py:177
+#: imio/directory/core/contents/contact/content.py:179
 msgid "Internal note"
 msgstr "Note interne"
 
@@ -1258,7 +1266,7 @@ msgstr "Elément(s) pouvant être sélectionné(s) comme page d'accueil du dossi
 
 #: imio/events/core/contents/event/views.py:75
 #: imio/smartweb/core/contents/sections/contact/view.pt:122
-#: imio/smartweb/core/contents/sections/contact/view.py:59
+#: imio/smartweb/core/contents/sections/contact/view.py:62
 msgid "Itinerary"
 msgstr "Itinéraire"
 
@@ -1365,7 +1373,7 @@ msgstr "Liste de catégories spécifiques d'événements disponibes pour cette e
 msgid "List of news categories values available for this entity (one per line)"
 msgstr "Liste de catégories spécifiques d'actualités disponibes pour cette entité (une par ligne)"
 
-#: imio/directory/core/contents/contact/content.py:266
+#: imio/directory/core/contents/contact/content.py:268
 #: imio/smartweb/core/behaviors/minisite.py:41
 #: imio/smartweb/core/behaviors/subsite.py:33
 msgid "Logo"
@@ -1380,7 +1388,7 @@ msgstr "Logo et titre"
 msgid "Logo display"
 msgstr "Type d'affichage du logo"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:285
+#: imio/smartweb/core/contents/sections/contact/view.py:288
 msgid "Lunch time"
 msgstr "Heure du midi"
 
@@ -1405,8 +1413,8 @@ msgid "Map section for a page"
 msgstr "Section plan pour une page"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:48
-#: imio/smartweb/core/contents/sections/events/content.py:67
-#: imio/smartweb/core/contents/sections/news/content.py:67
+#: imio/smartweb/core/contents/sections/events/content.py:70
+#: imio/smartweb/core/contents/sections/news/content.py:70
 msgid "Maximum number of batches to display"
 msgstr "Nombre maximum de lots à afficher"
 
@@ -1455,7 +1463,7 @@ msgstr "Mobilité"
 msgid "Modified"
 msgstr "Modifié"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:110
+#: imio/smartweb/core/contents/sections/contact/view.py:113
 msgid "Monday"
 msgstr "Lundi"
 
@@ -1499,7 +1507,7 @@ msgstr "Section actualités pour une pagee"
 msgid "News view"
 msgstr "Vue actualités"
 
-#: imio/smartweb/core/contents/sections/news/content.py:54
+#: imio/smartweb/core/contents/sections/news/content.py:57
 msgid "News view used to display news items details"
 msgstr "Vue actualités utilisée pour afficher les détails de l'actualité"
 
@@ -1528,7 +1536,7 @@ msgid "Number (format: +32475010203)"
 msgstr "Numéro (format: +32475010203)"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:41
-#: imio/smartweb/core/contents/sections/events/content.py:60
+#: imio/smartweb/core/contents/sections/events/content.py:63
 #: imio/smartweb/core/contents/sections/files/content.py:15
 msgid "Number of items per batch"
 msgstr "Nombre d'éléments par lot"
@@ -1563,11 +1571,11 @@ msgstr "Un seul champ \"démarche\" peut être rempli !"
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Utilisée uniquement dans l'affichage tableau (prend la priorité sur l'image)"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:262
+#: imio/smartweb/core/contents/sections/contact/view.py:265
 msgid "Open"
 msgstr "Ouvert"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:279
+#: imio/smartweb/core/contents/sections/contact/view.py:282
 msgid "Open at "
 msgstr "Ouvre à "
 
@@ -1676,7 +1684,7 @@ msgstr "Page Portail pour afficher de l'information"
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
 msgstr "Fonction (bourgmestre, échevin, conseiller, directeur, chef de service, etc.)"
 
-#: imio/smartweb/core/contents/sections/postit/content.py:61
+#: imio/smartweb/core/contents/sections/postit/content.py:63
 msgid "Post-it"
 msgstr ""
 
@@ -1690,7 +1698,7 @@ msgstr "Section post-it"
 msgid "Post-it section for a page"
 msgstr "Section post-it pour une page"
 
-#: imio/smartweb/core/contents/sections/postit/content.py:60
+#: imio/smartweb/core/contents/sections/postit/content.py:62
 msgid "Post-its"
 msgstr ""
 
@@ -1755,7 +1763,7 @@ msgstr ""
 msgid "Refuse all"
 msgstr "Tout refuser"
 
-#: imio/smartweb/core/contents/sections/events/content.py:29
+#: imio/smartweb/core/contents/sections/events/content.py:30
 msgid "Related agenda"
 msgstr "Agenda lié"
 
@@ -1763,7 +1771,7 @@ msgstr "Agenda lié"
 msgid "Related contact"
 msgstr "Contact lié"
 
-#: imio/smartweb/core/contents/sections/news/content.py:29
+#: imio/smartweb/core/contents/sections/news/content.py:30
 msgid "Related news folder"
 msgstr "Dossier d'actualités lié"
 
@@ -1800,7 +1808,7 @@ msgstr "Droite"
 msgid "Safety and prevention"
 msgstr "Sécurité et prévention"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:115
+#: imio/smartweb/core/contents/sections/contact/view.py:118
 msgid "Saturday"
 msgstr "Samedi"
 
@@ -1841,11 +1849,11 @@ msgstr "Largeur de la section"
 msgid "See all"
 msgstr "Voir tous"
 
-#: imio/smartweb/core/contents/sections/events/content.py:21
+#: imio/smartweb/core/contents/sections/events/content.py:22
 msgid "See all events"
 msgstr "Voir tous les événements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:21
+#: imio/smartweb/core/contents/sections/news/content.py:22
 msgid "See all news"
 msgstr "Voir toutes les actualités"
 
@@ -1865,7 +1873,7 @@ msgstr "Sélectionnez l'agenda à afficher"
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr "Sélectionnez les agendas dans lesquels cet événement sera affiché. L'agenda courant sera toujours sélectionné."
 
-#: imio/directory/core/contents/contact/content.py:275
+#: imio/directory/core/contents/contact/content.py:277
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
 msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'entité courante sera toujours sélectionnée."
 
@@ -1905,7 +1913,7 @@ msgstr "Agenda sélectionné"
 msgid "Selected agendas"
 msgstr "Agendas concernés"
 
-#: imio/directory/core/contents/contact/content.py:274
+#: imio/directory/core/contents/contact/content.py:276
 msgid "Selected entities"
 msgstr "Entités concernées"
 
@@ -1958,8 +1966,8 @@ msgid "Set some restrictions in control panel"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:74
-#: imio/smartweb/core/contents/sections/events/content.py:82
-#: imio/smartweb/core/contents/sections/news/content.py:82
+#: imio/smartweb/core/contents/sections/events/content.py:85
+#: imio/smartweb/core/contents/sections/news/content.py:85
 msgid "Show items description"
 msgstr "Afficher la description des éléments"
 
@@ -2034,11 +2042,11 @@ msgstr "Catégories spécifiques d'événements"
 msgid "Specific news categories"
 msgstr "Catégories spécifiques d'actualités"
 
-#: imio/smartweb/core/contents/sections/events/content.py:35
+#: imio/smartweb/core/contents/sections/events/content.py:36
 msgid "Specific related events"
 msgstr "Evénements spécifiquement sélectionnés"
 
-#: imio/smartweb/core/contents/sections/news/content.py:35
+#: imio/smartweb/core/contents/sections/news/content.py:36
 msgid "Specific related news"
 msgstr "Actualités spécifiquement sélectionnées"
 
@@ -2086,7 +2094,7 @@ msgstr "Le mode sous-site a été désactivé"
 msgid "Subsite has been successfully activated"
 msgstr "Le mode sous-site a été activé avec succès"
 
-#: imio/directory/core/contents/contact/content.py:206
+#: imio/directory/core/contents/contact/content.py:208
 #: imio/smartweb/core/contents/sections/postit/content.py:26
 msgid "Subtitle"
 msgstr "Sous-titre"
@@ -2099,7 +2107,7 @@ msgstr "Affichage liste"
 msgid "Summary view with images"
 msgstr "Affichage liste avec images"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:116
+#: imio/smartweb/core/contents/sections/contact/view.py:119
 msgid "Sunday"
 msgstr "Dimanche"
 
@@ -2134,11 +2142,11 @@ msgstr "Texte"
 msgid "Text for the link to the collection"
 msgstr "Texte pour le lien vers la collection"
 
-#: imio/smartweb/core/contents/sections/events/content.py:75
+#: imio/smartweb/core/contents/sections/events/content.py:78
 msgid "Text for the link to the events view"
 msgstr "Texte du lien vers la vue évévenements"
 
-#: imio/smartweb/core/contents/sections/news/content.py:75
+#: imio/smartweb/core/contents/sections/news/content.py:78
 msgid "Text for the link to the news view"
 msgstr "Texte du lien vers la vue actualités"
 
@@ -2149,6 +2157,10 @@ msgstr "Section de texte"
 #: imio/directory/core/contents/contact/forms.py:18
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enregistrement de la fiche. Il est possible de modifier le pointeur manuellement si ce dernier n'est pas bien positionné."
+
+#: imio/smartweb/common/utils.py:133
+msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
+msgstr ""
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "The item selected as the folder home page is :"
@@ -2182,7 +2194,7 @@ msgstr "Tiers de la page"
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
 msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Modifier vos préférences en matière de cookies</a>."
 
-#: imio/directory/core/contents/contact/content.py:201
+#: imio/directory/core/contents/contact/content.py:203
 #: imio/events/core/contents/event/content.py:48
 #: imio/news/core/contents/newsitem/content.py:34
 msgid "This field is required if the content must be available in this language"
@@ -2200,7 +2212,7 @@ msgstr "Ce site utilise des cookies pour vous fournir une expérience optimale (
 msgid "Three quarter of width"
 msgstr "Trois quarts de la page"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:113
+#: imio/smartweb/core/contents/sections/contact/view.py:116
 msgid "Thursday"
 msgstr "Jeudi"
 
@@ -2213,7 +2225,7 @@ msgstr "Billeterie"
 msgid "Ticket url to subscribe to this event"
 msgstr "Lien de la billeterie pour s'inscrire à cet événement"
 
-#: imio/directory/core/contents/contact/content.py:200
+#: imio/directory/core/contents/contact/content.py:202
 #: imio/events/core/contents/event/content.py:47
 #: imio/news/core/contents/newsitem/content.py:33
 msgid "Title"
@@ -2249,12 +2261,7 @@ msgstr "Touriste"
 msgid "Trade Fair and Fair"
 msgstr "Salon et Foire"
 
-#: imio/smartweb/policy/profiles/default/registry/messagesviewlet.xml
-#: imio/smartweb/policy/upgrades/profiles/1028_to_1029/registry/messagesviewlet.xml
-msgid "True"
-msgstr ""
-
-#: imio/smartweb/core/contents/sections/contact/view.py:111
+#: imio/smartweb/core/contents/sections/contact/view.py:114
 msgid "Tuesday"
 msgstr "Mardi"
 
@@ -2330,6 +2337,10 @@ msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:53
 msgid "Upgrade common from 1013 to 1014"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:61
+msgid "Upgrade common from 1014 to 1015"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:92
@@ -2461,6 +2472,10 @@ msgstr ""
 msgid "Upgrade policy 1022 to 1023"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:132
+msgid "Upgrade policy 1029 to 1030"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:12
 #: imio/events/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy from 1000 to 1001"
@@ -2569,7 +2584,7 @@ msgstr "Terme du vocabulaire"
 msgid "Website"
 msgstr "Site Internet"
 
-#: imio/smartweb/core/contents/sections/contact/view.py:112
+#: imio/smartweb/core/contents/sections/contact/view.py:115
 msgid "Wednesday"
 msgstr "Mercredi"
 
