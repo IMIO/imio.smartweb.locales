@@ -714,7 +714,7 @@ msgstr "Afficher la bannière"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.CirkwiView.xml
 #: imio/smartweb/core/upgrades/profiles/1035_to_1036/types/imio.smartweb.CirkwiView.xml
 msgid "Display cirkwi informations and map."
-msgstr ""
+msgstr "Affiche les informations et la carte Cirkwi"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.DirectoryView.xml
 msgid "Display linked directory from imio directory instance."
@@ -2160,7 +2160,7 @@ msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enreg
 
 #: imio/smartweb/common/utils.py:133
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
-msgstr ""
+msgstr "L'image téléversée dans le champ \"${field_title}\" risque d'être dégradée, car elle ne correspond pas aux dimensions minimales requises de ${min_width}px de largeur sur ${min_height}px de hauteur (taille de l'image téléversée : ${width}px de largeur / ${height}px de hauteur). Vous pouvez voir le détail via le menu Découpe."
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "The item selected as the folder home page is :"
