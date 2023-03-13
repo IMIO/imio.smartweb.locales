@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.3 (unreleased)
+1.1.3 (2023-03-13)
 ------------------
 
 - Add missing French translations (Cirkwi & image dimensions warning)
