@@ -2589,7 +2589,7 @@ msgstr "Terme du vocabulaire"
 
 #: imio/smartweb/core/browser/overrides/plone.app.content.browser.contents.templates.properties.pt:3
 msgid "Warning: these options are not relevant for Sections and will not be applied."
-msgstr ""
+msgstr "Attention: ces options ne sont pas pertinentes pour les Sections et ne seront pas appliquées."
 
 #: imio/directory/core/vocabularies.py:70
 #: imio/news/core/contents/newsitem/content.py:85

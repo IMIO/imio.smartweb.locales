@@ -5,6 +5,9 @@ Changelog
 1.1.4 (unreleased)
 ------------------
 
+- Add missing French translation (`folder_contents` properties)
+  [laulaz]
+
 - Migrate to Plone 6.0.4
   [boulch]
 
