@@ -556,7 +556,7 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:274
+#: imio/smartweb/core/contents/sections/contact/view.py:272
 msgid "Closed"
 msgstr ""
 
@@ -1031,7 +1031,7 @@ msgstr ""
 msgid "Free entry"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:133
+#: imio/smartweb/core/contents/sections/contact/view.py:131
 msgid "Friday"
 msgstr ""
 
@@ -1265,7 +1265,7 @@ msgstr ""
 
 #: imio/events/core/contents/event/views.py:77
 #: imio/smartweb/core/contents/sections/contact/view.pt:122
-#: imio/smartweb/core/contents/sections/contact/view.py:79
+#: imio/smartweb/core/contents/sections/contact/view.py:77
 msgid "Itinerary"
 msgstr ""
 
@@ -1387,7 +1387,7 @@ msgstr ""
 msgid "Logo display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:304
+#: imio/smartweb/core/contents/sections/contact/view.py:302
 msgid "Lunch time"
 msgstr ""
 
@@ -1462,7 +1462,7 @@ msgstr ""
 msgid "Modified"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:129
+#: imio/smartweb/core/contents/sections/contact/view.py:127
 msgid "Monday"
 msgstr ""
 
@@ -1570,11 +1570,11 @@ msgstr ""
 msgid "Only used in table view (takes precedence over image)"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:281
+#: imio/smartweb/core/contents/sections/contact/view.py:279
 msgid "Open"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:298
+#: imio/smartweb/core/contents/sections/contact/view.py:296
 msgid "Open at "
 msgstr ""
 
@@ -1811,7 +1811,7 @@ msgstr ""
 msgid "Safety and prevention"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:134
+#: imio/smartweb/core/contents/sections/contact/view.py:132
 msgid "Saturday"
 msgstr ""
 
@@ -1836,11 +1836,11 @@ msgstr ""
 msgid "Secret key to use API"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/views.py:34
+#: imio/smartweb/core/contents/sections/views.py:44
 msgid "Section title has been hidden"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/views.py:41
+#: imio/smartweb/core/contents/sections/views.py:51
 msgid "Section title has been shown"
 msgstr ""
 
@@ -2110,7 +2110,7 @@ msgstr ""
 msgid "Summary view with images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:135
+#: imio/smartweb/core/contents/sections/contact/view.py:133
 msgid "Sunday"
 msgstr ""
 
@@ -2215,7 +2215,7 @@ msgstr ""
 msgid "Three quarter of width"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:132
+#: imio/smartweb/core/contents/sections/contact/view.py:130
 msgid "Thursday"
 msgstr ""
 
@@ -2264,7 +2264,7 @@ msgstr ""
 msgid "Trade Fair and Fair"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:130
+#: imio/smartweb/core/contents/sections/contact/view.py:128
 msgid "Tuesday"
 msgstr ""
 
@@ -2586,12 +2586,16 @@ msgstr ""
 msgid "Vocabulary term"
 msgstr ""
 
+#: imio/smartweb/core/browser/overrides/plone.app.content.browser.contents.templates.properties.pt:3
+msgid "Warning: these options are not relevant for Sections and will not be applied."
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:70
 #: imio/news/core/contents/newsitem/content.py:85
 msgid "Website"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/view.py:131
+#: imio/smartweb/core/contents/sections/contact/view.py:129
 msgid "Wednesday"
 msgstr ""
 
