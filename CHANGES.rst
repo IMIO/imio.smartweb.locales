@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.4 (unreleased)
+1.1.4 (2023-05-22)
 ------------------
 
 - Add missing French translation (`folder_contents` properties)
