@@ -2703,3 +2703,31 @@ msgstr "au"
 #: imio/smartweb/common/viewlets/colophon.pt:33
 msgid "under"
 msgstr "sous"
+
+#: imio/smartweb/core/browser/controlpanel.py:145
+msgid "Plausible URL"
+msgstr "URL de Plausible"
+
+#: imio/smartweb/core/browser/controlpanel.py:147
+msgid "Example : plausible.imio.be (SMARTWEB_PLAUSIBLE_URL varenv has precedence over this.)"
+msgstr "Exemple : plausible.imio.be (la variable d'environnement SMARTWEB_PLAUSIBLE_URL a la priorité sur ceci)"
+
+#: imio/smartweb/core/browser/controlpanel.py:153
+msgid "Plausible Site"
+msgstr "URL du site dans Plausible"
+
+#: imio/smartweb/core/browser/controlpanel.py:155
+msgid "Example : namur.be (SMARTWEB_PLAUSIBLE_SITE varenv has precedence over this.)"
+msgstr "Exemple : namur.be (la variable d'environnement SMARTWEB_PLAUSIBLE_SITE a la priorité sur ceci)"
+
+#: imio/smartweb/core/browser/controlpanel.py:161
+msgid "Plausible Token"
+msgstr "Token Plausible"
+
+#: imio/smartweb/core/browser/controlpanel.py:163
+msgid "Plausible authentification token (SMARTWEB_PLAUSIBLE_TOKEN varenv has precedence over this.)"
+msgstr "Token d'authenfication plausible (la variable d'environnement SMARTWEB_PLAUSIBLE_TOKEN a la priorité sur ceci)"
+
+#: imio/smartweb/core/browser/dashboards/plausible.pt:24
+msgid "Plausible analytics is not set"
+msgstr "L'outil de statistiques Plausible n'est pas configuré"
