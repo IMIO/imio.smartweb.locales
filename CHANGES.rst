@@ -5,7 +5,8 @@ Changelog
 1.1.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing translations
+  [boulch]
 
 
 1.1.4 (2023-05-22)
