@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.6 (unreleased)
+1.1.6 (2023-10-10)
 ------------------
 
 - Add missing French translations (external content section and contact section)
