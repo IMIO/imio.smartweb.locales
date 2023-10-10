@@ -99,6 +99,10 @@ msgstr "Ajouter un pied de page"
 msgid "Add hero banner"
 msgstr "Ajouter un bandeau d'en-tête"
 
+#: imio/smartweb/core/upgrades/configure.zcml:172
+msgid "Add leadimage behavior on external content section"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:28
 msgid "Add local manager role and its specific permissions"
 msgstr ""
@@ -621,6 +625,10 @@ msgstr "Conférence et débat"
 #: imio/events/policy/upgrades/configure.zcml:12
 #: imio/news/policy/upgrades/configure.zcml:20
 msgid "Configure autopublishing settings"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/external_content/views.py:187
+msgid "Consult the map"
 msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
@@ -2678,6 +2686,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:164
 msgid "Upgrade core from 1041 to 1042"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:172
+msgid "Upgrade core from 1045 to 1046"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12

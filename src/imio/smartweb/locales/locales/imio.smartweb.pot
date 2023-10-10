@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-10-10 06:27+0000\n"
+"POT-Creation-Date: 2023-10-10 07:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -102,6 +102,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Add hero banner"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:172
+msgid "Add leadimage behavior on external content section"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
@@ -626,6 +630,10 @@ msgstr ""
 #: imio/events/policy/upgrades/configure.zcml:12
 #: imio/news/policy/upgrades/configure.zcml:20
 msgid "Configure autopublishing settings"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/external_content/views.py:187
+msgid "Consult the map"
 msgstr ""
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
@@ -2683,6 +2691,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:164
 msgid "Upgrade core from 1041 to 1042"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:172
+msgid "Upgrade core from 1045 to 1046"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
