@@ -629,7 +629,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:187
 msgid "Consult the map"
-msgstr ""
+msgstr "Konsultieren Sie die Karte"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 #: imio/smartweb/core/contents/sections/contact/macros.pt:56
