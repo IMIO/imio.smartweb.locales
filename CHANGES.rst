@@ -5,7 +5,8 @@ Changelog
 1.1.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing French translations (external content section and contact section)
+  [boulch]
 
 
 1.1.5 (2023-08-28)

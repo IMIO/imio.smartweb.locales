@@ -1508,11 +1508,11 @@ msgstr "Nombre maximum de lots à afficher"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:65
 msgid "Maximum number of contacts by line"
-msgstr ""
+msgstr "Nombre maximum de contacts par ligne"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:66
 msgid "Maximum number of contacts by line (on PC)"
-msgstr ""
+msgstr "Nombre maximum de contacts par ligne (sur un écran d'ordinateur)"
 
 #: imio/smartweb/core/behaviors/subsite.py:48
 msgid "Menu depth"
@@ -2529,7 +2529,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:199
 msgid "Unknow service"
-msgstr ""
+msgstr "Service inconnu"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
 msgid "Update caching configuration"
@@ -2856,15 +2856,15 @@ msgstr "Mercredi"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:130
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
-msgstr ""
+msgstr "Avec le plugin cognitoform, les paramètres complémentaires peuvent être vide mais si vous les compléter, vous devez spécifié : scrolling:(yes/no) et overflow:(hidden/scroll/auto)"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:83
 msgid "With an elloha plugin, extra params must contain a dictionary with two keys : ConstellationWidgetContainer, Idoi"
-msgstr ""
+msgstr "Avec le plugin elloha, les paraètres complémentaires doivent être un dictionnaire avec 2 clés : ConstellationWidgetContainer, Idoi"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:167
 msgid "With arcgis plugin, extra params must contain a dictionary with one key : portal_item_id"
-msgstr ""
+msgstr "Avec le plugin arcgis, les paraètres complémentaires doivent être un dictionnaire avec la clé : portal_item_id"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Work email"
