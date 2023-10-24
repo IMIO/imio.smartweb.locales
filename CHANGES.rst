@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.7 (unreleased)
+1.1.7 (2023-10-24)
 ------------------
 
 - Add missing French translations
