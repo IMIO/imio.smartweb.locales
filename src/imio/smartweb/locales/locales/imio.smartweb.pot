@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-10-10 07:48+0000\n"
+"POT-Creation-Date: 2023-10-24 13:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -208,6 +208,10 @@ msgstr ""
 msgid "Agriculture"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:180
+msgid "Allow collective.pivot.Family content type in imio.smartweb.Folder"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr ""
@@ -293,7 +297,7 @@ msgstr ""
 msgid "BlockLink content type icon"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:31
+#: imio/smartweb/core/contents/sections/contact/content.py:35
 msgid "Blocks that will be displayed in contact"
 msgstr ""
 
@@ -479,11 +483,11 @@ msgstr ""
 msgid "Choose your display mode"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:52
+#: imio/smartweb/core/contents/sections/contact/content.py:56
 msgid "Choose your gallery layout mode"
 msgstr ""
 
-#: imio/directory/core/contents/entity/content.py:19
+#: imio/directory/core/contents/entity/content.py:23
 #: imio/events/core/contents/entity/content.py:19
 #: imio/news/core/contents/entity/content.py:19
 msgid "Choose zip codes for this entity"
@@ -632,7 +636,7 @@ msgstr ""
 msgid "Configure autopublishing settings"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:187
+#: imio/smartweb/core/contents/sections/external_content/views.py:189
 msgid "Consult the map"
 msgstr ""
 
@@ -785,6 +789,11 @@ msgstr ""
 msgid "Display linked news from imio news instance."
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/content.py:29
+#: imio/smartweb/core/contents/rest/events/content.py:34
+msgid "Display map"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
 msgstr ""
@@ -861,6 +870,10 @@ msgstr ""
 msgid "Entertainment"
 msgstr ""
 
+#: imio/directory/core/contents/entity/content.py:29
+msgid "Entities that automatically populates this Entity with their contacts."
+msgstr ""
+
 #: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
 #: imio/events/core/profiles/default/types/imio.events.Entity.xml
 #: imio/news/core/profiles/default/types/imio.news.Entity.xml
@@ -903,6 +916,10 @@ msgstr ""
 
 #: imio/events/core/vocabularies.py:125
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
+msgstr ""
+
+#: imio/smartweb/policy/monkey.py:46
+msgid "Events"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:78
@@ -1143,7 +1160,7 @@ msgstr ""
 msgid "Gallery"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:51
+#: imio/smartweb/core/contents/sections/contact/content.py:55
 msgid "Gallery mode"
 msgstr ""
 
@@ -1249,6 +1266,10 @@ msgstr ""
 msgid "Hide title for anonymous user. Title stays visible for the editor."
 msgstr ""
 
+#: imio/smartweb/policy/monkey.py:31
+msgid "Hosting"
+msgstr ""
+
 #: imio/events/core/contents/event/view.pt:102
 #: imio/news/core/contents/newsitem/view.pt:60
 #: imio/smartweb/common/behaviors/configure.zcml:20
@@ -1265,6 +1286,11 @@ msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:30
 msgid "Icons"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/directory/content.py:30
+#: imio/smartweb/core/contents/rest/events/content.py:35
+msgid "If selected, map will be displayed"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
@@ -1284,7 +1310,7 @@ msgstr ""
 msgid "Image scale for images"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:73
+#: imio/smartweb/core/contents/sections/contact/content.py:77
 msgid "Image scale for images (only for gallery mode)"
 msgstr ""
 
@@ -1418,6 +1444,10 @@ msgstr ""
 msgid "Legal notice"
 msgstr ""
 
+#: imio/smartweb/policy/monkey.py:36
+msgid "Leisure / discovery"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/slide/content.py:47
 msgid "Like supplement or alternatively to picture"
 msgstr ""
@@ -1519,11 +1549,11 @@ msgstr ""
 msgid "Maximum number of batches to display"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:65
+#: imio/smartweb/core/contents/sections/contact/content.py:69
 msgid "Maximum number of contacts by line"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:66
+#: imio/smartweb/core/contents/sections/contact/content.py:70
 msgid "Maximum number of contacts by line (on PC)"
 msgstr ""
 
@@ -1662,7 +1692,7 @@ msgstr ""
 msgid "Number of items per batch"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:58
+#: imio/smartweb/core/contents/sections/contact/content.py:62
 msgid "Number of items per batch (only for carousel mode)"
 msgstr ""
 
@@ -1739,6 +1769,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Organization - Sports Center"
+msgstr ""
+
+#: imio/smartweb/policy/monkey.py:17
+msgid "PIVOT"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
@@ -1819,6 +1853,10 @@ msgstr ""
 
 #: imio/events/core/contents/agenda/content.py:18
 msgid "Populating agendas"
+msgstr ""
+
+#: imio/directory/core/contents/entity/content.py:28
+msgid "Populating entities"
 msgstr ""
 
 #: imio/news/core/contents/newsfolder/content.py:18
@@ -1932,7 +1970,7 @@ msgstr ""
 msgid "Related agenda"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:19
+#: imio/smartweb/core/contents/sections/contact/content.py:23
 msgid "Related contacts"
 msgstr ""
 
@@ -2098,7 +2136,7 @@ msgstr ""
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:20
+#: imio/smartweb/core/contents/sections/contact/content.py:24
 msgid "Select contacts. If you can't find contacts you want, make sure it exists in the directory and that its \"state\" is published."
 msgstr ""
 
@@ -2340,7 +2378,7 @@ msgstr ""
 msgid "Sunday"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:47
+#: imio/smartweb/core/contents/sections/contact/content.py:51
 msgid "Switch lead image to portrait mode"
 msgstr ""
 
@@ -2363,6 +2401,10 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
+msgstr ""
+
+#: imio/smartweb/policy/monkey.py:51
+msgid "Terroir"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:54
@@ -2486,6 +2528,10 @@ msgstr ""
 msgid "Tourism"
 msgstr ""
 
+#: imio/smartweb/policy/monkey.py:41
+msgid "Tourism organizations"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:55
 msgid "Tourist"
 msgstr ""
@@ -2540,7 +2586,7 @@ msgstr ""
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:199
+#: imio/smartweb/core/contents/sections/external_content/views.py:217
 msgid "Unknow service"
 msgstr ""
 
@@ -2697,6 +2743,10 @@ msgstr ""
 msgid "Upgrade core from 1045 to 1046"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:180
+msgid "Upgrade core from 1046 to 1047"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -2850,7 +2900,7 @@ msgstr ""
 msgid "View - News"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/contact/content.py:30
+#: imio/smartweb/core/contents/sections/contact/content.py:34
 msgid "Visible blocks"
 msgstr ""
 
@@ -2871,15 +2921,15 @@ msgstr ""
 msgid "Wednesday"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:130
+#: imio/smartweb/core/contents/sections/external_content/views.py:132
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:83
+#: imio/smartweb/core/contents/sections/external_content/views.py:85
 msgid "With an elloha plugin, extra params must contain a dictionary with two keys : ConstellationWidgetContainer, Idoi"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:167
+#: imio/smartweb/core/contents/sections/external_content/views.py:169
 msgid "With arcgis plugin, extra params must contain a dictionary with one key : portal_item_id"
 msgstr ""
 
@@ -2923,7 +2973,7 @@ msgstr ""
 msgid "Youtube video URL"
 msgstr ""
 
-#: imio/directory/core/contents/entity/content.py:18
+#: imio/directory/core/contents/entity/content.py:22
 #: imio/events/core/contents/entity/content.py:18
 #: imio/news/core/contents/entity/content.py:18
 msgid "Zip codes and cities"
