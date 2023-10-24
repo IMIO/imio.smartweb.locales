@@ -787,7 +787,7 @@ msgstr "Affiche des actualités depuis la source authentique"
 #: imio/smartweb/core/contents/rest/directory/content.py:29
 #: imio/smartweb/core/contents/rest/events/content.py:34
 msgid "Display map"
-msgstr ""
+msgstr "Afficher la carte"
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
@@ -867,7 +867,7 @@ msgstr "Activités et divertissement"
 
 #: imio/directory/core/contents/entity/content.py:29
 msgid "Entities that automatically populates this Entity with their contacts."
-msgstr ""
+msgstr "Entités qui vont automatiquement remplir cette entité avec leurs contacts."
 
 #: imio/directory/core/profiles/default/types/imio.directory.Entity.xml
 #: imio/events/core/profiles/default/types/imio.events.Entity.xml
@@ -915,7 +915,7 @@ msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, 
 
 #: imio/smartweb/policy/monkey.py:46
 msgid "Events"
-msgstr ""
+msgstr "Événements"
 
 #: imio/smartweb/core/browser/controlpanel.py:78
 msgid "Events SolR Core ID"
@@ -1263,7 +1263,7 @@ msgstr "Cacher le titre pour le visiteur (non authentifié). Le titre reste visi
 
 #: imio/smartweb/policy/monkey.py:31
 msgid "Hosting"
-msgstr ""
+msgstr "Hébergement"
 
 #: imio/events/core/contents/event/view.pt:102
 #: imio/news/core/contents/newsitem/view.pt:60
@@ -1286,7 +1286,7 @@ msgstr "Icônes"
 #: imio/smartweb/core/contents/rest/directory/content.py:30
 #: imio/smartweb/core/contents/rest/events/content.py:35
 msgid "If selected, map will be displayed"
-msgstr ""
+msgstr "Si cette case est cochée, alors, la carte sera affichée"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
@@ -1441,7 +1441,7 @@ msgstr "Mentions l&eacute;gales"
 
 #: imio/smartweb/policy/monkey.py:36
 msgid "Leisure / discovery"
-msgstr ""
+msgstr "Loisirs / Découverte"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:47
 msgid "Like supplement or alternatively to picture"
@@ -1852,7 +1852,7 @@ msgstr "S'abonner à un/des agenda(s)"
 
 #: imio/directory/core/contents/entity/content.py:28
 msgid "Populating entities"
-msgstr ""
+msgstr "S'abonner à une/des entité(s)"
 
 #: imio/news/core/contents/newsfolder/content.py:18
 msgid "Populating news folders"
@@ -2525,7 +2525,7 @@ msgstr "Tourisme"
 
 #: imio/smartweb/policy/monkey.py:41
 msgid "Tourism organizations"
-msgstr ""
+msgstr "Organisations touristiques"
 
 #: imio/smartweb/common/vocabularies.py:55
 msgid "Tourist"

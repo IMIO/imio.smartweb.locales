@@ -5,6 +5,9 @@ Changelog
 1.1.7 (unreleased)
 ------------------
 
+- Add missing French translations
+  [boulch]
+
 - Update translations
   [boulch]
 
