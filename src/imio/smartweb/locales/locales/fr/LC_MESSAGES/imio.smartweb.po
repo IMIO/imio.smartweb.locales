@@ -193,7 +193,7 @@ msgstr "Adresse"
 
 #: imio/smartweb/common/vocabularies.py:108
 msgid "Affiche"
-msgstr ""
+msgstr "Affiche"
 
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
@@ -221,7 +221,7 @@ msgstr "Choisir si cet élément doit être exclu de l'affichage listing de son 
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose images orientation for current context."
-msgstr ""
+msgstr "Choisir l'orientation des images de cet élément."
 
 #: imio/smartweb/core/behaviors/configure.zcml:27
 msgid "Allow to select quick access elements for current context."
@@ -821,7 +821,7 @@ msgstr "Adresse e-mail"
 
 #: imio/directory/core/contents/contact/content.py:152
 msgid "E-mails"
-msgstr ""
+msgstr "E-mails"
 
 #: imio/smartweb/common/vocabularies.py:22
 msgid "Economics"
@@ -1319,7 +1319,7 @@ msgstr "Alignement de l'image"
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Image orientation"
-msgstr ""
+msgstr "Orientation de l'image"
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
@@ -1521,7 +1521,7 @@ msgstr "Liste de catégories spécifiques d'actualités disponibes pour cette en
 
 #: imio/smartweb/common/vocabularies.py:110
 msgid "Liste"
-msgstr ""
+msgstr "Liste"
 
 #: imio/directory/core/contents/contact/content.py:299
 #: imio/smartweb/core/behaviors/minisite.py:41
@@ -1792,7 +1792,7 @@ msgstr "Organisation - Centre sportif"
 
 #: imio/smartweb/core/behaviors/orientation.py:14
 msgid "Orientation"
-msgstr ""
+msgstr "Orientation"
 
 #: imio/smartweb/policy/monkey.py:17
 msgid "PIVOT"
@@ -1824,7 +1824,7 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:142
 msgid "Paysage"
-msgstr ""
+msgstr "Paysage"
 
 #: imio/directory/core/vocabularies.py:53
 msgid "Personal email"
@@ -1904,7 +1904,7 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:141
 msgid "Portrait"
-msgstr ""
+msgstr "Portrait"
 
 #: imio/directory/core/vocabularies.py:20
 msgid "Position (mayor, alderman, advisor, director, head of department, etc.)"
@@ -2949,7 +2949,7 @@ msgstr "Vue - Actualités"
 
 #: imio/smartweb/common/vocabularies.py:109
 msgid "Vignette"
-msgstr ""
+msgstr "Vignette"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:34
 msgid "Visible blocks"

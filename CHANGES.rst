@@ -5,7 +5,8 @@ Changelog
 1.1.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Add missing French translations
+  [laulaz]
 
 
 1.1.7 (2023-10-24)
