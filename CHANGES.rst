@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.9 (unreleased)
+1.1.9 (2023-11-20)
 ------------------
 
 - WEB-4018 : Add missing French translations (new termes in directory vocabulary)
