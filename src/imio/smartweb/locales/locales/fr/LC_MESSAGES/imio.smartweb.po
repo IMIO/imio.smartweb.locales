@@ -310,7 +310,7 @@ msgstr "Blocs qui vont être affichés dans le contact"
 
 #: imio/directory/core/vocabularies.py:89
 msgid "Bottle bubbles"
-msgstr ""
+msgstr "Bulles à verres"
 
 #: imio/smartweb/core/vocabularies.py:311
 msgid "Bottom"
@@ -615,7 +615,7 @@ msgstr "Fermé"
 
 #: imio/directory/core/vocabularies.py:90
 msgid "Clothing bubbles"
-msgstr ""
+msgstr "Bulles à vêtements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionCollection.xml
 msgid "Collection section"
@@ -687,7 +687,7 @@ msgstr "Le type de contact est manquant."
 
 #: imio/directory/core/vocabularies.py:91
 msgid "Container parks"
-msgstr ""
+msgstr "Parcs à conteneurs"
 
 #: imio/smartweb/common/browser/privacy/form.py:12
 msgid "Cookies choice"

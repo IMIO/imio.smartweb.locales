@@ -5,7 +5,8 @@ Changelog
 1.1.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- WEB-4018 : Add missing French translations (new termes in directory vocabulary)
+  [boulch]
 
 
 1.1.8 (2023-10-25)
