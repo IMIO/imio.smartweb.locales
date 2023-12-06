@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.10 (unreleased)
+1.1.10 (2023-12-06)
 -------------------
 
 - Add missing translations (plausible/statistics)
