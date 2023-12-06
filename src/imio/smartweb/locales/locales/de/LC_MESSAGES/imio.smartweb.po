@@ -2407,7 +2407,7 @@ msgstr "Affichage standard"
 #: imio/smartweb/core/profiles/default/actions.xml
 #: imio/smartweb/core/upgrades/profiles/1051_to_1052/actions.xml
 msgid "Statistics"
-msgstr ""
+msgstr "Statistiken"
 
 #: imio/smartweb/common/interfaces.py:33
 msgid "Street"

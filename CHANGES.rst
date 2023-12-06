@@ -5,6 +5,9 @@ Changelog
 1.1.10 (unreleased)
 -------------------
 
+- Add missing translations (plausible/statistics)
+  [boulch]
+
 - Update translations
   [boulch]
 
