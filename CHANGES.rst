@@ -5,7 +5,8 @@ Changelog
 1.1.11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- WEB-4049 : Add missing german translationsAdd missing german / dutch translations
+  [boulch]
 
 
 1.1.10 (2023-12-06)
