@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.11 (unreleased)
+1.1.11 (2024-01-16)
 -------------------
 
 - WEB-4049 : Add missing german translationsAdd missing german / dutch translations
