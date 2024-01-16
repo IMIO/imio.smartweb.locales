@@ -18,18 +18,18 @@ msgstr ""
 
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/info.py:196
 msgid "Folders"
-msgstr "Éléments avec du contenu"
+msgstr "Elemente mit Inhalt"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
-msgstr "L'identifiant est affiché dans la barre d'adresse du navigateur (URL). Il est impératif de ne pas mettre de majuscule, d'accent et d'espace. Les espaces doivent être remplacés par des traits d'union (ex: ma-page)."
+msgstr "Dieser Name wird in der URL angezeigt. Es ist wichtig, keine Großbuchstaben, Akzente und Leerzeichen zu verwenden. Leerzeichen müssen durch Bindestriche ersetzt werden (z. B. mein-seite)."
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27
 msgid "alert_really_delete_folder"
-msgstr "Voulez-vous réellement supprimer cet élément et tout son contenu ?"
+msgstr "Möchten Sie diesen Artikel und all seinen Inhalt wirklich löschen?"
 
 #. Default: "Number of selected, non-empty folders: <strong>${refs}</strong>"
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/delete_confirmation_info.pt:58
 msgid "selected_folders_with_content"
-msgstr "Nombre d'élements sélectionnés non vides : <strong>${refs}</strong>."
+msgstr "Anzahl ausgewählter, nicht leerer Elemente: <strong>${refs}</strong>."

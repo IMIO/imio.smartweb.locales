@@ -17,18 +17,18 @@ msgstr ""
 
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/info.py:196
 msgid "Folders"
-msgstr ""
+msgstr "Elementen met inhoud"
 
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
-msgstr ""
+msgstr "Deze naam wordt weergegeven in de URL. Het is belangrijk om geen hoofdletters, accenten en spaties te gebruiken. Spaties moeten worden vervangen door streepjes (bijv.: mijn-pagina)."
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27
 msgid "alert_really_delete_folder"
-msgstr ""
+msgstr "Wilt u dit element en al zijn inhoud echt verwijderen?"
 
 #. Default: "Number of selected, non-empty folders: <strong>${refs}</strong>"
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/delete_confirmation_info.pt:58
 msgid "selected_folders_with_content"
-msgstr ""
+msgstr "Aantal geselecteerde, niet-lege items: <strong>${refs}</strong>."
