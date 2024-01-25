@@ -5,6 +5,9 @@ Changelog
 1.1.12 (unreleased)
 -------------------
 
+- Update translations
+  [boulch]
+
 - WEB-4049 : Add missing german / dutch translations
   [boulch]
 
