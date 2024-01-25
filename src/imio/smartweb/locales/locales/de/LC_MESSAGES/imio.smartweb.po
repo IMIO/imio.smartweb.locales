@@ -213,7 +213,7 @@ msgstr "Agenda"
 
 #: imio/events/core/contents/agenda/content.py:19
 msgid "Agendas that automatically populates this agenda with their events."
-msgstr ""
+msgstr "Agenden, die automatisch diese Agenda mit ihren Veranstaltungen füllen."
 
 #: imio/smartweb/common/viewlets/colophon.pt:27
 msgid "Agent connection"
@@ -237,7 +237,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:27
 msgid "Allow to select quick access elements for current context."
-msgstr ""
+msgstr "Ermöglicht die Auswahl von Schnellzugriffselementen für den aktuellen Kontext."
 
 #: imio/smartweb/core/contents/sections/slide/content.py:53
 msgid "Alternatively as a picture"
@@ -1529,7 +1529,7 @@ msgstr "Link-Titel"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:59
 msgid "Link title will be display on picture as clickable element"
-msgstr ""
+msgstr "Der Link-Titel wird auf dem Bild als klickbares Element angezeigt"
 
 #: imio/events/core/contents/event/content.py:113
 msgid "Link to online participation"
@@ -1610,11 +1610,11 @@ msgstr "Maximale Anzahl von Chargen zur Anzeige"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:65
 msgid "Maximum number of contacts by line"
-msgstr ""
+msgstr "Maximale Anzahl von Kontakten pro Zeile"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:66
 msgid "Maximum number of contacts by line (on PC)"
-msgstr ""
+msgstr "Maximale Anzahl von Kontakten pro Zeile (auf dem PC)"
 
 #: imio/smartweb/core/behaviors/subsite.py:48
 msgid "Menu depth"
@@ -1699,7 +1699,7 @@ msgstr "Nachrichtenordner"
 
 #: imio/news/core/contents/newsfolder/content.py:17
 msgid "News folders that automatically populates this news folder with their news."
-msgstr ""
+msgstr "Nachrichtenordner, die diesen Nachrichtenordner automatisch mit ihren Nachrichten füllen."
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
@@ -1775,7 +1775,7 @@ msgstr "URL für die Online-Teilnahme"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:34
 msgid "Only one procedure field can be filled !"
-msgstr ""
+msgstr "Nur ein Verfahrensfeld kann ausgefüllt werden !"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:34
 msgid "Only used in table view (takes precedence over image)"
@@ -2672,7 +2672,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:217
 msgid "Unknow service"
-msgstr ""
+msgstr "Unbekannter Dienst"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
 msgid "Update caching configuration"
@@ -3051,15 +3051,15 @@ msgstr "Mittwoch"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:132
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
-msgstr ""
+msgstr "Mit einem Cognitoform-Plugin können zusätzliche Parameter leer sein, aber wenn Sie es ausfüllen, müssen Sie angeben: scrolling:(yes/no) und overflow:(hidden/scroll/auto)"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:85
 msgid "With an elloha plugin, extra params must contain a dictionary with two keys : ConstellationWidgetContainer, Idoi"
-msgstr ""
+msgstr "Mit einem Elloha-Plugin müssen zusätzliche Parameter ein Dictionary mit zwei Schlüsseln enthalten: ConstellationWidgetContainer, Idoi"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:169
 msgid "With arcgis plugin, extra params must contain a dictionary with one key : portal_item_id"
-msgstr ""
+msgstr "Mit einem ArcGIS-Plugin müssen zusätzliche Parameter ein Dictionary mit einem Schlüssel enthalten: portal_item_id"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Work email"

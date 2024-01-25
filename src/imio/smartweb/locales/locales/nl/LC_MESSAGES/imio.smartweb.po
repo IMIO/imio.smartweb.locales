@@ -301,7 +301,7 @@ msgstr "De banner is nu verborgen vanaf dit item"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:37
 msgid "Be careful, adding or removing taxonomies must be a part of strategy implemented in collaboration with iMio"
-msgstr ""
+msgstr "Let op, het toevoegen of verwijderen van taxonomieën moet deel uitmaken van de strategie die in samenwerking met iMio is geïmplementeerd"
 
 #: imio/smartweb/core/contents/folder/configure.zcml:40
 msgid "Block view"
@@ -1528,7 +1528,7 @@ msgstr "Linktitel"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:59
 msgid "Link title will be display on picture as clickable element"
-msgstr ""
+msgstr "Linktitel wordt weergegeven op de afbeelding als klikbaar element"
 
 #: imio/events/core/contents/event/content.py:113
 msgid "Link to online participation"
@@ -1698,7 +1698,7 @@ msgstr "Nieuwsmap"
 
 #: imio/news/core/contents/newsfolder/content.py:17
 msgid "News folders that automatically populates this news folder with their news."
-msgstr ""
+msgstr "Nieuwsmappen die automatisch deze nieuwsmappen vullen met hun nieuws."
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
@@ -1774,7 +1774,7 @@ msgstr "URL voor online deelname"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:34
 msgid "Only one procedure field can be filled !"
-msgstr ""
+msgstr "Slechts één veld voor procedure kan worden ingevuld!"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:34
 msgid "Only used in table view (takes precedence over image)"
@@ -1907,7 +1907,7 @@ msgstr "Plausible-analyse is niet ingesteld"
 
 #: imio/smartweb/core/browser/controlpanel.py:162
 msgid "Plausible authentification token (SMARTWEB_PLAUSIBLE_TOKEN varenv has precedence over this.)"
-msgstr ""
+msgstr "Plausible-authenticatietoken (SMARTWEB_PLAUSIBLE_TOKEN varenv heeft voorrang op deze waarde.)"
 
 #: imio/smartweb/core/viewlets/toolbar.py:119
 msgid "Please help!"
@@ -2518,7 +2518,7 @@ msgstr "De geolocatie wordt gegenereerd op basis van het adres tijdens het opsla
 
 #: imio/smartweb/common/utils.py:135
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
-msgstr ""
+msgstr "De afbeelding geüpload in het veld \"${field_title}\" kan worden verslechterd omdat deze niet voldoet aan de vereiste minimale afmetingen van ${min_width}px breedte bij ${min_height}px hoogte (grootte van geüploade afbeelding: ${width}px breedte bij ${height}px hoogte). U kunt de details bekijken via het bijsnijden menu."
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "The item selected as the folder home page is :"
@@ -2550,7 +2550,7 @@ msgstr "Derde pagina"
 
 #: imio/smartweb/common/privacy.py:70
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
-msgstr ""
+msgstr "Deze functie vereist het accepteren van cookies.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Bekijk uw cookievoorkeuren</a>."
 
 #: imio/directory/core/contents/contact/content.py:253
 #: imio/events/core/contents/event/content.py:52
@@ -2671,7 +2671,7 @@ msgstr "Deïnstalleert de imio.news.policy add-on."
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:217
 msgid "Unknow service"
-msgstr ""
+msgstr "Onbekende dienst"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
 msgid "Update caching configuration"
@@ -2977,7 +2977,7 @@ msgstr "URL om een nieuw burger nieuws voor te stellen"
 #: imio/smartweb/core/contents/sections/external_content/content.py:16
 #: imio/smartweb/core/contents/sections/html/content.py:29
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
-msgstr ""
+msgstr "Gebruik **tekst** om tekst vet te maken. Beperkt tot ${max} tekens."
 
 #: imio/smartweb/core/upgrades/configure.zcml:92
 msgid "Use custom spotlight to avoid bad gallery refresh"
@@ -3050,15 +3050,15 @@ msgstr "Woensdag"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:132
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
-msgstr ""
+msgstr "Met een cognitoform-plugin kunnen extra parameters leeg zijn, maar als je ze invult, moet je specificeren : scrolling:(yes/no) en overflow:(hidden/scroll/auto)"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:85
 msgid "With an elloha plugin, extra params must contain a dictionary with two keys : ConstellationWidgetContainer, Idoi"
-msgstr ""
+msgstr "Met een elloha-plugin moeten extra parameters een woordenboek bevatten met twee sleutels : ConstellationWidgetContainer, Idoi"
 
 #: imio/smartweb/core/contents/sections/external_content/views.py:169
 msgid "With arcgis plugin, extra params must contain a dictionary with one key : portal_item_id"
-msgstr ""
+msgstr "Met een arcgis-plugin moeten extra parameters een woordenboek bevatten met één sleutel : portal_item_id"
 
 #: imio/directory/core/vocabularies.py:54
 msgid "Work email"
@@ -3082,7 +3082,7 @@ msgstr "Jong"
 
 #: imio/smartweb/core/subscribers.py:44
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
-msgstr ""
+msgstr "Uw map was een minisite, maar dit gedrag is uitgeschakeld met deze actie"
 
 #: imio/smartweb/core/browser/controlpanel.py:20
 msgid "Your button title"

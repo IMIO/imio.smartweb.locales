@@ -5,6 +5,9 @@ Changelog
 1.1.12 (unreleased)
 -------------------
 
+- Add missing translations
+  [boulch]
+
 - Update translations
   [boulch]
 
