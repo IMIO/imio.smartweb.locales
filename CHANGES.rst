@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.13 (unreleased)
+1.1.13 (2024-03-25)
 -------------------
 
 - Add missing fr, nl, de translations
