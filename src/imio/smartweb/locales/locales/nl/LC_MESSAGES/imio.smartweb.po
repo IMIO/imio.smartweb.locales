@@ -221,12 +221,12 @@ msgstr ""
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:43
 #: imio/events/core/viewlets/event/button_to_bring_event.pt:3
 msgid "Add/Remove agenda(s)"
-msgstr ""
+msgstr "Kies de agenda('s) waarop dit evenement wordt weergegeven"
 
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:42
 #: imio/news/core/viewlets/news/button_to_bring_news.pt:3
 msgid "Add/Remove news folder(s)"
-msgstr ""
+msgstr "Kies de map(pen) waarin dit nieuws wordt weergegeven"
 
 #: imio/smartweb/common/interfaces.py:30
 #: imio/smartweb/core/contents/sections/contact/macros.pt:97
@@ -244,11 +244,11 @@ msgstr "Agenda"
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:84
 msgid "Agenda(s) correctly added."
-msgstr ""
+msgstr "Agenda('s) correct bijgewerkt"
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:78
 msgid "Agenda(s) correctly removed."
-msgstr ""
+msgstr "Agenda('s) correct bijgewerkt"
 
 #: imio/events/core/contents/agenda/content.py:19
 msgid "Agendas that automatically populates this agenda with their events."
@@ -296,11 +296,11 @@ msgstr "Authentieke bronnen"
 
 #: imio/events/core/contents/entity/content.py:40
 msgid "Authorize to bring event anywhere"
-msgstr ""
+msgstr "Toon de knop, gebruik met mate"
 
 #: imio/news/core/contents/entity/content.py:39
 msgid "Authorize to bring news anywhere"
-msgstr ""
+msgstr "Toon de knop, gebruik met mate"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:68
 msgid "Automatically publish GDPR article"
@@ -312,7 +312,7 @@ msgstr "Beschikbare agenda's"
 
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:30
 msgid "Available news folders"
-msgstr ""
+msgstr "Beschikbare nieuwsmap(pen)"
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:22
 msgid "Available taxonomies"
@@ -404,7 +404,7 @@ msgstr "Lokaal beheer mogelijk"
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:92
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:92
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 #: imio/smartweb/core/vocabularies.py:591
 msgid "Carousel"
@@ -1403,11 +1403,11 @@ msgstr "Iconen"
 
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"
-msgstr ""
+msgstr "Deze knop stelt de beheerders van de entiteit in staat om elk evenement weer te geven in een agenda waar het normaal gesproken niet mee wordt gedeeld"
 
 #: imio/news/core/contents/entity/content.py:40
 msgid "If selected, contributor of this entity can bring news in any news folders independently of news folders subscribing feature"
-msgstr ""
+msgstr "Deze knop stelt de beheerders van de entiteit in staat om elk nieuwsbericht weer te geven in een map waar het normaal gesproken niet mee wordt gedeeld"
 
 #: imio/smartweb/core/contents/rest/directory/content.py:30
 #: imio/smartweb/core/contents/rest/events/content.py:35
@@ -1777,11 +1777,11 @@ msgstr "Nieuwsmap"
 
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:84
 msgid "News folder(s) correctly added."
-msgstr ""
+msgstr "Nieuwsmap(pen) bijgewerkt"
 
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:78
 msgid "News folder(s) correctly removed."
-msgstr ""
+msgstr "Nieuwsmap(pen) bijgewerkt"
 
 #: imio/news/core/contents/newsfolder/content.py:17
 msgid "News folders that automatically populates this news folder with their news."
@@ -2522,7 +2522,7 @@ msgstr "Sub-contacten"
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:66
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:65
 msgid "Submit"
-msgstr ""
+msgstr "Bevestigen"
 
 #: imio/smartweb/core/contents/sections/sendinblue/views.py:54
 msgid "Subscribe"
@@ -3217,7 +3217,7 @@ msgstr "Ja"
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:49
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:48
 msgid "You don't have rights to access this page."
-msgstr ""
+msgstr "U heeft geen toestemming om deze pagina te bekijken."
 
 #: imio/smartweb/common/vocabularies.py:49
 msgid "Young"
