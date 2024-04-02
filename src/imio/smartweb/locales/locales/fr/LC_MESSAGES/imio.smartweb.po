@@ -871,7 +871,7 @@ msgstr "En situation de handicap"
 #: imio/smartweb/core/contents/rest/events/content.py:41
 #: imio/smartweb/core/contents/sections/events/content.py:90
 msgid "Display agendas titles"
-msgstr ""
+msgstr "Afficher le titre de l'agenda"
 
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
@@ -902,11 +902,11 @@ msgstr "Afficher la carte"
 #: imio/smartweb/core/contents/rest/news/content.py:25
 #: imio/smartweb/core/contents/sections/news/content.py:90
 msgid "Display news folders titles"
-msgstr ""
+msgstr "Afficher le titre du dossier"
 
 #: imio/smartweb/core/contents/rest/events/content.py:47
 msgid "Display only past events"
-msgstr ""
+msgstr "Afficher uniquement les événements passés"
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
@@ -1418,19 +1418,19 @@ msgstr "Icônes"
 
 #: imio/smartweb/core/contents/rest/events/content.py:42
 msgid "If checked, display agendas titles"
-msgstr ""
+msgstr "Si l'option est cochée, afficher le titre de l'agenda"
 
 #: imio/smartweb/core/contents/sections/events/content.py:91
 msgid "If checked, display agendas titles in the carousel view."
-msgstr ""
+msgstr "Si l'option est cochée, le nom de l'agenda dans lequel sont stockés les événements apparaît sur les vignettes."
 
 #: imio/smartweb/core/contents/rest/news/content.py:26
 msgid "If checked, display news folders titles"
-msgstr ""
+msgstr "Si l'option est cochée, afficher le titre du dossier"
 
 #: imio/smartweb/core/contents/sections/news/content.py:91
 msgid "If checked, display news folders titles in the carousel view."
-msgstr ""
+msgstr "Si l'option est cochée, le nom du dossier dans lequel sont stockés les actualités apparaît sur les vignettes."
 
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"

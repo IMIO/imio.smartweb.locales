@@ -871,7 +871,7 @@ msgstr "Person mit Behinderung"
 #: imio/smartweb/core/contents/rest/events/content.py:41
 #: imio/smartweb/core/contents/sections/events/content.py:90
 msgid "Display agendas titles"
-msgstr ""
+msgstr "Tagesordnungstitel anzeigen"
 
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
@@ -902,11 +902,11 @@ msgstr "Karte anzeigen"
 #: imio/smartweb/core/contents/rest/news/content.py:25
 #: imio/smartweb/core/contents/sections/news/content.py:90
 msgid "Display news folders titles"
-msgstr ""
+msgstr "Titel der Nachrichtenordner anzeigen"
 
 #: imio/smartweb/core/contents/rest/events/content.py:47
 msgid "Display only past events"
-msgstr ""
+msgstr "Nur vergangene Ereignisse anzeigen"
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
@@ -1418,19 +1418,19 @@ msgstr "Symbole"
 
 #: imio/smartweb/core/contents/rest/events/content.py:42
 msgid "If checked, display agendas titles"
-msgstr ""
+msgstr "Wenn diese Option aktiviert ist, werden Tagesordnungstitel angezeigt"
 
 #: imio/smartweb/core/contents/sections/events/content.py:91
 msgid "If checked, display agendas titles in the carousel view."
-msgstr ""
+msgstr "Wenn diese Option aktiviert ist, werden die Tagesordnungstitel in der Karussellansicht angezeigt."
 
 #: imio/smartweb/core/contents/rest/news/content.py:26
 msgid "If checked, display news folders titles"
-msgstr ""
+msgstr "Wenn diese Option aktiviert ist, werden die Titel der Nachrichtenordner angezeigt"
 
 #: imio/smartweb/core/contents/sections/news/content.py:91
 msgid "If checked, display news folders titles in the carousel view."
-msgstr ""
+msgstr "Wenn diese Option aktiviert ist, werden die Titel der Nachrichtenordner in der Karussellansicht angezeigt."
 
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"
