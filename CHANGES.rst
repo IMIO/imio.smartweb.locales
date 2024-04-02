@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.14 (unreleased)
+1.1.14 (2024-04-02)
 -------------------
 
 - Add missing fr, nl, de translations
