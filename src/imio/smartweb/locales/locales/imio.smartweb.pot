@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-03-25 10:42+0000\n"
+"POT-Creation-Date: 2024-04-02 13:50+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -873,6 +873,11 @@ msgstr ""
 msgid "Disabled person"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/events/content.py:41
+#: imio/smartweb/core/contents/sections/events/content.py:90
+msgid "Display agendas titles"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
 msgstr ""
@@ -897,6 +902,15 @@ msgstr ""
 #: imio/smartweb/core/contents/rest/directory/content.py:29
 #: imio/smartweb/core/contents/rest/events/content.py:34
 msgid "Display map"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/news/content.py:25
+#: imio/smartweb/core/contents/sections/news/content.py:90
+msgid "Display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/events/content.py:47
+msgid "Display only past events"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:85
@@ -1407,6 +1421,22 @@ msgstr ""
 msgid "Icons"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/events/content.py:42
+msgid "If checked, display agendas titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/content.py:91
+msgid "If checked, display agendas titles in the carousel view."
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/news/content.py:26
+msgid "If checked, display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/news/content.py:91
+msgid "If checked, display news folders titles in the carousel view."
+msgstr ""
+
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"
 msgstr ""
@@ -1418,6 +1448,10 @@ msgstr ""
 #: imio/smartweb/core/contents/rest/directory/content.py:30
 #: imio/smartweb/core/contents/rest/events/content.py:35
 msgid "If selected, map will be displayed"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/events/content.py:48
+msgid "If selected, only past events will be displayed"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20

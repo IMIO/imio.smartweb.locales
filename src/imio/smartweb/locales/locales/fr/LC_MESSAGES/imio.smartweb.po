@@ -227,7 +227,7 @@ msgstr "Choisir l'(les) agenda(s) où cet événement est affiché"
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:42
 #: imio/news/core/viewlets/news/button_to_bring_news.pt:3
 msgid "Add/Remove news folder(s)"
-msgstr "Choisir le(les) dossier(s) où cette actualités est affichée"
+msgstr "Choisir le(les) dossier(s) où cette actualité est affichée"
 
 #: imio/smartweb/common/interfaces.py:30
 #: imio/smartweb/core/contents/sections/contact/macros.pt:97
@@ -868,6 +868,11 @@ msgstr "Désactiver le mode sous-site"
 msgid "Disabled person"
 msgstr "En situation de handicap"
 
+#: imio/smartweb/core/contents/rest/events/content.py:41
+#: imio/smartweb/core/contents/sections/events/content.py:90
+msgid "Display agendas titles"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
 msgstr "Afficher la bannière"
@@ -893,6 +898,15 @@ msgstr "Affiche des actualités depuis la source authentique"
 #: imio/smartweb/core/contents/rest/events/content.py:34
 msgid "Display map"
 msgstr "Afficher la carte"
+
+#: imio/smartweb/core/contents/rest/news/content.py:25
+#: imio/smartweb/core/contents/sections/news/content.py:90
+msgid "Display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/events/content.py:47
+msgid "Display only past events"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
@@ -1402,6 +1416,22 @@ msgstr ""
 msgid "Icons"
 msgstr "Icônes"
 
+#: imio/smartweb/core/contents/rest/events/content.py:42
+msgid "If checked, display agendas titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/content.py:91
+msgid "If checked, display agendas titles in the carousel view."
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/news/content.py:26
+msgid "If checked, display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/news/content.py:91
+msgid "If checked, display news folders titles in the carousel view."
+msgstr ""
+
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"
 msgstr "Ce bouton permet aux agents administrateurs de l'entité d'afficher n'importe quel événement dans un agenda avec lequel il n'est habituellement pas partagé"
@@ -1414,6 +1444,10 @@ msgstr "Ce bouton permet aux agents administrateurs de l'entité d'afficher n'im
 #: imio/smartweb/core/contents/rest/events/content.py:35
 msgid "If selected, map will be displayed"
 msgstr "Si cette case est cochée, alors, la carte sera affichée"
+
+#: imio/smartweb/core/contents/rest/events/content.py:48
+msgid "If selected, only past events will be displayed"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"

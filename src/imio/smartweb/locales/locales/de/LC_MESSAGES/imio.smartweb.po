@@ -868,6 +868,11 @@ msgstr "Deaktivieren Sie den Unterseiten-Modus"
 msgid "Disabled person"
 msgstr "Person mit Behinderung"
 
+#: imio/smartweb/core/contents/rest/events/content.py:41
+#: imio/smartweb/core/contents/sections/events/content.py:90
+msgid "Display agendas titles"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/banner.pt:11
 msgid "Display banner from this item"
 msgstr "Banner von diesem Element anzeigen"
@@ -893,6 +898,15 @@ msgstr "Verknüpfte Nachrichten aus der iMio-Nachrichteninstanz anzeigen."
 #: imio/smartweb/core/contents/rest/events/content.py:34
 msgid "Display map"
 msgstr "Karte anzeigen"
+
+#: imio/smartweb/core/contents/rest/news/content.py:25
+#: imio/smartweb/core/contents/sections/news/content.py:90
+msgid "Display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/events/content.py:47
+msgid "Display only past events"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:85
 msgid "Drinking water point"
@@ -1402,6 +1416,22 @@ msgstr ""
 msgid "Icons"
 msgstr "Symbole"
 
+#: imio/smartweb/core/contents/rest/events/content.py:42
+msgid "If checked, display agendas titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/events/content.py:91
+msgid "If checked, display agendas titles in the carousel view."
+msgstr ""
+
+#: imio/smartweb/core/contents/rest/news/content.py:26
+msgid "If checked, display news folders titles"
+msgstr ""
+
+#: imio/smartweb/core/contents/sections/news/content.py:91
+msgid "If checked, display news folders titles in the carousel view."
+msgstr ""
+
 #: imio/events/core/contents/entity/content.py:41
 msgid "If selected, contributor of this entity can bring event in any agenda independently of agenda subscribing feature"
 msgstr "Dieser Button ermöglicht es den Administratoren der Einrichtung, jedes Ereignis in einem Kalender anzuzeigen, mit dem es normalerweise nicht geteilt wird"
@@ -1414,6 +1444,10 @@ msgstr "Dieser Button ermöglicht es den Administratoren der Einrichtung, jede N
 #: imio/smartweb/core/contents/rest/events/content.py:35
 msgid "If selected, map will be displayed"
 msgstr "Wenn ausgewählt, wird die Karte angezeigt"
+
+#: imio/smartweb/core/contents/rest/events/content.py:48
+msgid "If selected, only past events will be displayed"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
