@@ -1446,7 +1446,7 @@ msgstr "Indien geselecteerd, wordt de kaart weergegeven"
 
 #: imio/smartweb/core/contents/rest/events/content.py:48
 msgid "If selected, only past events will be displayed"
-msgstr ""
+msgstr "Indien geselecteerd, worden alleen voorbije evenementen weergegeven"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"

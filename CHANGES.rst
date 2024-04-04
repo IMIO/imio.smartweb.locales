@@ -5,7 +5,8 @@ Changelog
 1.1.15 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add missing fr, nl, de translations
+  [boulch]
 
 
 1.1.14 (2024-04-02)

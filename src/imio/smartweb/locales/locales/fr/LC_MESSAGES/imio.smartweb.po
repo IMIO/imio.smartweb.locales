@@ -1447,7 +1447,7 @@ msgstr "Si cette case est cochée, alors, la carte sera affichée"
 
 #: imio/smartweb/core/contents/rest/events/content.py:48
 msgid "If selected, only past events will be displayed"
-msgstr ""
+msgstr "Si cette case est cochée, seuls les événements passés seront affichés"
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
