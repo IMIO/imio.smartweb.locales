@@ -109,7 +109,7 @@ msgstr "Ajouter un bandeau d'en-tête"
 
 #: imio/smartweb/core/upgrades/configure.zcml:236
 msgid "Add imio.smartweb.category_display behavior on content types"
-msgstr ""
+msgstr "Ajout de la possibilité de choisir si on affiche les catégories ou thématiques sur le contenu."
 
 #: imio/smartweb/core/upgrades/configure.zcml:228
 msgid "Add imio.smartweb.orientation to section files"
@@ -285,7 +285,7 @@ msgstr "Choisir l'orientation des images de cet élément."
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Allow to choose to display categories or topics"
-msgstr ""
+msgstr "Choisir si on affiche les catégories ou thématiques."
 
 #: imio/smartweb/core/behaviors/configure.zcml:34
 msgid "Allow to select quick access elements for current context."
@@ -430,11 +430,11 @@ msgstr "Affichage carrousel"
 
 #: imio/smartweb/core/vocabularies.py:160
 msgid "Carre"
-msgstr ""
+msgstr "Carré"
 
 #: imio/smartweb/core/behaviors/configure.zcml:13
 msgid "Categories / Topics display"
-msgstr ""
+msgstr "Affichage des catégories ou thématiques"
 
 #: imio/events/core/contents/event/content.py:163
 #: imio/smartweb/common/behaviors/iam.py:14
@@ -1880,7 +1880,7 @@ msgstr "Non"
 
 #: imio/smartweb/core/vocabularies.py:126
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 #: imio/directory/core/upgrades/configure.zcml:12
 msgid "Not allowed to add Files or Images in imio.directory.Entity"
@@ -2378,7 +2378,7 @@ msgstr "Sélectionnez les entités dans lesquelles ce contact sera affiché. L'e
 
 #: imio/smartweb/core/behaviors/categorization.py:18
 msgid "Select if you want (specific) category or (first) topic displayed on items"
-msgstr ""
+msgstr "Sélectionnez si vous souhaitez afficher la catégorie (spécifique) ou la (première) thématique sur les éléments."
 
 #: imio/smartweb/core/contents/sections/text/content.py:25
 msgid "Select image size"
@@ -2470,7 +2470,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/categorization.py:17
 msgid "Show category or topic"
-msgstr ""
+msgstr "Afficher les catégories ou thématiques des éléments"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:74
 #: imio/smartweb/core/contents/sections/events/content.py:85
@@ -2766,7 +2766,7 @@ msgstr "Haut"
 
 #: imio/smartweb/core/vocabularies.py:125
 msgid "Topic"
-msgstr ""
+msgstr "Thématique"
 
 #: imio/events/core/contents/event/view.pt:97
 #: imio/news/core/contents/newsitem/view.pt:56

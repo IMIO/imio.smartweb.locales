@@ -5,6 +5,9 @@ Changelog
 1.1.16 (unreleased)
 -------------------
 
+- Add missing French translations for `Carre` & categories / topics display on items
+  [laulaz]
+
 - Add missing fr, nl, de translations
   [boulch]
 
