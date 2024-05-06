@@ -828,7 +828,7 @@ msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
 
 #: imio/smartweb/core/contents/sections/views.py:70
 msgid "Define section size"
-msgstr ""
+msgstr "Définir la taille de la section"
 
 #: imio/smartweb/core/contents/sections/macros.pt:53
 msgid "Delete section"

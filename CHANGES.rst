@@ -5,6 +5,9 @@ Changelog
 1.1.16 (unreleased)
 -------------------
 
+- Add missing fr, nl, de translations
+  [boulch]
+
 - Update translations
   [boulch]
 
