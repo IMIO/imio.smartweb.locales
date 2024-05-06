@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-05-06 11:11+0000\n"
+"POT-Creation-Date: 2024-05-06 14:23+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -112,6 +112,10 @@ msgstr ""
 msgid "Add hero banner"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:236
+msgid "Add imio.smartweb.category_display behavior on content types"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:228
 msgid "Add imio.smartweb.orientation to section files"
 msgstr ""
@@ -128,7 +132,7 @@ msgstr ""
 msgid "Add local manager role and sharing permissions rolemap"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:43
+#: imio/smartweb/core/behaviors/configure.zcml:50
 msgid "Add minisite properties/fields"
 msgstr ""
 
@@ -208,7 +212,7 @@ msgstr ""
 msgid "Add solr.fields behavior to some content types"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:35
+#: imio/smartweb/core/behaviors/configure.zcml:42
 msgid "Add subsite properties/fields"
 msgstr ""
 
@@ -240,7 +244,7 @@ msgstr ""
 
 #: imio/smartweb/common/interfaces.py:30
 #: imio/smartweb/core/contents/sections/contact/macros.pt:97
-#: imio/smartweb/core/vocabularies.py:176
+#: imio/smartweb/core/vocabularies.py:193
 msgid "Address"
 msgstr ""
 
@@ -276,15 +280,19 @@ msgstr ""
 msgid "Allow collective.pivot.Family content type in imio.smartweb.Folder"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:20
+#: imio/smartweb/core/behaviors/configure.zcml:27
 msgid "Allow to choose if this element must excluded from parent listing views."
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:13
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Allow to choose images orientation for current context."
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:27
+#: imio/smartweb/core/behaviors/configure.zcml:13
+msgid "Allow to choose to display categories or topics"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:34
 msgid "Allow to select quick access elements for current context."
 msgstr ""
 
@@ -389,7 +397,7 @@ msgstr ""
 msgid "Bottle bubbles"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:314
+#: imio/smartweb/core/vocabularies.py:331
 msgid "Bottom"
 msgstr ""
 
@@ -416,7 +424,7 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:591
+#: imio/smartweb/core/vocabularies.py:608
 msgid "Carousel"
 msgstr ""
 
@@ -425,8 +433,12 @@ msgstr ""
 msgid "Carousel view"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:143
+#: imio/smartweb/core/vocabularies.py:160
 msgid "Carre"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/configure.zcml:13
+msgid "Categories / Topics display"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:163
@@ -759,7 +771,7 @@ msgid "Contact content type"
 msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:156
-#: imio/smartweb/core/vocabularies.py:175
+#: imio/smartweb/core/vocabularies.py:192
 msgid "Contact informations"
 msgstr ""
 
@@ -1293,11 +1305,11 @@ msgstr ""
 msgid "From"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:129
+#: imio/smartweb/core/vocabularies.py:146
 msgid "Full width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:181
+#: imio/smartweb/core/vocabularies.py:198
 msgid "Gallery"
 msgstr ""
 
@@ -1347,11 +1359,11 @@ msgstr ""
 msgid "Habitat and town planning"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:126
+#: imio/smartweb/core/vocabularies.py:143
 msgid "Half of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:331
+#: imio/smartweb/core/vocabularies.py:348
 msgid "Half page"
 msgstr ""
 
@@ -1479,7 +1491,7 @@ msgstr ""
 msgid "Image alignment"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:13
+#: imio/smartweb/core/behaviors/configure.zcml:20
 msgid "Image orientation"
 msgstr ""
 
@@ -1617,11 +1629,11 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:173
+#: imio/smartweb/core/vocabularies.py:190
 msgid "Lead Image"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:312
+#: imio/smartweb/core/vocabularies.py:329
 msgid "Left"
 msgstr ""
 
@@ -1699,7 +1711,7 @@ msgstr ""
 msgid "Logo"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:160
+#: imio/smartweb/core/vocabularies.py:177
 msgid "Logo and title"
 msgstr ""
 
@@ -1720,7 +1732,7 @@ msgstr ""
 msgid "Manage taxonomies on this content"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:179
+#: imio/smartweb/core/vocabularies.py:196
 msgid "Map"
 msgstr ""
 
@@ -1771,7 +1783,7 @@ msgstr ""
 msgid "Migrate content types icons"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:43
+#: imio/smartweb/core/behaviors/configure.zcml:50
 msgid "Minisite"
 msgstr ""
 
@@ -1869,6 +1881,10 @@ msgstr ""
 
 #: imio/events/core/contents/event/view.pt:52
 msgid "No"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:126
+msgid "None"
 msgstr ""
 
 #: imio/directory/core/upgrades/configure.zcml:12
@@ -1988,7 +2004,7 @@ msgstr ""
 msgid "Parent"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:20
+#: imio/smartweb/core/behaviors/configure.zcml:27
 msgid "Parent listing"
 msgstr ""
 
@@ -2000,7 +2016,7 @@ msgstr ""
 msgid "Patch (Remove select2) eea.facetednavigation jquery"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:141
+#: imio/smartweb/core/vocabularies.py:158
 msgid "Paysage"
 msgstr ""
 
@@ -2084,7 +2100,7 @@ msgstr ""
 msgid "PortalPage content type icon"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:142
+#: imio/smartweb/core/vocabularies.py:159
 msgid "Portrait"
 msgstr ""
 
@@ -2146,7 +2162,7 @@ msgstr ""
 msgid "Public toilets"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:124
+#: imio/smartweb/core/vocabularies.py:141
 msgid "Quarter of width"
 msgstr ""
 
@@ -2158,7 +2174,7 @@ msgstr ""
 msgid "Quick access contents"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:27
+#: imio/smartweb/core/behaviors/configure.zcml:34
 msgid "Quick access selection"
 msgstr ""
 
@@ -2224,7 +2240,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:313
+#: imio/smartweb/core/vocabularies.py:330
 msgid "Right"
 msgstr ""
 
@@ -2241,7 +2257,7 @@ msgid "Save my choices"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/contact/macros.pt:122
-#: imio/smartweb/core/vocabularies.py:178
+#: imio/smartweb/core/vocabularies.py:195
 msgid "Schedule"
 msgstr ""
 
@@ -2365,6 +2381,10 @@ msgstr ""
 msgid "Select entities where this contact will be displayed. Current entity will always be selected."
 msgstr ""
 
+#: imio/smartweb/core/behaviors/categorization.py:18
+msgid "Select if you want (specific) category or (first) topic displayed on items"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/text/content.py:25
 msgid "Select image size"
 msgstr ""
@@ -2451,6 +2471,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:84
 msgid "Set some restrictions in control panel"
+msgstr ""
+
+#: imio/smartweb/core/behaviors/categorization.py:17
+msgid "Show category or topic"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:74
@@ -2580,7 +2604,7 @@ msgstr ""
 msgid "Subscribe"
 msgstr ""
 
-#: imio/smartweb/core/behaviors/configure.zcml:35
+#: imio/smartweb/core/behaviors/configure.zcml:42
 msgid "Subsite"
 msgstr ""
 
@@ -2684,11 +2708,11 @@ msgstr ""
 msgid "There is no section on this procedure."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:125
+#: imio/smartweb/core/vocabularies.py:142
 msgid "Third of width"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:329
+#: imio/smartweb/core/vocabularies.py:346
 msgid "Third page"
 msgstr ""
 
@@ -2710,7 +2734,7 @@ msgstr ""
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:128
+#: imio/smartweb/core/vocabularies.py:145
 msgid "Three quarter of width"
 msgstr ""
 
@@ -2733,7 +2757,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:174
+#: imio/smartweb/core/vocabularies.py:191
 msgid "Title and Subtitle"
 msgstr ""
 
@@ -2741,8 +2765,12 @@ msgstr ""
 msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:315
+#: imio/smartweb/core/vocabularies.py:332
 msgid "Top"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:125
+msgid "Topic"
 msgstr ""
 
 #: imio/events/core/contents/event/view.pt:97
@@ -2785,7 +2813,7 @@ msgstr ""
 msgid "Twitter url for this news"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:127
+#: imio/smartweb/core/vocabularies.py:144
 msgid "Two third of width"
 msgstr ""
 
@@ -3046,6 +3074,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:228
 msgid "Upgrade core from 1055 to 1056"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:236
+msgid "Upgrade core from 1056 to 1057"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
