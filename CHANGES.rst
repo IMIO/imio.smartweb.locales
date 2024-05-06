@@ -5,7 +5,8 @@ Changelog
 1.1.16 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translations
+  [boulch]
 
 
 1.1.15 (2024-04-04)

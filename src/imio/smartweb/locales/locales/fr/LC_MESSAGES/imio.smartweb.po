@@ -71,7 +71,7 @@ msgstr "Action - Voir plan"
 msgid "Activate plone.app.caching.moderateCaching.lastModified"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:134
+#: imio/events/core/vocabularies.py:133
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
 
@@ -106,6 +106,10 @@ msgstr "Ajouter un pied de page"
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Add hero banner"
 msgstr "Ajouter un bandeau d'en-tête"
+
+#: imio/smartweb/core/upgrades/configure.zcml:228
+msgid "Add imio.smartweb.orientation to section files"
+msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:172
 msgid "Add leadimage behavior on external content section"
@@ -219,7 +223,7 @@ msgstr ""
 msgid "Add versioning on imio.news.NewsItem"
 msgstr ""
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:43
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:42
 #: imio/events/core/viewlets/event/button_to_bring_event.pt:3
 msgid "Add/Remove agenda(s)"
 msgstr "Choisir l'(les) agenda(s) où cet événement est affiché"
@@ -235,7 +239,7 @@ msgstr "Choisir le(les) dossier(s) où cette actualité est affichée"
 msgid "Address"
 msgstr "Adresse"
 
-#: imio/smartweb/common/vocabularies.py:108
+#: imio/smartweb/common/vocabularies.py:117
 msgid "Affiche"
 msgstr "Affiche"
 
@@ -243,11 +247,11 @@ msgstr "Affiche"
 msgid "Agenda"
 msgstr "Agenda"
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:84
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:83
 msgid "Agenda(s) correctly added."
 msgstr "Agenda(s) correctement mis à jour"
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:78
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:77
 msgid "Agenda(s) correctly removed."
 msgstr "Agenda(s) correctement mis à jour"
 
@@ -259,7 +263,7 @@ msgstr "Les événements des agendas sélectionnés apparaîtront automatiquemen
 msgid "Agent connection"
 msgstr "Connexion agent"
 
-#: imio/smartweb/common/vocabularies.py:19
+#: imio/smartweb/common/vocabularies.py:21
 msgid "Agriculture"
 msgstr "Agriculture"
 
@@ -307,7 +311,7 @@ msgstr "Afficher le bouton à utiliser avec modération"
 msgid "Automatically publish GDPR article"
 msgstr ""
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:31
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:30
 msgid "Available agendas"
 msgstr "Agenda(s) disponible(s)"
 
@@ -402,7 +406,7 @@ msgstr "Fichier CSV"
 msgid "Can manage locally"
 msgstr "Peut administrer"
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:92
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:91
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:92
 msgid "Cancel"
 msgstr "Annuler"
@@ -626,6 +630,10 @@ msgstr "Vue Cirkwi"
 msgid "Cirkwi widget ID"
 msgstr "Identifiant de votre widget \"Cirkwi\""
 
+#: imio/smartweb/core/contents/pages/cirkwi/content.py:22
+msgid "Cirkwi widget mb_key"
+msgstr ""
+
 #: imio/smartweb/core/profiles/icons/contenttypes/registry.xml
 msgid "CirkwiView content type icon"
 msgstr ""
@@ -634,11 +642,11 @@ msgstr ""
 msgid "Cities"
 msgstr ""
 
-#: imio/smartweb/common/vocabularies.py:27
+#: imio/smartweb/common/vocabularies.py:29
 msgid "Citizen participation"
 msgstr "Participation citoyenne"
 
-#: imio/smartweb/common/vocabularies.py:20
+#: imio/smartweb/common/vocabularies.py:22
 msgid "Citizenship"
 msgstr "Citoyenneté"
 
@@ -718,11 +726,11 @@ msgstr "Complément"
 msgid "Complete this procedure online"
 msgstr "Effectuer cette démarche en ligne"
 
-#: imio/events/core/vocabularies.py:22
+#: imio/events/core/vocabularies.py:21
 msgid "Concert and festival"
 msgstr "Concert et festival"
 
-#: imio/events/core/vocabularies.py:23
+#: imio/events/core/vocabularies.py:22
 msgid "Conference and debate"
 msgstr "Conférence et débat"
 
@@ -732,7 +740,7 @@ msgstr "Conférence et débat"
 msgid "Configure autopublishing settings"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:259
+#: imio/smartweb/core/contents/sections/external_content/views.py:260
 msgid "Consult the map"
 msgstr "Consulter la carte"
 
@@ -782,7 +790,7 @@ msgstr "Gestion des cookies"
 msgid "Country"
 msgstr "Pays"
 
-#: imio/smartweb/common/vocabularies.py:21
+#: imio/smartweb/common/vocabularies.py:23
 msgid "Culture"
 msgstr "Culture"
 
@@ -817,6 +825,10 @@ msgstr "Définir un logo pour ce sous-site (et ses pages enfants)"
 #: imio/smartweb/core/behaviors/subsite.py:49
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Définir un nombre de niveaux pour le menu de navigation du sous-site"
+
+#: imio/smartweb/core/contents/sections/views.py:70
+msgid "Define section size"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/macros.pt:53
 msgid "Delete section"
@@ -864,7 +876,7 @@ msgstr "Désactiver le mode site partenaire"
 msgid "Disable subsite"
 msgstr "Désactiver le mode sous-site"
 
-#: imio/smartweb/common/vocabularies.py:48
+#: imio/smartweb/common/vocabularies.py:57
 msgid "Disabled person"
 msgstr "En situation de handicap"
 
@@ -930,7 +942,7 @@ msgstr "Adresse e-mail"
 msgid "E-mails"
 msgstr "E-mails"
 
-#: imio/smartweb/common/vocabularies.py:22
+#: imio/smartweb/common/vocabularies.py:24
 msgid "Economics"
 msgstr "Économie"
 
@@ -938,7 +950,7 @@ msgstr "Économie"
 msgid "Edit section"
 msgstr "Modifier section"
 
-#: imio/smartweb/common/vocabularies.py:23
+#: imio/smartweb/common/vocabularies.py:25
 msgid "Education"
 msgstr "Éducation"
 
@@ -946,7 +958,7 @@ msgstr "Éducation"
 msgid "Effective"
 msgstr "Publication"
 
-#: imio/smartweb/common/vocabularies.py:54
+#: imio/smartweb/common/vocabularies.py:63
 msgid "Elder"
 msgstr "Senior"
 
@@ -980,7 +992,7 @@ msgstr "Entrez le code de langue. Ex: fr"
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
 msgstr "Entrez votre code HTML directement ici. Ce dernier doit être imbriqué dans des balises telles que : <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
 
-#: imio/smartweb/common/vocabularies.py:18
+#: imio/smartweb/common/vocabularies.py:20
 msgid "Entertainment"
 msgstr "Activités et divertissement"
 
@@ -1008,7 +1020,7 @@ msgstr "Entité"
 msgid "Entity news folderish content type"
 msgstr ""
 
-#: imio/smartweb/common/vocabularies.py:24
+#: imio/smartweb/common/vocabularies.py:26
 msgid "Environment"
 msgstr "Environnement"
 
@@ -1020,7 +1032,7 @@ msgstr "Erreur(s) à la ligne ${number}"
 msgid "Event"
 msgstr "Événement"
 
-#: imio/smartweb/common/vocabularies.py:52
+#: imio/smartweb/common/vocabularies.py:61
 msgid "Event planner"
 msgstr "Organisateur d'événement"
 
@@ -1028,7 +1040,7 @@ msgstr "Organisateur d'événement"
 msgid "Event type"
 msgstr "Type d'événement"
 
-#: imio/events/core/vocabularies.py:128
+#: imio/events/core/vocabularies.py:127
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
 msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, balade, etc.)"
 
@@ -1094,7 +1106,7 @@ msgstr "Exclure dans l'affichage listing du parent"
 msgid "Exclude some content_types from search results"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:24
+#: imio/events/core/vocabularies.py:23
 msgid "Exhibition and artistic meeting"
 msgstr "Exposition et rencontre artistique"
 
@@ -1203,7 +1215,7 @@ msgstr ""
 msgid "Fix versioning on imio.smartweb.SectionText"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:21
+#: imio/events/core/vocabularies.py:20
 msgid "Flea market and market"
 msgstr "Brocante et marché"
 
@@ -1326,7 +1338,7 @@ msgstr "Section HTML"
 msgid "HTML section for a page"
 msgstr "Section HTML pour une page"
 
-#: imio/smartweb/common/vocabularies.py:25
+#: imio/smartweb/common/vocabularies.py:27
 msgid "Habitat and town planning"
 msgstr "Habitat et urbanisme"
 
@@ -1342,7 +1354,7 @@ msgstr "Moitié de la page"
 msgid "Handle orientations for images scales"
 msgstr ""
 
-#: imio/smartweb/common/vocabularies.py:29
+#: imio/smartweb/common/vocabularies.py:31
 msgid "Health"
 msgstr "Santé"
 
@@ -1551,7 +1563,7 @@ msgstr ""
 msgid "Internal note"
 msgstr "Note interne"
 
-#: imio/events/core/vocabularies.py:28
+#: imio/events/core/vocabularies.py:27
 msgid "Internships and courses"
 msgstr "Stages et cours"
 
@@ -1569,11 +1581,11 @@ msgstr "Itinéraire"
 msgid "Job offer"
 msgstr "Emploi"
 
-#: imio/smartweb/common/vocabularies.py:47
+#: imio/smartweb/common/vocabularies.py:56
 msgid "Job seeker"
 msgstr "Demandeur d'emploi"
 
-#: imio/smartweb/common/vocabularies.py:50
+#: imio/smartweb/common/vocabularies.py:59
 msgid "Journalist"
 msgstr "Journaliste"
 
@@ -1672,7 +1684,7 @@ msgstr "Liste de catégories spécifiques d'événements disponibes pour cette e
 msgid "List of news categories values available for this entity (one per line)"
 msgstr "Liste de catégories spécifiques d'actualités disponibes pour cette entité (une par ligne)"
 
-#: imio/smartweb/common/vocabularies.py:110
+#: imio/smartweb/common/vocabularies.py:119
 msgid "Liste"
 msgstr "Liste"
 
@@ -1733,7 +1745,7 @@ msgstr "Nombre maximum de contacts par ligne (sur un écran d'ordinateur)"
 msgid "Menu depth"
 msgstr "Profondeur du menu"
 
-#: imio/smartweb/common/vocabularies.py:46
+#: imio/smartweb/common/vocabularies.py:55
 msgid "Merchant"
 msgstr "Commerçant"
 
@@ -1774,11 +1786,11 @@ msgstr "Mission (passeports, réception, parking, etc.)"
 msgid "Mobile"
 msgstr "GSM"
 
-#: imio/smartweb/common/vocabularies.py:26
+#: imio/smartweb/common/vocabularies.py:28
 msgid "Mobility"
 msgstr "Mobilité"
 
-#: imio/smartweb/core/contents/sections/macros.pt:62
+#: imio/smartweb/core/contents/sections/macros.pt:88
 msgid "Modified"
 msgstr "Modifié"
 
@@ -1794,7 +1806,7 @@ msgstr "Mon compte"
 msgid "Name"
 msgstr "Nom"
 
-#: imio/smartweb/common/vocabularies.py:51
+#: imio/smartweb/common/vocabularies.py:60
 msgid "Newcomer"
 msgstr "Nouvel arrivant"
 
@@ -1967,7 +1979,7 @@ msgstr "Page"
 msgid "Page content type icon"
 msgstr ""
 
-#: imio/smartweb/common/vocabularies.py:53
+#: imio/smartweb/common/vocabularies.py:62
 msgid "Parent"
 msgstr "Parent"
 
@@ -1975,7 +1987,7 @@ msgstr "Parent"
 msgid "Parent listing"
 msgstr "Listing du parent"
 
-#: imio/events/core/vocabularies.py:25
+#: imio/events/core/vocabularies.py:24
 msgid "Party and folklore"
 msgstr "Fête et folklore"
 
@@ -2039,7 +2051,7 @@ msgstr "À l'aide!"
 msgid "Please note that it is important to upload an image without text for design and accessibility reasons. The image will not display in its entirety and the text may be cut off."
 msgstr "Attention, il est important de téléverser une image sans texte pour des raisons de design et d'accessibilité. L'image ne s'affichera pas dans son entièreté et le texte pourrait être coupé."
 
-#: imio/smartweb/common/vocabularies.py:28
+#: imio/smartweb/common/vocabularies.py:30
 msgid "Politics"
 msgstr "Politique"
 
@@ -2121,7 +2133,7 @@ msgstr "Lien vers la démarche"
 msgid "Procedures and practical informations"
 msgstr "Démarches & infos pratiques"
 
-#: imio/events/core/vocabularies.py:26
+#: imio/events/core/vocabularies.py:25
 msgid "Projection and cinema"
 msgstr "Projection et cinéma"
 
@@ -2211,7 +2223,7 @@ msgstr "Création d'une section de texte dans votre page."
 msgid "Right"
 msgstr "Droite"
 
-#: imio/smartweb/common/vocabularies.py:30
+#: imio/smartweb/common/vocabularies.py:32
 msgid "Safety and prevention"
 msgstr "Sécurité et prévention"
 
@@ -2240,11 +2252,11 @@ msgstr "Clé secrète"
 msgid "Secret key to use API"
 msgstr "Clé secrète pour utiliser l'API"
 
-#: imio/smartweb/core/contents/sections/views.py:45
+#: imio/smartweb/core/contents/sections/views.py:49
 msgid "Section title has been hidden"
 msgstr "Le titre de la section a été caché (pour le visiteur)"
 
-#: imio/smartweb/core/contents/sections/views.py:52
+#: imio/smartweb/core/contents/sections/views.py:56
 msgid "Section title has been shown"
 msgstr "Le titre de la section a été affiché"
 
@@ -2472,7 +2484,7 @@ msgstr "Section slide pour un bandeau d'en-tête"
 msgid "Smartweb Settings"
 msgstr "Paramètrage de smartweb"
 
-#: imio/smartweb/common/vocabularies.py:31
+#: imio/smartweb/common/vocabularies.py:33
 msgid "Social"
 msgstr "Social"
 
@@ -2525,7 +2537,7 @@ msgstr "Actualités spécifiquement sélectionnées"
 msgid "Specify your cirkwi widget ID. You can find it when you create a new widget in Cirkwi."
 msgstr "Précisez votre identifiant de widget Cirkwi. Vous pouvez le trouver lorsque vous créez un nouveau widget dans Cirkwi."
 
-#: imio/smartweb/common/vocabularies.py:32
+#: imio/smartweb/common/vocabularies.py:34
 msgid "Sports"
 msgstr "Sports"
 
@@ -2546,7 +2558,7 @@ msgstr "Statistiques"
 msgid "Street"
 msgstr "Rue"
 
-#: imio/events/core/vocabularies.py:20
+#: imio/events/core/vocabularies.py:19
 msgid "Stroll and discovery"
 msgstr "Balade et découverte"
 
@@ -2554,7 +2566,7 @@ msgstr "Balade et découverte"
 msgid "Sub contacts"
 msgstr "Sous contacts"
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:66
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:65
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:65
 msgid "Submit"
 msgstr "Valider"
@@ -2609,7 +2621,7 @@ msgstr "Les taxonomies ont bien été définies sur ce contenu!"
 msgid "Taxonomies choices form"
 msgstr "Formulaire de choix des taxonomies"
 
-#: imio/smartweb/common/vocabularies.py:33
+#: imio/smartweb/common/vocabularies.py:35
 msgid "Territory and public space"
 msgstr "Territoire et espace public"
 
@@ -2643,7 +2655,7 @@ msgstr "Section de texte"
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enregistrement de la fiche. Il est possible de modifier le pointeur manuellement si ce dernier n'est pas bien positionné."
 
-#: imio/smartweb/common/utils.py:135
+#: imio/smartweb/common/utils.py:137
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
 msgstr "L'image téléversée dans le champ \"${field_title}\" risque d'être dégradée, car elle ne correspond pas aux dimensions minimales requises de ${min_width}px de largeur sur ${min_height}px de hauteur (taille de l'image téléversée : ${width}px de largeur / ${height}px de hauteur). Vous pouvez voir le détail via le menu Découpe."
 
@@ -2655,11 +2667,11 @@ msgstr "L'élément sélectionné comme page d'accueil du dossier est :"
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr "Le titre sera toujours affiché si ce comportement est activé."
 
-#: imio/events/core/vocabularies.py:29
+#: imio/events/core/vocabularies.py:28
 msgid "Theater and show"
 msgstr "Théâtre et spectacle"
 
-#: imio/smartweb/core/contents/pages/views.py:64
+#: imio/smartweb/core/contents/pages/views.py:66
 msgid "There is no section on this page."
 msgstr "Il n'y a aucune section dans cette page."
 
@@ -2734,7 +2746,7 @@ msgstr "Haut"
 msgid "Topics"
 msgstr "Thématiques"
 
-#: imio/smartweb/common/vocabularies.py:34
+#: imio/smartweb/common/vocabularies.py:36
 msgid "Tourism"
 msgstr "Tourisme"
 
@@ -2742,11 +2754,11 @@ msgstr "Tourisme"
 msgid "Tourism organizations"
 msgstr "Organisations touristiques"
 
-#: imio/smartweb/common/vocabularies.py:55
+#: imio/smartweb/common/vocabularies.py:64
 msgid "Tourist"
 msgstr "Touriste"
 
-#: imio/events/core/vocabularies.py:27
+#: imio/events/core/vocabularies.py:26
 msgid "Trade Fair and Fair"
 msgstr "Salon et Foire"
 
@@ -2796,7 +2808,7 @@ msgstr ""
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:373
+#: imio/smartweb/core/contents/sections/external_content/views.py:374
 msgid "Unknow service"
 msgstr "Service inconnu"
 
@@ -3027,6 +3039,10 @@ msgstr ""
 msgid "Upgrade core from 1054 to 1055"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:228
+msgid "Upgrade core from 1055 to 1056"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -3196,7 +3212,7 @@ msgstr "Vue - Annuaire"
 msgid "View - News"
 msgstr "Vue - Actualités"
 
-#: imio/smartweb/common/vocabularies.py:109
+#: imio/smartweb/common/vocabularies.py:118
 msgid "Vignette"
 msgstr "Vignette"
 
@@ -3229,7 +3245,7 @@ msgstr "Avec le plugin cognitoform, les paramètres complémentaires peuvent êt
 msgid "With an elloha plugin, extra params must contain a dictionary with two keys : ConstellationWidgetContainer, Idoi"
 msgstr "Avec le plugin elloha, les paraètres complémentaires doivent être un dictionnaire avec 2 clés : ConstellationWidgetContainer, Idoi"
 
-#: imio/smartweb/core/contents/sections/external_content/views.py:243
+#: imio/smartweb/core/contents/sections/external_content/views.py:244
 msgid "With arcgis plugin, extra params must contain a dictionary with one key : portal_item_id"
 msgstr "Avec le plugin arcgis, les paraètres complémentaires doivent être un dictionnaire avec la clé : portal_item_id"
 
@@ -3249,12 +3265,12 @@ msgstr "Travaux"
 msgid "Yes"
 msgstr "Oui"
 
-#: imio/events/core/browser/bring_event_into_agendas/agendas.py:49
+#: imio/events/core/browser/bring_event_into_agendas/agendas.py:48
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:48
 msgid "You don't have rights to access this page."
 msgstr "Vous n'avez pas l'autorisation d'afficher cette page"
 
-#: imio/smartweb/common/vocabularies.py:49
+#: imio/smartweb/common/vocabularies.py:58
 msgid "Young"
 msgstr "Jeune"
 
