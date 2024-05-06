@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.16 (unreleased)
+1.1.16 (2024-05-06)
 -------------------
 
 - Add missing French translations for `Carre` & categories / topics display on items
