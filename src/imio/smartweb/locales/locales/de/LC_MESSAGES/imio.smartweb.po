@@ -2496,6 +2496,18 @@ msgstr "Titel anzeigen"
 msgid "Site created in collaboration with"
 msgstr "Website erstellt in Zusammenarbeit mit"
 
+#: imio/smartweb/common/viewlets/skip_to_content.pt:1
+msgid "Skip to content"
+msgstr ""
+
+#: imio/smartweb/common/viewlets/skip_to_content.pt:7
+msgid "Skip to footer"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/footer.pt:9
+msgid "Skip to navigation"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
 msgid "Slide section"
 msgstr "Folienschnitt"
