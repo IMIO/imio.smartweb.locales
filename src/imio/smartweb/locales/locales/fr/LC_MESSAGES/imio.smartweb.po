@@ -2498,15 +2498,15 @@ msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
-msgstr ""
+msgstr "Aller au contenu"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:7
 msgid "Skip to footer"
-msgstr ""
+msgstr "Aller au pied de page"
 
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"
-msgstr ""
+msgstr "Aller à la navigation"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionSlide.xml
 msgid "Slide section"
