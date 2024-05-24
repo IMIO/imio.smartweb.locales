@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.18 (unreleased)
+1.1.18 (2024-05-24)
 -------------------
 
 - Add missing FR translations
