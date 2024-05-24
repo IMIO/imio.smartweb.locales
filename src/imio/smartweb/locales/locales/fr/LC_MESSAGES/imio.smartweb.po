@@ -869,7 +869,7 @@ msgstr "Description"
 #: imio/events/core/contents/entity/content.py:30
 #: imio/news/core/contents/entity/content.py:29
 msgid "Deutsch"
-msgstr ""
+msgstr "Allemand"
 
 #: imio/smartweb/core/browser/controlpanel.py:72
 msgid "Directory SolR Core ID"
@@ -958,7 +958,7 @@ msgstr "Points d'eau potable"
 #: imio/events/core/contents/entity/content.py:25
 #: imio/news/core/contents/entity/content.py:24
 msgid "Dutch"
-msgstr ""
+msgstr "Néerlandais"
 
 #: imio/directory/core/contents/contact/content.py:282
 #: imio/events/core/contents/event/content.py:81
@@ -1017,7 +1017,7 @@ msgstr "Activer le mode sous-site"
 #: imio/events/core/contents/entity/content.py:35
 #: imio/news/core/contents/entity/content.py:34
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #: imio/directory/core/contents/contact/content.py:265
 #: imio/events/core/contents/event/content.py:64
@@ -1324,7 +1324,7 @@ msgstr "Gratuit"
 #: imio/events/core/contents/entity/content.py:20
 #: imio/news/core/contents/entity/content.py:19
 msgid "French"
-msgstr ""
+msgstr "Français"
 
 #: imio/smartweb/common/contact_utils.py:105
 msgid "Friday"
@@ -2685,7 +2685,7 @@ msgstr "Formulaire de choix des taxonomies"
 
 #: imio/smartweb/common/browser/collective_taxonomy_controlpanel.py:56
 msgid "Term \"${term_title}\" can't be removed because it is used (at least) here : ${here}"
-msgstr ""
+msgstr "Le terme \"${term_title}\" ne peut être supprimé car il est utilisé (au moins) ici : ${here}"
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
@@ -2693,7 +2693,7 @@ msgstr "Territoire et espace public"
 
 #: imio/smartweb/policy/monkey.py:51
 msgid "Terroir"
-msgstr ""
+msgstr "Terroir"
 
 #: imio/events/core/contents/event/content.py:58
 #: imio/news/core/contents/newsitem/content.py:44

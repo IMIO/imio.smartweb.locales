@@ -5,7 +5,8 @@ Changelog
 1.1.18 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add missing FR translations
+  [laulaz]
 
 
 1.1.17 (2024-05-24)
