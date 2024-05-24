@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.17 (unreleased)
+1.1.17 (2024-05-24)
 -------------------
 
 - Add missing fr/de/nl translations for Skip to content/navigation/footer
