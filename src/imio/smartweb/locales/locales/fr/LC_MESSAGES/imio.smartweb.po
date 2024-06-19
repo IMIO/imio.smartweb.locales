@@ -115,6 +115,11 @@ msgstr "Ajout de la possibilité de choisir si on affiche les catégories ou th�
 msgid "Add imio.smartweb.orientation to section files"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:76
+#: imio/news/core/upgrades/configure.zcml:68
+msgid "Add index for local category search"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:172
 msgid "Add leadimage behavior on external content section"
 msgstr ""
@@ -190,6 +195,10 @@ msgstr ""
 msgid "Add new registry key to activate logging smartweb / authentic sources products"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:44
+msgid "Add new registry keys to store push keys for ODWB"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:20
 msgid "Add new shop icon to registry"
 msgstr ""
@@ -260,6 +269,10 @@ msgstr "Affiche"
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr "Agenda"
+
+#: imio/events/core/browser/actions.py:18
+msgid "Agenda ${val1} can't be removed because it contains ${val2} event(s)"
+msgstr ""
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:83
 msgid "Agenda(s) correctly added."
@@ -416,7 +429,7 @@ msgstr ""
 msgid "CSS class"
 msgstr "Classe CSS"
 
-#: imio/directory/core/browser/import.py:311
+#: imio/directory/core/browser/import.py:312
 msgid "CSV file"
 msgstr "Fichier CSV"
 
@@ -1236,6 +1249,10 @@ msgstr "Section de fichiers"
 msgid "Files section for a page"
 msgstr "Création d'une section de fichiers dans votre page."
 
+#: imio/smartweb/policy/upgrades/configure.zcml:180
+msgid "Fix Anysurfer controlpanel permission (fix 1029_to_1030)"
+msgstr ""
+
 #: imio/smartweb/common/upgrades/configure.zcml:53
 msgid "Fix TinyMCE menu bar and format menu"
 msgstr ""
@@ -1536,11 +1553,11 @@ msgstr "Echelle d'images (seulement en mode galerie)"
 msgid "Image size"
 msgstr "Taille de l'image"
 
-#: imio/directory/core/browser/import.py:320
+#: imio/directory/core/browser/import.py:321
 msgid "Import"
 msgstr "Importer"
 
-#: imio/directory/core/browser/import.py:315
+#: imio/directory/core/browser/import.py:316
 #: imio/directory/core/profiles/default/actions.xml
 msgid "Import contacts"
 msgstr "Importer des contacts"
@@ -1567,7 +1584,7 @@ msgstr "Important! Ces catégories permettent de mettre en avant et de géolocal
 msgid "Important! Topics are used to filter search results and create lists"
 msgstr "Important! Les thématiques sont utilisées pour filtrer les résultats de la recherche et créer des listes"
 
-#: imio/directory/core/browser/import.py:342
+#: imio/directory/core/browser/import.py:343
 msgid "Imported ${number} contacts successfully !"
 msgstr "${number} contacts importés avec succès !"
 
@@ -2252,6 +2269,10 @@ msgstr ""
 msgid "Remove imio.events.Page portal type"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:141
+msgid "Remove obsolete patterns bundle / fix previous 1027_to_1028 upgrade"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:12
 #: imio/smartweb/policy/upgrades/configure.zcml:108
 msgid "Remove plone.patternslib deprecated bundles"
@@ -2890,6 +2911,10 @@ msgstr ""
 msgid "Update caching configuration"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:244
+msgid "Update page/procedure categories taxonomies to add DE and NL translations"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:124
 msgid "Update permission : local manager can manage their subsites"
 msgstr ""
@@ -2956,6 +2981,10 @@ msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:133
 msgid "Upgrade common from 1028 to 1029"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:141
+msgid "Upgrade common from 1029 to 1030"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:92
@@ -3032,6 +3061,7 @@ msgstr ""
 
 #: imio/directory/core/upgrades/configure.zcml:28
 #: imio/events/core/upgrades/configure.zcml:52
+#: imio/news/core/upgrades/configure.zcml:68
 msgid "Upgrade core from 1013 to 1014"
 msgstr ""
 
@@ -3039,6 +3069,7 @@ msgstr ""
 msgid "Upgrade core from 1014 to 1015"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:44
 #: imio/events/core/upgrades/configure.zcml:60
 #: imio/smartweb/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1015 to 1016"
@@ -3047,6 +3078,10 @@ msgstr ""
 #: imio/events/core/upgrades/configure.zcml:68
 #: imio/smartweb/core/upgrades/configure.zcml:20
 msgid "Upgrade core from 1016 to 1017"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:76
+msgid "Upgrade core from 1017 to 1018"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
@@ -3133,6 +3168,10 @@ msgstr ""
 msgid "Upgrade core from 1056 to 1057"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:244
+msgid "Upgrade core from 1057 to 1058"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy 1006 to 1007"
 msgstr ""
@@ -3201,6 +3240,14 @@ msgstr ""
 msgid "Upgrade policy 1033 to 1034"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:172
+msgid "Upgrade policy 1034 to 1035"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:180
+msgid "Upgrade policy 1035 to 1036"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:12
 #: imio/events/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy from 1000 to 1001"
@@ -3260,6 +3307,10 @@ msgstr "Utilisez **texte** pour mettre du texte en gras. Limité à ${max} carac
 
 #: imio/smartweb/core/upgrades/configure.zcml:92
 msgid "Use custom spotlight to avoid bad gallery refresh"
+msgstr ""
+
+#: imio/smartweb/policy/upgrades/configure.zcml:172
+msgid "Use resourceRegistries ETag in caching configurations"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:86
