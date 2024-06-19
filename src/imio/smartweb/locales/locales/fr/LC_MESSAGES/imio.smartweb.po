@@ -272,7 +272,7 @@ msgstr "Agenda"
 
 #: imio/events/core/browser/actions.py:18
 msgid "Agenda ${val1} can't be removed because it contains ${val2} event(s)"
-msgstr ""
+msgstr "L'agenda ${val1} ne peut pas être supprimé car il contient ${val2} événement(s)"
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:83
 msgid "Agenda(s) correctly added."

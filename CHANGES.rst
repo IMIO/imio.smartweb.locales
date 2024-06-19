@@ -5,6 +5,9 @@ Changelog
 1.1.19 (unreleased)
 -------------------
 
+- Add missing fr/de/nl translations for imio.events.core
+  [boulch]
+
 - Update translations
   [boulch]
 
