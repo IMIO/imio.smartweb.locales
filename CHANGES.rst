@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.20 (unreleased)
+1.1.20 (2024-07-22)
 -------------------
 
 - Add missing fr/de translations for imio.smartweb.core
