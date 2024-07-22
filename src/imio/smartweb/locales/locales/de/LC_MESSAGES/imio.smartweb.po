@@ -29,13 +29,18 @@ msgstr "Alles akzeptieren"
 msgid "Accessibility"
 msgstr "Barrierefreiheit"
 
-#: imio/directory/core/vocabularies.py:83
+#: imio/directory/core/vocabularies.py:84
 msgid "Accessibility (PMR)"
 msgstr "Barrierefreiheit (PMR)"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - Contact us"
 msgstr "Aktion - Kontaktiere uns"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Action - Delete"
+msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1015_to_1016/registry/e-guichet-icon.xml
@@ -50,6 +55,14 @@ msgstr "Aktion - E-Mail"
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Action - Hiring"
 msgstr "Aktion - Anstellung"
+
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Action - Hiring - 2"
+msgstr "Aktion - Anstellung - 2"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Action - Hiring-2"
+msgstr "Aktion - Anstellung-2"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - Join us"
@@ -66,6 +79,16 @@ msgstr "Aktion - Problem melden"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Action - See map"
 msgstr "Aktion - Karte anzeigen"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Action - Signs"
+msgstr "Aktion - Schilder"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Action - Vote"
+msgstr "Aktion - Abstimmen"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:28
 msgid "Activate plone.app.caching.moderateCaching.lastModified"
@@ -169,6 +192,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:44
 msgid "Add new icons to registry"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:252
+msgid "Add new linkedin icon to registry"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:76
@@ -411,7 +438,7 @@ msgstr ""
 msgid "Blocks that will be displayed in contact"
 msgstr "Blöcke, die im Kontakt angezeigt werden"
 
-#: imio/directory/core/vocabularies.py:89
+#: imio/directory/core/vocabularies.py:90
 msgid "Bottle bubbles"
 msgstr "Flaschenblasen"
 
@@ -480,8 +507,21 @@ msgid "Category - Associations"
 msgstr "Kategorie - Vereine"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Attention"
+msgstr "Kategorie - Achtung"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Bonuses"
 msgstr "Kategorie - Boni"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+msgid "Category - Bonuses - 2"
+msgstr "Kategorie - Boni - 2"
+
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Bonuses 2"
+msgstr "Kategorie - Boni 2"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Childhood"
@@ -494,6 +534,11 @@ msgstr "Kategorie - Kino"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Concert"
 msgstr "Kategorie - Konzert"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Containerpark"
+msgstr "Kategorie - Containerpark"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Culture"
@@ -516,9 +561,19 @@ msgid "Category - Mobility"
 msgstr "Kategorie - Mobilität"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - More"
+msgstr "Kategorie - Mehr"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
 #: imio/smartweb/core/upgrades/profiles/1022_to_1023/registry/icons.xml
 msgid "Category - My account"
 msgstr "Kategorie - Mein Konto"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Nature"
+msgstr "Kategorie - Natur"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Parkings"
@@ -554,6 +609,11 @@ msgid "Category - Sport - Run"
 msgstr "Kategorie - Sport - Laufen"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Sport - Swim"
+msgstr "Kategorie - Sport - Schwimmen"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Sport - Trophy"
 msgstr "Kategorie - Sport - Trophäe"
 
@@ -564,6 +624,11 @@ msgstr "Kategorie - Theater"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Tourism"
 msgstr "Kategorie - Tourismus"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Category - Works - 2"
+msgstr "Kategorie - Arbeiten - 2"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Category - Works info"
@@ -737,7 +802,7 @@ msgstr "Schließen"
 msgid "Closed"
 msgstr "Geschlossen"
 
-#: imio/directory/core/vocabularies.py:90
+#: imio/directory/core/vocabularies.py:91
 msgid "Clothing bubbles"
 msgstr "Kleidungskleider"
 
@@ -809,7 +874,7 @@ msgstr "Kontakt-Titel fehlt."
 msgid "Contact type is missing."
 msgstr "Kontakttyp fehlt."
 
-#: imio/directory/core/vocabularies.py:91
+#: imio/directory/core/vocabularies.py:92
 msgid "Container parks"
 msgstr "Containerparks"
 
@@ -845,7 +910,7 @@ msgstr "Standard-Ereignisansicht"
 msgid "Default news view"
 msgstr "Standard-Nachrichtenansicht"
 
-#: imio/directory/core/vocabularies.py:84
+#: imio/directory/core/vocabularies.py:85
 msgid "Defibrillator"
 msgstr "Defibrillator"
 
@@ -925,7 +990,7 @@ msgid "Disabled person"
 msgstr "Person mit Behinderung"
 
 #: imio/smartweb/core/contents/rest/events/content.py:41
-#: imio/smartweb/core/contents/sections/events/content.py:90
+#: imio/smartweb/core/contents/sections/events/content.py:91
 msgid "Display agendas titles"
 msgstr "Tagesordnungstitel anzeigen"
 
@@ -956,7 +1021,7 @@ msgid "Display map"
 msgstr "Karte anzeigen"
 
 #: imio/smartweb/core/contents/rest/news/content.py:25
-#: imio/smartweb/core/contents/sections/news/content.py:90
+#: imio/smartweb/core/contents/sections/news/content.py:91
 msgid "Display news folders titles"
 msgstr "Titel der Nachrichtenordner anzeigen"
 
@@ -964,7 +1029,7 @@ msgstr "Titel der Nachrichtenordner anzeigen"
 msgid "Display only past events"
 msgstr "Nur vergangene Ereignisse anzeigen"
 
-#: imio/directory/core/vocabularies.py:85
+#: imio/directory/core/vocabularies.py:86
 msgid "Drinking water point"
 msgstr "Trinkwasserstelle"
 
@@ -1122,7 +1187,7 @@ msgstr "Sektion Veranstaltungen für eine Seite"
 msgid "Events view"
 msgstr "Veranstaltungsansicht"
 
-#: imio/smartweb/core/contents/sections/events/content.py:57
+#: imio/smartweb/core/contents/sections/events/content.py:58
 msgid "Events view used to display events details"
 msgstr "Veranstaltungsansicht zur Anzeige von Veranstaltungsdetails"
 
@@ -1329,7 +1394,7 @@ msgstr "Für den anonymen Besucher sind der Ordner und das ausgewählte Element 
 msgid "Form to choose item to be displayed as the home page of the folder"
 msgstr "Formular zum Auswählen des Elements, das als Startseite des Ordners angezeigt werden soll"
 
-#: imio/directory/core/vocabularies.py:88
+#: imio/directory/core/vocabularies.py:89
 msgid "Free WIFI"
 msgstr "Kostenloses WLAN"
 
@@ -1495,7 +1560,7 @@ msgstr "Symbole"
 msgid "If checked, display agendas titles"
 msgstr "Wenn diese Option aktiviert ist, werden Tagesordnungstitel angezeigt"
 
-#: imio/smartweb/core/contents/sections/events/content.py:91
+#: imio/smartweb/core/contents/sections/events/content.py:92
 msgid "If checked, display agendas titles in the carousel view."
 msgstr "Wenn diese Option aktiviert ist, werden die Tagesordnungstitel in der Karussellansicht angezeigt."
 
@@ -1503,7 +1568,7 @@ msgstr "Wenn diese Option aktiviert ist, werden die Tagesordnungstitel in der Ka
 msgid "If checked, display news folders titles"
 msgstr "Wenn diese Option aktiviert ist, werden die Titel der Nachrichtenordner angezeigt"
 
-#: imio/smartweb/core/contents/sections/news/content.py:91
+#: imio/smartweb/core/contents/sections/news/content.py:92
 msgid "If checked, display news folders titles in the carousel view."
 msgstr "Wenn diese Option aktiviert ist, werden die Titel der Nachrichtenordner in der Karussellansicht angezeigt."
 
@@ -1727,6 +1792,10 @@ msgstr "Link zur Online-Teilnahme"
 msgid "Link to your account"
 msgstr "Link zu Ihrem Konto"
 
+#: imio/directory/core/vocabularies.py:68
+msgid "Linkedin"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionLinks.xml
 msgid "Links section"
 msgstr "Link-Abschnitt"
@@ -1791,8 +1860,8 @@ msgid "Map section for a page"
 msgstr "Kartenabschnitt für eine Seite"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:48
-#: imio/smartweb/core/contents/sections/events/content.py:70
-#: imio/smartweb/core/contents/sections/news/content.py:70
+#: imio/smartweb/core/contents/sections/events/content.py:71
+#: imio/smartweb/core/contents/sections/news/content.py:71
 msgid "Maximum number of batches to display"
 msgstr "Maximale Anzahl von Chargen zur Anzeige"
 
@@ -1885,6 +1954,14 @@ msgstr "Nachrichtenentität"
 msgid "News folder"
 msgstr "Nachrichtenordner"
 
+#: imio/news/core/browser/actions.py:24
+msgid "News folder ${val1} can't be removed because it contains ${val2} news"
+msgstr ""
+
+#: imio/news/core/browser/actions.py:40
+msgid "News folder ${val1} can't be removed because it contains ${val2} news..."
+msgstr ""
+
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:84
 msgid "News folder(s) correctly added."
 msgstr "Nachrichtenordner aktualisiert"
@@ -1909,7 +1986,7 @@ msgstr "Nachrichtenabschnitt für eine Seite"
 msgid "News view"
 msgstr "Nachrichtenansicht"
 
-#: imio/smartweb/core/contents/sections/news/content.py:57
+#: imio/smartweb/core/contents/sections/news/content.py:58
 msgid "News view used to display news items details"
 msgstr "Nachrichtenansicht, die zur Anzeige von Details zu Nachrichten verwendet wird"
 
@@ -1946,7 +2023,7 @@ msgid "Number (format: +32475010203)"
 msgstr "Nummer (Format: +32475010203)"
 
 #: imio/smartweb/core/contents/sections/collection/content.py:41
-#: imio/smartweb/core/contents/sections/events/content.py:63
+#: imio/smartweb/core/contents/sections/events/content.py:64
 #: imio/smartweb/core/contents/sections/files/content.py:15
 msgid "Number of items per batch"
 msgstr "Anzahl der Elemente pro Batch"
@@ -1999,6 +2076,11 @@ msgid "Organization (administrative service, business, professional, sports club
 msgstr "Organisation (Verwaltungsdienst, Unternehmen, Berufsverband, Sportverein, Verein, etc.)"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Organization - Boyscout"
+msgstr "Organisation - Pfadfinder"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Organization - Cpas"
 msgstr "Organisation - Cpas"
 
@@ -2021,6 +2103,11 @@ msgstr "Organisation - Polizei"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Organization - School"
 msgstr "Organisation - Schule"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Organization - School - 2"
+msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Organization - School of arts"
@@ -2086,7 +2173,7 @@ msgstr "Fotoalbum"
 msgid "Picture will be displayed as slide background"
 msgstr "Bild wird als Hintergrund für die Folie angezeigt"
 
-#: imio/directory/core/vocabularies.py:68
+#: imio/directory/core/vocabularies.py:69
 msgid "Pinterest"
 msgstr "Pinterest"
 
@@ -2204,7 +2291,7 @@ msgstr "Verfahren und praktische Informationen"
 msgid "Projection and cinema"
 msgstr "Projektion und Kino"
 
-#: imio/directory/core/vocabularies.py:87
+#: imio/directory/core/vocabularies.py:88
 msgid "Public toilets"
 msgstr "Öffentliche Toiletten"
 
@@ -2528,8 +2615,8 @@ msgid "Show category or topic"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/collection/content.py:74
-#: imio/smartweb/core/contents/sections/events/content.py:85
-#: imio/smartweb/core/contents/sections/news/content.py:85
+#: imio/smartweb/core/contents/sections/events/content.py:86
+#: imio/smartweb/core/contents/sections/news/content.py:86
 msgid "Show items description"
 msgstr "Beschreibung der Elemente anzeigen"
 
@@ -2572,6 +2659,11 @@ msgid "Social"
 msgstr "Sozial"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Social network - Behance"
+msgstr "Soziales Netzwerk - Behance" 
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Facebook"
 msgstr "Soziales Netzwerk - Facebook"
 
@@ -2582,6 +2674,11 @@ msgstr "Soziales Netzwerk - Facebook Daumen"
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Instagram"
 msgstr "Soziales Netzwerk - Instagram"
+
+#: imio/smartweb/core/profiles/icons/basic/registry.xml
+#: imio/smartweb/core/upgrades/profiles/1058_to_1059/registry/linkedin-icon.xml
+msgid "Social network - Linkedin"
+msgstr "Soziales Netzwerk - Linkedin"
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Twitter"
@@ -2726,11 +2823,11 @@ msgstr "Text"
 msgid "Text for the link to the collection"
 msgstr "Text für den Link zur Sammlung"
 
-#: imio/smartweb/core/contents/sections/events/content.py:78
+#: imio/smartweb/core/contents/sections/events/content.py:79
 msgid "Text for the link to the events view"
 msgstr "Text für den Link zur Veranstaltungsansicht"
 
-#: imio/smartweb/core/contents/sections/news/content.py:78
+#: imio/smartweb/core/contents/sections/news/content.py:79
 msgid "Text for the link to the news view"
 msgstr "Text für den Link zur Nachrichtenansicht"
 
@@ -2857,7 +2954,7 @@ msgstr "Handelsmesse und Messe"
 msgid "Tuesday"
 msgstr "Dienstag"
 
-#: imio/directory/core/vocabularies.py:69
+#: imio/directory/core/vocabularies.py:70
 #: imio/events/core/contents/event/content.py:136
 #: imio/events/core/contents/event/view.pt:77
 msgid "Twitter"
@@ -2905,6 +3002,14 @@ msgstr "Unbekannter Dienst"
 
 #: imio/smartweb/common/upgrades/configure.zcml:125
 msgid "Unpatch (restore original) eea.facetednavigation jquery"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:84
+msgid "Unpublish events in private agendas and remove workflow out of Agenda / Folder"
+msgstr ""
+
+#: imio/news/core/upgrades/configure.zcml:76
+msgid "Unpublish news in private newsfolders and remove workflow out of NewsFolder / Folder"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
@@ -3066,6 +3171,7 @@ msgid "Upgrade core from 1013 to 1014"
 msgstr ""
 
 #: imio/directory/core/upgrades/configure.zcml:36
+#: imio/news/core/upgrades/configure.zcml:76
 msgid "Upgrade core from 1014 to 1015"
 msgstr ""
 
@@ -3082,6 +3188,10 @@ msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:76
 msgid "Upgrade core from 1017 to 1018"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:84
+msgid "Upgrade core from 1018 to 1019"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
@@ -3170,6 +3280,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:244
 msgid "Upgrade core from 1057 to 1058"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:252
+msgid "Upgrade core from 1058 to 1059"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
@@ -3313,7 +3427,7 @@ msgstr ""
 msgid "Use resourceRegistries ETag in caching configurations"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:86
+#: imio/directory/core/vocabularies.py:87
 msgid "Useful numbers"
 msgstr "Nützliche Nummern"
 
@@ -3369,7 +3483,7 @@ msgstr "Vokabularbegriff"
 msgid "Warning: these options are not relevant for Sections and will not be applied."
 msgstr "Warnung: Diese Optionen sind für Abschnitte nicht relevant und werden nicht angewendet."
 
-#: imio/directory/core/vocabularies.py:70
+#: imio/directory/core/vocabularies.py:71
 #: imio/news/core/contents/newsitem/content.py:89
 msgid "Website"
 msgstr "Website"  # No translation needed for "Website"
@@ -3427,7 +3541,7 @@ msgstr "Ihr Schaltflächentitel"
 msgid "Your event must last less than 3 years."
 msgstr "Ihre Veranstaltung darf nicht länger als 3 Jahre dauern."
 
-#: imio/directory/core/vocabularies.py:71
+#: imio/directory/core/vocabularies.py:72
 msgid "Youtube"
 msgstr "Youtube"
 

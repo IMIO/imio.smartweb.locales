@@ -5,7 +5,8 @@ Changelog
 1.1.20 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add missing fr/de translations for imio.smartweb.core
+  [thomlamb]
 
 
 1.1.19 (2024-06-19)
