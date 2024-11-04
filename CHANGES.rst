@@ -5,7 +5,8 @@ Changelog
 1.1.21 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- SUP-37238 : Corrected DE translation. Use Öffnungszeiten instead of Zeitplan
+  [boulch]
 
 
 1.1.20 (2024-07-22)
