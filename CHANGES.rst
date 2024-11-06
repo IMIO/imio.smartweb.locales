@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.21 (unreleased)
+1.1.21 (2024-11-06)
 -------------------
 
 - SUP-37238 : Corrected DE translation. Use Öffnungszeiten instead of Zeitplan
