@@ -4,7 +4,7 @@
 all: update_translations
 
 bin/pip:
-	python3 -m venv .
+	python3.12 -m venv .
 
 bin/buildout: bin/pip buildout.cfg
 	bin/pip install -I -r requirements.txt
