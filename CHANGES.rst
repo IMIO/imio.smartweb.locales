@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.23 (unreleased)
+1.1.23 (2025-02-10)
 -------------------
 
 - Add some fr/de/nl translations for imio.smartweb.core
