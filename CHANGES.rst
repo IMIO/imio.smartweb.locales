@@ -5,6 +5,9 @@ Changelog
 1.1.23 (unreleased)
 -------------------
 
+- Add some fr/de/nl translations for imio.smartweb.core
+  [boulch]
+
 - Update translations
   [boulch]
 

@@ -1977,7 +1977,7 @@ msgstr "Nom"
 #: imio/smartweb/core/contents/sections/files/view.py:73
 #: imio/smartweb/core/contents/sections/links/view.py:51
 msgid "New tab"
-msgstr ""
+msgstr "Nouvelle fenêtre"
 
 #: imio/smartweb/common/vocabularies.py:51
 msgid "Newcomer"
@@ -3565,7 +3565,7 @@ msgstr "Vignette"
 
 #: imio/smartweb/core/contents/sections/video/views.py:55
 msgid "Vimeo video"
-msgstr ""
+msgstr "Vidéo Vimeo"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:35
 msgid "Visible blocks"
@@ -3643,7 +3643,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/video/views.py:38
 msgid "Youtube video"
-msgstr ""
+msgstr "Vidéo Youtube"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:52
 msgid "Youtube video URL"

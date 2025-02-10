@@ -1976,7 +1976,7 @@ msgstr "Naam"
 #: imio/smartweb/core/contents/sections/files/view.py:73
 #: imio/smartweb/core/contents/sections/links/view.py:51
 msgid "New tab"
-msgstr ""
+msgstr "Nieuw tabblad"
 
 #: imio/smartweb/common/vocabularies.py:51
 msgid "Newcomer"
