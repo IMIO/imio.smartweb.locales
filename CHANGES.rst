@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.24 (unreleased)
+1.1.24 (2025-02-11)
 -------------------
 
 - Add missing fr/de/nl translations for imio.events.core
