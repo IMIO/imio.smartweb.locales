@@ -939,7 +939,7 @@ msgstr "Definieren Sie ein Logo für den Unterseiten-Modus und Untergeordnete"
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Definieren Sie die Anzahl der Ebenen in der Menünavigation für den Unterseiten-Modus"
 
-#: imio/smartweb/core/contents/sections/views.py:72
+#: imio/smartweb/core/contents/sections/views.py:80
 msgid "Define section size"
 msgstr "Abschnittsgröße definieren"
 
@@ -2377,6 +2377,10 @@ msgstr ""
 msgid "Refactoring scales : Define new scales available for two display modes : landscape and portrait"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/macros.pt:103
+msgid "Refresh section"
+msgstr "Sektion aktualisieren"
+
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:21
 msgid "Refuse all"
@@ -2459,6 +2463,10 @@ msgstr "Geheimschlüssel"
 #: imio/smartweb/core/browser/controlpanel.py:35
 msgid "Secret key to use API"
 msgstr "Geheimschlüssel für die Verwendung der API"
+
+#: imio/smartweb/core/contents/sections/views.py:65
+msgid "Section modification date has been refreshed"
+msgstr "Das Änderungsdatum der Sektion wurde aktualisiert"
 
 #: imio/smartweb/core/contents/sections/views.py:51
 msgid "Section title has been hidden"

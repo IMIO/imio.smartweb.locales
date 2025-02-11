@@ -5,7 +5,8 @@ Changelog
 1.1.24 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add missing fr/de/nl translations for imio.events.core
+  [remdub]
 
 
 1.1.23 (2025-02-10)
