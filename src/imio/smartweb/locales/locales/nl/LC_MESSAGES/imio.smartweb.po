@@ -1494,6 +1494,10 @@ msgstr "Halve pagina"
 msgid "Handle orientations for images scales"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/macros.pt:84
+msgid "Hard refresh"
+msgstr "Harde vernieuwing"
+
 #: imio/smartweb/common/vocabularies.py:29
 msgid "Health"
 msgstr "Gezondheid"
@@ -1957,7 +1961,7 @@ msgstr "Mobiel"
 msgid "Mobility"
 msgstr "Mobiliteit"
 
-#: imio/smartweb/core/contents/sections/macros.pt:88
+#: imio/smartweb/core/contents/sections/macros.pt:94
 msgid "Modified"
 msgstr "Aangepast"
 
@@ -2375,10 +2379,6 @@ msgstr ""
 #: imio/smartweb/common/upgrades/configure.zcml:93
 msgid "Refactoring scales : Define new scales available for two display modes : landscape and portrait"
 msgstr ""
-
-#: imio/smartweb/core/contents/sections/macros.pt:103
-msgid "Refresh section"
-msgstr "Vernieuw sectie"
 
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:21

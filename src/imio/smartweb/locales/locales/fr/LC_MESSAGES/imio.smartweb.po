@@ -1495,6 +1495,10 @@ msgstr "Moitié de la page"
 msgid "Handle orientations for images scales"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/macros.pt:84
+msgid "Hard refresh"
+msgstr "Forcer l'actualisation"
+
 #: imio/smartweb/common/vocabularies.py:29
 msgid "Health"
 msgstr "Santé"
@@ -1958,7 +1962,7 @@ msgstr "GSM"
 msgid "Mobility"
 msgstr "Mobilité"
 
-#: imio/smartweb/core/contents/sections/macros.pt:88
+#: imio/smartweb/core/contents/sections/macros.pt:94
 msgid "Modified"
 msgstr "Modifié"
 
@@ -2376,10 +2380,6 @@ msgstr ""
 #: imio/smartweb/common/upgrades/configure.zcml:93
 msgid "Refactoring scales : Define new scales available for two display modes : landscape and portrait"
 msgstr ""
-
-#: imio/smartweb/core/contents/sections/macros.pt:103
-msgid "Refresh section"
-msgstr "Actualiser la section"
 
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:21

@@ -5,13 +5,14 @@ Changelog
 1.1.25 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update fr/de/nl translations for imio.smartweb.core
+  [remdub]
 
 
 1.1.24 (2025-02-11)
 -------------------
 
-- Add missing fr/de/nl translations for imio.events.core
+- Add missing fr/de/nl translations for imio.smartweb.core
   [remdub]
 
 
