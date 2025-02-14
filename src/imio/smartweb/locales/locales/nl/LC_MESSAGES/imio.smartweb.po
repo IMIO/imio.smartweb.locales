@@ -1694,6 +1694,10 @@ msgstr ""
 msgid "Improve image compression quality"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:276
+msgid "In the end, it's better for timestamped publications to be handled as a section. (For layout reasons)"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:44
 #: imio/events/policy/upgrades/configure.zcml:36
 #: imio/news/policy/upgrades/configure.zcml:44
@@ -2397,6 +2401,10 @@ msgstr "Gerelateerde contacten"
 msgid "Related news folder"
 msgstr "Gerelateerde nieuwsmap"
 
+#: imio/smartweb/core/contents/sections/timestamped_publications/content.py:26
+msgid "Related timestamped publications"
+msgstr ""
+
 #: imio/smartweb/common/faceted/widget.py:21
 msgid "Relative path widget"
 msgstr "Relatieve pad-widget"
@@ -2552,6 +2560,7 @@ msgid "See all events"
 msgstr "Bekijk alle evenementen"
 
 #: imio/smartweb/core/contents/sections/news/content.py:22
+#: imio/smartweb/core/contents/sections/timestamped_publications/content.py:19
 msgid "See all news"
 msgstr "Bekijk al het nieuws"
 
@@ -2975,6 +2984,16 @@ msgstr "Ticket-URL"
 msgid "Ticket url to subscribe to this event"
 msgstr "Ticket-URL om je voor dit evenement aan te melden"
 
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
+#: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
+msgid "Timestamped publication section for a page"
+msgstr ""
+
+#: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
+#: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
+msgid "Timestamped publications section"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:252
 #: imio/events/core/contents/event/content.py:51
 #: imio/news/core/contents/newsitem/content.py:37
@@ -3361,6 +3380,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:268
 msgid "Upgrade core from 1060 to 1061"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:276
+msgid "Upgrade core from 1061 to 1062"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28
