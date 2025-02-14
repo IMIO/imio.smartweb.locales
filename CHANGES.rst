@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.26 (unreleased)
+1.1.26 (2025-02-14)
 -------------------
 
 - Add some fr/de/nl translations for timestamped publications in imio.smartweb.core
