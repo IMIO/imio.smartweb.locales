@@ -2404,7 +2404,7 @@ msgstr "Dossier d'actualités lié"
 
 #: imio/smartweb/core/contents/sections/timestamped_publications/content.py:26
 msgid "Related timestamped publications"
-msgstr ""
+msgstr "Publications horodatées liées"
 
 #: imio/smartweb/common/faceted/widget.py:21
 msgid "Relative path widget"
@@ -2988,12 +2988,12 @@ msgstr "Lien de la billeterie pour s'inscrire à cet événement"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
 #: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
 msgid "Timestamped publication section for a page"
-msgstr ""
+msgstr "Section de publications horodatées pour une page"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
 #: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
 msgid "Timestamped publications section"
-msgstr ""
+msgstr "Section de publications horodatées"
 
 #: imio/directory/core/contents/contact/content.py:252
 #: imio/events/core/contents/event/content.py:51

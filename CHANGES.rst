@@ -5,6 +5,9 @@ Changelog
 1.1.26 (unreleased)
 -------------------
 
+- Add some fr/de/nl translations for timestamped publications in imio.smartweb.core
+  [boulch]
+
 - Update translations
   [boulch]
 
