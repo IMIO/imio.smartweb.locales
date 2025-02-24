@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.27 (unreleased)
+1.1.27 (2025-02-24)
 -------------------
 
 - Accessibility Add some fr/de/nl aria-labels translations
