@@ -31,7 +31,7 @@ msgstr "Tout accepter"
 
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
-msgstr "Déclaration sur l'accessibilité"
+msgstr "Déclaration d'accessibilité"
 
 #: imio/directory/core/vocabularies.py:84
 msgid "Accessibility (PMR)"

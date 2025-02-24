@@ -5,7 +5,8 @@ Changelog
 1.1.27 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Correction of a wording mistake
+  [boulch]
 
 
 1.1.26 (2025-02-14)
