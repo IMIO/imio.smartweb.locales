@@ -5,6 +5,9 @@ Changelog
 1.1.27 (unreleased)
 -------------------
 
+- Accessibility Add some fr/de/nl aria-labels translations
+  [boulch]
+
 - Update translations
   [boulch]
 

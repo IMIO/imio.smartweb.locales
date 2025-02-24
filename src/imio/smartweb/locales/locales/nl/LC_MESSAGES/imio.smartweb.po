@@ -30,7 +30,7 @@ msgstr "Alles accepteren"
 
 #: imio/smartweb/common/viewlets/privacy.pt:15
 msgid "Accept all cookies"
-msgstr ""
+msgstr "Alle cookies accepteren"
 
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
@@ -2390,7 +2390,7 @@ msgstr "Documentatie lezen"
 
 #: imio/smartweb/common/viewlets/privacy.pt:16
 msgid "Read more and manage cookies settings"
-msgstr ""
+msgstr "Meer informatie en cookie-instellingen beheren"
 
 #: imio/smartweb/common/viewlets/privacy.pt:16
 msgid "Read more and manage settings"
@@ -2411,7 +2411,7 @@ msgstr "Alles weigeren"
 
 #: imio/smartweb/common/viewlets/privacy.pt:23
 msgid "Refuse all cookies"
-msgstr ""
+msgstr "Alle cookies weigeren"
 
 #: imio/smartweb/core/contents/sections/events/content.py:30
 msgid "Related agenda"
