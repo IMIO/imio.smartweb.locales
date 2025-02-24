@@ -29,6 +29,10 @@ msgstr "<div class=\"section_error_txt\">Fehler im Abschnitt: \"{}\" <a href=\"{
 msgid "Accept all"
 msgstr "Alles akzeptieren"
 
+#: imio/smartweb/common/viewlets/privacy.pt:15
+msgid "Accept all cookies"
+msgstr ""
+
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
 msgstr "Barrierefreiheit"
@@ -118,6 +122,10 @@ msgstr "Füge Ich bin Kategorien zu Inhaltstypen hinzu."
 msgid "Add Skip to content viewlet in portal top"
 msgstr ""
 
+#: imio/smartweb/core/behaviors/configure.zcml:69
+msgid "Add a field that explicitly allows specifying whether this content (often a link) should open in a new window or not."
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Add caching configuration to registry"
 msgstr ""
@@ -180,6 +188,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:196
 msgid "Add new action to navigate to stats (plausible) view"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:292
+msgid "Add new behavior (open in new tab) to content type Link and content type imio.smartweb.BlockLink"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:116
@@ -354,7 +366,7 @@ msgstr "Ermöglicht die Auswahl von Schnellzugriffselementen für den aktuellen 
 msgid "Alternatively as a picture"
 msgstr "Alternativ als Bild"
 
-#: imio/smartweb/core/contents/folder/views.py:135
+#: imio/smartweb/core/contents/folder/views.py:149
 msgid "Apply"
 msgstr "Anwenden"
 
@@ -1403,7 +1415,7 @@ msgstr ""
 msgid "For the anonymous visitor, the folder and the selected item are one. When he clicks on the folder, the item is displayed."
 msgstr "Für den anonymen Besucher sind der Ordner und das ausgewählte Element eins. Wenn er auf den Ordner klickt, wird das Element angezeigt."
 
-#: imio/smartweb/core/contents/folder/views.py:106
+#: imio/smartweb/core/contents/folder/views.py:120
 msgid "Form to choose item to be displayed as the home page of the folder"
 msgstr "Formular zum Auswählen des Elements, das als Startseite des Ordners angezeigt werden soll"
 
@@ -1586,7 +1598,7 @@ msgstr ""
 msgid "IMIO"
 msgstr ""
 
-#: imio/smartweb/core/contents/blocks/link/content.py:30
+#: imio/smartweb/core/contents/blocks/link/content.py:26
 msgid "Icons"
 msgstr "Symbole"
 
@@ -1627,7 +1639,7 @@ msgstr "Wenn ausgewählt, werden nur vergangene Ereignisse angezeigt"
 msgid "If selected, this item will not appear in parent listing views"
 msgstr "Wenn ausgewählt, wird dieses Element nicht in den Ansichten der übergeordneten Liste angezeigt"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:28
+#: imio/smartweb/core/contents/blocks/link/content.py:24
 #: imio/smartweb/core/contents/sections/slide/content.py:40
 msgid "Image"
 msgstr ""
@@ -1816,7 +1828,7 @@ msgstr "Link-Block"
 msgid "Link block for a links section"
 msgstr "Link-Block für einen Link-Abschnitt"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:33
+#: imio/smartweb/core/contents/blocks/link/content.py:29
 msgid "Link illustration icon"
 msgstr "Link-Illustrations-Icon"
 
@@ -1982,8 +1994,9 @@ msgstr "Mein Konto"
 msgid "Name"
 msgstr "Name"
 
+#: imio/smartweb/core/browser/faceted/views.py:53
+#: imio/smartweb/core/contents/folder/views.py:100
 #: imio/smartweb/core/contents/sections/files/view.py:73
-#: imio/smartweb/core/contents/sections/links/view.py:51
 msgid "New tab"
 msgstr "Neuer Tab"
 
@@ -2103,7 +2116,7 @@ msgstr "URL für die Online-Teilnahme"
 msgid "Only one procedure field can be filled !"
 msgstr "Nur ein Verfahrensfeld kann ausgefüllt werden !"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:34
+#: imio/smartweb/core/contents/blocks/link/content.py:30
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Nur in der Tabellenansicht verwendet (hat Vorrang vor dem Bild)"
 
@@ -2115,10 +2128,13 @@ msgstr "Geöffnet"
 msgid "Open at "
 msgstr "Öffnet um "
 
-#: imio/smartweb/core/contents/blocks/link/content.py:23
-#: imio/smartweb/core/contents/sections/slide/content.py:66
+#: imio/smartweb/core/behaviors/new_tab.py:16
 msgid "Open in a new tab"
 msgstr "In einem neuen Tab öffnen"
+
+#: imio/smartweb/core/behaviors/configure.zcml:69
+msgid "Open in new tab"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:14
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
@@ -2374,6 +2390,10 @@ msgid "Read documentation"
 msgstr "Dokumentation lesen"
 
 #: imio/smartweb/common/viewlets/privacy.pt:16
+msgid "Read more and manage cookies settings"
+msgstr ""
+
+#: imio/smartweb/common/viewlets/privacy.pt:16
 msgid "Read more and manage settings"
 msgstr "Weitere Informationen lesen und Einstellungen verwalten"
 
@@ -2386,9 +2406,13 @@ msgid "Refactoring scales : Define new scales available for two display modes : 
 msgstr ""
 
 #: imio/smartweb/common/browser/privacy/form.py:37
-#: imio/smartweb/common/viewlets/privacy.pt:21
+#: imio/smartweb/common/viewlets/privacy.pt:23
 msgid "Refuse all"
 msgstr "Alles ablehnen"
+
+#: imio/smartweb/common/viewlets/privacy.pt:23
+msgid "Refuse all cookies"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/content.py:30
 msgid "Related agenda"
@@ -2402,7 +2426,7 @@ msgstr "Verwandte Kontakte"
 msgid "Related news folder"
 msgstr "Verwandter Nachrichtenordner"
 
-#: imio/smartweb/core/contents/sections/timestamped_publications/content.py:26
+#: imio/smartweb/core/contents/sections/timestamped_publications/content.py:17
 msgid "Related timestamped publications"
 msgstr "Zugehörige zeitgestempelte Veröffentlichungen"
 
@@ -2442,6 +2466,10 @@ msgstr "Abschnitt für Rich-Text auf einer Seite"
 #: imio/smartweb/core/vocabularies.py:333
 msgid "Right"
 msgstr "Rechts"
+
+#: imio/smartweb/core/upgrades/configure.zcml:284
+msgid "Rollback from upgrade step 1027 to 1028. The agent must always be explicit for its content to open in a new window"
+msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:30
 msgid "Safety and prevention"
@@ -2561,7 +2589,6 @@ msgid "See all events"
 msgstr "Alle Veranstaltungen anzeigen"
 
 #: imio/smartweb/core/contents/sections/news/content.py:22
-#: imio/smartweb/core/contents/sections/timestamped_publications/content.py:19
 msgid "See all news"
 msgstr "Alle Neuigkeiten anzeigen"
 
@@ -3065,7 +3092,7 @@ msgstr "Zwei Drittel der Breite"
 msgid "Type"
 msgstr "Typ"
 
-#: imio/smartweb/core/contents/blocks/link/content.py:26
+#: imio/smartweb/core/contents/blocks/link/content.py:22
 msgid "URL"
 msgstr "URL"
 
@@ -3385,6 +3412,14 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:276
 msgid "Upgrade core from 1061 to 1062"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:284
+msgid "Upgrade core from 1062 to 1063"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:292
+msgid "Upgrade core from 1063 to 1064"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28

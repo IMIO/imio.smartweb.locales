@@ -5,6 +5,9 @@ Changelog
 1.1.27 (unreleased)
 -------------------
 
+- Update translations
+  [boulch]
+
 - Correction of a wording mistake
   [boulch]
 
