@@ -483,7 +483,7 @@ msgstr "Fichier CSV"
 
 #: imio/smartweb/core/profiles/ideabox/types/imio.smartweb.CampaignView.xml
 msgid "Campaign view"
-msgstr ""
+msgstr "Vue campagne"
 
 #: imio/smartweb/common/sharing/localroles.py:12
 msgid "Can manage locally"
@@ -1076,7 +1076,7 @@ msgstr "Traductions néerlandophones"
 
 #: imio/smartweb/core/contents/rest/campaign/content.py:28
 msgid "E-Guichet campaign"
-msgstr ""
+msgstr "Lier une campagne de votre e-guichet"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:21
 msgid "E-Guichet procedure"
@@ -1426,7 +1426,7 @@ msgstr "Le pied de page a été ajouté avec succès"
 
 #: imio/smartweb/core/browser/controlpanel.py:185
 msgid "For staging : https://conseil.staging.imio.be | for production : https://www.deliberations.be"
-msgstr ""
+msgstr "Pour l'instance de staging : https://conseil.staging.imio.be | pour la production : https://www.deliberations.be"
 
 #: imio/smartweb/core/contents/folder/content.py:26
 msgid "For the anonymous visitor, the folder and the selected item are one. When he clicks on the folder, the item is displayed."
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:184
 msgid "I.A. Deliberations' url"
-msgstr ""
+msgstr "Url de I.A. Deliberations"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Publication.xml
 #: imio/smartweb/core/upgrades/profiles/1060_to_1061/types/imio.smartweb.Publication.xml
@@ -2230,12 +2230,12 @@ msgstr "Fête et folklore"
 
 #: imio/smartweb/core/browser/controlpanel.py:199
 msgid "Password to consume I.A. Deliberations API"
-msgstr ""
+msgstr "Mot de passe pour consommer l'API de I.A. Deliberations"
 
 #: imio/smartweb/core/browser/controlpanel.py:47
 #: imio/smartweb/core/upgrades/upgrades.py:282
 msgid "Password to consume e-guichet ideabox API (get Campaign, projects,...)"
-msgstr ""
+msgstr "Mot de passe pour consommer l'API de l'e-guichet (ideabox)"
 
 #: imio/smartweb/common/upgrades/configure.zcml:69
 msgid "Patch (Remove select2) eea.facetednavigation jquery"
@@ -2385,7 +2385,7 @@ msgstr "Projection et cinéma"
 
 #: imio/smartweb/core/contents/rest/campaign/content.py:34
 msgid "Propose project URL"
-msgstr ""
+msgstr "Lien pour proposer un nouveau projet"
 
 #: imio/directory/core/vocabularies.py:88
 msgid "Public toilets"
@@ -3125,7 +3125,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/rest/campaign/content.py:35
 msgid "URL to propose a project"
-msgstr ""
+msgstr "Lien pour proposer un nouveau projet"
 
 #: imio/directory/core/contents/contact/content.py:181
 msgid "URLs"
@@ -3585,7 +3585,7 @@ msgstr "URL"
 #: imio/smartweb/core/browser/controlpanel.py:27
 #: imio/smartweb/core/upgrades/upgrades.py:261
 msgid "Url to e-guichet"
-msgstr ""
+msgstr "Url de l'e-guichet"
 
 #: imio/smartweb/core/browser/controlpanel.py:54
 msgid "Url to propose a new citizen contact"
@@ -3619,12 +3619,12 @@ msgstr "Numéros utiles"
 
 #: imio/smartweb/core/browser/controlpanel.py:193
 msgid "Username to consume I.A. Deliberations API"
-msgstr ""
+msgstr "Nom d'utilisateur pour consommer l'API de I.A. Deliberations"
 
 #: imio/smartweb/core/browser/controlpanel.py:39
 #: imio/smartweb/core/upgrades/upgrades.py:271
 msgid "Username to consume e-guichet ideabox API (get Campaign, projects,...)"
-msgstr ""
+msgstr "Nom d'utilisateur pour consommer l'API de l'e-guichet (pour ideabox)"
 
 #: imio/directory/core/contents/contact/content.py:159
 msgid "VAT number"
