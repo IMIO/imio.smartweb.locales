@@ -2773,11 +2773,11 @@ msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
-msgstr ""
+msgstr "Passer au contenu"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:7
 msgid "Skip to footer"
-msgstr ""
+msgstr "Passer au pied-de-page"
 
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"

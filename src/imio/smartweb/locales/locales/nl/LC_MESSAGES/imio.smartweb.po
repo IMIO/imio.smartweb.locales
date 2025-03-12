@@ -2772,11 +2772,11 @@ msgstr "Site gemaakt in samenwerking met"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
-msgstr ""
+msgstr "Naar inhoud springen"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:7
 msgid "Skip to footer"
-msgstr ""
+msgstr "Naar voettekst springen"
 
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"

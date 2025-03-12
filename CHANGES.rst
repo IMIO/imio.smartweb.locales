@@ -5,6 +5,9 @@ Changelog
 1.1.28 (unreleased)
 -------------------
 
+- Add some translations for skip to content viewlet
+  [thomlamb]
+
 - Add some fr translations for ideabox / ia.deliberations features
   [boulch]
 
