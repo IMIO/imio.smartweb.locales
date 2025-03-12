@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-03-04 12:39+0000\n"
+"POT-Creation-Date: 2025-03-12 09:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2776,6 +2776,14 @@ msgstr ""
 msgid "Site created in collaboration with"
 msgstr ""
 
+#: imio/smartweb/common/viewlets/skip_to_content.pt:1
+msgid "Skip to content"
+msgstr ""
+
+#: imio/smartweb/common/viewlets/skip_to_content.pt:7
+msgid "Skip to footer"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"
 msgstr ""
@@ -2937,10 +2945,6 @@ msgstr ""
 
 #: imio/smartweb/core/browser/instancebehaviors/form.py:36
 msgid "Taxonomies choices form"
-msgstr ""
-
-#: imio/smartweb/common/browser/collective_taxonomy_controlpanel.py:56
-msgid "Term \"${term_title}\" can't be removed because it is used (at least) here : ${here}"
 msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:33

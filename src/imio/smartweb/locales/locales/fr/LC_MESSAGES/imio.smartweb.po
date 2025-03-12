@@ -2771,6 +2771,14 @@ msgstr "Afficher le titre"
 msgid "Site created in collaboration with"
 msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
+#: imio/smartweb/common/viewlets/skip_to_content.pt:1
+msgid "Skip to content"
+msgstr ""
+
+#: imio/smartweb/common/viewlets/skip_to_content.pt:7
+msgid "Skip to footer"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"
 msgstr "Aller à la navigation"
@@ -2933,10 +2941,6 @@ msgstr "Les taxonomies ont bien été définies sur ce contenu!"
 #: imio/smartweb/core/browser/instancebehaviors/form.py:36
 msgid "Taxonomies choices form"
 msgstr "Formulaire de choix des taxonomies"
-
-#: imio/smartweb/common/browser/collective_taxonomy_controlpanel.py:56
-msgid "Term \"${term_title}\" can't be removed because it is used (at least) here : ${here}"
-msgstr "Le terme \"${term_title}\" ne peut être supprimé car il est utilisé (au moins) ici : ${here}"
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"

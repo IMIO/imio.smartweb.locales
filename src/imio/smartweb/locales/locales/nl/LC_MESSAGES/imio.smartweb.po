@@ -2770,6 +2770,14 @@ msgstr "Toon titel"
 msgid "Site created in collaboration with"
 msgstr "Site gemaakt in samenwerking met"
 
+#: imio/smartweb/common/viewlets/skip_to_content.pt:1
+msgid "Skip to content"
+msgstr ""
+
+#: imio/smartweb/common/viewlets/skip_to_content.pt:7
+msgid "Skip to footer"
+msgstr ""
+
 #: imio/smartweb/core/viewlets/footer.pt:9
 msgid "Skip to navigation"
 msgstr "Navigatie overslaan"
@@ -2932,10 +2940,6 @@ msgstr "Taxonomieën zijn correct ingesteld op uw object!"
 #: imio/smartweb/core/browser/instancebehaviors/form.py:36
 msgid "Taxonomies choices form"
 msgstr "Formulier voor taxonomiekeuzes"
-
-#: imio/smartweb/common/browser/collective_taxonomy_controlpanel.py:56
-msgid "Term \"${term_title}\" can't be removed because it is used (at least) here : ${here}"
-msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:33
 msgid "Territory and public space"
