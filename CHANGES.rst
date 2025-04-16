@@ -5,6 +5,9 @@ Changelog
 1.1.28 (unreleased)
 -------------------
 
+- Add some translations for campagin view
+  [thomlamb]
+
 - Add some translations for skip to content viewlet
   [thomlamb]
 

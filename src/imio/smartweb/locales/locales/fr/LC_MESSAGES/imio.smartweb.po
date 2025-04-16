@@ -1061,11 +1061,11 @@ msgstr "Afficher uniquement les événements passés"
 
 #: imio/smartweb/core/profiles/ideabox/types/imio.smartweb.CampaignView.xml
 msgid "Display projects from a campaign coming from e-guichet."
-msgstr ""
+msgstr "Afficher les projets d'une campagne venant de l'e-guichet"
 
 #: imio/smartweb/core/contents/rest/campaign/content.py:51
 msgid "Display red thumbs"
-msgstr ""
+msgstr "Afficher le pouce rouge"
 
 #: imio/smartweb/core/upgrades/configure.zcml:308
 msgid "Don't display cropping action on react views"

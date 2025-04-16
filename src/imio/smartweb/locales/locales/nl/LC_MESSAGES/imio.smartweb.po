@@ -1064,7 +1064,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/rest/campaign/content.py:51
 msgid "Display red thumbs"
-msgstr ""
+msgstr "Toon rode duim"
 
 #: imio/smartweb/core/upgrades/configure.zcml:308
 msgid "Don't display cropping action on react views"
