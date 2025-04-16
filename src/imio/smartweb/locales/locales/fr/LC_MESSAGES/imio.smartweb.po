@@ -102,7 +102,7 @@ msgstr "Action - Voter"
 msgid "Activate plone.app.caching.moderateCaching.lastModified"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:133
+#: imio/events/core/vocabularies.py:145
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activité (extrascolaire, sport, atelier et cours, etc.)"
 
@@ -659,7 +659,7 @@ msgstr "Catégorie - Travaux - 2"
 msgid "Category - Works info"
 msgstr "Catégorie - Infos travaux"
 
-#: imio/smartweb/core/browser/controlpanel.py:126
+#: imio/smartweb/core/browser/controlpanel.py:128
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Paramètres de vocabulaire Catégories et thématiques pour les TeleServices"
 
@@ -687,11 +687,11 @@ msgstr "Cochez si l'événement est gratuit pour tout le monde"
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr "Cochez si l'événement est accessible aux personnes à mobilité réduite"
 
-#: imio/smartweb/core/browser/controlpanel.py:149
+#: imio/smartweb/core/browser/controlpanel.py:151
 msgid "Choose SendInblue submission button text"
 msgstr "Choisissez l'intitulé du bouton d'inscription à la newsletter SendInblue"
 
-#: imio/smartweb/core/browser/controlpanel.py:127
+#: imio/smartweb/core/browser/controlpanel.py:129
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr "Choisissez un terme du vocabulaire et définissez le nom correspondant"
 
@@ -851,11 +851,11 @@ msgstr "Complément"
 msgid "Complete this procedure online"
 msgstr "Effectuer cette démarche en ligne"
 
-#: imio/events/core/vocabularies.py:21
+#: imio/events/core/vocabularies.py:33
 msgid "Concert and festival"
 msgstr "Concert et festival"
 
-#: imio/events/core/vocabularies.py:22
+#: imio/events/core/vocabularies.py:34
 msgid "Conference and debate"
 msgstr "Conférence et débat"
 
@@ -911,6 +911,10 @@ msgstr "Choix des cookies"
 msgid "Cookies preferences"
 msgstr "Gestion des cookies"
 
+#: imio/smartweb/core/upgrades/configure.zcml:300
+msgid "Correct default view for imio.smartweb.SectionTimestampedPublications"
+msgstr ""
+
 #: imio/smartweb/common/interfaces.py:40
 msgid "Country"
 msgstr "Pays"
@@ -923,15 +927,15 @@ msgstr ""
 msgid "Culture"
 msgstr "Culture"
 
-#: imio/smartweb/core/browser/controlpanel.py:105
+#: imio/smartweb/core/browser/controlpanel.py:107
 msgid "Default directory view"
 msgstr "Vue contacts par défaut"
 
-#: imio/smartweb/core/browser/controlpanel.py:112
+#: imio/smartweb/core/browser/controlpanel.py:114
 msgid "Default events view"
 msgstr "Vue événements par défaut"
 
-#: imio/smartweb/core/browser/controlpanel.py:119
+#: imio/smartweb/core/browser/controlpanel.py:121
 msgid "Default news view"
 msgstr "Vue actualités par défaut"
 
@@ -974,11 +978,11 @@ msgstr "Description"
 msgid "Deutsch"
 msgstr "Allemand"
 
-#: imio/smartweb/core/browser/controlpanel.py:87
+#: imio/smartweb/core/browser/controlpanel.py:89
 msgid "Directory SolR Core ID"
 msgstr "ID du cœur SolR pour l'annuaire"
 
-#: imio/smartweb/core/browser/controlpanel.py:69
+#: imio/smartweb/core/browser/controlpanel.py:71
 msgid "Directory entity"
 msgstr "Entité pour l'annuaire"
 
@@ -1059,6 +1063,14 @@ msgstr "Afficher uniquement les événements passés"
 msgid "Display projects from a campaign coming from e-guichet."
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/campaign/content.py:51
+msgid "Display red thumbs"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:308
+msgid "Don't display cropping action on react views"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:86
 msgid "Drinking water point"
 msgstr "Points d'eau potable"
@@ -1137,7 +1149,7 @@ msgstr "Anglais"
 msgid "English translations"
 msgstr "Traductions anglophones"
 
-#: imio/smartweb/core/browser/controlpanel.py:18
+#: imio/smartweb/core/browser/controlpanel.py:20
 msgid "Enter the language code. Ex.: en"
 msgstr "Entrez le code de langue. Ex: fr"
 
@@ -1193,7 +1205,7 @@ msgstr "Organisateur d'événement"
 msgid "Event type"
 msgstr "Type d'événement"
 
-#: imio/events/core/vocabularies.py:127
+#: imio/events/core/vocabularies.py:139
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
 msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, balade, etc.)"
 
@@ -1201,11 +1213,11 @@ msgstr "Événementiel (festivité, pièce de théâtre, conférence, brocante, 
 msgid "Events"
 msgstr "Événements"
 
-#: imio/smartweb/core/browser/controlpanel.py:93
+#: imio/smartweb/core/browser/controlpanel.py:95
 msgid "Events SolR Core ID"
 msgstr "ID du cœur SolR pour l'agenda"
 
-#: imio/smartweb/core/browser/controlpanel.py:75
+#: imio/smartweb/core/browser/controlpanel.py:77
 msgid "Events entity"
 msgstr "Entité pour les événements"
 
@@ -1233,15 +1245,15 @@ msgstr ""
 msgid "Example : Photo of a person or organization building"
 msgstr "Exemple : Photo d'une personne ou d'un bâtiment d'une organisation"
 
-#: imio/smartweb/core/browser/controlpanel.py:28
+#: imio/smartweb/core/browser/controlpanel.py:30
 msgid "Example : https://COMMUNE.guichet-citoyen.be"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:169
+#: imio/smartweb/core/browser/controlpanel.py:171
 msgid "Example : namur.be (SMARTWEB_PLAUSIBLE_SITE varenv has precedence over this.)"
 msgstr "Exemple : namur.be (SMARTWEB_PLAUSIBLE_SITE varenv a la priorité sur cette valeur.)"
 
-#: imio/smartweb/core/browser/controlpanel.py:161
+#: imio/smartweb/core/browser/controlpanel.py:163
 msgid "Example : plausible.imio.be (SMARTWEB_PLAUSIBLE_URL varenv has precedence over this.)"
 msgstr "Exemple : plausible.imio.be (SMARTWEB_PLAUSIBLE_URL varenv a la priorité sur cette valeur.)"
 
@@ -1263,7 +1275,7 @@ msgstr ""
 msgid "Exemple : https://COMMUNE.guichet-citoyen.be"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:23
+#: imio/events/core/vocabularies.py:35
 msgid "Exhibition and artistic meeting"
 msgstr "Exposition et rencontre artistique"
 
@@ -1376,7 +1388,7 @@ msgstr ""
 msgid "Fix versioning on imio.smartweb.SectionText"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:20
+#: imio/events/core/vocabularies.py:32
 msgid "Flea market and market"
 msgstr "Brocante et marché"
 
@@ -1424,7 +1436,7 @@ msgstr ""
 msgid "Footer has been successfully added"
 msgstr "Le pied de page a été ajouté avec succès"
 
-#: imio/smartweb/core/browser/controlpanel.py:185
+#: imio/smartweb/core/browser/controlpanel.py:187
 msgid "For staging : https://conseil.staging.imio.be | for production : https://www.deliberations.be"
 msgstr "Pour l'instance de staging : https://conseil.staging.imio.be | pour la production : https://www.deliberations.be"
 
@@ -1598,11 +1610,11 @@ msgstr "Je trouve"
 msgid "I.A. Deliberation publication"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:204
+#: imio/smartweb/core/browser/controlpanel.py:206
 msgid "I.A. Deliberations : Institutions"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:184
+#: imio/smartweb/core/browser/controlpanel.py:186
 msgid "I.A. Deliberations' url"
 msgstr "Url de I.A. Deliberations"
 
@@ -1652,6 +1664,10 @@ msgstr "Si cette case est cochée, alors, la carte sera affichée"
 #: imio/smartweb/core/contents/rest/events/content.py:48
 msgid "If selected, only past events will be displayed"
 msgstr "Si cette case est cochée, seuls les événements passés seront affichés"
+
+#: imio/smartweb/core/contents/rest/campaign/content.py:52
+msgid "If selected, red thumbs will be displayed"
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:20
 msgid "If selected, this item will not appear in parent listing views"
@@ -1765,7 +1781,7 @@ msgstr ""
 msgid "Internal note"
 msgstr "Note interne"
 
-#: imio/events/core/vocabularies.py:27
+#: imio/events/core/vocabularies.py:39
 msgid "Internships and courses"
 msgstr "Stages et cours"
 
@@ -1804,7 +1820,7 @@ msgstr "Intitulé (Secrétariat, Bureau de la direction, Ventes, ...)"
 msgid "Label (direction, Main number,...)"
 msgstr "Intitulé (direction, numéro principal, ...)"
 
-#: imio/smartweb/core/browser/controlpanel.py:17
+#: imio/smartweb/core/browser/controlpanel.py:19
 msgid "Language (en, fr,...)"
 msgstr "Langue (en, fr, ...)"
 
@@ -2008,7 +2024,7 @@ msgstr "Lundi"
 msgid "My account"
 msgstr "Mon compte"
 
-#: imio/smartweb/core/browser/controlpanel.py:135
+#: imio/smartweb/core/browser/controlpanel.py:137
 msgid "Name"
 msgstr "Nom"
 
@@ -2022,11 +2038,11 @@ msgstr "Nouvelle fenêtre"
 msgid "Newcomer"
 msgstr "Nouvel arrivant"
 
-#: imio/smartweb/core/browser/controlpanel.py:99
+#: imio/smartweb/core/browser/controlpanel.py:101
 msgid "News SolR Core ID"
 msgstr "ID du cœur SolR pour les actualités"
 
-#: imio/smartweb/core/browser/controlpanel.py:81
+#: imio/smartweb/core/browser/controlpanel.py:83
 msgid "News entity"
 msgstr "Entité pour les actualités"
 
@@ -2224,15 +2240,19 @@ msgstr "Parent"
 msgid "Parent listing"
 msgstr "Listing du parent"
 
-#: imio/events/core/vocabularies.py:24
+#: imio/events/core/vocabularies.py:36
 msgid "Party and folklore"
 msgstr "Fête et folklore"
 
-#: imio/smartweb/core/browser/controlpanel.py:199
+#: imio/smartweb/core/browser/controlpanel.py:271
+msgid "Password already filled"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:201
 msgid "Password to consume I.A. Deliberations API"
 msgstr "Mot de passe pour consommer l'API de I.A. Deliberations"
 
-#: imio/smartweb/core/browser/controlpanel.py:47
+#: imio/smartweb/core/browser/controlpanel.py:49
 #: imio/smartweb/core/upgrades/upgrades.py:282
 msgid "Password to consume e-guichet ideabox API (get Campaign, projects,...)"
 msgstr "Mot de passe pour consommer l'API de l'e-guichet (ideabox)"
@@ -2269,15 +2289,15 @@ msgstr "L'image est affichée en background du slide"
 msgid "Pinterest"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:168
+#: imio/smartweb/core/browser/controlpanel.py:170
 msgid "Plausible Site"
 msgstr "Site Plausible"
 
-#: imio/smartweb/core/browser/controlpanel.py:176
+#: imio/smartweb/core/browser/controlpanel.py:178
 msgid "Plausible Token"
 msgstr "Token pour Plausible"
 
-#: imio/smartweb/core/browser/controlpanel.py:160
+#: imio/smartweb/core/browser/controlpanel.py:162
 msgid "Plausible URL"
 msgstr "Url pour Plausible"
 
@@ -2285,7 +2305,7 @@ msgstr "Url pour Plausible"
 msgid "Plausible analytics is not set"
 msgstr "Plausible analytics n'est pas configuré"
 
-#: imio/smartweb/core/browser/controlpanel.py:177
+#: imio/smartweb/core/browser/controlpanel.py:179
 msgid "Plausible authentification token (SMARTWEB_PLAUSIBLE_TOKEN varenv has precedence over this.)"
 msgstr "Token d'authentification de Plausible (SMARTWEB_PLAUSIBLE_TOKEN varenv a la priorité sur cette valeur.)"
 
@@ -2379,7 +2399,7 @@ msgstr "Lien vers la démarche"
 msgid "Procedures and practical informations"
 msgstr "Démarches & infos pratiques"
 
-#: imio/events/core/vocabularies.py:25
+#: imio/events/core/vocabularies.py:37
 msgid "Projection and cinema"
 msgstr "Projection et cinéma"
 
@@ -2519,11 +2539,11 @@ msgstr "Horaires"
 msgid "Search"
 msgstr "Rechercher"
 
-#: imio/smartweb/core/browser/controlpanel.py:33
+#: imio/smartweb/core/browser/controlpanel.py:35
 msgid "Secret key"
 msgstr "Clé secrète"
 
-#: imio/smartweb/core/browser/controlpanel.py:34
+#: imio/smartweb/core/browser/controlpanel.py:36
 msgid "Secret key to use API"
 msgstr "Clé secrète pour utiliser l'API"
 
@@ -2707,11 +2727,11 @@ msgstr "Section de contenus liés"
 msgid "Selections section for a page"
 msgstr "Section de sélections pour une page"
 
-#: imio/smartweb/core/browser/controlpanel.py:141
+#: imio/smartweb/core/browser/controlpanel.py:143
 msgid "SendInBlue : Define button position"
 msgstr "SendInBlue : Définissez la position du bouton"
 
-#: imio/smartweb/core/browser/controlpanel.py:148
+#: imio/smartweb/core/browser/controlpanel.py:150
 msgid "SendInBlue : Define button text"
 msgstr "SendInBlue : Définissez le texte du bouton"
 
@@ -2791,7 +2811,7 @@ msgstr "Section slide"
 msgid "Slide section for a hero banner"
 msgstr "Section slide pour un bandeau d'en-tête"
 
-#: imio/smartweb/core/browser/controlpanel.py:213
+#: imio/smartweb/core/browser/controlpanel.py:215
 msgid "Smartweb Settings"
 msgstr "Paramètrage de smartweb"
 
@@ -2879,7 +2899,7 @@ msgstr "Statistiques"
 msgid "Street"
 msgstr "Rue"
 
-#: imio/events/core/vocabularies.py:19
+#: imio/events/core/vocabularies.py:31
 msgid "Stroll and discovery"
 msgstr "Balade et découverte"
 
@@ -2952,7 +2972,7 @@ msgstr "Terroir"
 
 #: imio/events/core/contents/event/content.py:58
 #: imio/news/core/contents/newsitem/content.py:44
-#: imio/smartweb/core/browser/controlpanel.py:21
+#: imio/smartweb/core/browser/controlpanel.py:23
 msgid "Text"
 msgstr "Texte"
 
@@ -2976,7 +2996,7 @@ msgstr "Section de texte"
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "La géolocalisation est générée sur base de l'adresse lors de l'enregistrement de la fiche. Il est possible de modifier le pointeur manuellement si ce dernier n'est pas bien positionné."
 
-#: imio/smartweb/common/utils.py:137
+#: imio/smartweb/common/utils.py:139
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
 msgstr "L'image téléversée dans le champ \"${field_title}\" risque d'être dégradée, car elle ne correspond pas aux dimensions minimales requises de ${min_width}px de largeur sur ${min_height}px de hauteur (taille de l'image téléversée : ${width}px de largeur / ${height}px de hauteur). Vous pouvez voir le détail via le menu Découpe."
 
@@ -2988,7 +3008,7 @@ msgstr "L'élément sélectionné comme page d'accueil du dossier est :"
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr "Le titre sera toujours affiché si ce comportement est activé."
 
-#: imio/events/core/vocabularies.py:28
+#: imio/events/core/vocabularies.py:40
 msgid "Theater and show"
 msgstr "Théâtre et spectacle"
 
@@ -3018,7 +3038,7 @@ msgstr "Cette fonctionnalité nécessite l'acceptation des cookies.<br/><a class
 msgid "This field is required if the content must be available in this language"
 msgstr "Ce champ est requis si le contenu doit être disponible dans cette langue"
 
-#: imio/smartweb/core/browser/controlpanel.py:106
+#: imio/smartweb/core/browser/controlpanel.py:108
 msgid "This information is used for search results redirection"
 msgstr "Cette information est utilisée pour la redirection des résultats de recherche"
 
@@ -3045,11 +3065,13 @@ msgstr "Lien de la billeterie pour s'inscrire à cet événement"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
 #: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
+#: imio/smartweb/core/upgrades/profiles/1066_to_1067/types/imio.smartweb.SectionTimestampedPublications.xml
 msgid "Timestamped publication section for a page"
 msgstr "Section de publications horodatées pour une page"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionTimestampedPublications.xml
 #: imio/smartweb/core/upgrades/profiles/1061_to_1062/types/imio.smartweb.SectionTimestampedPublications.xml
+#: imio/smartweb/core/upgrades/profiles/1066_to_1067/types/imio.smartweb.SectionTimestampedPublications.xml
 msgid "Timestamped publications section"
 msgstr "Section de publications horodatées"
 
@@ -3093,7 +3115,7 @@ msgstr "Organisations touristiques"
 msgid "Tourist"
 msgstr "Touriste"
 
-#: imio/events/core/vocabularies.py:26
+#: imio/events/core/vocabularies.py:38
 msgid "Trade Fair and Fair"
 msgstr "Salon et Foire"
 
@@ -3457,6 +3479,14 @@ msgstr ""
 msgid "Upgrade core from 1063 to 1064"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:300
+msgid "Upgrade core from 1066 to 1067"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:308
+msgid "Upgrade core from 1067 to 1068"
+msgstr ""
+
 #: imio/events/policy/upgrades/configure.zcml:28
 msgid "Upgrade policy 1002 to 1003"
 msgstr ""
@@ -3586,20 +3616,20 @@ msgstr ""
 msgid "Url"
 msgstr "URL"
 
-#: imio/smartweb/core/browser/controlpanel.py:27
+#: imio/smartweb/core/browser/controlpanel.py:29
 #: imio/smartweb/core/upgrades/upgrades.py:261
 msgid "Url to e-guichet"
 msgstr "Url de l'e-guichet"
 
-#: imio/smartweb/core/browser/controlpanel.py:54
+#: imio/smartweb/core/browser/controlpanel.py:56
 msgid "Url to propose a new citizen contact"
 msgstr "Url pour la proposition d'un contact par le citoyen"
 
-#: imio/smartweb/core/browser/controlpanel.py:59
+#: imio/smartweb/core/browser/controlpanel.py:61
 msgid "Url to propose a new citizen event"
 msgstr "Url pour la proposition d'un événement par le citoyen"
 
-#: imio/smartweb/core/browser/controlpanel.py:64
+#: imio/smartweb/core/browser/controlpanel.py:66
 msgid "Url to propose a new citizen news"
 msgstr "Url pour la proposition d'une actualité par le citoyen"
 
@@ -3621,11 +3651,11 @@ msgstr ""
 msgid "Useful numbers"
 msgstr "Numéros utiles"
 
-#: imio/smartweb/core/browser/controlpanel.py:193
+#: imio/smartweb/core/browser/controlpanel.py:195
 msgid "Username to consume I.A. Deliberations API"
 msgstr "Nom d'utilisateur pour consommer l'API de I.A. Deliberations"
 
-#: imio/smartweb/core/browser/controlpanel.py:39
+#: imio/smartweb/core/browser/controlpanel.py:41
 #: imio/smartweb/core/upgrades/upgrades.py:271
 msgid "Username to consume e-guichet ideabox API (get Campaign, projects,...)"
 msgstr "Nom d'utilisateur pour consommer l'API de l'e-guichet (pour ideabox)"
@@ -3678,7 +3708,7 @@ msgstr "Vidéo Vimeo"
 msgid "Visible blocks"
 msgstr "Blocs visibles"
 
-#: imio/smartweb/core/browser/controlpanel.py:131
+#: imio/smartweb/core/browser/controlpanel.py:133
 msgid "Vocabulary term"
 msgstr "Terme du vocabulaire"
 
@@ -3736,7 +3766,7 @@ msgstr "Jeune"
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Le dossier était un site partenaire, mais cette action n'a pas pu conserver ce comportement"
 
-#: imio/smartweb/core/browser/controlpanel.py:21
+#: imio/smartweb/core/browser/controlpanel.py:23
 msgid "Your button title"
 msgstr "Titre du bouton"
 
