@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.28 (unreleased)
+1.1.28 (2025-04-22)
 -------------------
 
 - Add some translations for campagin view
