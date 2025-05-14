@@ -5,7 +5,8 @@ Changelog
 1.1.29 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update dev environment to Plone 6.1-latest
+  [remdub]
 
 
 1.1.28 (2025-04-22)
