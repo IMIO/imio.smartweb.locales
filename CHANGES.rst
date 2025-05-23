@@ -5,7 +5,9 @@ Changelog
 1.1.30 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- WEB-4260 : Override default Plone translation for TinyMCE "Insert link"
+  We don't allow to upload files through the TinyMCE editor, so we don't need this
+  [remdub]
 
 
 1.1.29 (2025-05-14)
