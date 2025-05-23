@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.30 (unreleased)
+1.1.30 (2025-05-23)
 -------------------
 
 - WEB-4260 : Override default Plone translation for TinyMCE "Insert link"
