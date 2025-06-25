@@ -5,7 +5,8 @@ Changelog
 1.1.31 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add some translations for new smartweb site admin control panel
+  [boulch]
 
 
 1.1.30 (2025-05-23)
