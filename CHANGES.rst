@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.31 (unreleased)
+1.1.31 (2025-06-25)
 -------------------
 
 - Add some translations for new smartweb site admin control panel
