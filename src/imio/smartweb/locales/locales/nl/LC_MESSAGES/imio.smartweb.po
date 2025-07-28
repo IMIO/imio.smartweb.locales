@@ -101,7 +101,7 @@ msgstr ""
 msgid "Activate plone.app.caching.moderateCaching.lastModified"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:147
+#: imio/events/core/vocabularies.py:182
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr "Activiteit (buitenschools, sport, workshop en cursus, enz.)"
 
@@ -183,7 +183,7 @@ msgstr ""
 msgid "Add minisite properties/fields"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:20
+#: imio/directory/core/upgrades/configure.zcml:21
 #: imio/events/core/upgrades/configure.zcml:20
 #: imio/news/core/upgrades/configure.zcml:12
 msgid "Add more missing translations indexes / metadata"
@@ -253,7 +253,7 @@ msgstr ""
 msgid "Add new registry key to activate logging smartweb / authentic sources products"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:44
+#: imio/directory/core/upgrades/configure.zcml:45
 msgid "Add new registry keys to store push keys for ODWB"
 msgstr ""
 
@@ -273,7 +273,7 @@ msgstr ""
 msgid "Add plausible registry keys"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:36
+#: imio/directory/core/upgrades/configure.zcml:37
 #: imio/events/core/upgrades/configure.zcml:44
 #: imio/news/core/upgrades/configure.zcml:36
 msgid "Add solr.fields behavior to some content types"
@@ -686,6 +686,10 @@ msgstr ""
 msgid "Change collective.messagesviwlet control panel default values"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:332
+msgid "Change permission to manage site admin control panel"
+msgstr ""
+
 #: imio/smartweb/common/upgrades/configure.zcml:102
 msgid "Change portrait scales dimensions"
 msgstr ""
@@ -693,6 +697,10 @@ msgstr ""
 #: imio/smartweb/core/browser/instancebehaviors/form.py:23
 msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
 msgstr "Wijzigingen zullen alleen van invloed zijn op deze inhoud. Ze moeten met volledige kennis worden uitgevoerd. (Geen test)"
+
+#: imio/directory/core/vocabularies.py:113
+msgid "Charging stations"
+msgstr "Laadpalen"
 
 #: imio/events/core/contents/event/content.py:149
 msgid "Check if entry is free"
@@ -870,11 +878,11 @@ msgstr "Aanvulling"
 msgid "Complete this procedure online"
 msgstr "Voltooi deze procedure online"
 
-#: imio/events/core/vocabularies.py:35
+#: imio/events/core/vocabularies.py:36
 msgid "Concert and festival"
 msgstr "Concert en festival"
 
-#: imio/events/core/vocabularies.py:36
+#: imio/events/core/vocabularies.py:37
 msgid "Conference and debate"
 msgstr "Conferentie en debat"
 
@@ -1224,7 +1232,7 @@ msgstr "Evenementenplanner"
 msgid "Event type"
 msgstr "Type evenement"
 
-#: imio/events/core/vocabularies.py:141
+#: imio/events/core/vocabularies.py:176
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
 msgstr "Evenementgestuurd (feest, spel, conferentie, rommelmarkt, wandeling, enz.)"
 
@@ -1284,7 +1292,7 @@ msgstr "Voorbeeld: winkel, dienst, verenigingslogo"
 msgid "Exclude from parent listing"
 msgstr "Uitsluiten van bovenliggende lijst"
 
-#: imio/directory/core/upgrades/configure.zcml:28
+#: imio/directory/core/upgrades/configure.zcml:29
 #: imio/events/core/upgrades/configure.zcml:36
 #: imio/news/core/upgrades/configure.zcml:28
 msgid "Exclude some content_types from search results"
@@ -1294,7 +1302,7 @@ msgstr ""
 msgid "Exemple : https://COMMUNE.guichet-citoyen.be"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:37
+#: imio/events/core/vocabularies.py:38
 msgid "Exhibition and artistic meeting"
 msgstr "Tentoonstelling en artistieke bijeenkomst"
 
@@ -1407,7 +1415,7 @@ msgstr "Herstel standaardwaarden voor collectieve autoscaling"
 msgid "Fix versioning on imio.smartweb.SectionText"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:34
+#: imio/events/core/vocabularies.py:35
 msgid "Flea market and market"
 msgstr "Vlooienmarkt en markt"
 
@@ -1804,7 +1812,7 @@ msgstr ""
 msgid "Internal note"
 msgstr "Interne opmerking"
 
-#: imio/events/core/vocabularies.py:41
+#: imio/events/core/vocabularies.py:42
 msgid "Internships and courses"
 msgstr "Stages en cursussen"
 
@@ -2153,7 +2161,7 @@ msgstr "Nee"
 msgid "None"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:12
+#: imio/directory/core/upgrades/configure.zcml:13
 msgid "Not allowed to add Files or Images in imio.directory.Entity"
 msgstr ""
 
@@ -2217,6 +2225,10 @@ msgstr "Openen in een nieuw tabblad"
 msgid "Open in new tab"
 msgstr ""
 
+#: imio/directory/core/vocabularies.py:114
+msgid "Organic waste containers"
+msgstr "GFT-containers"
+
 #: imio/directory/core/vocabularies.py:17
 msgid "Organization (administrative service, business, professional, sports club, association, etc.)"
 msgstr "Organisatie (administratieve dienst, bedrijf, professioneel, sportclub, vereniging, enz.)"
@@ -2271,6 +2283,10 @@ msgstr "Oriëntatie"
 msgid "PIVOT"
 msgstr ""
 
+#: imio/directory/core/vocabularies.py:116
+msgid "PMC waste containers"
+msgstr "PMD-containers"
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Page"
 msgstr "Pagina"
@@ -2287,13 +2303,13 @@ msgstr "Ouder"
 msgid "Parent listing"
 msgstr ""
 
-#: imio/events/core/vocabularies.py:38
+#: imio/events/core/vocabularies.py:39
 msgid "Party and folklore"
 msgstr "Feest en folklore"
 
 #: imio/smartweb/core/browser/controlpanel.py:271
 msgid "Password already filled"
-msgstr ""
+msgstr "Wachtwoord al ingevuld"
 
 #: imio/smartweb/core/browser/controlpanel.py:201
 msgid "Password to consume I.A. Deliberations API"
@@ -2450,7 +2466,7 @@ msgstr "Procedure-URL"
 msgid "Procedures and practical informations"
 msgstr "Procedures en praktische informatie"
 
-#: imio/events/core/vocabularies.py:39
+#: imio/events/core/vocabularies.py:40
 msgid "Projection and cinema"
 msgstr "Projectie en Bioscoop"
 
@@ -2552,6 +2568,10 @@ msgstr ""
 #: imio/news/policy/upgrades/configure.zcml:12
 msgid "Remove ugly IImioEventsPolicyLayer"
 msgstr ""
+
+#: imio/directory/core/vocabularies.py:115
+msgid "Residual waste containers"
+msgstr "Restafval containers"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:148
 msgid "Restore removed behaviors on Collection type"
@@ -2958,7 +2978,7 @@ msgstr "Statistieken"
 msgid "Street"
 msgstr "Straat"
 
-#: imio/events/core/vocabularies.py:33
+#: imio/events/core/vocabularies.py:34
 msgid "Stroll and discovery"
 msgstr "Wandeling en ontdekking"
 
@@ -3067,7 +3087,7 @@ msgstr "Het geselecteerde item als startpagina van de map is:"
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr "De titel wordt altijd weergegeven als dit gedrag is ingeschakeld."
 
-#: imio/events/core/vocabularies.py:42
+#: imio/events/core/vocabularies.py:43
 msgid "Theater and show"
 msgstr "Theater en show"
 
@@ -3174,7 +3194,7 @@ msgstr "Toerismeorganisaties"
 msgid "Tourist"
 msgstr "Toerist"
 
-#: imio/events/core/vocabularies.py:40
+#: imio/events/core/vocabularies.py:41
 msgid "Trade Fair and Fair"
 msgstr "Handelsbeurs en Kermis"
 
@@ -3250,6 +3270,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:76
 msgid "Update caching configuration"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:92
+msgid "Update event_public taxonomy (add DE translations)"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:244
@@ -3369,7 +3393,7 @@ msgstr ""
 msgid "Upgrade core from 1002 to 1003"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:12
+#: imio/directory/core/upgrades/configure.zcml:13
 #: imio/news/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1003 to 1004"
 msgstr ""
@@ -3378,7 +3402,7 @@ msgstr ""
 msgid "Upgrade core from 1005 to 1006"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:20
+#: imio/directory/core/upgrades/configure.zcml:21
 #: imio/news/core/upgrades/configure.zcml:20
 msgid "Upgrade core from 1006 to 1007"
 msgstr ""
@@ -3409,18 +3433,18 @@ msgstr ""
 msgid "Upgrade core from 1012 to 1013"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:28
+#: imio/directory/core/upgrades/configure.zcml:29
 #: imio/events/core/upgrades/configure.zcml:52
 #: imio/news/core/upgrades/configure.zcml:68
 msgid "Upgrade core from 1013 to 1014"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:36
+#: imio/directory/core/upgrades/configure.zcml:37
 #: imio/news/core/upgrades/configure.zcml:76
 msgid "Upgrade core from 1014 to 1015"
 msgstr ""
 
-#: imio/directory/core/upgrades/configure.zcml:44
+#: imio/directory/core/upgrades/configure.zcml:45
 #: imio/events/core/upgrades/configure.zcml:60
 #: imio/smartweb/core/upgrades/configure.zcml:12
 msgid "Upgrade core from 1015 to 1016"
@@ -3437,6 +3461,10 @@ msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:84
 msgid "Upgrade core from 1018 to 1019"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:92
+msgid "Upgrade core from 1019 to 1020"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:28
@@ -3565,6 +3593,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:324
 msgid "Upgrade core from 1069 to 1070"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:332
+msgid "Upgrade core from 1070 to 1071"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28
