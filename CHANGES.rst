@@ -5,7 +5,8 @@ Changelog
 1.1.32 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translations
+  [remdub]
 
 
 1.1.31 (2025-06-25)
