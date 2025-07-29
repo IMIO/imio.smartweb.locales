@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.32 (unreleased)
+1.1.32 (2025-07-29)
 -------------------
 
 - Update translations
