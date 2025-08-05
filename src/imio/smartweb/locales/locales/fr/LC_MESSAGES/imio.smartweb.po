@@ -35,15 +35,15 @@ msgstr "Acceptez tous les cookies"
 
 #: imio/smartweb/core/viewlets/footer.py:52
 msgid "Access to directory links"
-msgstr ""
+msgstr "Accès à la page de liens vers les fiches d'annuaire"
 
 #: imio/smartweb/core/viewlets/footer.py:51
 msgid "Access to events links"
-msgstr ""
+msgstr "Accès à la page de liens vers les événements"
 
 #: imio/smartweb/core/viewlets/footer.py:50
 msgid "Access to news links"
-msgstr ""
+msgstr "Accès à la page de liens vers les actualités"
 
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
@@ -945,7 +945,7 @@ msgstr "Le type de contact est manquant."
 
 #: imio/smartweb/core/contents/rest/view.py:85
 msgid "Contacts links"
-msgstr ""
+msgstr "Annuaire : Liens vers les fiches de contact"
 
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
@@ -1271,7 +1271,7 @@ msgstr "Entité pour les événements"
 
 #: imio/smartweb/core/contents/rest/view.py:87
 msgid "Events links"
-msgstr ""
+msgstr "Agenda : Liens vers les événements"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
@@ -2152,7 +2152,7 @@ msgstr "Les actualités des dossiers sélectionnés apparaîtront automatiquemen
 
 #: imio/smartweb/core/contents/rest/view.py:89
 msgid "News links"
-msgstr ""
+msgstr "Actualité : Liens vers les fiches d'actualité"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"

@@ -34,15 +34,15 @@ msgstr "Alle cookies accepteren"
 
 #: imio/smartweb/core/viewlets/footer.py:52
 msgid "Access to directory links"
-msgstr ""
+msgstr "Toegang tot de adressenlijst-links"
 
 #: imio/smartweb/core/viewlets/footer.py:51
 msgid "Access to events links"
-msgstr ""
+msgstr "Toegang tot de evenementenlinks"
 
 #: imio/smartweb/core/viewlets/footer.py:50
 msgid "Access to news links"
-msgstr ""
+msgstr "Toegang tot de nieuwslinks"
 
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
@@ -944,7 +944,7 @@ msgstr "Contacttype ontbreekt."
 
 #: imio/smartweb/core/contents/rest/view.py:85
 msgid "Contacts links"
-msgstr ""
+msgstr "Links naar contactpersonen"
 
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
@@ -1270,7 +1270,7 @@ msgstr "Evenementen entiteit"
 
 #: imio/smartweb/core/contents/rest/view.py:87
 msgid "Events links"
-msgstr ""
+msgstr "Agenda: links naar evenementen"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
@@ -2151,7 +2151,7 @@ msgstr "Nieuwsmappen die automatisch deze nieuwsmappen vullen met hun nieuws."
 
 #: imio/smartweb/core/contents/rest/view.py:89
 msgid "News links"
-msgstr ""
+msgstr "Nieuws: links naar nieuwsberichten"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"

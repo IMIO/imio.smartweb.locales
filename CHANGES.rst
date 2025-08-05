@@ -5,6 +5,9 @@ Changelog
 1.1.33 (unreleased)
 -------------------
 
+- Add some new translations (seo pages)
+  [boulch]
+
 - Update translations
   [boulch]
 

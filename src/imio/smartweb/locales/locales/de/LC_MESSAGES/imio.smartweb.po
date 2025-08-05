@@ -35,15 +35,15 @@ msgstr "Alle Cookies akzeptieren"
 
 #: imio/smartweb/core/viewlets/footer.py:52
 msgid "Access to directory links"
-msgstr ""
+msgstr "Zugang zu den Verzeichnislinks"
 
 #: imio/smartweb/core/viewlets/footer.py:51
 msgid "Access to events links"
-msgstr ""
+msgstr "Zugang zu den Veranstaltungslinks"
 
 #: imio/smartweb/core/viewlets/footer.py:50
 msgid "Access to news links"
-msgstr ""
+msgstr "Zugang zu den Nachrichtenlinks"
 
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
@@ -945,7 +945,7 @@ msgstr "Kontakttyp fehlt."
 
 #: imio/smartweb/core/contents/rest/view.py:85
 msgid "Contacts links"
-msgstr ""
+msgstr "Links zu Kontaktpersonen"
 
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
@@ -1271,7 +1271,7 @@ msgstr "Entität für Veranstaltungen"
 
 #: imio/smartweb/core/contents/rest/view.py:87
 msgid "Events links"
-msgstr ""
+msgstr "Veranstaltungskalender: Links zu den Veranstaltungen"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
@@ -2152,7 +2152,7 @@ msgstr "Nachrichtenordner, die diesen Nachrichtenordner automatisch mit ihren Na
 
 #: imio/smartweb/core/contents/rest/view.py:89
 msgid "News links"
-msgstr ""
+msgstr "Nachrichten: Links zu den Nachrichtenmeldungen"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
