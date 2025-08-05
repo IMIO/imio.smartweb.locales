@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.33 (unreleased)
+1.1.33 (2025-08-05)
 -------------------
 
 - Add some new translations (seo pages)
