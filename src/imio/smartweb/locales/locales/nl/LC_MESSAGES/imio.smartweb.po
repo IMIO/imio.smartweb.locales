@@ -32,6 +32,18 @@ msgstr "Alles accepteren"
 msgid "Accept all cookies"
 msgstr "Alle cookies accepteren"
 
+#: imio/smartweb/core/viewlets/footer.py:52
+msgid "Access to directory links"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/footer.py:51
+msgid "Access to events links"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/footer.py:50
+msgid "Access to news links"
+msgstr ""
+
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
 msgstr "Toegankelijkheid"
@@ -131,6 +143,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Add caching configuration to registry"
+msgstr ""
+
+#: imio/directory/core/upgrades/configure.zcml:53
+msgid "Add edit.js to bundle. Custom jquery when editing a contact"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:52
@@ -926,6 +942,10 @@ msgstr "Contacttitel ontbreekt."
 msgid "Contact type is missing."
 msgstr "Contacttype ontbreekt."
 
+#: imio/smartweb/core/contents/rest/view.py:85
+msgid "Contacts links"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
 msgstr "Containerparken"
@@ -1247,6 +1267,10 @@ msgstr "Events SolR Core ID"
 #: imio/smartweb/core/browser/controlpanel.py:77
 msgid "Events entity"
 msgstr "Evenementen entiteit"
+
+#: imio/smartweb/core/contents/rest/view.py:87
+msgid "Events links"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
@@ -2125,6 +2149,10 @@ msgstr "Nieuwsmap(pen) bijgewerkt"
 msgid "News folders that automatically populates this news folder with their news."
 msgstr "Nieuwsmappen die automatisch deze nieuwsmappen vullen met hun nieuws."
 
+#: imio/smartweb/core/contents/rest/view.py:89
+msgid "News links"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
 msgstr "Nieuwssectie"
@@ -2874,7 +2902,7 @@ msgstr "Naar inhoud springen"
 msgid "Skip to footer"
 msgstr "Naar voettekst springen"
 
-#: imio/smartweb/core/viewlets/footer.pt:9
+#: imio/smartweb/core/viewlets/footer.pt:22
 msgid "Skip to navigation"
 msgstr "Navigatie overslaan"
 
@@ -3320,6 +3348,7 @@ msgstr ""
 msgid "Upgrade common from 1016 to 1017"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:53
 #: imio/smartweb/common/upgrades/configure.zcml:86
 msgid "Upgrade common from 1017 to 1018"
 msgstr ""
@@ -3969,6 +3998,16 @@ msgstr "U bewerkt momenteel de standaardpagina van een container. Als u de conta
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container_go_here"
 msgstr "klik hier"
+
+#. Default: "Next &raquo;"
+#: imio/smartweb/core/contents/rest/results.pt:33
+msgid "label_external_url"
+msgstr ""
+
+#. Default: "&laquo; Previous"
+#: imio/smartweb/core/contents/rest/results.pt:27
+msgid "previous"
+msgstr ""
 
 #: imio/smartweb/core/browser/utils.py:69
 msgid "smartweb.settings : No secret key define"

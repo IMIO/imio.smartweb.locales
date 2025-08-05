@@ -33,6 +33,18 @@ msgstr "Alles akzeptieren"
 msgid "Accept all cookies"
 msgstr "Alle Cookies akzeptieren"
 
+#: imio/smartweb/core/viewlets/footer.py:52
+msgid "Access to directory links"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/footer.py:51
+msgid "Access to events links"
+msgstr ""
+
+#: imio/smartweb/core/viewlets/footer.py:50
+msgid "Access to news links"
+msgstr ""
+
 #: imio/smartweb/common/viewlets/colophon.pt:13
 msgid "Accessibility"
 msgstr "Barrierefreiheit"
@@ -132,6 +144,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Add caching configuration to registry"
+msgstr ""
+
+#: imio/directory/core/upgrades/configure.zcml:53
+msgid "Add edit.js to bundle. Custom jquery when editing a contact"
 msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:52
@@ -927,6 +943,10 @@ msgstr "Kontakt-Titel fehlt."
 msgid "Contact type is missing."
 msgstr "Kontakttyp fehlt."
 
+#: imio/smartweb/core/contents/rest/view.py:85
+msgid "Contacts links"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
 msgstr "Containerparks"
@@ -1248,6 +1268,10 @@ msgstr "Veranstaltungs SolR Core ID"
 #: imio/smartweb/core/browser/controlpanel.py:77
 msgid "Events entity"
 msgstr "Entität für Veranstaltungen"
+
+#: imio/smartweb/core/contents/rest/view.py:87
+msgid "Events links"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionEvents.xml
 msgid "Events section"
@@ -2126,6 +2150,10 @@ msgstr "Nachrichtenordner aktualisiert"
 msgid "News folders that automatically populates this news folder with their news."
 msgstr "Nachrichtenordner, die diesen Nachrichtenordner automatisch mit ihren Nachrichten füllen."
 
+#: imio/smartweb/core/contents/rest/view.py:89
+msgid "News links"
+msgstr ""
+
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionNews.xml
 msgid "News section"
 msgstr "Nachrichtenabschnitt"
@@ -2875,7 +2903,7 @@ msgstr "Zum Inhalt springen"
 msgid "Skip to footer"
 msgstr "Zum Fußzeilenabschnitt springen"
 
-#: imio/smartweb/core/viewlets/footer.pt:9
+#: imio/smartweb/core/viewlets/footer.pt:22
 msgid "Skip to navigation"
 msgstr "Zur Navigation springen"
 
@@ -3321,6 +3349,7 @@ msgstr ""
 msgid "Upgrade common from 1016 to 1017"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:53
 #: imio/smartweb/common/upgrades/configure.zcml:86
 msgid "Upgrade common from 1017 to 1018"
 msgstr ""
@@ -3970,6 +3999,16 @@ msgstr "Sie bearbeiten die Standardseite eines Containers. Wenn Sie den Containe
 #: imio/smartweb/core/viewlets/default_page_warning.pt:7
 msgid "label_edit_default_page_container_go_here"
 msgstr "hier klicken"
+
+#. Default: "Next &raquo;"
+#: imio/smartweb/core/contents/rest/results.pt:33
+msgid "label_external_url"
+msgstr ""
+
+#. Default: "&laquo; Previous"
+#: imio/smartweb/core/contents/rest/results.pt:27
+msgid "previous"
+msgstr ""
 
 #: imio/smartweb/core/browser/utils.py:69
 msgid "smartweb.settings : No secret key define"

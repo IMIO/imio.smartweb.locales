@@ -5,7 +5,8 @@ Changelog
 1.1.33 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translations
+  [boulch]
 
 
 1.1.32 (2025-07-29)
