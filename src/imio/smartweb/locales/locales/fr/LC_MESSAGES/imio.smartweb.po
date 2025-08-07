@@ -497,7 +497,7 @@ msgstr "Bas"
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:30
 msgid "Button label"
-msgstr ""
+msgstr "Intitulé du bouton"
 
 #: imio/smartweb/core/upgrades/configure.zcml:68
 msgid "By default, Plone open external (Section text / Tiny) links in new tab"
@@ -920,7 +920,7 @@ msgstr "Contact"
 
 #: imio/smartweb/core/contents/rest/directory/view.py:88
 msgid "Contact category"
-msgstr ""
+msgstr "Catégorie de contact"
 
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact content type"
@@ -945,7 +945,7 @@ msgstr "Le titre du contact est manquant."
 
 #: imio/smartweb/core/contents/rest/directory/view.py:89
 msgid "Contact type"
-msgstr ""
+msgstr "Type de contact"
 
 #: imio/directory/core/browser/import.py:201
 msgid "Contact type is missing."
@@ -1186,7 +1186,7 @@ msgstr "Choisir un élément"
 #: imio/smartweb/core/contents/rest/events/view.py:100
 #: imio/smartweb/core/contents/rest/news/view.py:55
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: imio/smartweb/core/upgrades/configure.zcml:108
 msgid "Enable autopublishing behavior on all types"
@@ -1261,7 +1261,7 @@ msgstr "Événement"
 
 #: imio/smartweb/core/contents/rest/events/view.py:102
 msgid "Event category"
-msgstr ""
+msgstr "Catégorie d'événement"
 
 #: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
@@ -4028,21 +4028,21 @@ msgstr ""
 #: imio/smartweb/core/contents/rest/directory/view.pt:32
 #: imio/smartweb/core/contents/rest/events/view.pt:37
 msgid "label_geolocation"
-msgstr ""
+msgstr "Géolocalisation"
 
 #. Default: "Phone"
 #: imio/smartweb/core/contents/rest/directory/view.pt:24
 #: imio/smartweb/core/contents/rest/events/view.pt:29
 #: imio/smartweb/core/contents/rest/news/view.pt:25
 msgid "label_phone"
-msgstr ""
+msgstr "Téléphone"
 
 #. Default: "Website"
 #: imio/smartweb/core/contents/rest/directory/view.pt:28
 #: imio/smartweb/core/contents/rest/events/view.pt:33
 #: imio/smartweb/core/contents/rest/news/view.pt:29
 msgid "label_website"
-msgstr ""
+msgstr "Site web"
 
 #. Default: "&laquo; Previous"
 #: imio/smartweb/core/contents/rest/results.pt:27
