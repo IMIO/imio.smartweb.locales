@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-05 12:41+0000\n"
+"POT-Creation-Date: 2025-08-07 12:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -341,8 +341,8 @@ msgid "Add/Remove news folder(s)"
 msgstr ""
 
 #: imio/smartweb/common/interfaces.py:32
-#: imio/smartweb/core/contents/sections/contact/macros.pt:122
-#: imio/smartweb/core/vocabularies.py:225
+#: imio/smartweb/core/contents/rest/directory/view.py:85
+#: imio/smartweb/core/contents/rest/events/view.py:99
 msgid "Address"
 msgstr ""
 
@@ -923,6 +923,10 @@ msgstr ""
 msgid "Contact"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/view.py:88
+msgid "Contact category"
+msgstr ""
+
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact content type"
 msgstr ""
@@ -944,11 +948,15 @@ msgstr ""
 msgid "Contact title is missing."
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/view.py:89
+msgid "Contact type"
+msgstr ""
+
 #: imio/directory/core/browser/import.py:201
 msgid "Contact type is missing."
 msgstr ""
 
-#: imio/smartweb/core/contents/rest/view.py:85
+#: imio/smartweb/core/contents/rest/view.py:125
 msgid "Contacts links"
 msgstr ""
 
@@ -1179,6 +1187,12 @@ msgstr ""
 msgid "Element view"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/view.py:86
+#: imio/smartweb/core/contents/rest/events/view.py:100
+#: imio/smartweb/core/contents/rest/news/view.py:55
+msgid "Email"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:108
 msgid "Enable autopublishing behavior on all types"
 msgstr ""
@@ -1250,11 +1264,16 @@ msgstr ""
 msgid "Event"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/events/view.py:102
+msgid "Event category"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:105
+#: imio/smartweb/core/contents/rest/events/view.py:103
 msgid "Event type"
 msgstr ""
 
@@ -1274,7 +1293,7 @@ msgstr ""
 msgid "Events entity"
 msgstr ""
 
-#: imio/smartweb/core/contents/rest/view.py:87
+#: imio/smartweb/core/contents/rest/view.py:127
 msgid "Events links"
 msgstr ""
 
@@ -2155,7 +2174,7 @@ msgstr ""
 msgid "News folders that automatically populates this news folder with their news."
 msgstr ""
 
-#: imio/smartweb/core/contents/rest/view.py:89
+#: imio/smartweb/core/contents/rest/view.py:129
 msgid "News links"
 msgstr ""
 
@@ -4008,6 +4027,26 @@ msgstr ""
 #. Default: "Next &raquo;"
 #: imio/smartweb/core/contents/rest/results.pt:33
 msgid "label_external_url"
+msgstr ""
+
+#. Default: "Geolocation"
+#: imio/smartweb/core/contents/rest/directory/view.pt:32
+#: imio/smartweb/core/contents/rest/events/view.pt:37
+msgid "label_geolocation"
+msgstr ""
+
+#. Default: "Phone"
+#: imio/smartweb/core/contents/rest/directory/view.pt:24
+#: imio/smartweb/core/contents/rest/events/view.pt:29
+#: imio/smartweb/core/contents/rest/news/view.pt:25
+msgid "label_phone"
+msgstr ""
+
+#. Default: "Website"
+#: imio/smartweb/core/contents/rest/directory/view.pt:28
+#: imio/smartweb/core/contents/rest/events/view.pt:33
+#: imio/smartweb/core/contents/rest/news/view.pt:29
+msgid "label_website"
 msgstr ""
 
 #. Default: "&laquo; Previous"

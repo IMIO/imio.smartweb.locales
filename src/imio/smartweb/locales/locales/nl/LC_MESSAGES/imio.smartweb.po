@@ -335,8 +335,8 @@ msgid "Add/Remove news folder(s)"
 msgstr "Kies de map(pen) waarin dit nieuws wordt weergegeven"
 
 #: imio/smartweb/common/interfaces.py:32
-#: imio/smartweb/core/contents/sections/contact/macros.pt:122
-#: imio/smartweb/core/vocabularies.py:225
+#: imio/smartweb/core/contents/rest/directory/view.py:85
+#: imio/smartweb/core/contents/rest/events/view.py:99
 msgid "Address"
 msgstr "Adres"
 
@@ -917,6 +917,10 @@ msgstr "Raadpleeg de kaart"
 msgid "Contact"
 msgstr "Contact"
 
+#: imio/smartweb/core/contents/rest/directory/view.py:88
+msgid "Contact category"
+msgstr ""
+
 #: imio/directory/core/profiles/default/types/imio.directory.Contact.xml
 msgid "Contact content type"
 msgstr "Contact"
@@ -938,11 +942,15 @@ msgstr "Contactsectie voor een pagina"
 msgid "Contact title is missing."
 msgstr "Contacttitel ontbreekt."
 
+#: imio/smartweb/core/contents/rest/directory/view.py:89
+msgid "Contact type"
+msgstr ""
+
 #: imio/directory/core/browser/import.py:201
 msgid "Contact type is missing."
 msgstr "Contacttype ontbreekt."
 
-#: imio/smartweb/core/contents/rest/view.py:85
+#: imio/smartweb/core/contents/rest/view.py:125
 msgid "Contacts links"
 msgstr "Links naar contactpersonen"
 
@@ -1173,6 +1181,12 @@ msgstr "Oudere"
 msgid "Element view"
 msgstr ""
 
+#: imio/smartweb/core/contents/rest/directory/view.py:86
+#: imio/smartweb/core/contents/rest/events/view.py:100
+#: imio/smartweb/core/contents/rest/news/view.py:55
+msgid "Email"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:108
 msgid "Enable autopublishing behavior on all types"
 msgstr ""
@@ -1244,11 +1258,16 @@ msgstr "Fout(en) op regel ${number}"
 msgid "Event"
 msgstr "Evenement"
 
+#: imio/smartweb/core/contents/rest/events/view.py:102
+msgid "Event category"
+msgstr ""
+
 #: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
 msgstr "Evenementenplanner"
 
 #: imio/events/core/contents/event/content.py:105
+#: imio/smartweb/core/contents/rest/events/view.py:103
 msgid "Event type"
 msgstr "Type evenement"
 
@@ -1268,7 +1287,7 @@ msgstr "Events SolR Core ID"
 msgid "Events entity"
 msgstr "Evenementen entiteit"
 
-#: imio/smartweb/core/contents/rest/view.py:87
+#: imio/smartweb/core/contents/rest/view.py:127
 msgid "Events links"
 msgstr "Agenda: links naar evenementen"
 
@@ -2149,7 +2168,7 @@ msgstr "Nieuwsmap(pen) bijgewerkt"
 msgid "News folders that automatically populates this news folder with their news."
 msgstr "Nieuwsmappen die automatisch deze nieuwsmappen vullen met hun nieuws."
 
-#: imio/smartweb/core/contents/rest/view.py:89
+#: imio/smartweb/core/contents/rest/view.py:129
 msgid "News links"
 msgstr "Nieuws: links naar nieuwsberichten"
 
@@ -4002,6 +4021,26 @@ msgstr "klik hier"
 #. Default: "Next &raquo;"
 #: imio/smartweb/core/contents/rest/results.pt:33
 msgid "label_external_url"
+msgstr ""
+
+#. Default: "Geolocation"
+#: imio/smartweb/core/contents/rest/directory/view.pt:32
+#: imio/smartweb/core/contents/rest/events/view.pt:37
+msgid "label_geolocation"
+msgstr ""
+
+#. Default: "Phone"
+#: imio/smartweb/core/contents/rest/directory/view.pt:24
+#: imio/smartweb/core/contents/rest/events/view.pt:29
+#: imio/smartweb/core/contents/rest/news/view.pt:25
+msgid "label_phone"
+msgstr ""
+
+#. Default: "Website"
+#: imio/smartweb/core/contents/rest/directory/view.pt:28
+#: imio/smartweb/core/contents/rest/events/view.pt:33
+#: imio/smartweb/core/contents/rest/news/view.pt:29
+msgid "label_website"
 msgstr ""
 
 #. Default: "&laquo; Previous"
