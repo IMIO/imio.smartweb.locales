@@ -5,6 +5,9 @@ Changelog
 1.1.34 (unreleased)
 -------------------
 
+- WEB-4323: Add translations for warning message when a content could not be geocoded
+  [remdub]
+
 - Add some new translations (seo pages)
   [boulch]
 
