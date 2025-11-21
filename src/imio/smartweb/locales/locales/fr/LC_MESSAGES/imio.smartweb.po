@@ -2775,7 +2775,7 @@ msgstr "Collection sélectionnée"
 
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:34
 msgid "Select a title :"
-msgstr ""
+msgstr "Sélectionnez un titre"
 
 #: imio/smartweb/core/contents/rest/events/content.py:24
 msgid "Select agenda to display"
@@ -3208,7 +3208,7 @@ msgstr "Le titre et la description apparaîtront devant l'image comme slogan"
 
 #: imio/smartweb/core/widgets/widget.py:34
 msgid "Title suggestions"
-msgstr ""
+msgstr "Suggestions de titres"
 
 #: imio/smartweb/core/vocabularies.py:368
 msgid "Top"

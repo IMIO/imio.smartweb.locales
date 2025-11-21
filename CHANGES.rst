@@ -5,6 +5,9 @@ Changelog
 1.1.34 (unreleased)
 -------------------
 
+- Add some new (fr, de, nl) translations (i.a.)
+  [boulch]
+
 - Update translations
   [boulch]
 

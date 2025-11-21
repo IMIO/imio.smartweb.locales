@@ -2774,7 +2774,7 @@ msgstr "Selecteer een collectie"
 
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:34
 msgid "Select a title :"
-msgstr ""
+msgstr "Selecteer een titel"
 
 #: imio/smartweb/core/contents/rest/events/content.py:24
 msgid "Select agenda to display"
@@ -3207,7 +3207,7 @@ msgstr "De titel en beschrijving worden weergegeven voor de afbeelding als een s
 
 #: imio/smartweb/core/widgets/widget.py:34
 msgid "Title suggestions"
-msgstr ""
+msgstr "Titelvoorstellen"
 
 #: imio/smartweb/core/vocabularies.py:368
 msgid "Top"
