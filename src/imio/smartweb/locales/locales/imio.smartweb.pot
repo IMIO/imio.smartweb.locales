@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-06 06:00+0000\n"
+"POT-Creation-Date: 2025-11-21 08:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid ""
 msgstr ""
 
-#: imio/events/core/browser/actions.py:22
+#: imio/events/core/browser/actions.py:28
 #: imio/news/core/browser/actions.py:28
 msgid "${val1} ${val2} can't be removed because it contains ${val3} element(s)"
 msgstr ""
@@ -140,6 +140,10 @@ msgstr ""
 msgid "Add I am categories on content types."
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:182
+msgid "Add IA buttons to TinyMCE"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:164
 msgid "Add Skip to content viewlet in portal top"
 msgstr ""
@@ -218,6 +222,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:292
 msgid "Add new behavior (open in new tab) to content type Link and content type imio.smartweb.BlockLink"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:347
+msgid "Add new bundle to manage ia js"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:116
@@ -351,7 +359,7 @@ msgstr ""
 msgid "Affiche"
 msgstr ""
 
-#: imio/events/core/browser/actions.py:20
+#: imio/events/core/browser/actions.py:26
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr ""
@@ -874,6 +882,7 @@ msgid "Click to preview content (without editor actions)."
 msgstr ""
 
 #: imio/smartweb/core/viewlets/navigation.py:85
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:36
 msgid "Close"
 msgstr ""
 
@@ -1473,7 +1482,7 @@ msgstr ""
 msgid "Flea market and market"
 msgstr ""
 
-#: imio/events/core/browser/actions.py:20
+#: imio/events/core/browser/actions.py:26
 #: imio/events/core/profiles/default/types/imio.events.Folder.xml
 #: imio/news/core/browser/actions.py:26
 msgid "Folder"
@@ -1587,6 +1596,10 @@ msgstr ""
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
+msgstr ""
+
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
+msgid "Générer via IA"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/html/content.py:17
@@ -1763,7 +1776,7 @@ msgstr ""
 msgid "Image"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:16
+#: imio/smartweb/core/contents/sections/text/content.py:20
 msgid "Image alignment"
 msgstr ""
 
@@ -1779,7 +1792,7 @@ msgstr ""
 msgid "Image scale for images (only for gallery mode)"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:24
+#: imio/smartweb/core/contents/sections/text/content.py:28
 msgid "Image size"
 msgstr ""
 
@@ -2765,6 +2778,10 @@ msgstr ""
 msgid "Select a collection"
 msgstr ""
 
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:34
+msgid "Select a title :"
+msgstr ""
+
 #: imio/smartweb/core/contents/rest/events/content.py:24
 msgid "Select agenda to display"
 msgstr ""
@@ -2785,7 +2802,7 @@ msgstr ""
 msgid "Select if you want (specific) category or (first) topic displayed on items"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:25
+#: imio/smartweb/core/contents/sections/text/content.py:29
 msgid "Select image size"
 msgstr ""
 
@@ -2801,7 +2818,7 @@ msgstr ""
 msgid "Select view"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:17
+#: imio/smartweb/core/contents/sections/text/content.py:21
 msgid "Select where you want to display the image"
 msgstr ""
 
@@ -3194,6 +3211,10 @@ msgstr ""
 msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr ""
 
+#: imio/smartweb/core/widgets/widget.py:34
+msgid "Title suggestions"
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:368
 msgid "Top"
 msgstr ""
@@ -3405,6 +3426,7 @@ msgstr ""
 msgid "Upgrade common from 1033 to 1034"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:182
 #: imio/smartweb/core/upgrades/configure.zcml:108
 msgid "Upgrade common from 1034 to 1035"
 msgstr ""
@@ -3637,6 +3659,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:339
 msgid "Upgrade core from 1071 to 1072"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:347
+msgid "Upgrade core from 1073 to 1074"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28

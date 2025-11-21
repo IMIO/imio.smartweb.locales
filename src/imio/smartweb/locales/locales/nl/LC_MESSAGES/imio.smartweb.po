@@ -15,7 +15,7 @@ msgstr ""
 "Domain: imio.smartweb\n"
 "Language: nl\n"
 
-#: imio/events/core/browser/actions.py:22
+#: imio/events/core/browser/actions.py:28
 #: imio/news/core/browser/actions.py:28
 msgid "${val1} ${val2} can't be removed because it contains ${val3} element(s)"
 msgstr ""
@@ -134,6 +134,10 @@ msgstr ""
 msgid "Add I am categories on content types."
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:182
+msgid "Add IA buttons to TinyMCE"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:164
 msgid "Add Skip to content viewlet in portal top"
 msgstr ""
@@ -212,6 +216,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:292
 msgid "Add new behavior (open in new tab) to content type Link and content type imio.smartweb.BlockLink"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:347
+msgid "Add new bundle to manage ia js"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:116
@@ -345,7 +353,7 @@ msgstr "Adres"
 msgid "Affiche"
 msgstr "Affiche"
 
-#: imio/events/core/browser/actions.py:20
+#: imio/events/core/browser/actions.py:26
 #: imio/events/core/profiles/default/types/imio.events.Agenda.xml
 msgid "Agenda"
 msgstr "Agenda"
@@ -868,6 +876,7 @@ msgid "Click to preview content (without editor actions)."
 msgstr "Klik om inhoud te bekijken (zonder editoracties)."
 
 #: imio/smartweb/core/viewlets/navigation.py:85
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:36
 msgid "Close"
 msgstr "Sluiten"
 
@@ -1467,7 +1476,7 @@ msgstr ""
 msgid "Flea market and market"
 msgstr "Vlooienmarkt en markt"
 
-#: imio/events/core/browser/actions.py:20
+#: imio/events/core/browser/actions.py:26
 #: imio/events/core/profiles/default/types/imio.events.Folder.xml
 #: imio/news/core/browser/actions.py:26
 msgid "Folder"
@@ -1582,6 +1591,10 @@ msgstr "Krijg voorrang op gerelateerd nieuws voor deze specifieke nieuwsberichte
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
 msgstr "Ga naar ${url}"
+
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
+msgid "Générer via IA"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/html/content.py:17
 msgid "HTML"
@@ -1757,7 +1770,7 @@ msgstr "Indien geselecteerd, wordt dit item niet weergegeven in overzichtsweerga
 msgid "Image"
 msgstr "Afbeelding"
 
-#: imio/smartweb/core/contents/sections/text/content.py:16
+#: imio/smartweb/core/contents/sections/text/content.py:20
 msgid "Image alignment"
 msgstr "Afbeelding uitlijning"
 
@@ -1773,7 +1786,7 @@ msgstr "Afbeeldingschaal voor afbeeldingen"
 msgid "Image scale for images (only for gallery mode)"
 msgstr "Afbeeldingschaal voor afbeeldingen (alleen voor galerijmodus)"
 
-#: imio/smartweb/core/contents/sections/text/content.py:24
+#: imio/smartweb/core/contents/sections/text/content.py:28
 msgid "Image size"
 msgstr "Afbeeldingsgrootte"
 
@@ -2759,6 +2772,10 @@ msgstr "Bekijk al het nieuws"
 msgid "Select a collection"
 msgstr "Selecteer een collectie"
 
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:34
+msgid "Select a title :"
+msgstr ""
+
 #: imio/smartweb/core/contents/rest/events/content.py:24
 msgid "Select agenda to display"
 msgstr "Selecteer agenda om weer te geven"
@@ -2779,7 +2796,7 @@ msgstr "Selecteer entiteiten waarop dit contact zal worden weergegeven. De huidi
 msgid "Select if you want (specific) category or (first) topic displayed on items"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:25
+#: imio/smartweb/core/contents/sections/text/content.py:29
 msgid "Select image size"
 msgstr "Selecteer afbeeldingsgrootte"
 
@@ -2795,7 +2812,7 @@ msgstr "Selecteer de nieuwsmap waarin dit nieuwsbericht zal worden weergegeven. 
 msgid "Select view"
 msgstr "Selecteer weergave"
 
-#: imio/smartweb/core/contents/sections/text/content.py:17
+#: imio/smartweb/core/contents/sections/text/content.py:21
 msgid "Select where you want to display the image"
 msgstr "Selecteer waar je de afbeelding wilt weergeven"
 
@@ -3188,6 +3205,10 @@ msgstr "Titel en Ondertitel"
 msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr "De titel en beschrijving worden weergegeven voor de afbeelding als een slogan"
 
+#: imio/smartweb/core/widgets/widget.py:34
+msgid "Title suggestions"
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:368
 msgid "Top"
 msgstr "Bovenkant"
@@ -3399,6 +3420,7 @@ msgstr ""
 msgid "Upgrade common from 1033 to 1034"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:182
 #: imio/smartweb/core/upgrades/configure.zcml:108
 msgid "Upgrade common from 1034 to 1035"
 msgstr ""
@@ -3631,6 +3653,10 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:339
 msgid "Upgrade core from 1071 to 1072"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:347
+msgid "Upgrade core from 1073 to 1074"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28
