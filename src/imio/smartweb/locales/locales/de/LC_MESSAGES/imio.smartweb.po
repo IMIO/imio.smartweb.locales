@@ -712,6 +712,10 @@ msgstr "Kategorie - Informationen zu Arbeiten"
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Einstellung des Kategorie- und Themen-Vokabulars für TeleServices"
 
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
+msgid "Catégoriser via IA"
+msgstr "Kategorisierung mithilfe von KI"
+
 #: imio/smartweb/common/upgrades/configure.zcml:78
 msgid "Change banner scale to have infinite height"
 msgstr "Ändern Sie die Bannerskala, um unendliche Höhe zu haben"
@@ -1595,7 +1599,7 @@ msgstr "Gehe zu ${url}"
 
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
 msgid "Générer via IA"
-msgstr ""
+msgstr "Generieren Sie über KI"
 
 #: imio/smartweb/core/contents/sections/html/content.py:17
 msgid "HTML"

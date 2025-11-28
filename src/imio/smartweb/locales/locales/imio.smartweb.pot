@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-21 08:56+0000\n"
+"POT-Creation-Date: 2025-11-28 10:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -715,6 +715,10 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:116
 msgid "Category and topics vocabulary setting for TeleServices"
+msgstr ""
+
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
+msgid "Catégoriser via IA"
 msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:78

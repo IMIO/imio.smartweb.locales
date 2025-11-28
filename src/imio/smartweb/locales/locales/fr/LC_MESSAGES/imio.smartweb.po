@@ -712,6 +712,10 @@ msgstr "Catégorie - Infos travaux"
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Paramètres de vocabulaire Catégories et thématiques pour les TeleServices"
 
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
+msgid "Catégoriser via IA"
+msgstr ""
+
 #: imio/smartweb/common/upgrades/configure.zcml:78
 msgid "Change banner scale to have infinite height"
 msgstr ""
