@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-11-28 10:42+0000\n"
+"POT-Creation-Date: 2025-12-05 09:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -24,6 +24,10 @@ msgstr ""
 #: imio/events/core/browser/actions.py:28
 #: imio/news/core/browser/actions.py:28
 msgid "${val1} ${val2} can't be removed because it contains ${val3} element(s)"
+msgstr ""
+
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:14
+msgid "(Categorization unavailable because a section of text is missing or empty.)"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:85
@@ -571,6 +575,10 @@ msgstr ""
 msgid "Categorization"
 msgstr ""
 
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
+msgid "Categorize using AI"
+msgstr ""
+
 #: imio/events/core/contents/event/content.py:178
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
@@ -715,10 +723,6 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:116
 msgid "Category and topics vocabulary setting for TeleServices"
-msgstr ""
-
-#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
-msgid "Catégoriser via IA"
 msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:78
@@ -1584,6 +1588,10 @@ msgstr ""
 msgid "Gallery section for a page"
 msgstr ""
 
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
+msgid "Generate using AI"
+msgstr ""
+
 #: imio/directory/core/contents/contact/content.py:248
 #: imio/events/core/contents/event/content.py:47
 #: imio/news/core/contents/newsitem/content.py:33
@@ -1600,10 +1608,6 @@ msgstr ""
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
-msgstr ""
-
-#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
-msgid "Générer via IA"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/html/content.py:17

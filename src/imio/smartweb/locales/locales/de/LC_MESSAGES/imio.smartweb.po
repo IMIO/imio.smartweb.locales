@@ -21,6 +21,10 @@ msgstr ""
 msgid "${val1} ${val2} can't be removed because it contains ${val3} element(s)"
 msgstr ""
 
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:14
+msgid "(Categorization unavailable because a section of text is missing or empty.)"
+msgstr "(Kategorisierung nicht möglich, da ein Textabschnitt fehlt oder leer ist.)"
+
 #: imio/smartweb/core/contents/sections/base.py:85
 msgid "<div class=\"section_error_txt\">Error in section : \"{}\" <a href=\"{}/edit\">[edit]</a></div>"
 msgstr "<div class=\"section_error_txt\">Fehler im Abschnitt: \"{}\" <a href=\"{}/edit\">[bearbeiten]</a></div>"
@@ -566,6 +570,10 @@ msgstr ""
 msgid "Categorization"
 msgstr "Kategorisierung"
 
+#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
+msgid "Categorize using AI"
+msgstr "Per KI kategorisieren"
+
 #: imio/events/core/contents/event/content.py:178
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
@@ -711,10 +719,6 @@ msgstr "Kategorie - Informationen zu Arbeiten"
 #: imio/smartweb/core/browser/controlpanel.py:116
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Einstellung des Kategorie- und Themen-Vokabulars für TeleServices"
-
-#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
-msgid "Catégoriser via IA"
-msgstr "Kategorisierung mithilfe von KI"
 
 #: imio/smartweb/common/upgrades/configure.zcml:78
 msgid "Change banner scale to have infinite height"
@@ -1579,6 +1583,10 @@ msgstr "Galerie-Abschnitt"
 msgid "Gallery section for a page"
 msgstr "Galerie-Abschnitt für eine Seite"
 
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
+msgid "Generate using AI"
+msgstr "Mit KI generieren"
+
 #: imio/directory/core/contents/contact/content.py:248
 #: imio/events/core/contents/event/content.py:47
 #: imio/news/core/contents/newsitem/content.py:33
@@ -1596,10 +1604,6 @@ msgstr "Erhalten Sie Vorrang auf den zugehörigen Nachrichten für diese speziel
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
 msgid "Go to ${url}"
 msgstr "Gehe zu ${url}"
-
-#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
-msgid "Générer via IA"
-msgstr "Generieren Sie über KI"
 
 #: imio/smartweb/core/contents/sections/html/content.py:17
 msgid "HTML"
