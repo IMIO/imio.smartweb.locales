@@ -5,7 +5,8 @@ Changelog
 1.1.35 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add some new (fr, de, nl) translations (i.a.)
+  [thomlamb]
 
 
 1.1.34 (2025-11-21)
