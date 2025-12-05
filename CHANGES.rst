@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.35 (unreleased)
+1.1.35 (2025-12-05)
 -------------------
 
 - Add some new (fr, de, nl) translations (i.a.)
