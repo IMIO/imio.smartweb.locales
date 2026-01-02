@@ -5,7 +5,8 @@ Changelog
 1.1.36 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- SUP-49098 : correct spelling "de" translation
+  [boulch]
 
 
 1.1.35 (2025-12-05)

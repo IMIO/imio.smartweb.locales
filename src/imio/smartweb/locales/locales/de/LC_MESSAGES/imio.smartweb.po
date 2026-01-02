@@ -1300,7 +1300,7 @@ msgstr "Veranstaltungstyp"
 
 #: imio/events/core/vocabularies.py:176
 msgid "Event-driven (festivity, play, conference, flea market, walk, etc.)"
-msgstr "Veranstaltungsgetrieben (Fest, Theaterstück, Konferenz, Flohmarkt, Spaziergang, etc.)"
+msgstr "Veranstaltung (Fest, Theaterstück, Konferenz, Flohmarkt, Spaziergang, etc.)"
 
 #: imio/smartweb/policy/monkey.py:46
 msgid "Events"
