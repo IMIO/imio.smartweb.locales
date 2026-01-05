@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.36 (unreleased)
+1.1.36 (2026-01-05)
 -------------------
 
 - SUP-49098 : correct spelling "de" translation
