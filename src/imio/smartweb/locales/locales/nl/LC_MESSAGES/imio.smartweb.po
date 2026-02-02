@@ -22,7 +22,7 @@ msgstr ""
 
 #: imio/smartweb/common/ia/widgets/html_snippet_widget.pt:18
 msgid "(Not enough content to categorize)"
-msgstr ""
+msgstr "(Niet genoeg inhoud om te categoriseren)"
 
 #: imio/smartweb/core/contents/sections/base.py:85
 msgid "<div class=\"section_error_txt\">Error in section : \"{}\" <a href=\"{}/edit\">[edit]</a></div>"
@@ -1035,7 +1035,7 @@ msgstr "Standaard nieuwsweergave"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:86
 msgid "Default position"
-msgstr ""
+msgstr "Standaardpositie"
 
 #: imio/directory/core/vocabularies.py:105
 msgid "Defibrillator"
@@ -3065,11 +3065,11 @@ msgstr "Statistieken"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:91
 msgid "Sticky (always visible on scroll)"
-msgstr ""
+msgstr "Sticky (Altijd zichtbaar tijdens scrollen)"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:96
 msgid "Sticky 2 (visible on upward scroll only)"
-msgstr ""
+msgstr "Sticky 2 (Alleen zichtbaar bij omhoog scrollen)"
 
 #: imio/smartweb/common/interfaces.py:35
 msgid "Street"

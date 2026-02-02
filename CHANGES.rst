@@ -5,6 +5,9 @@ Changelog
 1.1.37 (unreleased)
 -------------------
 
+- Add/update some translations for sticky menu choice and ia categorization
+  [boulch]
+
 - Update translations
   [boulch]
 
