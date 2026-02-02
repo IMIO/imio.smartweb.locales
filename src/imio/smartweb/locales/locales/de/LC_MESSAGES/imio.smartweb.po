@@ -21,9 +21,9 @@ msgstr ""
 msgid "${val1} ${val2} can't be removed because it contains ${val3} element(s)"
 msgstr ""
 
-#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:14
-msgid "(Categorization unavailable because a section of text is missing or empty.)"
-msgstr "(Kategorisierung nicht möglich, da ein Textabschnitt fehlt oder leer ist.)"
+#: imio/smartweb/common/ia/widgets/html_snippet_widget.pt:18
+msgid "(Not enough content to categorize)"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/base.py:85
 msgid "<div class=\"section_error_txt\">Error in section : \"{}\" <a href=\"{}/edit\">[edit]</a></div>"
@@ -200,6 +200,10 @@ msgstr ""
 msgid "Add local manager role and sharing permissions rolemap"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:363
+msgid "Add menu_position_select setting to registry"
+msgstr ""
+
 #: imio/events/core/upgrades/configure.zcml:68
 #: imio/news/core/upgrades/configure.zcml:60
 msgid "Add metadatas for (local) categories translations"
@@ -303,6 +307,10 @@ msgstr ""
 msgid "Add plausible registry keys"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:190
+msgid "Add smartweb-common-suggested_titles bundle"
+msgstr ""
+
 #: imio/directory/core/upgrades/configure.zcml:37
 #: imio/events/core/upgrades/configure.zcml:44
 #: imio/news/core/upgrades/configure.zcml:36
@@ -312,6 +320,10 @@ msgstr ""
 #: imio/smartweb/core/behaviors/configure.zcml:42
 msgid "Add subsite properties/fields"
 msgstr "Füge Eigenschaften/Felder für Unterseiten hinzu"
+
+#: imio/smartweb/common/ia/behaviors/configure.zcml:13
+msgid "Add suggested IA titles."
+msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:324
 msgid "Add term offre_d_emploi to procedure_taxonomy"
@@ -547,7 +559,7 @@ msgstr "Kann lokal verwalten"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: imio/smartweb/core/vocabularies.py:644
+#: imio/smartweb/core/vocabularies.py:646
 msgid "Carousel"
 msgstr "Karussell"
 
@@ -569,10 +581,6 @@ msgstr ""
 #: imio/smartweb/common/behaviors/topics.py:14
 msgid "Categorization"
 msgstr "Kategorisierung"
-
-#: imio/smartweb/core/browser/ia/html_snippet_widget.pt:4
-msgid "Categorize using AI"
-msgstr "Per KI kategorisieren"
 
 #: imio/events/core/contents/event/content.py:178
 #: imio/events/core/contents/event/view.pt:92
@@ -720,6 +728,10 @@ msgstr "Kategorie - Informationen zu Arbeiten"
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Einstellung des Kategorie- und Themen-Vokabulars für TeleServices"
 
+#: imio/smartweb/common/ia/widgets/html_snippet_widget.pt:9
+msgid "Catégoriser via IA"
+msgstr ""
+
 #: imio/smartweb/common/upgrades/configure.zcml:78
 msgid "Change banner scale to have infinite height"
 msgstr "Ändern Sie die Bannerskala, um unendliche Höhe zu haben"
@@ -752,11 +764,19 @@ msgstr "Überprüfen Sie, ob der Eintritt frei ist"
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr "Überprüfen Sie, ob Einrichtungen für Personen mit eingeschränkter Mobilität vorhanden sind"
 
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:82
+msgid "Choice comportment of the menu on scroll"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:81
+msgid "Choice of menu position"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:117
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr "Wählen Sie einen Begriff aus dem Vokabular und definieren Sie den entsprechenden Namen"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:82
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:107
 msgid "Choose procedure submission button text"
 msgstr "Wählen Sie den Text der Absenden-Schaltfläche für das Verfahren"
 
@@ -884,6 +904,7 @@ msgstr "Klicken Sie hier, um Kontakte zu importieren."
 msgid "Click to preview content (without editor actions)."
 msgstr "Klicken Sie hier, um den Inhalt vorab anzuzeigen (ohne Editor-Aktionen)."
 
+#: imio/smartweb/common/ia/widgets/suggested_ia_titles_input.pt:36
 #: imio/smartweb/core/viewlets/navigation.py:85
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:36
 msgid "Close"
@@ -1012,6 +1033,10 @@ msgstr "Standard-Ereignisansicht"
 #: imio/smartweb/core/browser/controlpanel.py:109
 msgid "Default news view"
 msgstr "Standard-Nachrichtenansicht"
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:86
+msgid "Default position"
+msgstr ""
 
 #: imio/directory/core/vocabularies.py:105
 msgid "Defibrillator"
@@ -1277,7 +1302,7 @@ msgstr "Umwelt"
 msgid "Error(s) on line ${number}"
 msgstr "Fehler auf Zeile ${number}"
 
-#: imio/smartweb/common/utils.py:86
+#: imio/smartweb/common/utils.py:88
 msgid "Error: Geolocation service is unavailable. Your content is not geocoded."
 msgstr "Fehler: Der Geolokalisierungsdienst ist nicht verfügbar. Ihr Inhalt ist nicht geokodiert."
 
@@ -1583,10 +1608,6 @@ msgstr "Galerie-Abschnitt"
 msgid "Gallery section for a page"
 msgstr "Galerie-Abschnitt für eine Seite"
 
-#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
-msgid "Generate using AI"
-msgstr "Mit KI generieren"
-
 #: imio/directory/core/contents/contact/content.py:248
 #: imio/events/core/contents/event/content.py:47
 #: imio/news/core/contents/newsitem/content.py:33
@@ -1602,8 +1623,13 @@ msgid "Get priory on related news for these specifics news."
 msgstr "Erhalten Sie Vorrang auf den zugehörigen Nachrichten für diese speziellen Nachrichten."
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
-msgid "Go to ${url}"
-msgstr "Gehe zu ${url}"
+msgid "Go to ${url}<i class=\"bi bi-arrow-right-short portal-link-arrow\"></i>"
+msgstr ""
+
+#: imio/smartweb/common/ia/widgets/suggested_ia_titles_input.pt:24
+#: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24
+msgid "Générer via IA"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/html/content.py:17
 msgid "HTML"
@@ -1699,7 +1725,7 @@ msgstr "Hosting"
 msgid "I am"
 msgstr "Ich bin"
 
-#: imio/smartweb/policy/utils.py:53
+#: imio/smartweb/policy/utils.py:117
 msgid "I find"
 msgstr "Ich finde"
 
@@ -1720,7 +1746,7 @@ msgstr ""
 msgid "IA.Deliberations : Publication"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:47
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:48
 msgid "ID"
 msgstr ""
 
@@ -1779,7 +1805,7 @@ msgstr "Wenn ausgewählt, wird dieses Element nicht in den Ansichten der überge
 msgid "Image"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:20
+#: imio/smartweb/core/contents/sections/text/content.py:23
 msgid "Image alignment"
 msgstr "Bildausrichtung"
 
@@ -1795,7 +1821,7 @@ msgstr "Bildskalierung für Bilder"
 msgid "Image scale for images (only for gallery mode)"
 msgstr "Bildskalierung für Bilder (nur im Galerie-Modus)"
 
-#: imio/smartweb/core/contents/sections/text/content.py:28
+#: imio/smartweb/core/contents/sections/text/content.py:31
 msgid "Image size"
 msgstr "Bildgröße"
 
@@ -1917,7 +1943,7 @@ msgstr "Schlagwörter"
 msgid "Label (Secretariat, Manager office, Sales,...)"
 msgstr "Bezeichnung (Sekretariat, Büro des Managers, Vertrieb,...)"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:64
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:65
 msgid "Label (de)"
 msgstr ""
 
@@ -1925,15 +1951,15 @@ msgstr ""
 msgid "Label (direction, Main number,...)"
 msgstr "Bezeichnung (Richtung, Hauptnummer,...)"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:70
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:71
 msgid "Label (en)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:52
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:53
 msgid "Label (fr)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:58
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:59
 msgid "Label (nl)"
 msgstr ""
 
@@ -2513,7 +2539,7 @@ msgstr "Private Kontaktdaten"
 msgid "Procedure"
 msgstr "Verfahren"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:81
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:106
 msgid "Procedure : Define button text"
 msgstr ""
 
@@ -2525,7 +2551,7 @@ msgstr "Symbol für Verfahrensinhaltstyp"
 msgid "Procedure url"
 msgstr "Verfahrens-URL"
 
-#: imio/smartweb/policy/utils.py:60
+#: imio/smartweb/policy/utils.py:124
 msgid "Procedures and practical informations"
 msgstr "Verfahren und praktische Informationen"
 
@@ -2627,6 +2653,10 @@ msgstr ""
 msgid "Remove obsolete patterns bundle / fix previous 1027_to_1028 upgrade"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:100
+msgid "Remove plone.eventattendees behavior from Event content type"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:12
 #: imio/smartweb/policy/upgrades/configure.zcml:108
 msgid "Remove plone.patternslib deprecated bundles"
@@ -2634,6 +2664,14 @@ msgstr ""
 
 #: imio/news/policy/upgrades/configure.zcml:12
 msgid "Remove ugly IImioEventsPolicyLayer"
+msgstr ""
+
+#: imio/events/core/upgrades/configure.zcml:108
+msgid "Remove useless plone.IBasic beahavior. Replace with imio.smartweb.ia.title behavior"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:355
+msgid "Remove useless plone.IBasic beahavior. Replace with imio.smartweb.ia.titles behavior"
 msgstr ""
 
 #: imio/directory/core/vocabularies.py:115
@@ -2781,6 +2819,7 @@ msgstr "Alle Neuigkeiten anzeigen"
 msgid "Select a collection"
 msgstr "Eine Sammlung auswählen"
 
+#: imio/smartweb/common/ia/widgets/suggested_ia_titles_input.pt:34
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:34
 msgid "Select a title :"
 msgstr "Wählen Sie einen Titel"
@@ -2805,7 +2844,7 @@ msgstr "Wählen Sie Entitäten aus, in denen dieser Kontakt angezeigt wird. Die 
 msgid "Select if you want (specific) category or (first) topic displayed on items"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/text/content.py:29
+#: imio/smartweb/core/contents/sections/text/content.py:32
 msgid "Select image size"
 msgstr "Bildgröße auswählen"
 
@@ -2821,7 +2860,7 @@ msgstr "Wählen Sie die Nachrichtenordner aus, in denen dieser Nachrichtenbeitra
 msgid "Select view"
 msgstr "Ansicht auswählen"
 
-#: imio/smartweb/core/contents/sections/text/content.py:21
+#: imio/smartweb/core/contents/sections/text/content.py:24
 msgid "Select where you want to display the image"
 msgstr "Wählen Sie aus, wo das Bild angezeigt werden soll"
 
@@ -2941,7 +2980,7 @@ msgstr "Folienschnitt für ein Hero-Banner"
 msgid "Smartweb Settings"
 msgstr "Smartweb-Einstellungen"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:95
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:120
 msgid "Smartweb Site admin Settings"
 msgstr ""
 
@@ -3024,6 +3063,14 @@ msgstr "Standardansicht"
 #: imio/smartweb/core/upgrades/profiles/1051_to_1052/actions.xml
 msgid "Statistics"
 msgstr "Statistiken"
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:91
+msgid "Sticky (always visible on scroll)"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:96
+msgid "Sticky 2 (visible on upward scroll only)"
+msgstr ""
 
 #: imio/smartweb/common/interfaces.py:35
 msgid "Street"
@@ -3121,7 +3168,7 @@ msgstr "Textabschnitt"
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "Die Geolokalisierung wird auf Basis der Adresse bei der Kontaktspeicherung generiert. Es ist möglich, den Zeiger manuell zu ändern, wenn er nicht korrekt positioniert ist."
 
-#: imio/smartweb/common/utils.py:151
+#: imio/smartweb/common/utils.py:153
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
 msgstr "Das in das Feld \"${field_title}\" hochgeladene Bild kann degradiert sein, da es nicht die erforderlichen Mindestabmessungen von ${min_width}px Breite aufweist und ${min_height}px Höhe (hochgeladene Bildgröße: ${width}px Breite und ${height}px Höhe). Sie können die Details über das Zuschneidemenü anzeigen."
 
@@ -3214,6 +3261,7 @@ msgstr "Titel und Untertitel"
 msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr "Titel und Beschreibung werden vor dem Bild als Slogan angezeigt"
 
+#: imio/smartweb/common/ia/widgets/widget.py:33
 #: imio/smartweb/core/widgets/widget.py:34
 msgid "Title suggestions"
 msgstr "Titelvorschläge"
@@ -3298,7 +3346,7 @@ msgstr ""
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:48
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:49
 msgid "Unique identifier for the procedure button text"
 msgstr ""
 
@@ -3434,6 +3482,7 @@ msgstr ""
 msgid "Upgrade common from 1034 to 1035"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:190
 #: imio/smartweb/core/upgrades/configure.zcml:116
 msgid "Upgrade common from 1035 to 1036"
 msgstr ""
@@ -3528,10 +3577,12 @@ msgstr ""
 msgid "Upgrade core from 1019 to 1020"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:100
 #: imio/smartweb/core/upgrades/configure.zcml:28
 msgid "Upgrade core from 1020 to 1021"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:108
 #: imio/smartweb/core/upgrades/configure.zcml:36
 msgid "Upgrade core from 1021 to 1022"
 msgstr ""
@@ -3666,6 +3717,14 @@ msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:347
 msgid "Upgrade core from 1073 to 1074"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:355
+msgid "Upgrade core from 1074 to 1075"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:363
+msgid "Upgrade core from 1075 to 1076"
 msgstr ""
 
 #: imio/events/policy/upgrades/configure.zcml:28
@@ -3947,23 +4006,23 @@ msgstr "Jung"
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr "Ihr Ordner war eine Minisite, aber dieses Verhalten wurde mit dieser Aktion deaktiviert"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:59
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:60
 msgid "Your button title (dutch)"
 msgstr "Ihr Schaltflächentitel (dutch)"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:71
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:72
 msgid "Your button title (english)"
 msgstr "Ihr Schaltflächentitel (english)"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:53
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:54
 msgid "Your button title (french)"
 msgstr "Ihr Schaltflächentitel (french)"
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:65
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:66
 msgid "Your button title (german)"
 msgstr "Ihr Schaltflächentitel (german)"
 
-#: imio/events/core/browser/forms.py:30
+#: imio/events/core/browser/forms.py:31
 msgid "Your event must last less than 3 years."
 msgstr "Ihre Veranstaltung darf nicht länger als 3 Jahre dauern."
 
