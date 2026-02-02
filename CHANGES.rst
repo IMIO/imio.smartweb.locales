@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.37 (unreleased)
+1.1.37 (2026-02-02)
 -------------------
 
 - Add/update some translations for sticky menu choice and ia categorization
