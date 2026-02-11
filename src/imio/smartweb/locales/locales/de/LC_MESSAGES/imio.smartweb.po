@@ -524,7 +524,7 @@ msgstr "Blöcke, die im Kontakt angezeigt werden"
 msgid "Bottle bubbles"
 msgstr "Flaschenblasen"
 
-#: imio/smartweb/core/vocabularies.py:367
+#: imio/smartweb/core/vocabularies.py:368
 msgid "Bottom"
 msgstr "Unten"
 
@@ -559,7 +559,7 @@ msgstr "Kann lokal verwalten"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: imio/smartweb/core/vocabularies.py:646
+#: imio/smartweb/core/vocabularies.py:647
 msgid "Carousel"
 msgstr "Karussell"
 
@@ -568,7 +568,7 @@ msgstr "Karussell"
 msgid "Carousel view"
 msgstr "Karussellansicht"
 
-#: imio/smartweb/core/vocabularies.py:196
+#: imio/smartweb/core/vocabularies.py:197
 msgid "Carre"
 msgstr ""
 
@@ -864,7 +864,7 @@ msgstr "Staatsbürgerschaft"
 msgid "City"
 msgstr "Stadt"
 
-#: imio/news/core/vocabularies.py:22
+#: imio/news/core/vocabularies.py:21
 msgid "City project"
 msgstr "Stadtpojekt"
 
@@ -970,7 +970,7 @@ msgid "Contact content type"
 msgstr "Kontakt"
 
 #: imio/directory/core/contents/contact/content.py:156
-#: imio/smartweb/core/vocabularies.py:228
+#: imio/smartweb/core/vocabularies.py:229
 msgid "Contact informations"
 msgstr "Kontaktinformationen"
 
@@ -997,6 +997,10 @@ msgstr "Kontakttyp fehlt."
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
 msgstr "Containerparks"
+
+#: imio/smartweb/core/contents/sections/macros.pt:60
+msgid "Contents"
+msgstr ""
 
 #: imio/smartweb/common/browser/privacy/form.py:12
 msgid "Cookies choice"
@@ -1062,9 +1066,9 @@ msgstr "Definieren Sie die Anzahl der Ebenen in der Menünavigation für den Unt
 msgid "Define section size"
 msgstr "Abschnittsgröße definieren"
 
-#: imio/smartweb/core/contents/sections/macros.pt:53
-msgid "Delete section"
-msgstr "Sektion löschen"
+#: imio/smartweb/core/contents/sections/macros.pt:112
+msgid "Delete"
+msgstr ""
 
 #: imio/directory/core/contents/contact/content.py:259
 #: imio/events/core/contents/event/content.py:57
@@ -1213,9 +1217,9 @@ msgstr "E-Mails"
 msgid "Economics"
 msgstr "Wirtschaft"
 
-#: imio/smartweb/core/contents/sections/macros.pt:37
-msgid "Edit section"
-msgstr "Abschnitt bearbeiten"
+#: imio/smartweb/core/contents/sections/macros.pt:51
+msgid "Edit"
+msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Education"
@@ -1302,7 +1306,7 @@ msgstr "Umwelt"
 msgid "Error(s) on line ${number}"
 msgstr "Fehler auf Zeile ${number}"
 
-#: imio/smartweb/common/utils.py:88
+#: imio/smartweb/common/utils.py:89
 msgid "Error: Geolocation service is unavailable. Your content is not geocoded."
 msgstr "Fehler: Der Geolokalisierungsdienst ist nicht verfügbar. Ihr Inhalt ist nicht geokodiert."
 
@@ -1588,11 +1592,11 @@ msgstr "Freitag"
 msgid "From"
 msgstr "Von"
 
-#: imio/smartweb/core/vocabularies.py:182
+#: imio/smartweb/core/vocabularies.py:183
 msgid "Full width"
 msgstr "Vollbreite"
 
-#: imio/smartweb/core/vocabularies.py:234
+#: imio/smartweb/core/vocabularies.py:235
 msgid "Gallery"
 msgstr "Galerie"
 
@@ -1647,21 +1651,17 @@ msgstr "HTML-Abschnitt für eine Seite"
 msgid "Habitat and town planning"
 msgstr "Wohnraum und Stadtplanung"
 
-#: imio/smartweb/core/vocabularies.py:179
+#: imio/smartweb/core/vocabularies.py:180
 msgid "Half of width"
 msgstr "Halbe Breite"
 
-#: imio/smartweb/core/vocabularies.py:384
+#: imio/smartweb/core/vocabularies.py:385
 msgid "Half page"
 msgstr "Halbe Seite"
 
 #: imio/smartweb/core/upgrades/configure.zcml:188
 msgid "Handle orientations for images scales"
 msgstr ""
-
-#: imio/smartweb/core/contents/sections/macros.pt:84
-msgid "Hard refresh"
-msgstr "Harte aktualisierung"
 
 #: imio/smartweb/common/vocabularies.py:30
 msgid "Health"
@@ -1707,7 +1707,7 @@ msgid "Hide the content of the section that will be displayed by clicking on the
 msgstr "Verberge den Inhalt des Abschnitts, der durch Klicken auf den Titel angezeigt wird"
 
 #: imio/smartweb/core/contents/sections/base.py:32
-#: imio/smartweb/core/contents/sections/macros.pt:26
+#: imio/smartweb/core/contents/sections/macros.pt:32
 msgid "Hide title"
 msgstr "Titel ausblenden"
 
@@ -1922,7 +1922,7 @@ msgstr "Element(e), die als Standardseite des Ordners ausgewählt werden können
 msgid "Itinerary"
 msgstr "Wegbeschreibung"
 
-#: imio/news/core/vocabularies.py:20
+#: imio/news/core/vocabularies.py:19
 msgid "Job offer"
 msgstr "Jobangebot"
 
@@ -1969,11 +1969,11 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:226
+#: imio/smartweb/core/vocabularies.py:227
 msgid "Lead Image"
 msgstr "Führungsbild"
 
-#: imio/smartweb/core/vocabularies.py:365
+#: imio/smartweb/core/vocabularies.py:366
 msgid "Left"
 msgstr "Links"
 
@@ -2051,7 +2051,7 @@ msgstr "Liste"
 msgid "Logo"
 msgstr "Logo"
 
-#: imio/smartweb/core/vocabularies.py:213
+#: imio/smartweb/core/vocabularies.py:214
 msgid "Logo and title"
 msgstr "Logo und Titel"
 
@@ -2064,15 +2064,11 @@ msgstr "Logo-Anzeige"
 msgid "Lunch time"
 msgstr "Mittagszeit"
 
-#: imio/smartweb/core/contents/sections/macros.pt:42
-msgid "Manage section contents"
-msgstr "Abschnittsinhalte verwalten"
-
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
 msgstr "Taxonomien auf diesem Inhalt verwalten"
 
-#: imio/smartweb/core/vocabularies.py:232
+#: imio/smartweb/core/vocabularies.py:233
 msgid "Map"
 msgstr "Karte"
 
@@ -2155,7 +2151,7 @@ msgstr "Mobil"
 msgid "Mobility"
 msgstr "Mobilität"
 
-#: imio/smartweb/core/contents/sections/macros.pt:94
+#: imio/smartweb/core/contents/sections/macros.pt:121
 msgid "Modified"
 msgstr "Geändert"
 
@@ -2246,7 +2242,7 @@ msgstr "Symbol für Nachrichtenansichts-Inhaltstyp"
 msgid "No"
 msgstr "Nein"
 
-#: imio/smartweb/core/vocabularies.py:162
+#: imio/smartweb/core/vocabularies.py:163
 msgid "None"
 msgstr ""
 
@@ -2413,7 +2409,7 @@ msgstr ""
 msgid "Patch (Remove select2) eea.facetednavigation jquery"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:194
+#: imio/smartweb/core/vocabularies.py:195
 msgid "Paysage"
 msgstr "Landschaft"
 
@@ -2497,7 +2493,7 @@ msgstr "Portal-Seiten-Inhaltstyp zum Drucken von Informationen"
 msgid "PortalPage content type icon"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:195
+#: imio/smartweb/core/vocabularies.py:196
 msgid "Portrait"
 msgstr "Porträt"
 
@@ -2523,7 +2519,7 @@ msgstr "Post-it-Sektion für eine Seite"
 msgid "Post-its"
 msgstr "Post-its"
 
-#: imio/news/core/vocabularies.py:21
+#: imio/news/core/vocabularies.py:20
 msgid "Presse"
 msgstr "Presse"
 
@@ -2572,7 +2568,7 @@ msgstr "Öffentliche Toiletten"
 msgid "Publication"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:177
+#: imio/smartweb/core/vocabularies.py:178
 msgid "Quarter of width"
 msgstr "Viertel der Breite"
 
@@ -2608,6 +2604,10 @@ msgstr ""
 msgid "Refactoring scales : Define new scales available for two display modes : landscape and portrait"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/macros.pt:103
+msgid "Refresh"
+msgstr ""
+
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:23
 msgid "Refuse all"
@@ -2636,6 +2636,10 @@ msgstr "Zugehörige zeitgestempelte Veröffentlichungen"
 #: imio/smartweb/common/faceted/widget.py:21
 msgid "Relative path widget"
 msgstr "Widget für relativen Pfad"
+
+#: imio/smartweb/core/upgrades/configure.zcml:371
+msgid "Reload taxonomies to update 'field_title' (.cfg). It's clearer in collection attributes"
+msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:339
 msgid "Remove SendInBlue"
@@ -2686,7 +2690,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr "Abschnitt für Rich-Text auf einer Seite"
 
-#: imio/smartweb/core/vocabularies.py:366
+#: imio/smartweb/core/vocabularies.py:367
 msgid "Right"
 msgstr "Rechts"
 
@@ -2707,7 +2711,7 @@ msgid "Save my choices"
 msgstr "Meine Auswahl speichern"
 
 #: imio/smartweb/core/contents/sections/contact/macros.pt:148
-#: imio/smartweb/core/vocabularies.py:231
+#: imio/smartweb/core/vocabularies.py:232
 msgid "Schedule"
 msgstr "Öffnungszeiten"
 
@@ -2856,7 +2860,7 @@ msgstr "Wählen Sie den Nachrichtenordner aus, der angezeigt werden soll"
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr "Wählen Sie die Nachrichtenordner aus, in denen dieser Nachrichtenbeitrag angezeigt wird. Der aktuelle Nachrichtenordner ist immer ausgewählt."
 
-#: imio/smartweb/core/contents/sections/macros.pt:48
+#: imio/smartweb/core/contents/sections/macros.pt:70
 msgid "Select view"
 msgstr "Ansicht auswählen"
 
@@ -2948,13 +2952,17 @@ msgstr "Vorschaubild der Elemente anzeigen"
 msgid "Show items publication date"
 msgstr "Veröffentlichungsdatum der Elemente anzeigen"
 
-#: imio/smartweb/core/contents/sections/macros.pt:31
+#: imio/smartweb/core/contents/sections/macros.pt:41
 msgid "Show title"
 msgstr "Titel anzeigen"
 
 #: imio/smartweb/common/viewlets/colophon.pt:33
 msgid "Site created in collaboration with"
 msgstr "Website erstellt in Zusammenarbeit mit"
+
+#: imio/smartweb/core/contents/sections/macros.pt:83
+msgid "Size"
+msgstr ""
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
@@ -3168,7 +3176,7 @@ msgstr "Textabschnitt"
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "Die Geolokalisierung wird auf Basis der Adresse bei der Kontaktspeicherung generiert. Es ist möglich, den Zeiger manuell zu ändern, wenn er nicht korrekt positioniert ist."
 
-#: imio/smartweb/common/utils.py:153
+#: imio/smartweb/common/utils.py:154
 msgid "The image uploaded in the \"${field_title}\" field may be degraded because it does not meet the required minimum dimensions of ${min_width}px width by ${min_height}px height (uploaded image size: ${width}px width by ${height}px height). You can see the detail via the Cropping menu."
 msgstr "Das in das Feld \"${field_title}\" hochgeladene Bild kann degradiert sein, da es nicht die erforderlichen Mindestabmessungen von ${min_width}px Breite aufweist und ${min_height}px Höhe (hochgeladene Bildgröße: ${width}px Breite und ${height}px Höhe). Sie können die Details über das Zuschneidemenü anzeigen."
 
@@ -3192,11 +3200,11 @@ msgstr "Auf dieser Seite gibt es keinen Abschnitt."
 msgid "There is no section on this procedure."
 msgstr "Auf dieser Prozedur gibt es keinen Abschnitt."
 
-#: imio/smartweb/core/vocabularies.py:178
+#: imio/smartweb/core/vocabularies.py:179
 msgid "Third of width"
 msgstr "Drittel der Breite"
 
-#: imio/smartweb/core/vocabularies.py:382
+#: imio/smartweb/core/vocabularies.py:383
 msgid "Third page"
 msgstr "Drittel der Seite"
 
@@ -3218,7 +3226,7 @@ msgstr "Diese Information wird für die Weiterleitung der Suchergebnisse verwend
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr "Diese Website verwendet Cookies, um Ihnen ein optimales Erlebnis zu bieten (insbesondere zum Abspielen von Videos, Anzeigen von Karten und Inhalten aus sozialen Netzwerken)."
 
-#: imio/smartweb/core/vocabularies.py:181
+#: imio/smartweb/core/vocabularies.py:182
 msgid "Three quarter of width"
 msgstr "Dreiviertel der Breite"
 
@@ -3253,7 +3261,7 @@ msgstr "Abschnitt für zeitgestempelte Veröffentlichungen"
 msgid "Title"
 msgstr "Titel"
 
-#: imio/smartweb/core/vocabularies.py:227
+#: imio/smartweb/core/vocabularies.py:228
 msgid "Title and Subtitle"
 msgstr "Titel und Untertitel"
 
@@ -3266,11 +3274,11 @@ msgstr "Titel und Beschreibung werden vor dem Bild als Slogan angezeigt"
 msgid "Title suggestions"
 msgstr "Titelvorschläge"
 
-#: imio/smartweb/core/vocabularies.py:368
+#: imio/smartweb/core/vocabularies.py:369
 msgid "Top"
 msgstr "Oben"
 
-#: imio/smartweb/core/vocabularies.py:161
+#: imio/smartweb/core/vocabularies.py:162
 msgid "Topic"
 msgstr ""
 
@@ -3314,7 +3322,7 @@ msgstr "Twitter-URL für dieses Ereignis"
 msgid "Twitter url for this news"
 msgstr "Twitter-URL für diese Neuigkeit"
 
-#: imio/smartweb/core/vocabularies.py:180
+#: imio/smartweb/core/vocabularies.py:181
 msgid "Two third of width"
 msgstr "Zwei Drittel der Breite"
 
@@ -3727,6 +3735,10 @@ msgstr ""
 msgid "Upgrade core from 1075 to 1076"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:371
+msgid "Upgrade core from 1076 to 1077"
+msgstr ""
+
 #: imio/events/policy/upgrades/configure.zcml:28
 msgid "Upgrade policy 1002 to 1003"
 msgstr ""
@@ -3985,7 +3997,7 @@ msgstr "Berufliche E-Mail"
 msgid "Work phone"
 msgstr "Berufliches Telefon"
 
-#: imio/news/core/vocabularies.py:23
+#: imio/news/core/vocabularies.py:22
 msgid "Works"
 msgstr "Arbeiten"
 
@@ -4131,6 +4143,11 @@ msgstr "smartweb.settings : Kein geheimer Schlüssel definiert"
 #: imio/smartweb/core/browser/utils.py:65
 msgid "smartweb.settings : No url define"
 msgstr "smartweb.settings : Keine URL definiert"
+
+#. Default: "<i class=\"bi bi-arrow-clockwise\"></i> <span class=\"edit-section-title\">x</span>"
+#: imio/smartweb/core/contents/sections/macros.pt:103
+msgid "title"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:18
 msgid "to"
