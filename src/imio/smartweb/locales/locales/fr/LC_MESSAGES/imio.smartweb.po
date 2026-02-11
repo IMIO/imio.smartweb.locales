@@ -1000,7 +1000,7 @@ msgstr "Parcs à conteneurs"
 
 #: imio/smartweb/core/contents/sections/macros.pt:60
 msgid "Contents"
-msgstr ""
+msgstr "Contenu"
 
 #: imio/smartweb/common/browser/privacy/form.py:12
 msgid "Cookies choice"
@@ -1068,7 +1068,7 @@ msgstr "Définir la taille de la section"
 
 #: imio/smartweb/core/contents/sections/macros.pt:112
 msgid "Delete"
-msgstr ""
+msgstr "Supprimer"
 
 #: imio/directory/core/contents/contact/content.py:259
 #: imio/events/core/contents/event/content.py:57
@@ -1219,7 +1219,7 @@ msgstr "Économie"
 
 #: imio/smartweb/core/contents/sections/macros.pt:51
 msgid "Edit"
-msgstr ""
+msgstr "Modifier"
 
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Education"
@@ -2606,7 +2606,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/macros.pt:103
 msgid "Refresh"
-msgstr ""
+msgstr "Actualiser"
 
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:23
@@ -2639,7 +2639,7 @@ msgstr "Widget de chemin relatif"
 
 #: imio/smartweb/core/upgrades/configure.zcml:371
 msgid "Reload taxonomies to update 'field_title' (.cfg). It's clearer in collection attributes"
-msgstr ""
+msgstr "Rechargez les taxonomies pour mettre à jour 'field_title' (.cfg). C'est plus clair dans les attributs de collection"
 
 #: imio/smartweb/core/upgrades/configure.zcml:339
 msgid "Remove SendInBlue"
@@ -2962,7 +2962,7 @@ msgstr "Site r&eacute;alis&eacute; en collaboration avec"
 
 #: imio/smartweb/core/contents/sections/macros.pt:83
 msgid "Size"
-msgstr ""
+msgstr "Taille"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
@@ -4147,7 +4147,7 @@ msgstr "smartweb.settings : Pas d'adresse définie"
 #. Default: "<i class=\"bi bi-arrow-clockwise\"></i> <span class=\"edit-section-title\">x</span>"
 #: imio/smartweb/core/contents/sections/macros.pt:103
 msgid "title"
-msgstr ""
+msgstr "titre"
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:18
 msgid "to"

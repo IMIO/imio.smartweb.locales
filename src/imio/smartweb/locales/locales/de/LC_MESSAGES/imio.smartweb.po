@@ -1000,7 +1000,7 @@ msgstr "Containerparks"
 
 #: imio/smartweb/core/contents/sections/macros.pt:60
 msgid "Contents"
-msgstr ""
+msgstr "Inhalt"
 
 #: imio/smartweb/common/browser/privacy/form.py:12
 msgid "Cookies choice"
@@ -1068,7 +1068,7 @@ msgstr "Abschnittsgröße definieren"
 
 #: imio/smartweb/core/contents/sections/macros.pt:112
 msgid "Delete"
-msgstr ""
+msgstr "Löschen"
 
 #: imio/directory/core/contents/contact/content.py:259
 #: imio/events/core/contents/event/content.py:57
@@ -1219,7 +1219,7 @@ msgstr "Wirtschaft"
 
 #: imio/smartweb/core/contents/sections/macros.pt:51
 msgid "Edit"
-msgstr ""
+msgstr "Bearbeiten"
 
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Education"
@@ -2606,7 +2606,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/macros.pt:103
 msgid "Refresh"
-msgstr ""
+msgstr "Aktualisieren"
 
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:23
@@ -2962,7 +2962,7 @@ msgstr "Website erstellt in Zusammenarbeit mit"
 
 #: imio/smartweb/core/contents/sections/macros.pt:83
 msgid "Size"
-msgstr ""
+msgstr "Größe"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"

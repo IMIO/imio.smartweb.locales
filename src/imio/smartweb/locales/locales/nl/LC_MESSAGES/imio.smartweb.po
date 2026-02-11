@@ -1067,7 +1067,7 @@ msgstr "Definieer sectiegrootte"
 
 #: imio/smartweb/core/contents/sections/macros.pt:112
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 #: imio/directory/core/contents/contact/content.py:259
 #: imio/events/core/contents/event/content.py:57
@@ -1218,7 +1218,7 @@ msgstr "Economie"
 
 #: imio/smartweb/core/contents/sections/macros.pt:51
 msgid "Edit"
-msgstr ""
+msgstr "Bewerken"
 
 #: imio/smartweb/common/vocabularies.py:24
 msgid "Education"
@@ -2605,7 +2605,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/macros.pt:103
 msgid "Refresh"
-msgstr ""
+msgstr "Vernieuwen"
 
 #: imio/smartweb/common/browser/privacy/form.py:37
 #: imio/smartweb/common/viewlets/privacy.pt:23
@@ -2961,7 +2961,7 @@ msgstr "Site gemaakt in samenwerking met"
 
 #: imio/smartweb/core/contents/sections/macros.pt:83
 msgid "Size"
-msgstr ""
+msgstr "Grootte"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"

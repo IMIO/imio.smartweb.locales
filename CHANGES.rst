@@ -5,8 +5,11 @@ Changelog
 1.1.38 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add/update some translations for edit menu
+  [thomlamb]
 
+- Update translations
+  [thomlamb]
 
 1.1.37 (2026-02-02)
 -------------------
