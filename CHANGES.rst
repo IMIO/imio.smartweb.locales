@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.38 (unreleased)
+1.1.38 (2026-02-11)
 -------------------
 
 - Add/update some translations for edit menu
