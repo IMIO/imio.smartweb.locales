@@ -2960,10 +2960,6 @@ msgstr "Titel anzeigen"
 msgid "Site created in collaboration with"
 msgstr "Website erstellt in Zusammenarbeit mit"
 
-#: imio/smartweb/core/contents/sections/macros.pt:83
-msgid "Size"
-msgstr "Größe"
-
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
 msgstr "Zum Inhalt springen"
@@ -3977,6 +3973,10 @@ msgstr "Website"  # No translation needed for "Website"
 msgid "Wednesday"
 msgstr "Mittwoch"
 
+#: imio/smartweb/core/contents/sections/macros.pt:83
+msgid "Width"
+msgstr "Breite"
+
 #: imio/smartweb/core/contents/sections/external_content/views.py:203
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
 msgstr "Mit einem Cognitoform-Plugin können zusätzliche Parameter leer sein, aber wenn Sie es ausfüllen, müssen Sie angeben: scrolling:(yes/no) und overflow:(hidden/scroll/auto)"
@@ -4143,11 +4143,6 @@ msgstr "smartweb.settings : Kein geheimer Schlüssel definiert"
 #: imio/smartweb/core/browser/utils.py:65
 msgid "smartweb.settings : No url define"
 msgstr "smartweb.settings : Keine URL definiert"
-
-#. Default: "<i class=\"bi bi-arrow-clockwise\"></i> <span class=\"edit-section-title\">x</span>"
-#: imio/smartweb/core/contents/sections/macros.pt:103
-msgid "title"
-msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:18
 msgid "to"

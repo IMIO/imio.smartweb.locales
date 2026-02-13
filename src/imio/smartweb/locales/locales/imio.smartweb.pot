@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-11 14:45+0000\n"
+"POT-Creation-Date: 2026-02-13 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2965,10 +2965,6 @@ msgstr ""
 msgid "Site created in collaboration with"
 msgstr ""
 
-#: imio/smartweb/core/contents/sections/macros.pt:83
-msgid "Size"
-msgstr ""
-
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
 msgstr ""
@@ -3982,6 +3978,10 @@ msgstr ""
 msgid "Wednesday"
 msgstr ""
 
+#: imio/smartweb/core/contents/sections/macros.pt:83
+msgid "Width"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/external_content/views.py:203
 msgid "With a cognitoform plugin, extra params can be void but if you complete it you must specify : scrolling:(yes/no) and overflow:(hidden/scroll/auto)"
 msgstr ""
@@ -4147,11 +4147,6 @@ msgstr ""
 
 #: imio/smartweb/core/browser/utils.py:65
 msgid "smartweb.settings : No url define"
-msgstr ""
-
-#. Default: "<i class=\"bi bi-arrow-clockwise\"></i> <span class=\"edit-section-title\">x</span>"
-#: imio/smartweb/core/contents/sections/macros.pt:103
-msgid "title"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:18

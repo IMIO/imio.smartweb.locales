@@ -5,7 +5,8 @@ Changelog
 1.1.39 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add/update some translations for edit menu and sticky menu choice
+  [thomlamb]
 
 
 1.1.38 (2026-02-11)
