@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.39 (unreleased)
+1.1.39 (2026-02-13)
 -------------------
 
 - Add/update some translations for edit menu and sticky menu choice
