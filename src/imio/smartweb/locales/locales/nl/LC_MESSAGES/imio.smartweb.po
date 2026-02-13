@@ -765,11 +765,11 @@ msgstr "Controleer of er faciliteiten zijn voor personen met beperkte mobiliteit
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:82
 msgid "Choice comportment of the menu on scroll"
-msgstr ""
+msgstr "Keuze van gedrag van het menu bij scrollen"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:81
 msgid "Choice of menu position"
-msgstr ""
+msgstr "Keuze van menu positie"
 
 #: imio/smartweb/core/browser/controlpanel.py:117
 msgid "Choose a term from the vocabulary and define the corresponding name"
