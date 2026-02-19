@@ -1626,8 +1626,8 @@ msgid "Get priory on related news for these specifics news."
 msgstr "Krijg voorrang op gerelateerd nieuws voor deze specifieke nieuwsberichten."
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
-msgid "Go to ${url}<i class=\"bi bi-arrow-right-short portal-link-arrow\"></i>"
-msgstr ""
+msgid "Go to ${url}${icon}"
+msgstr "Ga naar ${url}${icon}"
 
 #: imio/smartweb/common/ia/widgets/suggested_ia_titles_input.pt:24
 #: imio/smartweb/core/widgets/suggested_ia_titles_input.pt:24

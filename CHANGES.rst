@@ -5,7 +5,8 @@ Changelog
 1.1.40 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add/update some translations for minisite link
+  [thomlamb]
 
 
 1.1.39 (2026-02-13)

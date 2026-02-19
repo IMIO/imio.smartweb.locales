@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-13 09:33+0000\n"
+"POT-Creation-Date: 2026-02-19 12:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1632,7 +1632,7 @@ msgid "Get priory on related news for these specifics news."
 msgstr ""
 
 #: imio/smartweb/core/viewlets/minisite_link.pt:8
-msgid "Go to ${url}<i class=\"bi bi-arrow-right-short portal-link-arrow\"></i>"
+msgid "Go to ${url}${icon}"
 msgstr ""
 
 #: imio/smartweb/common/ia/widgets/suggested_ia_titles_input.pt:24
