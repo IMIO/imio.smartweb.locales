@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.40 (unreleased)
+1.1.40 (2026-02-23)
 -------------------
 
 - Add/update some translations for minisite link
