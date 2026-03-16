@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.41 (unreleased)
+1.1.41 (2026-03-16)
 -------------------
 
 - Add/update some translations for section warning
