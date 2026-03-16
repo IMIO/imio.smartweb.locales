@@ -5,7 +5,8 @@ Changelog
 1.1.41 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add/update some translations for section warning
+  [thomlamb]
 
 
 1.1.40 (2026-02-23)
