@@ -142,6 +142,10 @@ msgstr ""
 msgid "Add IA buttons to TinyMCE"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:198
+msgid "Add IA text accessible button to TinyMCE"
+msgstr "Add IA-knop voor teksttoegankelijkheid aan TinyMCE toevoegen"
+
 #: imio/smartweb/policy/upgrades/configure.zcml:164
 msgid "Add Skip to content viewlet in portal top"
 msgstr ""
@@ -523,7 +527,7 @@ msgstr "Blokken die in het contact worden weergegeven"
 msgid "Bottle bubbles"
 msgstr "Flessenbellen"
 
-#: imio/smartweb/core/vocabularies.py:368
+#: imio/smartweb/core/vocabularies.py:392
 msgid "Bottom"
 msgstr "Onderkant"
 
@@ -558,7 +562,7 @@ msgstr "Lokaal beheer mogelijk"
 msgid "Cancel"
 msgstr "Annuleren"
 
-#: imio/smartweb/core/vocabularies.py:647
+#: imio/smartweb/core/vocabularies.py:671
 msgid "Carousel"
 msgstr "Carrousel"
 
@@ -567,7 +571,7 @@ msgstr "Carrousel"
 msgid "Carousel view"
 msgstr "Carrouselweergave"
 
-#: imio/smartweb/core/vocabularies.py:197
+#: imio/smartweb/core/vocabularies.py:199
 msgid "Carre"
 msgstr ""
 
@@ -969,7 +973,7 @@ msgid "Contact content type"
 msgstr "Contact"
 
 #: imio/directory/core/contents/contact/content.py:156
-#: imio/smartweb/core/vocabularies.py:229
+#: imio/smartweb/core/vocabularies.py:231
 msgid "Contact informations"
 msgstr "Contactinformatie"
 
@@ -1021,6 +1025,10 @@ msgstr "Land"
 msgid "Cover use case for sending data in odwb for a staging environment"
 msgstr ""
 
+#: imio/directory/policy/configure.zcml:60
+msgid "Creates demo entities and contacts for imio.directory."
+msgstr "Maakt demo-entiteiten en -contacten voor imio.directory."
+
 #: imio/smartweb/common/vocabularies.py:22
 msgid "Culture"
 msgstr "Cultuur"
@@ -1061,7 +1069,7 @@ msgstr "Definieer een logo voor de subsite en de onderliggende items"
 msgid "Define number of levels in menu navigation subsite"
 msgstr "Definieer het aantal niveaus in de menunavigatie van de subsite"
 
-#: imio/smartweb/core/contents/sections/views.py:80
+#: imio/smartweb/core/contents/sections/views.py:82
 msgid "Define section size"
 msgstr "Definieer sectiegrootte"
 
@@ -1362,7 +1370,7 @@ msgstr "Evenementenweergave gebruikt om details van evenementen weer te geven"
 msgid "EventsView content type icon"
 msgstr "Pictogram voor Evenementenweergave-inhoudstype"
 
-#: imio/directory/core/contents/contact/forms.py:40
+#: imio/directory/core/contents/contact/forms.py:44
 msgid "Example : Photo of a person or organization building"
 msgstr "Voorbeeld: Foto van een persoon of gebouw van een organisatie"
 
@@ -1591,11 +1599,11 @@ msgstr "Vrijdag"
 msgid "From"
 msgstr "Van"
 
-#: imio/smartweb/core/vocabularies.py:183
+#: imio/smartweb/core/vocabularies.py:185
 msgid "Full width"
 msgstr "Volledige breedte"
 
-#: imio/smartweb/core/vocabularies.py:235
+#: imio/smartweb/core/vocabularies.py:237
 msgid "Gallery"
 msgstr "Galerij"
 
@@ -1650,11 +1658,11 @@ msgstr "HTML-sectie voor een pagina"
 msgid "Habitat and town planning"
 msgstr "Huisvesting en stedenbouw"
 
-#: imio/smartweb/core/vocabularies.py:180
+#: imio/smartweb/core/vocabularies.py:182
 msgid "Half of width"
 msgstr "Helft van de breedte"
 
-#: imio/smartweb/core/vocabularies.py:385
+#: imio/smartweb/core/vocabularies.py:409
 msgid "Half page"
 msgstr "Halve pagina"
 
@@ -1968,11 +1976,11 @@ msgstr ""
 msgid "Layout"
 msgstr "Indeling"
 
-#: imio/smartweb/core/vocabularies.py:227
+#: imio/smartweb/core/vocabularies.py:229
 msgid "Lead Image"
 msgstr "Leidende afbeelding"
 
-#: imio/smartweb/core/vocabularies.py:366
+#: imio/smartweb/core/vocabularies.py:390
 msgid "Left"
 msgstr "Links"
 
@@ -2050,7 +2058,7 @@ msgstr "Lijst"
 msgid "Logo"
 msgstr "Logo"
 
-#: imio/smartweb/core/vocabularies.py:214
+#: imio/smartweb/core/vocabularies.py:216
 msgid "Logo and title"
 msgstr "Logo en titel"
 
@@ -2067,7 +2075,7 @@ msgstr "Lunchtijd"
 msgid "Manage taxonomies on this content"
 msgstr "Beheer taxonomieën voor deze inhoud"
 
-#: imio/smartweb/core/vocabularies.py:233
+#: imio/smartweb/core/vocabularies.py:235
 msgid "Map"
 msgstr "Kaart"
 
@@ -2241,7 +2249,7 @@ msgstr ""
 msgid "No"
 msgstr "Nee"
 
-#: imio/smartweb/core/vocabularies.py:163
+#: imio/smartweb/core/vocabularies.py:165
 msgid "None"
 msgstr ""
 
@@ -2408,7 +2416,7 @@ msgstr ""
 msgid "Patch (Remove select2) eea.facetednavigation jquery"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:195
+#: imio/smartweb/core/vocabularies.py:197
 msgid "Paysage"
 msgstr "Landschap"
 
@@ -2492,7 +2500,7 @@ msgstr "Inhoudstype Portaalpagina om informatie af te drukken"
 msgid "PortalPage content type icon"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:196
+#: imio/smartweb/core/vocabularies.py:198
 msgid "Portrait"
 msgstr "Portret"
 
@@ -2567,7 +2575,7 @@ msgstr "Openbare toiletten"
 msgid "Publication"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:178
+#: imio/smartweb/core/vocabularies.py:180
 msgid "Quarter of width"
 msgstr "Kwart van de breedte"
 
@@ -2689,7 +2697,7 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr "Tekstsectie met opmaak voor een pagina"
 
-#: imio/smartweb/core/vocabularies.py:367
+#: imio/smartweb/core/vocabularies.py:391
 msgid "Right"
 msgstr "Rechts"
 
@@ -2710,7 +2718,7 @@ msgid "Save my choices"
 msgstr "Mijn keuzes opslaan"
 
 #: imio/smartweb/core/contents/sections/contact/macros.pt:148
-#: imio/smartweb/core/vocabularies.py:232
+#: imio/smartweb/core/vocabularies.py:234
 msgid "Schedule"
 msgstr "Schema"
 
@@ -2726,15 +2734,15 @@ msgstr "Geheime sleutel"
 msgid "Secret key to use API"
 msgstr "Geheime sleutel om de API te gebruiken"
 
-#: imio/smartweb/core/contents/sections/views.py:65
+#: imio/smartweb/core/contents/sections/views.py:67
 msgid "Section modification date has been refreshed"
 msgstr "De wijzigingsdatum van de sectie is vernieuwd"
 
-#: imio/smartweb/core/contents/sections/views.py:51
+#: imio/smartweb/core/contents/sections/views.py:53
 msgid "Section title has been hidden"
 msgstr "De titel van de sectie is verborgen"
 
-#: imio/smartweb/core/contents/sections/views.py:58
+#: imio/smartweb/core/contents/sections/views.py:60
 msgid "Section title has been shown"
 msgstr "De titel van de sectie is getoond"
 
@@ -3167,7 +3175,7 @@ msgstr "Tekst voor de link naar de nieuwsweergave"
 msgid "Text section"
 msgstr "Tekstsectie"
 
-#: imio/directory/core/contents/contact/forms.py:18
+#: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
 msgstr "De geolocatie wordt gegenereerd op basis van het adres tijdens het opslaan van het contact. Het is mogelijk om de aanwijzer handmatig te wijzigen als deze niet correct is gepositioneerd."
 
@@ -3195,11 +3203,11 @@ msgstr "Er is geen sectie op deze pagina."
 msgid "There is no section on this procedure."
 msgstr "Er is geen sectie op deze procedure."
 
-#: imio/smartweb/core/vocabularies.py:179
+#: imio/smartweb/core/vocabularies.py:181
 msgid "Third of width"
 msgstr "Derde van de breedte"
 
-#: imio/smartweb/core/vocabularies.py:383
+#: imio/smartweb/core/vocabularies.py:407
 msgid "Third page"
 msgstr "Derde pagina"
 
@@ -3221,7 +3229,7 @@ msgstr "Deze informatie wordt gebruikt voor de omleiding van zoekresultaten"
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr "Deze site maakt gebruik van cookies om u een optimale ervaring te bieden (het afspelen van video's, het weergeven van kaarten en inhoud van sociale netwerken in het bijzonder)."
 
-#: imio/smartweb/core/vocabularies.py:182
+#: imio/smartweb/core/vocabularies.py:184
 msgid "Three quarter of width"
 msgstr "Drie kwart van de breedte"
 
@@ -3256,7 +3264,7 @@ msgstr "Sectie met tijdstempelde publicaties"
 msgid "Title"
 msgstr "Titel"
 
-#: imio/smartweb/core/vocabularies.py:228
+#: imio/smartweb/core/vocabularies.py:230
 msgid "Title and Subtitle"
 msgstr "Titel en Ondertitel"
 
@@ -3269,11 +3277,11 @@ msgstr "De titel en beschrijving worden weergegeven voor de afbeelding als een s
 msgid "Title suggestions"
 msgstr "Titelvoorstellen"
 
-#: imio/smartweb/core/vocabularies.py:369
+#: imio/smartweb/core/vocabularies.py:393
 msgid "Top"
 msgstr "Bovenkant"
 
-#: imio/smartweb/core/vocabularies.py:162
+#: imio/smartweb/core/vocabularies.py:164
 msgid "Topic"
 msgstr ""
 
@@ -3317,7 +3325,7 @@ msgstr "Twitter-URL voor dit evenement"
 msgid "Twitter url for this news"
 msgstr "Twitter-URL voor dit nieuws"
 
-#: imio/smartweb/core/vocabularies.py:181
+#: imio/smartweb/core/vocabularies.py:183
 msgid "Two third of width"
 msgstr "Twee derde van de breedte"
 
@@ -3490,6 +3498,7 @@ msgstr ""
 msgid "Upgrade common from 1035 to 1036"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:198
 #: imio/smartweb/core/upgrades/configure.zcml:124
 msgid "Upgrade common from 1036 to 1037"
 msgstr ""
@@ -3959,6 +3968,10 @@ msgstr "Zichtbare blokken"
 msgid "Vocabulary term"
 msgstr "Woordenlijstterm"
 
+#: imio/smartweb/core/contents/sections/news/view.py:48
+msgid "Warning: Deleted news folder. We get random news folder for this section"
+msgstr "Waarschuwing: Verwijderde nieuwsmap. We krijgen een willekeurige nieuwsmap voor deze sectie"
+
 #: imio/smartweb/core/browser/overrides/plone.app.content.browser.contents.templates.properties.pt:3
 msgid "Warning: these options are not relevant for Sections and will not be applied."
 msgstr "Waarschuwing: deze opties zijn niet relevant voor secties en zullen niet worden toegepast."
@@ -4074,6 +4087,10 @@ msgstr "vrije licentie"
 #: imio/directory/policy/configure.zcml:42
 msgid "imio.directory.policy"
 msgstr "imio.directory.policy"
+
+#: imio/directory/policy/configure.zcml:60
+msgid "imio.directory.policy (Demo content)"
+msgstr "imio.directory.policy (Demo content)"
 
 #: imio/directory/policy/configure.zcml:51
 msgid "imio.directory.policy (uninstall)"
