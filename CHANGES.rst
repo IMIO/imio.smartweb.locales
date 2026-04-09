@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.42 (unreleased)
+1.1.42 (2026-04-09)
 -------------------
 
 - Update translation for sections text scale
