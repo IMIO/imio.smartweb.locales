@@ -5,7 +5,8 @@ Changelog
 1.1.42 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Update translation for sections text scale
+  [thomlamb]
 
 
 1.1.41 (2026-03-16)
