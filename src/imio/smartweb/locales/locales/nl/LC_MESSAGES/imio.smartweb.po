@@ -2076,7 +2076,7 @@ msgstr "Link naar uw account"
 
 #: imio/events/core/contents/event/content.py:193
 msgid "Linked contact"
-msgstr ""
+msgstr "Gekoppeld contact"
 
 #: imio/directory/core/vocabularies.py:88
 msgid "Linkedin"
@@ -2913,7 +2913,7 @@ msgstr "Selecteer agenda's waarop dit evenement zal worden weergegeven. De huidi
 
 #: imio/events/core/contents/event/content.py:194
 msgid "Select contact for this event"
-msgstr ""
+msgstr "Kies een contact voor dit evenement"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:25
 msgid "Select contacts. If you can't find contacts you want, make sure it exists in the directory and that its \"state\" is published."
@@ -2941,7 +2941,7 @@ msgstr "Selecteer de nieuwsmap waarin dit nieuwsbericht zal worden weergegeven. 
 
 #: imio/events/core/contents/event/content.py:219
 msgid "Select organizers, partners or sponsors for this event"
-msgstr ""
+msgstr "Selecteer de organisatoren, partners of sponsors van dit evenement"
 
 #: imio/smartweb/core/contents/sections/text/content.py:31
 msgid "Select the image resolution to use"

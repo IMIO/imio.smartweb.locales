@@ -2077,7 +2077,7 @@ msgstr "Lien vers votre compte"
 
 #: imio/events/core/contents/event/content.py:193
 msgid "Linked contact"
-msgstr ""
+msgstr "Contact lié"
 
 #: imio/directory/core/vocabularies.py:88
 msgid "Linkedin"
@@ -2914,7 +2914,7 @@ msgstr "Sélectionnez les agendas dans lesquels cet événement sera affiché. L
 
 #: imio/events/core/contents/event/content.py:194
 msgid "Select contact for this event"
-msgstr ""
+msgstr "Choisir le contact principal pour l'événement"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:25
 msgid "Select contacts. If you can't find contacts you want, make sure it exists in the directory and that its \"state\" is published."
@@ -2942,7 +2942,7 @@ msgstr "Sélectionnez les dossiers d'actualités dans lesquels cette actualité 
 
 #: imio/events/core/contents/event/content.py:219
 msgid "Select organizers, partners or sponsors for this event"
-msgstr ""
+msgstr "Sélectionner les organisateurs, partenaires ou sponsors de cet événement"
 
 #: imio/smartweb/core/contents/sections/text/content.py:31
 msgid "Select the image resolution to use"
