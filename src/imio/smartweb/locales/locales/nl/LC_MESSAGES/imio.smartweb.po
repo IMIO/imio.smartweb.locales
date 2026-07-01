@@ -608,13 +608,13 @@ msgstr ""
 msgid "Categories / Topics display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:228
+#: imio/events/core/contents/event/content.py:231
 #: imio/smartweb/common/behaviors/iam.py:14
 #: imio/smartweb/common/behaviors/topics.py:14
 msgid "Categorization"
 msgstr "Categorisering"
 
-#: imio/events/core/contents/event/content.py:244
+#: imio/events/core/contents/event/content.py:247
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
 msgid "Category"
@@ -1887,7 +1887,7 @@ msgstr "Contacten importeren"
 msgid "Import new js bundle to retrieve informations from linked contact"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:254
+#: imio/events/core/contents/event/content.py:257
 #: imio/news/core/contents/newsitem/content.py:143
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr "Belangrijk! Deze categorieën stellen u in staat criteria te gebruiken die specifiek zijn voor uw organisatie"
@@ -1896,7 +1896,7 @@ msgstr "Belangrijk! Deze categorieën stellen u in staat criteria te gebruiken d
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr "Belangrijk! Deze categorieën worden gebruikt om lijsten te maken die toegankelijk zijn via het navigatiemenu"
 
-#: imio/events/core/contents/event/content.py:245
+#: imio/events/core/contents/event/content.py:248
 #: imio/news/core/contents/newsitem/content.py:134
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr "Belangrijk! Deze categorieën worden gebruikt om de informatie aan te vullen die door de onderwerpen wordt verstrekt"
@@ -2380,7 +2380,7 @@ msgstr ""
 msgid "Organic waste containers"
 msgstr "GFT-containers"
 
-#: imio/events/core/contents/event/content.py:207
+#: imio/events/core/contents/event/content.py:210
 msgid "Organisateurs et partenaires"
 msgstr ""
 
@@ -2907,7 +2907,7 @@ msgstr "Selecteer een titel"
 msgid "Select agenda to display"
 msgstr "Selecteer agenda om weer te geven"
 
-#: imio/events/core/contents/event/content.py:235
+#: imio/events/core/contents/event/content.py:238
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr "Selecteer agenda's waarop dit evenement zal worden weergegeven. De huidige agenda is altijd geselecteerd."
 
@@ -2939,7 +2939,7 @@ msgstr "Selecteer de nieuwsmap om weer te geven"
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr "Selecteer de nieuwsmap waarin dit nieuwsbericht zal worden weergegeven. De huidige nieuwsmap is altijd geselecteerd."
 
-#: imio/events/core/contents/event/content.py:219
+#: imio/events/core/contents/event/content.py:222
 msgid "Select organizers, partners or sponsors for this event"
 msgstr "Selecteer de organisatoren, partners of sponsors van dit evenement"
 
@@ -2963,7 +2963,7 @@ msgstr "Geselecteerde categorieën"
 msgid "Selected agenda"
 msgstr "Geselecteerde agenda"
 
-#: imio/events/core/contents/event/content.py:234
+#: imio/events/core/contents/event/content.py:237
 msgid "Selected agendas"
 msgstr "Geselecteerde agenda's"
 
@@ -3113,7 +3113,7 @@ msgstr ""
 msgid "Social network - Youtube"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:253
+#: imio/events/core/contents/event/content.py:256
 #: imio/news/core/contents/newsitem/content.py:142
 msgid "Specific category"
 msgstr ""
@@ -3266,6 +3266,10 @@ msgstr "Tekst voor de link naar de nieuwsweergave"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
 msgstr "Tekstsectie"
+
+#: imio/events/core/contents/event/content.py:202
+msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
+msgstr ""
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."

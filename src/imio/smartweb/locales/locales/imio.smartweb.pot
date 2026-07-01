@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-07-01 09:08+0000\n"
+"POT-Creation-Date: 2026-07-01 09:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -614,13 +614,13 @@ msgstr ""
 msgid "Categories / Topics display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:228
+#: imio/events/core/contents/event/content.py:231
 #: imio/smartweb/common/behaviors/iam.py:14
 #: imio/smartweb/common/behaviors/topics.py:14
 msgid "Categorization"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:244
+#: imio/events/core/contents/event/content.py:247
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
 msgid "Category"
@@ -1893,7 +1893,7 @@ msgstr ""
 msgid "Import new js bundle to retrieve informations from linked contact"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:254
+#: imio/events/core/contents/event/content.py:257
 #: imio/news/core/contents/newsitem/content.py:143
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr ""
@@ -1902,7 +1902,7 @@ msgstr ""
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:245
+#: imio/events/core/contents/event/content.py:248
 #: imio/news/core/contents/newsitem/content.py:134
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr ""
@@ -2386,7 +2386,7 @@ msgstr ""
 msgid "Organic waste containers"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:207
+#: imio/events/core/contents/event/content.py:210
 msgid "Organisateurs et partenaires"
 msgstr ""
 
@@ -2913,7 +2913,7 @@ msgstr ""
 msgid "Select agenda to display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:235
+#: imio/events/core/contents/event/content.py:238
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr ""
 
@@ -2945,7 +2945,7 @@ msgstr ""
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:219
+#: imio/events/core/contents/event/content.py:222
 msgid "Select organizers, partners or sponsors for this event"
 msgstr ""
 
@@ -2969,7 +2969,7 @@ msgstr ""
 msgid "Selected agenda"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:234
+#: imio/events/core/contents/event/content.py:237
 msgid "Selected agendas"
 msgstr ""
 
@@ -3119,7 +3119,7 @@ msgstr ""
 msgid "Social network - Youtube"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:253
+#: imio/events/core/contents/event/content.py:256
 #: imio/news/core/contents/newsitem/content.py:142
 msgid "Specific category"
 msgstr ""
@@ -3271,6 +3271,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
+msgstr ""
+
+#: imio/events/core/contents/event/content.py:202
+msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
 msgstr ""
 
 #: imio/directory/core/contents/contact/forms.py:22

@@ -5,6 +5,9 @@ Changelog
 1.1.43 (unreleased)
 -------------------
 
+- Update translations
+  [boulch]
+
 - Add some translations for events in agenda
   [boulch]
 

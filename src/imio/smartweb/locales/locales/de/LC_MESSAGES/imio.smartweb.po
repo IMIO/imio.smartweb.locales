@@ -609,13 +609,13 @@ msgstr ""
 msgid "Categories / Topics display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:228
+#: imio/events/core/contents/event/content.py:231
 #: imio/smartweb/common/behaviors/iam.py:14
 #: imio/smartweb/common/behaviors/topics.py:14
 msgid "Categorization"
 msgstr "Kategorisierung"
 
-#: imio/events/core/contents/event/content.py:244
+#: imio/events/core/contents/event/content.py:247
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
 msgid "Category"
@@ -1888,7 +1888,7 @@ msgstr "Kontakte importieren"
 msgid "Import new js bundle to retrieve informations from linked contact"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:254
+#: imio/events/core/contents/event/content.py:257
 #: imio/news/core/contents/newsitem/content.py:143
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr "Wichtig! Diese Kategorien ermöglichen die Verwendung von kriterienspezifischen Informationen für Ihre Organisation"
@@ -1897,7 +1897,7 @@ msgstr "Wichtig! Diese Kategorien ermöglichen die Verwendung von kriterienspezi
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr "Wichtig! Diese Kategorien werden verwendet, um über das Navigationsmenü zugängliche Listen zu erstellen"
 
-#: imio/events/core/contents/event/content.py:245
+#: imio/events/core/contents/event/content.py:248
 #: imio/news/core/contents/newsitem/content.py:134
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr "Wichtig! Diese Kategorien dienen dazu, die von den Themen bereitgestellten Informationen zu ergänzen"
@@ -2381,7 +2381,7 @@ msgstr ""
 msgid "Organic waste containers"
 msgstr "Biomüllcontainers"
 
-#: imio/events/core/contents/event/content.py:207
+#: imio/events/core/contents/event/content.py:210
 msgid "Organisateurs et partenaires"
 msgstr ""
 
@@ -2908,7 +2908,7 @@ msgstr "Wählen Sie einen Titel"
 msgid "Select agenda to display"
 msgstr "Wählen Sie die Agenda aus, die angezeigt werden soll"
 
-#: imio/events/core/contents/event/content.py:235
+#: imio/events/core/contents/event/content.py:238
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr "Wählen Sie die Agenden aus, in denen dieses Ereignis angezeigt wird. Die aktuelle Agenda ist immer ausgewählt."
 
@@ -2940,7 +2940,7 @@ msgstr "Wählen Sie den Nachrichtenordner aus, der angezeigt werden soll"
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr "Wählen Sie die Nachrichtenordner aus, in denen dieser Nachrichtenbeitrag angezeigt wird. Der aktuelle Nachrichtenordner ist immer ausgewählt."
 
-#: imio/events/core/contents/event/content.py:219
+#: imio/events/core/contents/event/content.py:222
 msgid "Select organizers, partners or sponsors for this event"
 msgstr "Organisatoren, Partner oder Sponsoren für diese Veranstaltung auswählen"
 
@@ -2964,7 +2964,7 @@ msgstr "Ausgewählte Kategorien"
 msgid "Selected agenda"
 msgstr "Ausgewählte Agenda"
 
-#: imio/events/core/contents/event/content.py:234
+#: imio/events/core/contents/event/content.py:237
 msgid "Selected agendas"
 msgstr "Ausgewählte Agenden"
 
@@ -3114,7 +3114,7 @@ msgstr "Soziales Netzwerk - Vimeo"
 msgid "Social network - Youtube"
 msgstr "Soziales Netzwerk - Youtube"
 
-#: imio/events/core/contents/event/content.py:253
+#: imio/events/core/contents/event/content.py:256
 #: imio/news/core/contents/newsitem/content.py:142
 msgid "Specific category"
 msgstr "Spezifische Kategorie"
@@ -3267,6 +3267,10 @@ msgstr "Text für den Link zur Nachrichtenansicht"
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionText.xml
 msgid "Text section"
 msgstr "Textabschnitt"
+
+#: imio/events/core/contents/event/content.py:202
+msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
+msgstr ""
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
