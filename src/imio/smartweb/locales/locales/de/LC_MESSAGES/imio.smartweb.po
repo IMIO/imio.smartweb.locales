@@ -3270,7 +3270,7 @@ msgstr "Textabschnitt"
 
 #: imio/events/core/contents/event/content.py:202
 msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
-msgstr ""
+msgstr "Die untenstehenden Felder wurden mit Informationen aus dem verknüpften Kontakt ausgefüllt. Falls dies nicht relevant ist, können Sie die Angaben in jedem Feld manuell ändern"
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."

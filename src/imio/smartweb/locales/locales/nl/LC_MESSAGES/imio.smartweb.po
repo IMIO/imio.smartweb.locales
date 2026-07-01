@@ -3269,7 +3269,7 @@ msgstr "Tekstsectie"
 
 #: imio/events/core/contents/event/content.py:202
 msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
-msgstr ""
+msgstr "De onderstaande velden zijn ingevuld met informatie van het gekoppelde contact. Als dit niet relevant is, kunt u de informatie in elk veld handmatig aanpassen"
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
