@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.43 (unreleased)
+1.1.43 (2026-07-01)
 -------------------
 
 - Add some translations for events in agenda
