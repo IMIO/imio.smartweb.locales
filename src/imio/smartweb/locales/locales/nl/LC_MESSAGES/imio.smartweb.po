@@ -1341,7 +1341,15 @@ msgstr "Fout: Geolocatieservice is niet beschikbaar. Uw inhoud is niet geocodeer
 msgid "Event"
 msgstr "Evenement"
 
-#: imio/smartweb/common/vocabularies.py:73
+#: imio/smartweb/core/contents/rest/events/view.py:102
+msgid "Event category"
+msgstr ""
+
+#: imio/events/core/contents/event/content.py:104
+msgid "Event location"
+msgstr "Locatie van het evenement"
+
+#: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
 msgstr "Evenementenplanner"
 

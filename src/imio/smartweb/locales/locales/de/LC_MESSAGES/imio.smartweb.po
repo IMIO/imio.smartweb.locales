@@ -1342,7 +1342,15 @@ msgstr "Fehler: Der Geolokalisierungsdienst ist nicht verfügbar. Ihr Inhalt ist
 msgid "Event"
 msgstr "Veranstaltung"
 
-#: imio/smartweb/common/vocabularies.py:73
+#: imio/smartweb/core/contents/rest/events/view.py:102
+msgid "Event category"
+msgstr ""
+
+#: imio/events/core/contents/event/content.py:104
+msgid "Event location"
+msgstr "Veranstaltungsort"
+
+#: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
 msgstr "Veranstaltungsplaner"
 

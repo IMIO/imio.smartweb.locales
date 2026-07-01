@@ -1342,7 +1342,15 @@ msgstr "Erreur : Le service de géolocalisation n'est pas disponible. Votre cont
 msgid "Event"
 msgstr "Événement"
 
-#: imio/smartweb/common/vocabularies.py:73
+#: imio/smartweb/core/contents/rest/events/view.py:102
+msgid "Event category"
+msgstr "Catégorie d'événement"
+
+#: imio/events/core/contents/event/content.py:104
+msgid "Event location"
+msgstr "Lieu de l'événement"
+
+#: imio/smartweb/common/vocabularies.py:70
 msgid "Event planner"
 msgstr "Organisateur d'événement"
 

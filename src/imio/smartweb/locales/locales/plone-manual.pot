@@ -34,3 +34,8 @@ msgstr ""
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
 msgstr ""
+
+#. Default: "Event URL"
+#: plone.app.event/plone/app/event/dx/behaviors.py:227
+msgid "label_event_url"
+msgstr ""

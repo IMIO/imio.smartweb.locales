@@ -5,7 +5,8 @@ Changelog
 1.1.43 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add some translations
+  [boulch]
 
 
 1.1.42 (2026-04-09)
