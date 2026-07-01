@@ -29,12 +29,12 @@ msgstr "Dieser Name wird in der URL angezeigt. Es ist wichtig, keine Großbuchst
 msgid "alert_really_delete_folder"
 msgstr "Möchten Sie diesen Artikel und all seinen Inhalt wirklich löschen?"
 
-#. Default: "Number of selected, non-empty folders: <strong>${refs}</strong>"
-#: plone.app.linkintegrity/plone/app/linkintegrity/browser/delete_confirmation_info.pt:58
-msgid "selected_folders_with_content"
-msgstr "Anzahl ausgewählter, nicht leerer Elemente: <strong>${refs}</strong>."
-
 #. Default: "Event URL"
 #: plone.app.event/plone/app/event/dx/behaviors.py:227
 msgid "label_event_url"
 msgstr "Website der Veranstaltung"
+
+#. Default: "Number of selected, non-empty folders: <strong>${refs}</strong>"
+#: plone.app.linkintegrity/plone/app/linkintegrity/browser/delete_confirmation_info.pt:58
+msgid "selected_folders_with_content"
+msgstr "Anzahl ausgewählter, nicht leerer Elemente: <strong>${refs}</strong>."
