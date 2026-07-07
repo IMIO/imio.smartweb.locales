@@ -608,13 +608,13 @@ msgstr ""
 msgid "Categories / Topics display"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:231
+#: imio/events/core/contents/event/content.py:233
 #: imio/smartweb/common/behaviors/iam.py:14
 #: imio/smartweb/common/behaviors/topics.py:14
 msgid "Categorization"
 msgstr "Categorisering"
 
-#: imio/events/core/contents/event/content.py:247
+#: imio/events/core/contents/event/content.py:249
 #: imio/events/core/contents/event/view.pt:92
 #: imio/news/core/contents/newsitem/content.py:133
 msgid "Category"
@@ -1358,7 +1358,7 @@ msgstr ""
 msgid "Event"
 msgstr "Evenement"
 
-#: imio/events/core/contents/event/content.py:201
+#: imio/events/core/contents/event/content.py:203
 msgid "Event location"
 msgstr "Locatie van het evenement"
 
@@ -1887,7 +1887,7 @@ msgstr "Contacten importeren"
 msgid "Import new js bundle to retrieve informations from linked contact"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:257
+#: imio/events/core/contents/event/content.py:259
 #: imio/news/core/contents/newsitem/content.py:143
 msgid "Important! These categories allow you to use criteria that are specific to your organization"
 msgstr "Belangrijk! Deze categorieën stellen u in staat criteria te gebruiken die specifiek zijn voor uw organisatie"
@@ -1896,7 +1896,7 @@ msgstr "Belangrijk! Deze categorieën stellen u in staat criteria te gebruiken d
 msgid "Important! These categories are used to create lists accessible via the navigation menu"
 msgstr "Belangrijk! Deze categorieën worden gebruikt om lijsten te maken die toegankelijk zijn via het navigatiemenu"
 
-#: imio/events/core/contents/event/content.py:248
+#: imio/events/core/contents/event/content.py:250
 #: imio/news/core/contents/newsitem/content.py:134
 msgid "Important! These categories are used to supplement the information provided by the topics"
 msgstr "Belangrijk! Deze categorieën worden gebruikt om de informatie aan te vullen die door de onderwerpen wordt verstrekt"
@@ -1949,11 +1949,11 @@ msgstr "Instagram URL voor dit nieuws"
 msgid "Installs the imio.directory.policy add-on."
 msgstr ""
 
-#: imio/events/policy/configure.zcml:37
+#: imio/events/policy/configure.zcml:38
 msgid "Installs the imio.events.policy add-on."
 msgstr ""
 
-#: imio/news/policy/configure.zcml:36
+#: imio/news/policy/configure.zcml:37
 msgid "Installs the imio.news.policy add-on."
 msgstr ""
 
@@ -2074,10 +2074,6 @@ msgstr "Link naar online deelname"
 msgid "Link to your account"
 msgstr "Link naar uw account"
 
-#: imio/events/core/contents/event/content.py:193
-msgid "Linked contact"
-msgstr "Gekoppeld contact"
-
 #: imio/directory/core/vocabularies.py:88
 msgid "Linkedin"
 msgstr ""
@@ -2120,6 +2116,10 @@ msgstr "Weergave van logo"
 #: imio/smartweb/common/contact_utils.py:270
 msgid "Lunch time"
 msgstr "Lunchtijd"
+
+#: imio/events/core/contents/event/content.py:193
+msgid "Main contact"
+msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
@@ -2380,7 +2380,7 @@ msgstr ""
 msgid "Organic waste containers"
 msgstr "GFT-containers"
 
-#: imio/events/core/contents/event/content.py:210
+#: imio/events/core/contents/event/content.py:212
 msgid "Organisateurs et partenaires"
 msgstr ""
 
@@ -2715,6 +2715,10 @@ msgstr "Relatieve pad-widget"
 msgid "Reload taxonomies to update 'field_title' (.cfg). It's clearer in collection attributes"
 msgstr ""
 
+#: imio/smartweb/common/upgrades/configure.zcml:222
+msgid "Remove IA tools from TinyMCE (registry + resource)"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:339
 msgid "Remove SendInBlue"
 msgstr ""
@@ -2907,13 +2911,9 @@ msgstr "Selecteer een titel"
 msgid "Select agenda to display"
 msgstr "Selecteer agenda om weer te geven"
 
-#: imio/events/core/contents/event/content.py:238
+#: imio/events/core/contents/event/content.py:240
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr "Selecteer agenda's waarop dit evenement zal worden weergegeven. De huidige agenda is altijd geselecteerd."
-
-#: imio/events/core/contents/event/content.py:194
-msgid "Select contact for this event"
-msgstr "Kies een contact voor dit evenement"
 
 #: imio/smartweb/core/contents/sections/contact/content.py:25
 msgid "Select contacts. If you can't find contacts you want, make sure it exists in the directory and that its \"state\" is published."
@@ -2939,7 +2939,7 @@ msgstr "Selecteer de nieuwsmap om weer te geven"
 msgid "Select news folders where this news item will be displayed. Current news folder is always selected."
 msgstr "Selecteer de nieuwsmap waarin dit nieuwsbericht zal worden weergegeven. De huidige nieuwsmap is altijd geselecteerd."
 
-#: imio/events/core/contents/event/content.py:222
+#: imio/events/core/contents/event/content.py:224
 msgid "Select organizers, partners or sponsors for this event"
 msgstr "Selecteer de organisatoren, partners of sponsors van dit evenement"
 
@@ -2963,7 +2963,7 @@ msgstr "Geselecteerde categorieën"
 msgid "Selected agenda"
 msgstr "Geselecteerde agenda"
 
-#: imio/events/core/contents/event/content.py:237
+#: imio/events/core/contents/event/content.py:239
 msgid "Selected agendas"
 msgstr "Geselecteerde agenda's"
 
@@ -3001,6 +3001,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:36
 msgid "Set collective autoscaling default values"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:230
+msgid "Set imio.omnia.core default settings (core_api_url and enable_proxy)"
 msgstr ""
 
 #: imio/directory/policy/upgrades/configure.zcml:36
@@ -3113,7 +3117,7 @@ msgstr ""
 msgid "Social network - Youtube"
 msgstr ""
 
-#: imio/events/core/contents/event/content.py:256
+#: imio/events/core/contents/event/content.py:258
 #: imio/news/core/contents/newsitem/content.py:142
 msgid "Specific category"
 msgstr ""
@@ -3267,9 +3271,9 @@ msgstr "Tekst voor de link naar de nieuwsweergave"
 msgid "Text section"
 msgstr "Tekstsectie"
 
-#: imio/events/core/contents/event/content.py:202
-msgid "The fields below have been populated with information from the linked contact. If this is not relevant, you can manually modify the information in each field"
-msgstr "De onderstaande velden zijn ingevuld met informatie van het gekoppelde contact. Als dit niet relevant is, kunt u de informatie in elk veld handmatig aanpassen"
+#: imio/events/core/contents/event/content.py:204
+msgid "The fields below have been populated with information from the primary contact. If this is not relevant, you can manually modify the information in each field"
+msgstr ""
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
@@ -3445,11 +3449,11 @@ msgstr "URL's"
 msgid "Uninstalls the imio.directory.policy add-on."
 msgstr "Deïnstalleert de imio.directory.policy add-on."
 
-#: imio/events/policy/configure.zcml:46
+#: imio/events/policy/configure.zcml:47
 msgid "Uninstalls the imio.events.policy add-on."
 msgstr "Deïnstalleert de imio.events.policy add-on."
 
-#: imio/news/policy/configure.zcml:45
+#: imio/news/policy/configure.zcml:46
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr "Deïnstalleert de imio.news.policy add-on."
 
@@ -3605,6 +3609,14 @@ msgstr ""
 
 #: imio/smartweb/common/upgrades/configure.zcml:214
 msgid "Upgrade common from 1038 to 1039"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:222
+msgid "Upgrade common from 1039 to 1040"
+msgstr ""
+
+#: imio/smartweb/common/upgrades/configure.zcml:230
+msgid "Upgrade common from 1041 to 1042"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:196
@@ -4159,6 +4171,10 @@ msgstr "Werken"
 msgid "Yes"
 msgstr "Ja"
 
+#: imio/events/core/contents/event/content.py:194
+msgid "You can retrieve information from a contact record that already exists in your directory"
+msgstr ""
+
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:48
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:48
 msgid "You don't have rights to access this page."
@@ -4238,19 +4254,19 @@ msgstr "imio.directory.policy (Demo content)"
 msgid "imio.directory.policy (uninstall)"
 msgstr "imio.directory.policy (verwijderen)"
 
-#: imio/events/policy/configure.zcml:37
+#: imio/events/policy/configure.zcml:38
 msgid "imio.events.policy"
 msgstr "imio.events.policy"
 
-#: imio/events/policy/configure.zcml:46
+#: imio/events/policy/configure.zcml:47
 msgid "imio.events.policy (uninstall)"
 msgstr "imio.events.policy (verwijderen)"
 
-#: imio/news/policy/configure.zcml:36
+#: imio/news/policy/configure.zcml:37
 msgid "imio.news.policy"
 msgstr "imio.news.policy"
 
-#: imio/news/policy/configure.zcml:45
+#: imio/news/policy/configure.zcml:46
 msgid "imio.news.policy (uninstall)"
 msgstr "imio.news.policy (verwijderen)"
 
