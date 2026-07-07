@@ -5,6 +5,9 @@ Changelog
 1.1.44 (unreleased)
 -------------------
 
+- Update to Plone 6.1.5 and buidlout 5-x versions.
+  [boulch]
+
 - Update some translations for events' "Main contact" in agenda
   [boulch]
 
