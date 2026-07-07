@@ -5,6 +5,9 @@ Changelog
 1.1.44 (unreleased)
 -------------------
 
+- Update some translations for events' "Main contact" in agenda
+  [boulch]
+
 - Update translations
   [boulch]
 

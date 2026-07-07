@@ -2120,7 +2120,7 @@ msgstr "Heure du midi"
 
 #: imio/events/core/contents/event/content.py:193
 msgid "Main contact"
-msgstr ""
+msgstr "Contact principal"
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
@@ -3274,7 +3274,7 @@ msgstr "Section de texte"
 
 #: imio/events/core/contents/event/content.py:204
 msgid "The fields below have been populated with information from the primary contact. If this is not relevant, you can manually modify the information in each field"
-msgstr ""
+msgstr "Les champs ci-dessous ont été remplis avec les informations du contact principal. Si ce n’est pas pertinent, vous pouvez modifiez manuellement les informations de chaque champ"
 
 #: imio/directory/core/contents/contact/forms.py:22
 msgid "The geolocation is generated on the basis of the address during contact save. It is possible to change the pointer manually if it is not correctly positioned."
@@ -4174,7 +4174,7 @@ msgstr "Oui"
 
 #: imio/events/core/contents/event/content.py:194
 msgid "You can retrieve information from a contact record that already exists in your directory"
-msgstr ""
+msgstr "Vous pouvez récupérer les informations d’une fiche contact déjà présente dans votre annuaire"
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:48
 #: imio/news/core/browser/bring_news_into_news_folders/news_folders.py:48
