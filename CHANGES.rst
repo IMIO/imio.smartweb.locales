@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.45 (unreleased)
+1.1.45 (2026-08-10)
 -------------------
 
 - Add some translations for smartweb instances
