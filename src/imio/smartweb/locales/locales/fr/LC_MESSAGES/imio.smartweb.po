@@ -3299,7 +3299,7 @@ msgstr "L'élément sélectionné comme page d'accueil du dossier est :"
 
 #: imio/smartweb/core/contents/sections/text/forms.py:17
 msgid "The title of the text section is required but will not be visible to citizens."
-msgstr ""
+msgstr "Le titre de la section texte est requis mais ne sera pas visible par les citoyens"
 
 #: imio/smartweb/core/contents/sections/base.py:44
 msgid "The title will always be displayed if this behavior is enabled."
@@ -3307,7 +3307,7 @@ msgstr "Le titre sera toujours affiché si ce comportement est activé."
 
 #: imio/smartweb/common/interfaces.py:18
 msgid "The zipcode must contain only digits."
-msgstr ""
+msgstr "Le code postal doit contenir uniquement des chiffres."
 
 #: imio/events/core/vocabularies.py:45
 msgid "Theater and show"

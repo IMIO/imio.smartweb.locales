@@ -3298,7 +3298,7 @@ msgstr "Het geselecteerde item als startpagina van de map is:"
 
 #: imio/smartweb/core/contents/sections/text/forms.py:17
 msgid "The title of the text section is required but will not be visible to citizens."
-msgstr ""
+msgstr "De titel van de tekstsectie is verplicht, maar zal niet zichtbaar zijn voor burgers."
 
 #: imio/smartweb/core/contents/sections/base.py:44
 msgid "The title will always be displayed if this behavior is enabled."
@@ -3306,7 +3306,7 @@ msgstr "De titel wordt altijd weergegeven als dit gedrag is ingeschakeld."
 
 #: imio/smartweb/common/interfaces.py:18
 msgid "The zipcode must contain only digits."
-msgstr ""
+msgstr "De postcode mag alleen cijfers bevatten."
 
 #: imio/events/core/vocabularies.py:45
 msgid "Theater and show"

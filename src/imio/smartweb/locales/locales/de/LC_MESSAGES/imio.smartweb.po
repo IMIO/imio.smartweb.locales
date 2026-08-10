@@ -3299,7 +3299,7 @@ msgstr "Das als Startseite des Ordners ausgewählte Element ist:"
 
 #: imio/smartweb/core/contents/sections/text/forms.py:17
 msgid "The title of the text section is required but will not be visible to citizens."
-msgstr ""
+msgstr "Der Titel des Textabschnitts ist erforderlich, wird jedoch für Bürgerinnen und Bürger nicht sichtbar sein."
 
 #: imio/smartweb/core/contents/sections/base.py:44
 msgid "The title will always be displayed if this behavior is enabled."
@@ -3307,7 +3307,7 @@ msgstr "Der Titel wird immer angezeigt, wenn dieses Verhalten aktiviert ist."
 
 #: imio/smartweb/common/interfaces.py:18
 msgid "The zipcode must contain only digits."
-msgstr ""
+msgstr "Die Postleitzahl darf nur Ziffern enthalten."
 
 #: imio/events/core/vocabularies.py:45
 msgid "Theater and show"
