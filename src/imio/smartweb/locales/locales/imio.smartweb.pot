@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-08-10 12:23+0000\n"
+"POT-Creation-Date: 2026-08-24 08:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -128,6 +128,10 @@ msgstr ""
 msgid "Activity (extracurricular, sport, workshop and course, etc.)"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:71
+msgid "Actualités — les plus récents"
+msgstr ""
+
 #: imio/smartweb/common/upgrades/configure.zcml:118
 msgid "Add 'carre' scales dimensions"
 msgstr ""
@@ -154,6 +158,10 @@ msgstr ""
 
 #: imio/smartweb/policy/upgrades/configure.zcml:164
 msgid "Add Skip to content viewlet in portal top"
+msgstr ""
+
+#: imio/smartweb/common/behaviors/configure.zcml:27
+msgid "Add a 'Save and publish' button on add and edit forms."
 msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:69
@@ -332,6 +340,10 @@ msgstr ""
 msgid "Add registry key to enable/disable RAM cache on @search endpoints"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:427
+msgid "Add save_and_publish behavior to the content types that can be private/published"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:379
 msgid "Add section_text image scale (760px max width, no height constraint)"
 msgstr ""
@@ -408,12 +420,8 @@ msgstr ""
 msgid "Agenda"
 msgstr ""
 
-#: imio/smartweb/core/browser/sitemap.py:110
-msgid "Agenda : SEO Links"
-msgstr ""
-
-#: imio/smartweb/core/contents/rest/view.py:138
-msgid "Agenda : SEO links"
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:66
+msgid "Agenda — à venir"
 msgstr ""
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:83
@@ -441,12 +449,31 @@ msgstr ""
 msgid "Align title with text"
 msgstr ""
 
+#: imio/smartweb/core/browser/sitemap.py:215
+#: imio/smartweb/core/contents/rest/view.py:152
+msgid "All contacts"
+msgstr ""
+
+#: imio/smartweb/core/browser/sitemap.py:217
+#: imio/smartweb/core/contents/rest/view.py:154
+msgid "All events"
+msgstr ""
+
+#: imio/smartweb/core/browser/sitemap.py:213
+#: imio/smartweb/core/contents/rest/view.py:156
+msgid "All news"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:411
 msgid "Allow adding imio.smartweb.SectionTimestampedPublications in imio.smartweb.Procedure"
 msgstr ""
 
 #: imio/smartweb/core/upgrades/configure.zcml:180
 msgid "Allow collective.pivot.Family content type in imio.smartweb.Folder"
+msgstr ""
+
+#: imio/news/core/upgrades/configure.zcml:108
+msgid "Allow owners to delete their own content from the object menu"
 msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:27
@@ -467,6 +494,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/slide/content.py:53
 msgid "Alternatively as a picture"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:76
+msgid "Annuaire — les derniers modifiés"
 msgstr ""
 
 #: imio/smartweb/core/contents/folder/views.py:149
@@ -806,11 +837,11 @@ msgstr ""
 msgid "Check if there is facilities for person with reduced mobility"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:78
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:192
 msgid "Choice comportment of the menu on scroll"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:77
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:191
 msgid "Choice of menu position"
 msgstr ""
 
@@ -818,7 +849,7 @@ msgstr ""
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:103
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:251
 msgid "Choose procedure submission button text"
 msgstr ""
 
@@ -1048,6 +1079,10 @@ msgstr ""
 msgid "Container parks"
 msgstr ""
 
+#: imio/smartweb/common/behaviors/publish.py:75
+msgid "Content saved but could not be published."
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/macros.pt:60
 msgid "Contents"
 msgstr ""
@@ -1092,7 +1127,7 @@ msgstr ""
 msgid "Default news view"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:82
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:196
 msgid "Default position"
 msgstr ""
 
@@ -1133,14 +1168,6 @@ msgstr ""
 #: imio/events/core/contents/entity/content.py:31
 #: imio/news/core/contents/entity/content.py:29
 msgid "Deutsch"
-msgstr ""
-
-#: imio/smartweb/core/contents/rest/view.py:136
-msgid "Direcotry : SEO links"
-msgstr ""
-
-#: imio/smartweb/core/browser/sitemap.py:108
-msgid "Directory : SEO Links"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:77
@@ -1296,8 +1323,8 @@ msgid "Element view"
 msgstr ""
 
 #: imio/smartweb/core/contents/rest/directory/view.py:85
-#: imio/smartweb/core/contents/rest/events/view.py:99
-#: imio/smartweb/core/contents/rest/news/view.py:55
+#: imio/smartweb/core/contents/rest/events/view.py:98
+#: imio/smartweb/core/contents/rest/news/view.py:54
 msgid "Email"
 msgstr ""
 
@@ -1311,6 +1338,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Enable subsite"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:175
+msgid "Enabled"
 msgstr ""
 
 #: imio/events/core/contents/entity/content.py:36
@@ -1381,7 +1412,7 @@ msgid "Event planner"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:130
-#: imio/smartweb/core/contents/rest/events/view.py:101
+#: imio/smartweb/core/contents/rest/events/view.py:100
 msgid "Event type"
 msgstr ""
 
@@ -1810,7 +1841,7 @@ msgstr ""
 msgid "IA.Deliberations : Publication"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:44
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:87
 msgid "ID"
 msgstr ""
 
@@ -2011,7 +2042,7 @@ msgstr ""
 msgid "Label (Secretariat, Manager office, Sales,...)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:61
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:104
 msgid "Label (de)"
 msgstr ""
 
@@ -2019,15 +2050,15 @@ msgstr ""
 msgid "Label (direction, Main number,...)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:67
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:110
 msgid "Label (en)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:49
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:92
 msgid "Label (fr)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:55
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:98
 msgid "Label (nl)"
 msgstr ""
 
@@ -2166,6 +2197,10 @@ msgstr ""
 msgid "Maximum number of contacts by line (on PC)"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:180
+msgid "Maximum number of items"
+msgstr ""
+
 #: imio/smartweb/core/behaviors/subsite.py:48
 msgid "Menu depth"
 msgstr ""
@@ -2256,14 +2291,6 @@ msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:103
 msgid "Newcomer"
-msgstr ""
-
-#: imio/smartweb/core/browser/sitemap.py:106
-msgid "News : SEO Links"
-msgstr ""
-
-#: imio/smartweb/core/contents/rest/view.py:140
-msgid "News : SEO links"
 msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:89
@@ -2498,6 +2525,10 @@ msgstr ""
 msgid "Paysage"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:217
+msgid "Per authentic source: include it in the sitemap and cap how many remote items are listed (max 1000). Disabling a source or lowering the count reduces the sitemap size. The ordering is fixed per source. Whatever the cap, the full list stays crawlable through the seo_html page of each view."
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:73
 msgid "Personal email"
 msgstr ""
@@ -2546,7 +2577,7 @@ msgstr ""
 msgid "Please help!"
 msgstr ""
 
-#: imio/smartweb/common/browser/forms.py:32
+#: imio/smartweb/common/browser/forms.py:62
 msgid "Please note that it is important to upload an image without text for design and accessibility reasons. The image will not display in its entirety and the text may be cut off."
 msgstr ""
 
@@ -2620,7 +2651,7 @@ msgstr ""
 msgid "Procedure"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:102
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:250
 msgid "Procedure : Define button text"
 msgstr ""
 
@@ -2772,6 +2803,10 @@ msgstr ""
 msgid "Reorganize behaviors sorting"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:419
+msgid "Reserve taxonomy deletion to Manager"
+msgstr ""
+
 #: imio/directory/core/vocabularies.py:115
 msgid "Residual waste containers"
 msgstr ""
@@ -2798,6 +2833,11 @@ msgstr ""
 
 #: imio/smartweb/common/contact_utils.py:106
 msgid "Saturday"
+msgstr ""
+
+#: imio/smartweb/common/behaviors/configure.zcml:27
+#: imio/smartweb/common/browser/forms.py:32
+msgid "Save and publish"
 msgstr ""
 
 #: imio/smartweb/common/browser/privacy/form.py:27
@@ -3066,6 +3106,10 @@ msgstr ""
 msgid "Site created in collaboration with"
 msgstr ""
 
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:216
+msgid "Sitemap: authentic sources configuration"
+msgstr ""
+
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
 msgstr ""
@@ -3090,7 +3134,7 @@ msgstr ""
 msgid "Smartweb Settings"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:116
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:264
 msgid "Smartweb Site admin Settings"
 msgstr ""
 
@@ -3130,6 +3174,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/icons/basic/registry.xml
 msgid "Social network - Youtube"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:170
+msgid "Source"
 msgstr ""
 
 #: imio/events/core/contents/event/content.py:258
@@ -3178,11 +3226,11 @@ msgstr ""
 msgid "Statistics"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:87
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:201
 msgid "Sticky (always visible on scroll)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:92
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:206
 msgid "Sticky 2 (visible on upward scroll only)"
 msgstr ""
 
@@ -3300,6 +3348,10 @@ msgstr ""
 
 #: imio/smartweb/core/contents/folder/element_view.pt:6
 msgid "The item selected as the folder home page is :"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:284
+msgid "The sitemap configuration must list each authentic source exactly once."
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/forms.py:17
@@ -3480,7 +3532,7 @@ msgstr ""
 msgid "Uninstalls the imio.news.policy add-on."
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:45
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:88
 msgid "Unique identifier for the procedure button text"
 msgstr ""
 
@@ -3727,6 +3779,7 @@ msgid "Upgrade core from 1018 to 1019"
 msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:92
+#: imio/news/core/upgrades/configure.zcml:108
 msgid "Upgrade core from 1019 to 1020"
 msgstr ""
 
@@ -3916,6 +3969,14 @@ msgstr ""
 msgid "Upgrade core from 1081 to 1082"
 msgstr ""
 
+#: imio/smartweb/core/upgrades/configure.zcml:419
+msgid "Upgrade core from 1082 to 1083"
+msgstr ""
+
+#: imio/smartweb/core/upgrades/configure.zcml:427
+msgid "Upgrade core from 1084 to 1085"
+msgstr ""
+
 #: imio/events/policy/upgrades/configure.zcml:28
 msgid "Upgrade policy 1002 to 1003"
 msgstr ""
@@ -4062,7 +4123,7 @@ msgstr ""
 msgid "Url to propose a new citizen news"
 msgstr ""
 
-#: imio/smartweb/common/browser/forms.py:40
+#: imio/smartweb/common/browser/forms.py:70
 #: imio/smartweb/core/contents/sections/external_content/content.py:16
 #: imio/smartweb/core/contents/sections/html/content.py:29
 msgid "Use **text** to set text in bold. Limited to ${max} characters."
@@ -4166,7 +4227,7 @@ msgstr ""
 msgid "Wednesday"
 msgstr ""
 
-#: imio/smartweb/core/contents/rest/events/view.py:69
+#: imio/smartweb/core/contents/rest/events/view.py:70
 msgid "Whole day"
 msgstr ""
 
@@ -4219,19 +4280,19 @@ msgstr ""
 msgid "Your Folder was a minisite but this behaviour has been disabled with this action"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:56
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:99
 msgid "Your button title (dutch)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:68
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:111
 msgid "Your button title (english)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:50
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:93
 msgid "Your button title (french)"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel_siteadmin.py:62
+#: imio/smartweb/core/browser/controlpanel_siteadmin.py:105
 msgid "Your button title (german)"
 msgstr ""
 
@@ -4311,11 +4372,6 @@ msgstr ""
 msgid "label_edit_default_page_container_go_here"
 msgstr ""
 
-#. Default: "Next &raquo;"
-#: imio/smartweb/core/contents/rest/results.pt:36
-msgid "label_external_url"
-msgstr ""
-
 #. Default: "Geolocation"
 #: imio/smartweb/core/contents/rest/directory/view.pt:34
 #: imio/smartweb/core/contents/rest/events/view.pt:38
@@ -4336,8 +4392,13 @@ msgstr ""
 msgid "label_website"
 msgstr ""
 
+#. Default: "Next &raquo;"
+#: imio/smartweb/core/contents/rest/results.pt:44
+msgid "next"
+msgstr ""
+
 #. Default: "&laquo; Previous"
-#: imio/smartweb/core/contents/rest/results.pt:30
+#: imio/smartweb/core/contents/rest/results.pt:38
 msgid "previous"
 msgstr ""
 
