@@ -1336,7 +1336,7 @@ msgstr "Schakel subsite in"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:175
 msgid "Enabled"
-msgstr ""
+msgstr "Ingeschakeld"
 
 #: imio/events/core/contents/entity/content.py:36
 #: imio/news/core/contents/entity/content.py:34
@@ -2193,7 +2193,7 @@ msgstr "Maximaal aantal contacten per regel (op een computerbeeldscherm)"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:180
 msgid "Maximum number of items"
-msgstr ""
+msgstr "Maximumaantal items"
 
 #: imio/smartweb/core/behaviors/subsite.py:48
 msgid "Menu depth"
@@ -2521,7 +2521,7 @@ msgstr "Landschap"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:217
 msgid "Per authentic source: include it in the sitemap and cap how many remote items are listed (max 1000). Disabling a source or lowering the count reduces the sitemap size. The ordering is fixed per source. Whatever the cap, the full list stays crawlable through the seo_html page of each view."
-msgstr ""
+msgstr "Voor elke authentieke bron: kies of deze in de sitemap moet worden opgenomen en beperk het aantal externe items dat daarin wordt vermeld (max. 1000). Door een bron uit te schakelen of dit aantal te verlagen, wordt de sitemap kleiner."
 
 #: imio/directory/core/vocabularies.py:73
 msgid "Personal email"
@@ -2647,7 +2647,7 @@ msgstr "Procedure"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:250
 msgid "Procedure : Define button text"
-msgstr ""
+msgstr "Procedure: knoptekst definiëren"
 
 #: imio/smartweb/core/profiles/icons/contenttypes/registry.xml
 msgid "Procedure content type icon"
@@ -2832,7 +2832,7 @@ msgstr "Zaterdag"
 #: imio/smartweb/common/behaviors/configure.zcml:27
 #: imio/smartweb/common/browser/forms.py:32
 msgid "Save and publish"
-msgstr ""
+msgstr "Opslaan en publiceren"
 
 #: imio/smartweb/common/browser/privacy/form.py:27
 msgid "Save my choices"
@@ -3102,7 +3102,7 @@ msgstr "Site gemaakt in samenwerking met"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:216
 msgid "Sitemap: authentic sources configuration"
-msgstr ""
+msgstr "Sitemap: configuratie van authentieke bronnen"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"

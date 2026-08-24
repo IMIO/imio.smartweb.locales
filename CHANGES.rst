@@ -5,6 +5,9 @@ Changelog
 1.1.46 (unreleased)
 -------------------
 
+- Add some translations for smartweb instances
+  [boulch]
+
 - Update translations
   [boulch]
 

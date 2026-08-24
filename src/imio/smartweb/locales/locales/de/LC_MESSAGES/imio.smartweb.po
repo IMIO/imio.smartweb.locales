@@ -1337,7 +1337,7 @@ msgstr "Unterseite aktivieren"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:175
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiviert"
 
 #: imio/events/core/contents/entity/content.py:36
 #: imio/news/core/contents/entity/content.py:34
@@ -2194,7 +2194,7 @@ msgstr "Maximale Anzahl von Kontakten pro Zeile (auf dem PC)"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:180
 msgid "Maximum number of items"
-msgstr ""
+msgstr "Maximale Anzahl an Elementen"
 
 #: imio/smartweb/core/behaviors/subsite.py:48
 msgid "Menu depth"
@@ -2522,7 +2522,7 @@ msgstr "Landschaft"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:217
 msgid "Per authentic source: include it in the sitemap and cap how many remote items are listed (max 1000). Disabling a source or lowering the count reduces the sitemap size. The ordering is fixed per source. Whatever the cap, the full list stays crawlable through the seo_html page of each view."
-msgstr ""
+msgstr "Für jede authentische Quelle: Wählen Sie, ob sie in die Sitemap aufgenommen werden soll, und begrenzen Sie die Anzahl der dort aufgeführten Remote-Elemente (max. 1000). Das Deaktivieren einer Quelle oder das Verringern dieser Anzahl reduziert die Größe der Sitemap."
 
 #: imio/directory/core/vocabularies.py:73
 msgid "Personal email"
@@ -2648,7 +2648,7 @@ msgstr "Verfahren"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:250
 msgid "Procedure : Define button text"
-msgstr ""
+msgstr "Verfahren: Schaltflächentext festlegen"
 
 #: imio/smartweb/core/profiles/icons/contenttypes/registry.xml
 msgid "Procedure content type icon"
@@ -2833,7 +2833,7 @@ msgstr "Samstag"
 #: imio/smartweb/common/behaviors/configure.zcml:27
 #: imio/smartweb/common/browser/forms.py:32
 msgid "Save and publish"
-msgstr ""
+msgstr "Speichern und veröffentlichen"
 
 #: imio/smartweb/common/browser/privacy/form.py:27
 msgid "Save my choices"
@@ -3103,7 +3103,7 @@ msgstr "Website erstellt in Zusammenarbeit mit"
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:216
 msgid "Sitemap: authentic sources configuration"
-msgstr ""
+msgstr "Sitemap: Konfiguration authentischer Quellen"
 
 #: imio/smartweb/common/viewlets/skip_to_content.pt:1
 msgid "Skip to content"
