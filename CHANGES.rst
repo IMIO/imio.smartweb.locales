@@ -5,7 +5,8 @@ Changelog
 1.1.47 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add translations for section alignment (fr/nl/de)
+  [thomlamb]
 
 
 1.1.46 (2026-08-24)
