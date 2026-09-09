@@ -437,11 +437,11 @@ msgstr "Titel uitlijnen met tekst"
 
 #: imio/smartweb/core/vocabularies.py:206
 msgid "Align with main container"
-msgstr "Uitlijnen met de hoofdcontainer"
+msgstr "Uitlijnen met de paginabreedte"
 
 #: imio/smartweb/core/vocabularies.py:207
 msgid "Align with text sections container (760px)"
-msgstr "Uitlijnen met de container van tekstsecties (760px)"
+msgstr "Uitlijnen met de breedte van de tekstsecties"
 
 #: imio/smartweb/core/browser/sitemap.py:215
 #: imio/smartweb/core/contents/rest/view.py:152
@@ -1062,7 +1062,7 @@ msgstr "Contacttype ontbreekt."
 
 #: imio/smartweb/core/vocabularies.py:422
 msgid "Container (1296px)"
-msgstr "Container (1296px)"
+msgstr "Breedte van de site"
 
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
@@ -1889,7 +1889,7 @@ msgstr "Afbeeldingsoriëntatie"
 
 #: imio/smartweb/core/contents/sections/text/content.py:35
 msgid "Image scale"
-msgstr "Afbeeldingschaal"
+msgstr "Maximale breedte van de afbeelding"
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
@@ -2047,6 +2047,10 @@ msgstr ""
 msgid "Layout"
 msgstr "Indeling"
 
+#: imio/smartweb/common/vocabularies.py:239
+msgid "Lead Image"
+msgstr "Leidende afbeelding"
+
 #: imio/smartweb/core/vocabularies.py:391
 msgid "Left"
 msgstr "Links"
@@ -2145,6 +2149,10 @@ msgstr "Hoofdcontactpersoon"
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
 msgstr "Beheer taxonomieën voor deze inhoud"
+
+#: imio/smartweb/common/vocabularies.py:245
+msgid "Map"
+msgstr "Kaart"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
 msgid "Map section"
@@ -2789,6 +2797,12 @@ msgstr "Veiligheid en preventie"
 msgid "Saturday"
 msgstr "Zaterdag"
 
+#: imio/smartweb/common/behaviors/configure.zcml:24
+#: imio/smartweb/common/browser/forms.py:32
+#: imio/smartweb/common/browser/forms.py:93
+msgid "Save and publish"
+msgstr "Opslaan en publiceren"
+
 #: imio/smartweb/common/browser/privacy/form.py:27
 msgid "Save my choices"
 msgstr "Mijn keuzes opslaan"
@@ -2952,7 +2966,7 @@ msgstr "Selecteer de organisatoren, partners of sponsors van dit evenement"
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Select the image resolution to use"
-msgstr "Selecteer de te gebruiken beeldresolutie"
+msgstr "De oorspronkelijke breedte van de afbeelding blijft behouden als deze kleiner is dan de onderstaande keuze"
 
 #: imio/smartweb/core/contents/sections/macros.pt:70
 msgid "Select view"
@@ -3159,7 +3173,7 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:421
 msgid "Standard (760px)"
-msgstr "Standaard (760px)"
+msgstr "Breedte van de tekstsecties"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Standard Page content type to print informations"
@@ -3310,6 +3324,10 @@ msgstr "De titel van de tekstsectie is verplicht, maar zal niet zichtbaar zijn v
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr "De titel wordt altijd weergegeven als dit gedrag is ingeschakeld."
 
+#: imio/smartweb/common/interfaces.py:18
+msgid "The zipcode must contain only digits."
+msgstr "De postcode mag alleen cijfers bevatten."
+
 #: imio/events/core/vocabularies.py:46
 msgid "Theater and show"
 msgstr "Theater en show"
@@ -3382,6 +3400,10 @@ msgstr "Sectie met tijdstempelde publicaties"
 #: imio/news/core/contents/newsitem/content.py:37
 msgid "Title"
 msgstr "Titel"
+
+#: imio/smartweb/common/vocabularies.py:240
+msgid "Title and Subtitle"
+msgstr "Titel en Ondertitel"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:32
 msgid "Title and description will be displayed in front of picture as a slogan"
@@ -4114,7 +4136,7 @@ msgstr "Bekijk - Nieuws"
 
 #: imio/smartweb/core/vocabularies.py:423
 msgid "Viewport (1920px)"
-msgstr "Viewport (1920px)"
+msgstr "Schermbreedte"
 
 #: imio/smartweb/common/vocabularies.py:155
 msgid "Vignette"

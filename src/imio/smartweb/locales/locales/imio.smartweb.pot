@@ -2053,6 +2053,10 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
+#: imio/smartweb/common/vocabularies.py:239
+msgid "Lead Image"
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:391
 msgid "Left"
 msgstr ""
@@ -2150,6 +2154,10 @@ msgstr ""
 
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
+msgstr ""
+
+#: imio/smartweb/common/vocabularies.py:245
+msgid "Map"
 msgstr ""
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
@@ -2795,6 +2803,12 @@ msgstr ""
 msgid "Saturday"
 msgstr ""
 
+#: imio/smartweb/common/behaviors/configure.zcml:24
+#: imio/smartweb/common/browser/forms.py:32
+#: imio/smartweb/common/browser/forms.py:93
+msgid "Save and publish"
+msgstr ""
+
 #: imio/smartweb/common/browser/privacy/form.py:27
 msgid "Save my choices"
 msgstr ""
@@ -3316,6 +3330,10 @@ msgstr ""
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr ""
 
+#: imio/smartweb/common/interfaces.py:18
+msgid "The zipcode must contain only digits."
+msgstr ""
+
 #: imio/events/core/vocabularies.py:46
 msgid "Theater and show"
 msgstr ""
@@ -3387,6 +3405,10 @@ msgstr ""
 #: imio/events/core/contents/event/content.py:76
 #: imio/news/core/contents/newsitem/content.py:37
 msgid "Title"
+msgstr ""
+
+#: imio/smartweb/common/vocabularies.py:240
+msgid "Title and Subtitle"
 msgstr ""
 
 #: imio/smartweb/core/contents/sections/slide/content.py:32

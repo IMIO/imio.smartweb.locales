@@ -438,11 +438,11 @@ msgstr ""
 
 #: imio/smartweb/core/vocabularies.py:206
 msgid "Align with main container"
-msgstr "Am Hauptcontainer ausrichten"
+msgstr "An der Seitenbreite ausrichten"
 
 #: imio/smartweb/core/vocabularies.py:207
 msgid "Align with text sections container (760px)"
-msgstr "Am Container der Textsektionen ausrichten (760px)"
+msgstr "An der Breite der Textabschnitte ausrichten"
 
 #: imio/smartweb/core/browser/sitemap.py:215
 #: imio/smartweb/core/contents/rest/view.py:152
@@ -1063,7 +1063,7 @@ msgstr "Kontakttyp fehlt."
 
 #: imio/smartweb/core/vocabularies.py:422
 msgid "Container (1296px)"
-msgstr ""
+msgstr "Breite der Website"
 
 #: imio/directory/core/vocabularies.py:112
 msgid "Container parks"
@@ -1890,7 +1890,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/sections/text/content.py:35
 msgid "Image scale"
-msgstr ""
+msgstr "Maximale Bildbreite"
 
 #: imio/smartweb/core/contents/sections/gallery/content.py:16
 msgid "Image scale for images"
@@ -2048,6 +2048,10 @@ msgstr ""
 msgid "Layout"
 msgstr ""
 
+#: imio/smartweb/common/vocabularies.py:239
+msgid "Lead Image"
+msgstr "Führungsbild"
+
 #: imio/smartweb/core/vocabularies.py:391
 msgid "Left"
 msgstr "Links"
@@ -2146,6 +2150,10 @@ msgstr "Hauptkontakt"
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Manage taxonomies on this content"
 msgstr "Taxonomien auf diesem Inhalt verwalten"
+
+#: imio/smartweb/common/vocabularies.py:245
+msgid "Map"
+msgstr "Karte"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.SectionMap.xml
 msgid "Map section"
@@ -2790,6 +2798,12 @@ msgstr "Sicherheit und Prävention"
 msgid "Saturday"
 msgstr "Samstag"
 
+#: imio/smartweb/common/behaviors/configure.zcml:24
+#: imio/smartweb/common/browser/forms.py:32
+#: imio/smartweb/common/browser/forms.py:93
+msgid "Save and publish"
+msgstr "Speichern und veröffentlichen"
+
 #: imio/smartweb/common/browser/privacy/form.py:27
 msgid "Save my choices"
 msgstr "Meine Auswahl speichern"
@@ -2953,7 +2967,7 @@ msgstr "Organisatoren, Partner oder Sponsoren für diese Veranstaltung auswähle
 
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Select the image resolution to use"
-msgstr "Wählen Sie die zu verwendende Bildauflösung aus"
+msgstr "Die ursprüngliche Bildbreite wird beibehalten, wenn sie kleiner ist als die untenstehende Auswahl"
 
 #: imio/smartweb/core/contents/sections/macros.pt:70
 msgid "Select view"
@@ -3160,7 +3174,7 @@ msgstr "Sport"
 
 #: imio/smartweb/core/vocabularies.py:421
 msgid "Standard (760px)"
-msgstr "Standard (760px)"
+msgstr "Breite der Textabschnitte"
 
 #: imio/smartweb/core/profiles/default/types/imio.smartweb.Page.xml
 msgid "Standard Page content type to print informations"
@@ -3311,6 +3325,10 @@ msgstr "Der Titel des Textabschnitts ist erforderlich, wird jedoch für Bürgeri
 msgid "The title will always be displayed if this behavior is enabled."
 msgstr "Der Titel wird immer angezeigt, wenn dieses Verhalten aktiviert ist."
 
+#: imio/smartweb/common/interfaces.py:18
+msgid "The zipcode must contain only digits."
+msgstr "Die Postleitzahl darf nur Ziffern enthalten."
+
 #: imio/events/core/vocabularies.py:46
 msgid "Theater and show"
 msgstr "Theater und Show"
@@ -3383,6 +3401,10 @@ msgstr "Abschnitt für zeitgestempelte Veröffentlichungen"
 #: imio/news/core/contents/newsitem/content.py:37
 msgid "Title"
 msgstr "Titel"
+
+#: imio/smartweb/common/vocabularies.py:240
+msgid "Title and Subtitle"
+msgstr "Titel und Untertitel"
 
 #: imio/smartweb/core/contents/sections/slide/content.py:32
 msgid "Title and description will be displayed in front of picture as a slogan"
@@ -4115,7 +4137,7 @@ msgstr "Ansicht - Nachrichten"
 
 #: imio/smartweb/core/vocabularies.py:423
 msgid "Viewport (1920px)"
-msgstr "Viewport (1920px)"
+msgstr "Bildschirmbreite"
 
 #: imio/smartweb/common/vocabularies.py:155
 msgid "Vignette"
