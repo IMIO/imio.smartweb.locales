@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.47 (unreleased)
+1.1.47 (2026-09-09)
 -------------------
 
 - Add translations for section alignment (fr/nl/de)
