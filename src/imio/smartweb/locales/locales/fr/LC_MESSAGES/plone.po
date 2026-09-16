@@ -16,6 +16,10 @@ msgstr ""
 "Language: fr\n"
 "X-Is-Fallback-For: fr-be fr-ca fr-lu fr-mc fr-ch fr-fr\n"
 
+#. portal_actions: Liege : Ticketing
+msgid "Billetterie"
+msgstr "Billetterie"
+
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/info.py:196
 msgid "Folders"
 msgstr "Éléments avec du contenu"

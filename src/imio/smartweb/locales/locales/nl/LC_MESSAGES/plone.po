@@ -15,6 +15,10 @@ msgstr ""
 "Domain: plone\n"
 "Language: nl\n"
 
+#. portal_actions: Liege : Ticketing
+msgid "Billetterie"
+msgstr "Ticketverkoop"
+
 #: plone.app.linkintegrity/plone/app/linkintegrity/browser/info.py:196
 msgid "Folders"
 msgstr "Elementen met inhoud"

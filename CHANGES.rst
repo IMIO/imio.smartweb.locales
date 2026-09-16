@@ -5,8 +5,8 @@ Changelog
 1.1.48 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Add translations for portal_actions ticketing
+  [boulch]
 
 1.1.47 (2026-09-09)
 -------------------
