@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-1.1.48 (unreleased)
+1.1.48 (2026-09-28)
 -------------------
 
 - Add translations for portal_actions ticketing
