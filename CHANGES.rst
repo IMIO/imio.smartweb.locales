@@ -5,6 +5,9 @@ Changelog
 1.1.49 (unreleased)
 -------------------
 
+- Add translations for portal_actions ticketing
+  [boulch]
+
 - Update translations
   [boulch]
 
@@ -12,7 +15,7 @@ Changelog
 1.1.48 (2026-09-28)
 -------------------
 
-- Add translations for portal_actions ticketing
+- Add translations for portal_actions billettie
   [boulch]
 
 1.1.47 (2026-09-09)

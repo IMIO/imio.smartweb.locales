@@ -31,7 +31,7 @@ msgstr "L'identifiant est affiché dans la barre d'adresse du navigateur (URL). 
 
 #. portal_actions: Liege : Ticketing
 msgid "Ticketing"
-msgstr ""
+msgstr "Billetterie"
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27

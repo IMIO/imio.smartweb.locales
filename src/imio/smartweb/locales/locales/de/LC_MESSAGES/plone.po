@@ -31,7 +31,7 @@ msgstr "Dieser Name wird in der URL angezeigt. Es ist wichtig, keine Großbuchst
 
 #. portal_actions: Liege : Ticketing
 msgid "Ticketing"
-msgstr ""
+msgstr "Ticketverkauf"
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27
