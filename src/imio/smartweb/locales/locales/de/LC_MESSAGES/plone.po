@@ -17,6 +17,7 @@ msgstr ""
 "X-Is-Fallback-For: de-at de-li de-lu de-ch de-de\n"
 
 #. portal_actions: Liege : Ticketing
+#. portal_actions: Liege : Billetterie
 msgid "Billetterie"
 msgstr "Ticketverkauf"
 
@@ -27,6 +28,10 @@ msgstr "Elemente mit Inhalt"
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
 msgstr "Dieser Name wird in der URL angezeigt. Es ist wichtig, keine Großbuchstaben, Akzente und Leerzeichen zu verwenden. Leerzeichen müssen durch Bindestriche ersetzt werden (z. B. mein-seite)."
+
+#. portal_actions: Liege : Ticketing
+msgid "Ticketing"
+msgstr ""
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27

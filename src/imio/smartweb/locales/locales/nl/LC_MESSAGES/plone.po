@@ -16,6 +16,7 @@ msgstr ""
 "Language: nl\n"
 
 #. portal_actions: Liege : Ticketing
+#. portal_actions: Liege : Billetterie
 msgid "Billetterie"
 msgstr "Ticketverkoop"
 
@@ -26,6 +27,10 @@ msgstr "Elementen met inhoud"
 #: plone.app.dexterity/plone/app/dexterity/behaviors/id.py:28
 msgid "This name will be displayed in the URL."
 msgstr "Deze naam wordt weergegeven in de URL. Het is belangrijk om geen hoofdletters, accenten en spaties te gebruiken. Spaties moeten worden vervangen door streepjes (bijv.: mijn-pagina)."
+
+#. portal_actions: Liege : Ticketing
+msgid "Ticketing"
+msgstr ""
 
 #. Default: "Do you really want to delete this folder and all its contents?"
 #: plone.app.content/plone/app/content/browser/templates/delete_confirmation.pt:27

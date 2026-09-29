@@ -40,6 +40,10 @@ msgstr ""
 msgid "label_event_url"
 msgstr ""
 
-#. portal_actions: Liege : Ticketing
+#. portal_actions: Liege : Billetterie
 msgid "Billetterie"
-msgstr "Ticketing"
+msgstr ""
+
+#. portal_actions: Liege : Ticketing
+msgid "Ticketing"
+msgstr ""
