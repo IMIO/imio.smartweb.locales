@@ -5,7 +5,8 @@ Changelog
 1.1.50 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Add translations for the ``@@undo-transactions`` view (imio.smartweb.core)
+  [remdub]
 
 
 1.1.49 (2026-10-02)
