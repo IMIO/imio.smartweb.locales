@@ -1854,7 +1854,7 @@ msgid "ID"
 msgstr ""
 
 #: imio/smartweb/common/viewlets/colophon.pt:33
-msgid "IMIO"
+msgid "iMio"
 msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26

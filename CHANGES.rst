@@ -5,7 +5,8 @@ Changelog
 1.1.50 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Colophon: rename ``IMIO`` msgid to ``iMio``
+  [thomlamb]
 
 
 1.1.49 (2026-10-02)
