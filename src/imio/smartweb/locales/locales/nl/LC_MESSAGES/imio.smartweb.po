@@ -1129,6 +1129,10 @@ msgstr "Maakt demo-entiteiten en -contacten voor imio.directory."
 msgid "Culture"
 msgstr "Cultuur"
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:75
+msgid "Date"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:95
 msgid "Default directory view"
 msgstr "Standaard directoryweergave"
@@ -2320,6 +2324,10 @@ msgstr "Nieuw tabblad"
 msgid "Newcomer"
 msgstr "Nieuwkomer"
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:109
+msgid "Newer transactions"
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel.py:89
 msgid "News SolR Core ID"
 msgstr "ID van nieuws SolR-kern"
@@ -2377,6 +2385,10 @@ msgstr ""
 msgid "No"
 msgstr "Nee"
 
+#: imio/smartweb/core/browser/undo.py:127
+msgid "No transaction selected."
+msgstr ""
+
 #: imio/smartweb/core/vocabularies.py:165
 msgid "None"
 msgstr ""
@@ -2408,6 +2420,10 @@ msgstr "Aantal items per batch (alleen voor carrouselmodus)"
 #: imio/smartweb/core/contents/rest/events/content.py:30
 msgid "Number of items to display"
 msgstr "Aantal items om weer te geven"
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:113
+msgid "Older transactions"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/events/macros.pt:25
 msgid "On"
@@ -3005,6 +3021,10 @@ msgstr "Selecteer agenda om weer te geven"
 msgid "Select agendas where this event will be displayed. Current agenda is always selected."
 msgstr "Selecteer agenda's waarop dit evenement zal worden weergegeven. De huidige agenda is altijd geselecteerd."
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:69
+msgid "Select all"
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/contact/content.py:25
 msgid "Select contacts. If you can't find contacts you want, make sure it exists in the directory and that its \"state\" is published."
 msgstr "Selecteer contacten. Als je de gewenste contacten niet kunt vinden, zorg er dan voor dat ze in het adresboek staan en dat de \"status\" is gepubliceerd."
@@ -3036,6 +3056,14 @@ msgstr "Selecteer de organisatoren, partners of sponsors van dit evenement"
 #: imio/smartweb/core/contents/sections/text/content.py:36
 msgid "Select the image resolution to use"
 msgstr "De oorspronkelijke breedte van de afbeelding blijft behouden als deze kleiner is dan de onderstaande keuze"
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:98
+msgid "Select this and newer"
+msgstr ""
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:98
+msgid "Select this transaction and all newer transactions (above it)"
+msgstr ""
 
 #: imio/smartweb/core/contents/sections/macros.pt:70
 msgid "Select view"
@@ -3394,6 +3422,10 @@ msgstr "De afbeelding geüpload in het veld \"${field_title}\" kan worden versle
 msgid "The item selected as the folder home page is :"
 msgstr "Het geselecteerde item als startpagina van de map is:"
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:35
+msgid "The selected transaction is no longer in the list. Please select it again."
+msgstr ""
+
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:284
 msgid "The sitemap configuration must list each authentic source exactly once."
 msgstr ""
@@ -3414,6 +3446,10 @@ msgstr "De postcode mag alleen cijfers bevatten."
 msgid "Theater and show"
 msgstr "Theater en show"
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:61
+msgid "There are no transactions that can be undone."
+msgstr ""
+
 #: imio/smartweb/core/contents/pages/views.py:110
 msgid "There is no section on this page."
 msgstr "Er is geen sectie op deze pagina."
@@ -3429,6 +3465,10 @@ msgstr "Derde van de breedte"
 #: imio/smartweb/core/vocabularies.py:408
 msgid "Third page"
 msgstr "Derde pagina"
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:29
+msgid "This database does not support undo."
+msgstr ""
 
 #: imio/smartweb/common/privacy.py:70
 msgid "This feature requires cookies acceptation.<br/><a class=\"pat-plone-modal\" href=\"${consent_url}\">Review your cookies preferences</a>."
@@ -3526,6 +3566,14 @@ msgstr "Toerist"
 msgid "Trade Fair and Fair"
 msgstr "Handelsbeurs en Kermis"
 
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:42
+msgid "Transactions per page"
+msgstr ""
+
+#: imio/smartweb/core/browser/undo.py:150
+msgid "Transactions undone."
+msgstr ""
+
 #: imio/smartweb/common/contact_utils.py:102
 msgid "Tuesday"
 msgstr "Dinsdag"
@@ -3563,6 +3611,26 @@ msgstr ""
 #: imio/directory/core/contents/contact/content.py:181
 msgid "URLs"
 msgstr "URL's"
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:16
+msgid "Undo changes made to the database. A transaction can only be undone if the objects it modified have not been changed since."
+msgstr ""
+
+#: imio/smartweb/core/browser/undo.py:140
+msgid "Undo failed: ${error}"
+msgstr ""
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:120
+msgid "Undo selected transactions"
+msgstr ""
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:15
+msgid "Undo transactions"
+msgstr ""
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:24
+msgid "Undoing a transaction does not update the Solr index: the affected contents may need to be reindexed afterwards."
+msgstr ""
 
 #: imio/directory/policy/configure.zcml:50
 msgid "Uninstalls the imio.directory.policy add-on."
@@ -4205,6 +4273,10 @@ msgstr ""
 #: imio/directory/core/vocabularies.py:110
 msgid "Useful numbers"
 msgstr "Nuttige nummers"
+
+#: imio/smartweb/core/browser/templates/undo_transactions.pt:76
+msgid "User"
+msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:164
 msgid "Username to consume I.A. Deliberations API"
