@@ -164,7 +164,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:76
 msgid "Add a field to choose whether this message must be displayed in the e-guichet (@messages endpoint)."
-msgstr ""
+msgstr "Voegt een veld toe om te kiezen of dit bericht in het e-guichet moet worden weergegeven (endpoint @messages)."
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Add caching configuration to registry"
@@ -1183,7 +1183,7 @@ msgstr "Beschrijving"
 #: imio/events/core/contents/entity/content.py:31
 #: imio/news/core/contents/entity/content.py:29
 msgid "Deutsch"
-msgstr ""
+msgstr "Duits"
 
 #: imio/smartweb/core/browser/controlpanel.py:77
 msgid "Directory SolR Core ID"
@@ -1280,7 +1280,7 @@ msgstr "Toon rode duim"
 
 #: imio/smartweb/core/behaviors/eguichet_message.py:14
 msgid "Display this message in our e-guichet"
-msgstr ""
+msgstr "Dit bericht weergeven in ons e-guichet"
 
 #: imio/smartweb/core/upgrades/configure.zcml:308
 msgid "Don't display cropping action on react views"
@@ -1294,7 +1294,7 @@ msgstr "Drinkwaterpunt"
 #: imio/events/core/contents/entity/content.py:26
 #: imio/news/core/contents/entity/content.py:24
 msgid "Dutch"
-msgstr ""
+msgstr "Nederlands"
 
 #: imio/directory/core/contents/contact/content.py:282
 #: imio/events/core/contents/event/content.py:106
@@ -1312,7 +1312,7 @@ msgstr "E-Guichet procedure"
 
 #: imio/smartweb/core/behaviors/configure.zcml:76
 msgid "E-guichet message"
-msgstr ""
+msgstr "E-guichet-bericht"
 
 #: imio/directory/core/contents/contact/content.py:131
 msgid "E-mail"
@@ -1372,7 +1372,7 @@ msgstr "Ingeschakeld"
 #: imio/events/core/contents/entity/content.py:36
 #: imio/news/core/contents/entity/content.py:34
 msgid "English"
-msgstr ""
+msgstr "Engels"
 
 #: imio/directory/core/contents/contact/content.py:265
 #: imio/events/core/contents/event/content.py:89
@@ -1702,7 +1702,7 @@ msgstr "Gratis toegang"
 #: imio/events/core/contents/entity/content.py:21
 #: imio/news/core/contents/entity/content.py:19
 msgid "French"
-msgstr ""
+msgstr "Frans"
 
 #: imio/smartweb/common/contact_utils.py:105
 msgid "Friday"
@@ -2157,7 +2157,7 @@ msgstr "Sectie met links voor een pagina"
 
 #: imio/directory/core/contents/entity/content.py:56
 msgid "List of contact categories values available for this entity (one per line)"
-msgstr ""
+msgstr "Lijst van de contactcategorieën die beschikbaar zijn voor deze entiteit (één per regel)"
 
 #: imio/events/core/contents/entity/content.py:54
 msgid "List of events categories values available for this entity (one per line)"
@@ -3115,7 +3115,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:39
 msgid "Set the label of the button that opens the procedure"
-msgstr ""
+msgstr "Het label instellen van de knop die de procedure opent"
 
 #: imio/smartweb/core/behaviors/categorization.py:17
 msgid "Show category or topic"
@@ -3223,11 +3223,11 @@ msgstr ""
 #: imio/events/core/contents/event/content.py:259
 #: imio/news/core/contents/newsitem/content.py:142
 msgid "Specific category"
-msgstr ""
+msgstr "Specifieke categorie"
 
 #: imio/directory/core/contents/entity/content.py:55
 msgid "Specific contact categories"
-msgstr ""
+msgstr "Specifieke contactcategorieën"
 
 #: imio/events/core/contents/entity/content.py:53
 msgid "Specific events categories"

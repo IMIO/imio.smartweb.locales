@@ -165,7 +165,7 @@ msgstr ""
 
 #: imio/smartweb/core/behaviors/configure.zcml:76
 msgid "Add a field to choose whether this message must be displayed in the e-guichet (@messages endpoint)."
-msgstr ""
+msgstr "Ajoute un champ permettant de choisir si ce message doit être affiché dans l'e-guichet (endpoint @messages)."
 
 #: imio/smartweb/policy/upgrades/configure.zcml:12
 msgid "Add caching configuration to registry"
@@ -1281,7 +1281,7 @@ msgstr "Afficher le pouce rouge"
 
 #: imio/smartweb/core/behaviors/eguichet_message.py:14
 msgid "Display this message in our e-guichet"
-msgstr ""
+msgstr "Afficher ce message dans notre e-guichet"
 
 #: imio/smartweb/core/upgrades/configure.zcml:308
 msgid "Don't display cropping action on react views"
@@ -1313,7 +1313,7 @@ msgstr "Lien vers la démarche dans l'e-guichet iMio"
 
 #: imio/smartweb/core/behaviors/configure.zcml:76
 msgid "E-guichet message"
-msgstr ""
+msgstr "Message e-guichet"
 
 #: imio/directory/core/contents/contact/content.py:131
 msgid "E-mail"
@@ -2158,7 +2158,7 @@ msgstr "Section de liens pour une page"
 
 #: imio/directory/core/contents/entity/content.py:56
 msgid "List of contact categories values available for this entity (one per line)"
-msgstr ""
+msgstr "Liste des catégories de contact disponibles pour cette entité (une par ligne)"
 
 #: imio/events/core/contents/entity/content.py:54
 msgid "List of events categories values available for this entity (one per line)"
@@ -3116,7 +3116,7 @@ msgstr ""
 
 #: imio/smartweb/core/contents/pages/procedure/content.py:39
 msgid "Set the label of the button that opens the procedure"
-msgstr ""
+msgstr "Définir le libellé du bouton qui ouvre la démarche"
 
 #: imio/smartweb/core/behaviors/categorization.py:17
 msgid "Show category or topic"
@@ -3228,7 +3228,7 @@ msgstr "Catégorie spécifique"
 
 #: imio/directory/core/contents/entity/content.py:55
 msgid "Specific contact categories"
-msgstr ""
+msgstr "Catégories de contact spécifiques"
 
 #: imio/events/core/contents/entity/content.py:53
 msgid "Specific events categories"
