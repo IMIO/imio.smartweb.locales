@@ -5,6 +5,9 @@ Changelog
 1.1.50 (unreleased)
 -------------------
 
+- Update translations
+  [boulch]
+
 - Colophon: rename ``IMIO`` msgid to ``iMio``
   [thomlamb]
 
