@@ -342,6 +342,10 @@ msgstr ""
 msgid "Add plausible registry keys"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:69
+msgid "Add registry key to enable/disable RAM cache on @search endpoint"
+msgstr ""
+
 #: imio/news/core/upgrades/configure.zcml:92
 msgid "Add registry key to enable/disable RAM cache on @search endpoints"
 msgstr ""
@@ -405,6 +409,10 @@ msgstr ""
 msgid "Add versioning on imio.news.NewsItem"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:434
+msgid "Add whole_day, open_end and recurrence catalog metadata columns"
+msgstr ""
+
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:42
 #: imio/events/core/viewlets/event/button_to_bring_event.pt:3
 msgid "Add/Remove agenda(s)"
@@ -414,6 +422,14 @@ msgstr "Kies de agenda('s) waarop dit evenement wordt weergegeven"
 #: imio/news/core/viewlets/news/button_to_bring_news.pt:3
 msgid "Add/Remove news folder(s)"
 msgstr "Kies de map(pen) waarin dit nieuws wordt weergegeven"
+
+#: imio/smartweb/core/contents/blocks/link/content.py:36
+msgid "Additional icons"
+msgstr ""
+
+#: imio/smartweb/core/contents/blocks/link/content.py:40
+msgid "Additional link illustration icon"
+msgstr ""
 
 #: imio/smartweb/common/interfaces.py:40
 #: imio/smartweb/common/vocabularies.py:241
@@ -459,11 +475,11 @@ msgstr "Landbouw"
 msgid "Align title with text"
 msgstr "Titel uitlijnen met tekst"
 
-#: imio/smartweb/core/vocabularies.py:206
+#: imio/smartweb/core/vocabularies.py:228
 msgid "Align with main container"
 msgstr "Uitlijnen met de paginabreedte"
 
-#: imio/smartweb/core/vocabularies.py:207
+#: imio/smartweb/core/vocabularies.py:229
 msgid "Align with text sections container (760px)"
 msgstr "Uitlijnen met de breedte van de tekstsecties"
 
@@ -615,7 +631,7 @@ msgstr "Blokken die in het contact worden weergegeven"
 msgid "Bottle bubbles"
 msgstr "Flessenbellen"
 
-#: imio/smartweb/core/vocabularies.py:393
+#: imio/smartweb/core/vocabularies.py:436
 msgid "Bottom"
 msgstr "Onderkant"
 
@@ -650,7 +666,7 @@ msgstr "Lokaal beheer mogelijk"
 msgid "Cancel"
 msgstr "Annuleren"
 
-#: imio/smartweb/core/vocabularies.py:706
+#: imio/smartweb/core/vocabularies.py:749
 msgid "Carousel"
 msgstr "Carrousel"
 
@@ -659,7 +675,7 @@ msgstr "Carrousel"
 msgid "Carousel view"
 msgstr "Carrouselweergave"
 
-#: imio/smartweb/core/vocabularies.py:223
+#: imio/smartweb/core/vocabularies.py:245
 msgid "Carre"
 msgstr ""
 
@@ -815,7 +831,7 @@ msgstr ""
 msgid "Category - Works info"
 msgstr "Categorie - Werkinformatie"
 
-#: imio/smartweb/core/browser/controlpanel.py:116
+#: imio/smartweb/core/browser/controlpanel.py:145
 msgid "Category and topics vocabulary setting for TeleServices"
 msgstr "Instellingen van categorie- en onderwerpsvocabulaire voor TeleServices"
 
@@ -843,7 +859,7 @@ msgstr ""
 msgid "Changes will only affect this content. They must be carried out with full knowledge. (No test)"
 msgstr "Wijzigingen zullen alleen van invloed zijn op deze inhoud. Ze moeten met volledige kennis worden uitgevoerd. (Geen test)"
 
-#: imio/directory/core/vocabularies.py:116
+#: imio/directory/core/vocabularies.py:115
 msgid "Charging stations"
 msgstr "Laadpalen"
 
@@ -863,7 +879,7 @@ msgstr "Keuze van gedrag van het menu bij scrollen"
 msgid "Choice of menu position"
 msgstr "Keuze van menu positie"
 
-#: imio/smartweb/core/browser/controlpanel.py:117
+#: imio/smartweb/core/browser/controlpanel.py:146
 msgid "Choose a term from the vocabulary and define the corresponding name"
 msgstr "Kies een term uit het vocabulaire en definieer de bijbehorende naam"
 
@@ -959,6 +975,10 @@ msgstr "Stad"
 msgid "City project"
 msgstr "Stadsproject"
 
+#: imio/smartweb/core/widgets/svg_upload_input.pt:16
+msgid "Clear"
+msgstr ""
+
 #: imio/smartweb/core/upgrades/configure.zcml:403
 msgid "Clear stale jscompilation for smartweb-webcomponents bundle"
 msgstr ""
@@ -1029,6 +1049,10 @@ msgstr "Kleur"
 msgid "Complement"
 msgstr "Aanvulling"
 
+#: imio/smartweb/core/viewlets/procedure.py:29
+msgid "Complete this procedure online"
+msgstr ""
+
 #: imio/events/core/vocabularies.py:35
 msgid "Concert and festival"
 msgstr "Concert en festival"
@@ -1085,13 +1109,9 @@ msgstr ""
 msgid "Contact type is missing."
 msgstr "Contacttype ontbreekt."
 
-#: imio/smartweb/core/vocabularies.py:422
+#: imio/smartweb/core/vocabularies.py:465
 msgid "Container (1296px)"
 msgstr "Breedte van de site"
-
-#: imio/directory/core/vocabularies.py:115
-msgid "Container parks"
-msgstr "Containerparken"
 
 #: imio/smartweb/common/behaviors/publish.py:75
 msgid "Content saved but could not be published."
@@ -1129,15 +1149,15 @@ msgstr "Maakt demo-entiteiten en -contacten voor imio.directory."
 msgid "Culture"
 msgstr "Cultuur"
 
-#: imio/smartweb/core/browser/controlpanel.py:95
+#: imio/smartweb/core/browser/controlpanel.py:124
 msgid "Default directory view"
 msgstr "Standaard directoryweergave"
 
-#: imio/smartweb/core/browser/controlpanel.py:102
+#: imio/smartweb/core/browser/controlpanel.py:131
 msgid "Default events view"
 msgstr "Standaard evenementenweergave"
 
-#: imio/smartweb/core/browser/controlpanel.py:109
+#: imio/smartweb/core/browser/controlpanel.py:138
 msgid "Default news view"
 msgstr "Standaard nieuwsweergave"
 
@@ -1185,7 +1205,7 @@ msgstr "Beschrijving"
 msgid "Deutsch"
 msgstr "Duits"
 
-#: imio/smartweb/core/browser/controlpanel.py:77
+#: imio/smartweb/core/browser/controlpanel.py:106
 msgid "Directory SolR Core ID"
 msgstr "Directory SolR Core ID"
 
@@ -1193,7 +1213,7 @@ msgstr "Directory SolR Core ID"
 msgid "Directory entities"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:59
+#: imio/smartweb/core/browser/controlpanel.py:88
 msgid "Directory entity"
 msgstr "Directory entiteit"
 
@@ -1380,6 +1400,10 @@ msgstr "Engels"
 msgid "English translations"
 msgstr "Engelse vertalingen"
 
+#: imio/smartweb/core/browser/controlpanel.py:162
+msgid "Enter a Smartweb icon name to display its SVG preview."
+msgstr ""
+
 #: imio/smartweb/core/contents/sections/html/content.py:18
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
 msgstr "Voer hier direct uw HTML-code in. Het moet genest zijn in tags zoals: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
@@ -1449,11 +1473,11 @@ msgstr "Evenementgestuurd (feest, spel, conferentie, rommelmarkt, wandeling, enz
 msgid "Events"
 msgstr "Evenementen"
 
-#: imio/smartweb/core/browser/controlpanel.py:83
+#: imio/smartweb/core/browser/controlpanel.py:112
 msgid "Events SolR Core ID"
 msgstr "Events SolR Core ID"
 
-#: imio/smartweb/core/browser/controlpanel.py:65
+#: imio/smartweb/core/browser/controlpanel.py:94
 msgid "Events entity"
 msgstr "Evenementen entiteit"
 
@@ -1481,21 +1505,25 @@ msgstr "Pictogram voor Evenementenweergave-inhoudstype"
 msgid "Example : Photo of a person or organization building"
 msgstr "Voorbeeld: Foto van een persoon of gebouw van een organisatie"
 
-#: imio/smartweb/core/browser/controlpanel.py:18
+#: imio/smartweb/core/browser/controlpanel.py:47
 msgid "Example : https://COMMUNE.guichet-citoyen.be"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:140
+#: imio/smartweb/core/browser/controlpanel.py:181
 msgid "Example : namur.be (SMARTWEB_PLAUSIBLE_SITE varenv has precedence over this.)"
 msgstr "Voorbeeld: namur.be (SMARTWEB_PLAUSIBLE_SITE varenv heeft voorrang hierop.)"
 
-#: imio/smartweb/core/browser/controlpanel.py:132
+#: imio/smartweb/core/browser/controlpanel.py:173
 msgid "Example : plausible.imio.be (SMARTWEB_PLAUSIBLE_URL varenv has precedence over this.)"
 msgstr "Voorbeeld: plausible.imio.be (SMARTWEB_PLAUSIBLE_URL varenv heeft voorrang op dit.)"
 
 #: imio/directory/core/contents/contact/content.py:319
 msgid "Example : shop, service, association logo"
 msgstr "Voorbeeld: winkel, dienst, verenigingslogo"
+
+#: imio/smartweb/core/browser/controlpanel.py:22
+msgid "Example : view.directory. If empty, the SVG file name will be used."
+msgstr ""
 
 #: imio/smartweb/core/behaviors/listing.py:19
 msgid "Exclude from parent listing"
@@ -1507,7 +1535,7 @@ msgstr "Uitsluiten van bovenliggende lijst"
 msgid "Exclude some content_types from search results"
 msgstr ""
 
-#: imio/smartweb/core/upgrades/upgrades.py:280
+#: imio/smartweb/core/upgrades/upgrades.py:301
 msgid "Exemple : https://COMMUNE.guichet-citoyen.be"
 msgstr ""
 
@@ -1677,7 +1705,7 @@ msgstr "Pictogram voor voettekstinhoudstype"
 msgid "Footer has been successfully added"
 msgstr "De voettekst is succesvol toegevoegd"
 
-#: imio/smartweb/core/browser/controlpanel.py:156
+#: imio/smartweb/core/browser/controlpanel.py:197
 msgid "For staging : https://conseil.staging.imio.be | for production : https://www.deliberations.be"
 msgstr ""
 
@@ -1712,12 +1740,12 @@ msgstr "Vrijdag"
 msgid "From"
 msgstr "Van"
 
-#: imio/smartweb/core/vocabularies.py:194
+#: imio/smartweb/core/vocabularies.py:216
 msgid "Full width"
 msgstr "Volledige breedte"
 
 #: imio/smartweb/common/vocabularies.py:246
-#: imio/smartweb/core/vocabularies.py:705
+#: imio/smartweb/core/vocabularies.py:748
 msgid "Gallery"
 msgstr "Galerij"
 
@@ -1772,11 +1800,11 @@ msgstr "HTML-sectie voor een pagina"
 msgid "Habitat and town planning"
 msgstr "Huisvesting en stedenbouw"
 
-#: imio/smartweb/core/vocabularies.py:191
+#: imio/smartweb/core/vocabularies.py:213
 msgid "Half of width"
 msgstr "Helft van de breedte"
 
-#: imio/smartweb/core/vocabularies.py:410
+#: imio/smartweb/core/vocabularies.py:453
 msgid "Half page"
 msgstr "Halve pagina"
 
@@ -1854,11 +1882,11 @@ msgstr "Ik vind"
 msgid "I.A. Deliberation publication"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:175
+#: imio/smartweb/core/browser/controlpanel.py:216
 msgid "I.A. Deliberations : Institutions"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:155
+#: imio/smartweb/core/browser/controlpanel.py:196
 msgid "I.A. Deliberations' url"
 msgstr ""
 
@@ -1869,6 +1897,10 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel_siteadmin.py:87
 msgid "ID"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:21
+msgid "Icon name"
 msgstr ""
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26
@@ -2095,7 +2127,7 @@ msgstr "Indeling"
 msgid "Lead Image"
 msgstr "Leidende afbeelding"
 
-#: imio/smartweb/core/vocabularies.py:391
+#: imio/smartweb/core/vocabularies.py:434
 msgid "Left"
 msgstr "Links"
 
@@ -2177,7 +2209,7 @@ msgstr "Lijst"
 msgid "Logo"
 msgstr "Logo"
 
-#: imio/smartweb/core/vocabularies.py:240
+#: imio/smartweb/core/vocabularies.py:262
 msgid "Logo and title"
 msgstr "Logo en titel"
 
@@ -2306,7 +2338,7 @@ msgstr ""
 msgid "My account"
 msgstr "Mijn account"
 
-#: imio/smartweb/core/browser/controlpanel.py:125
+#: imio/smartweb/core/browser/controlpanel.py:154
 msgid "Name"
 msgstr "Naam"
 
@@ -2320,11 +2352,11 @@ msgstr "Nieuw tabblad"
 msgid "Newcomer"
 msgstr "Nieuwkomer"
 
-#: imio/smartweb/core/browser/controlpanel.py:89
+#: imio/smartweb/core/browser/controlpanel.py:118
 msgid "News SolR Core ID"
 msgstr "ID van nieuws SolR-kern"
 
-#: imio/smartweb/core/browser/controlpanel.py:71
+#: imio/smartweb/core/browser/controlpanel.py:100
 msgid "News entity"
 msgstr "Nieuwsentiteit"
 
@@ -2377,7 +2409,11 @@ msgstr ""
 msgid "No"
 msgstr "Nee"
 
-#: imio/smartweb/core/vocabularies.py:165
+#: imio/smartweb/core/widgets/svg_icon_preview_input.pt:14
+msgid "No preview"
+msgstr ""
+
+#: imio/smartweb/core/vocabularies.py:187
 msgid "None"
 msgstr ""
 
@@ -2425,6 +2461,10 @@ msgstr "URL voor online deelname"
 msgid "Only one procedure field can be filled !"
 msgstr "Slechts één veld voor procedure kan worden ingevuld!"
 
+#: imio/smartweb/core/contents/blocks/link/content.py:41
+msgid "Only used in table view (takes precedence over image and over traditional icons)"
+msgstr ""
+
 #: imio/smartweb/core/contents/blocks/link/content.py:30
 msgid "Only used in table view (takes precedence over image)"
 msgstr "Alleen gebruikt in de tabelweergave (heeft voorrang op afbeelding)"
@@ -2445,7 +2485,7 @@ msgstr "Openen in een nieuw tabblad"
 msgid "Open in new tab"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:117
+#: imio/directory/core/vocabularies.py:116
 msgid "Organic waste containers"
 msgstr "GFT-containers"
 
@@ -2507,7 +2547,7 @@ msgstr "Oriëntatie"
 msgid "PIVOT"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:119
+#: imio/directory/core/vocabularies.py:118
 msgid "PMC waste containers"
 msgstr "PMD-containers"
 
@@ -2531,16 +2571,16 @@ msgstr ""
 msgid "Party and folklore"
 msgstr "Feest en folklore"
 
-#: imio/smartweb/core/browser/controlpanel.py:240
+#: imio/smartweb/core/browser/controlpanel.py:282
 msgid "Password already filled"
 msgstr "Wachtwoord al ingevuld"
 
-#: imio/smartweb/core/browser/controlpanel.py:170
+#: imio/smartweb/core/browser/controlpanel.py:211
 msgid "Password to consume I.A. Deliberations API"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:37
-#: imio/smartweb/core/upgrades/upgrades.py:300
+#: imio/smartweb/core/browser/controlpanel.py:66
+#: imio/smartweb/core/upgrades/upgrades.py:321
 msgid "Password to consume e-guichet ideabox API (get Campaign, projects,...)"
 msgstr ""
 
@@ -2548,7 +2588,7 @@ msgstr ""
 msgid "Patch (Remove select2) eea.facetednavigation jquery"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:221
+#: imio/smartweb/core/vocabularies.py:243
 msgid "Paysage"
 msgstr "Landschap"
 
@@ -2580,15 +2620,15 @@ msgstr "Afbeelding wordt weergegeven als achtergrond van de dia"
 msgid "Pinterest"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:139
+#: imio/smartweb/core/browser/controlpanel.py:180
 msgid "Plausible Site"
 msgstr "Plausible-site"
 
-#: imio/smartweb/core/browser/controlpanel.py:147
+#: imio/smartweb/core/browser/controlpanel.py:188
 msgid "Plausible Token"
 msgstr "Plausible-token"
 
-#: imio/smartweb/core/browser/controlpanel.py:131
+#: imio/smartweb/core/browser/controlpanel.py:172
 msgid "Plausible URL"
 msgstr "Plausible-URL"
 
@@ -2596,7 +2636,7 @@ msgstr "Plausible-URL"
 msgid "Plausible analytics is not set"
 msgstr "Plausible-analyse is niet ingesteld"
 
-#: imio/smartweb/core/browser/controlpanel.py:148
+#: imio/smartweb/core/browser/controlpanel.py:189
 msgid "Plausible authentification token (SMARTWEB_PLAUSIBLE_TOKEN varenv has precedence over this.)"
 msgstr "Plausible-authenticatietoken (SMARTWEB_PLAUSIBLE_TOKEN varenv heeft voorrang op deze waarde.)"
 
@@ -2636,7 +2676,7 @@ msgstr "Inhoudstype Portaalpagina om informatie af te drukken"
 msgid "PortalPage content type icon"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:222
+#: imio/smartweb/core/vocabularies.py:244
 msgid "Portrait"
 msgstr "Portret"
 
@@ -2666,6 +2706,7 @@ msgstr ""
 msgid "Presse"
 msgstr "Pers"
 
+#: imio/smartweb/core/browser/controlpanel.py:36
 #: imio/smartweb/core/profiles/default/actions.xml
 msgid "Preview"
 msgstr "Voorbeeld"
@@ -2711,7 +2752,7 @@ msgstr "Openbare toiletten"
 msgid "Publication"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:189
+#: imio/smartweb/core/vocabularies.py:211
 msgid "Quarter of width"
 msgstr "Kwart van de breedte"
 
@@ -2838,7 +2879,7 @@ msgstr ""
 msgid "Reserve taxonomy deletion to Manager"
 msgstr ""
 
-#: imio/directory/core/vocabularies.py:118
+#: imio/directory/core/vocabularies.py:117
 msgid "Residual waste containers"
 msgstr "Restafval containers"
 
@@ -2850,12 +2891,28 @@ msgstr ""
 msgid "Rich text section for a page"
 msgstr "Tekstsectie met opmaak voor een pagina"
 
-#: imio/smartweb/core/vocabularies.py:392
+#: imio/smartweb/core/vocabularies.py:435
 msgid "Right"
 msgstr "Rechts"
 
 #: imio/smartweb/core/upgrades/configure.zcml:284
 msgid "Rollback from upgrade step 1027 to 1028. The agent must always be explicit for its content to open in a new window"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:29
+msgid "SVG file"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:164
+msgid "SVG icon preview row"
+msgstr ""
+
+#: imio/smartweb/core/browser/controlpanel.py:161
+msgid "SVG icon preview rows"
+msgstr ""
+
+#: imio/smartweb/core/widgets/svg_upload_input.pt:23
+msgid "SVG uploaded"
 msgstr ""
 
 #: imio/smartweb/common/vocabularies.py:71
@@ -2884,11 +2941,11 @@ msgstr "Schema"
 msgid "Search"
 msgstr "Zoeken"
 
-#: imio/smartweb/core/browser/controlpanel.py:23
+#: imio/smartweb/core/browser/controlpanel.py:52
 msgid "Secret key"
 msgstr "Geheime sleutel"
 
-#: imio/smartweb/core/browser/controlpanel.py:24
+#: imio/smartweb/core/browser/controlpanel.py:53
 msgid "Secret key to use API"
 msgstr "Geheime sleutel om de API te gebruiken"
 
@@ -3169,7 +3226,7 @@ msgstr "Slide-sectie"
 msgid "Slide section for a hero banner"
 msgstr "Slide-sectie voor een heldenbanner"
 
-#: imio/smartweb/core/browser/controlpanel.py:184
+#: imio/smartweb/core/browser/controlpanel.py:225
 msgid "Smartweb Settings"
 msgstr "Smartweb-instellingen"
 
@@ -3253,7 +3310,7 @@ msgstr ""
 msgid "Sports"
 msgstr ""
 
-#: imio/smartweb/core/vocabularies.py:421
+#: imio/smartweb/core/vocabularies.py:464
 msgid "Standard (760px)"
 msgstr "Breedte van de tekstsecties"
 
@@ -3414,7 +3471,7 @@ msgstr "De postcode mag alleen cijfers bevatten."
 msgid "Theater and show"
 msgstr "Theater en show"
 
-#: imio/smartweb/core/contents/pages/views.py:110
+#: imio/smartweb/core/contents/pages/views.py:113
 msgid "There is no section on this page."
 msgstr "Er is geen sectie op deze pagina."
 
@@ -3422,11 +3479,11 @@ msgstr "Er is geen sectie op deze pagina."
 msgid "There is no section on this procedure."
 msgstr "Er is geen sectie op deze procedure."
 
-#: imio/smartweb/core/vocabularies.py:190
+#: imio/smartweb/core/vocabularies.py:212
 msgid "Third of width"
 msgstr "Derde van de breedte"
 
-#: imio/smartweb/core/vocabularies.py:408
+#: imio/smartweb/core/vocabularies.py:451
 msgid "Third page"
 msgstr "Derde pagina"
 
@@ -3440,7 +3497,7 @@ msgstr "Deze functie vereist het accepteren van cookies.<br/><a class=\"pat-plon
 msgid "This field is required if the content must be available in this language"
 msgstr "Dit veld is verplicht als de inhoud beschikbaar moet zijn in deze taal"
 
-#: imio/smartweb/core/browser/controlpanel.py:96
+#: imio/smartweb/core/browser/controlpanel.py:125
 msgid "This information is used for search results redirection"
 msgstr "Deze informatie wordt gebruikt voor de omleiding van zoekresultaten"
 
@@ -3448,7 +3505,7 @@ msgstr "Deze informatie wordt gebruikt voor de omleiding van zoekresultaten"
 msgid "This site uses cookies to provide you with an optimal experience (playing videos, displaying maps and content from social networks in particular)."
 msgstr "Deze site maakt gebruik van cookies om u een optimale ervaring te bieden (het afspelen van video's, het weergeven van kaarten en inhoud van sociale netwerken in het bijzonder)."
 
-#: imio/smartweb/core/vocabularies.py:193
+#: imio/smartweb/core/vocabularies.py:215
 msgid "Three quarter of width"
 msgstr "Drie kwart van de breedte"
 
@@ -3492,15 +3549,15 @@ msgid "Title and description will be displayed in front of picture as a slogan"
 msgstr "De titel en beschrijving worden weergegeven voor de afbeelding als een slogan"
 
 #: imio/smartweb/common/ia/widgets/widget.py:33
-#: imio/smartweb/core/widgets/widget.py:33
+#: imio/smartweb/core/widgets/widget.py:66
 msgid "Title suggestions"
 msgstr "Titelvoorstellen"
 
-#: imio/smartweb/core/vocabularies.py:394
+#: imio/smartweb/core/vocabularies.py:437
 msgid "Top"
 msgstr "Bovenkant"
 
-#: imio/smartweb/core/vocabularies.py:164
+#: imio/smartweb/core/vocabularies.py:186
 msgid "Topic"
 msgstr ""
 
@@ -3544,7 +3601,7 @@ msgstr "Twitter-URL voor dit evenement"
 msgid "Twitter url for this news"
 msgstr "Twitter-URL voor dit nieuws"
 
-#: imio/smartweb/core/vocabularies.py:192
+#: imio/smartweb/core/vocabularies.py:214
 msgid "Two third of width"
 msgstr "Twee derde van de breedte"
 
@@ -3831,6 +3888,7 @@ msgstr ""
 msgid "Upgrade core from 1018 to 1019"
 msgstr ""
 
+#: imio/directory/core/upgrades/configure.zcml:69
 #: imio/events/core/upgrades/configure.zcml:92
 #: imio/news/core/upgrades/configure.zcml:108
 msgid "Upgrade core from 1019 to 1020"
@@ -3872,6 +3930,7 @@ msgstr ""
 msgid "Upgrade core from 1026 to 1027"
 msgstr ""
 
+#: imio/events/core/upgrades/configure.zcml:434
 #: imio/smartweb/core/upgrades/configure.zcml:68
 msgid "Upgrade core from 1027 to 1028"
 msgstr ""
@@ -4132,6 +4191,10 @@ msgstr ""
 msgid "Upgrade policy 1035 to 1036"
 msgstr ""
 
+#: imio/smartweb/policy/upgrades/configure.zcml:204
+msgid "Upgrade policy 1044 to 1045"
+msgstr ""
+
 #: imio/directory/policy/upgrades/configure.zcml:12
 #: imio/events/policy/upgrades/configure.zcml:12
 msgid "Upgrade policy from 1000 to 1001"
@@ -4167,20 +4230,20 @@ msgstr ""
 msgid "Url"
 msgstr "URL"
 
-#: imio/smartweb/core/browser/controlpanel.py:17
-#: imio/smartweb/core/upgrades/upgrades.py:279
+#: imio/smartweb/core/browser/controlpanel.py:46
+#: imio/smartweb/core/upgrades/upgrades.py:300
 msgid "Url to e-guichet"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:44
+#: imio/smartweb/core/browser/controlpanel.py:73
 msgid "Url to propose a new citizen contact"
 msgstr "URL om een nieuwe burgercontact voor te stellen"
 
-#: imio/smartweb/core/browser/controlpanel.py:49
+#: imio/smartweb/core/browser/controlpanel.py:78
 msgid "Url to propose a new citizen event"
 msgstr "URL om een nieuw burger evenement voor te stellen"
 
-#: imio/smartweb/core/browser/controlpanel.py:54
+#: imio/smartweb/core/browser/controlpanel.py:83
 msgid "Url to propose a new citizen news"
 msgstr "URL om een nieuw burger nieuws voor te stellen"
 
@@ -4198,6 +4261,10 @@ msgstr "Gebruik aangepaste spotlight om een slechte galerijvernieuwing te voorko
 msgid "Use imio.smartweb.ia.titles instead of IBasic for imio.news.NewsItem"
 msgstr "Gebruik imio.smartweb.ia.titles in plaats van IBasic voor imio.news.NewsItem"
 
+#: imio/smartweb/policy/upgrades/configure.zcml:204
+msgid "Use lastBan ETag in caching configurations"
+msgstr ""
+
 #: imio/smartweb/policy/upgrades/configure.zcml:172
 msgid "Use resourceRegistries ETag in caching configurations"
 msgstr ""
@@ -4206,12 +4273,12 @@ msgstr ""
 msgid "Useful numbers"
 msgstr "Nuttige nummers"
 
-#: imio/smartweb/core/browser/controlpanel.py:164
+#: imio/smartweb/core/browser/controlpanel.py:205
 msgid "Username to consume I.A. Deliberations API"
 msgstr ""
 
-#: imio/smartweb/core/browser/controlpanel.py:29
-#: imio/smartweb/core/upgrades/upgrades.py:289
+#: imio/smartweb/core/browser/controlpanel.py:58
+#: imio/smartweb/core/upgrades/upgrades.py:310
 msgid "Username to consume e-guichet ideabox API (get Campaign, projects,...)"
 msgstr ""
 
@@ -4251,7 +4318,7 @@ msgstr "Bekijk - Gids"
 msgid "View - News"
 msgstr "Bekijk - Nieuws"
 
-#: imio/smartweb/core/vocabularies.py:423
+#: imio/smartweb/core/vocabularies.py:466
 msgid "Viewport (1920px)"
 msgstr "Schermbreedte"
 
@@ -4267,7 +4334,7 @@ msgstr ""
 msgid "Visible blocks"
 msgstr "Zichtbare blokken"
 
-#: imio/smartweb/core/browser/controlpanel.py:121
+#: imio/smartweb/core/browser/controlpanel.py:150
 msgid "Vocabulary term"
 msgstr "Woordenlijstterm"
 
