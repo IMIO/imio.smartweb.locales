@@ -345,7 +345,7 @@ msgstr ""
 
 #: imio/directory/core/upgrades/configure.zcml:69
 msgid "Add registry key to enable/disable RAM cache on @search endpoint"
-msgstr ""
+msgstr "Fügen Sie einen Registrierungsschlüssel hinzu, um den RAM-Cache auf dem @search-Endpunkt zu aktivieren/deaktivieren"
 
 #: imio/news/core/upgrades/configure.zcml:92
 msgid "Add registry key to enable/disable RAM cache on @search endpoints"
@@ -412,7 +412,7 @@ msgstr ""
 
 #: imio/events/core/upgrades/configure.zcml:434
 msgid "Add whole_day, open_end and recurrence catalog metadata columns"
-msgstr ""
+msgstr "Katalog-Metadatenspalten whole_day, open_end und recurrence hinzufügen"
 
 #: imio/events/core/browser/bring_event_into_agendas/agendas.py:42
 #: imio/events/core/viewlets/event/button_to_bring_event.pt:3
@@ -426,11 +426,11 @@ msgstr "Wähle den (die) Ordner, in dem diese Nachricht angezeigt wird"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:36
 msgid "Additional icons"
-msgstr ""
+msgstr "Zusätzliche Icons"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:40
 msgid "Additional link illustration icon"
-msgstr ""
+msgstr "Zusätzliches Link-Illustrations-Icon"
 
 #: imio/smartweb/common/interfaces.py:40
 #: imio/smartweb/common/vocabularies.py:241
@@ -978,7 +978,7 @@ msgstr "Stadtpojekt"
 
 #: imio/smartweb/core/widgets/svg_upload_input.pt:16
 msgid "Clear"
-msgstr ""
+msgstr "Entfernen"
 
 #: imio/smartweb/core/upgrades/configure.zcml:403
 msgid "Clear stale jscompilation for smartweb-webcomponents bundle"
@@ -1052,7 +1052,7 @@ msgstr "Ergänzung"
 
 #: imio/smartweb/core/viewlets/procedure.py:29
 msgid "Complete this procedure online"
-msgstr ""
+msgstr "Diese Prozedur online abschließen"
 
 #: imio/events/core/vocabularies.py:35
 msgid "Concert and festival"
@@ -1403,7 +1403,7 @@ msgstr "Englische Übersetzungen"
 
 #: imio/smartweb/core/browser/controlpanel.py:162
 msgid "Enter a Smartweb icon name to display its SVG preview."
-msgstr ""
+msgstr "Geben Sie den Namen eines Smartweb-Icons ein, um dessen SVG-Vorschau anzuzeigen."
 
 #: imio/smartweb/core/contents/sections/html/content.py:18
 msgid "Enter your HTML code directly here. It must be nested in tags such as: <code>&lt;p&gt;code&lt;/p&gt;</code>, <code>&lt;span&gt;code&lt;/span&gt;</code>, <code>&lt;div&gt;code&lt;/div&gt;</code>"
@@ -1524,7 +1524,7 @@ msgstr "Beispiel: Logo eines Ladens, Dienstes oder einer Vereinigung"
 
 #: imio/smartweb/core/browser/controlpanel.py:22
 msgid "Example : view.directory. If empty, the SVG file name will be used."
-msgstr ""
+msgstr "Beispiel: view.directory. Wenn leer, wird der Name der SVG-Datei verwendet."
 
 #: imio/smartweb/core/behaviors/listing.py:19
 msgid "Exclude from parent listing"
@@ -1902,7 +1902,7 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:21
 msgid "Icon name"
-msgstr ""
+msgstr "Icon-Name"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:26
 msgid "Icons"
@@ -2412,7 +2412,7 @@ msgstr "Nein"
 
 #: imio/smartweb/core/widgets/svg_icon_preview_input.pt:14
 msgid "No preview"
-msgstr ""
+msgstr "Keine Vorschau"
 
 #: imio/smartweb/core/vocabularies.py:187
 msgid "None"
@@ -2464,7 +2464,7 @@ msgstr "Nur ein Verfahrensfeld kann ausgefüllt werden !"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:41
 msgid "Only used in table view (takes precedence over image and over traditional icons)"
-msgstr ""
+msgstr "Nur in der Tabellenansicht verwendet (hat Vorrang vor dem Bild und vor den klassischen Icons)"
 
 #: imio/smartweb/core/contents/blocks/link/content.py:30
 msgid "Only used in table view (takes precedence over image)"
@@ -2902,19 +2902,19 @@ msgstr ""
 
 #: imio/smartweb/core/browser/controlpanel.py:29
 msgid "SVG file"
-msgstr ""
+msgstr "SVG-Datei"
 
 #: imio/smartweb/core/browser/controlpanel.py:164
 msgid "SVG icon preview row"
-msgstr ""
+msgstr "SVG-Icon"
 
 #: imio/smartweb/core/browser/controlpanel.py:161
 msgid "SVG icon preview rows"
-msgstr ""
+msgstr "Vorschau der SVG-Icons"
 
 #: imio/smartweb/core/widgets/svg_upload_input.pt:23
 msgid "SVG uploaded"
-msgstr ""
+msgstr "SVG hochgeladen"
 
 #: imio/smartweb/common/vocabularies.py:71
 msgid "Safety and prevention"
@@ -4264,7 +4264,7 @@ msgstr "Verwenden Sie imio.smartweb.ia.titles anstelle von IBasic für imio.news
 
 #: imio/smartweb/policy/upgrades/configure.zcml:204
 msgid "Use lastBan ETag in caching configurations"
-msgstr ""
+msgstr "lastBan-ETag in den Caching-Konfigurationen verwenden"
 
 #: imio/smartweb/policy/upgrades/configure.zcml:172
 msgid "Use resourceRegistries ETag in caching configurations"
