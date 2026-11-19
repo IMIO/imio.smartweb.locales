@@ -16,7 +16,7 @@ long_description = "\n\n".join(
 
 setup(
     name="imio.smartweb.locales",
-    version="2.0.0",
+    version="2.0.1.dev0",
     description="Locales for iMio smartweb packages",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
